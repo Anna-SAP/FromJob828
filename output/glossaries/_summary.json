@@ -1,0 +1,90 @@
+{
+  "total_languages": 17,
+  "languages": {
+    "de-de": {
+      "total_terms": 2024,
+      "from_tbx": 1567,
+      "from_glossary": 457
+    },
+    "es-419": {
+      "total_terms": 1921,
+      "from_tbx": 1403,
+      "from_glossary": 518
+    },
+    "es-es": {
+      "total_terms": 1842,
+      "from_tbx": 1405,
+      "from_glossary": 437
+    },
+    "fi-fi": {
+      "total_terms": 1997,
+      "from_tbx": 1463,
+      "from_glossary": 534
+    },
+    "fr-ca": {
+      "total_terms": 1415,
+      "from_tbx": 1141,
+      "from_glossary": 274
+    },
+    "fr-fr": {
+      "total_terms": 2079,
+      "from_tbx": 1455,
+      "from_glossary": 624
+    },
+    "it-it": {
+      "total_terms": 1852,
+      "from_tbx": 1417,
+      "from_glossary": 435
+    },
+    "ja-jp": {
+      "total_terms": 1766,
+      "from_tbx": 1447,
+      "from_glossary": 319
+    },
+    "ko-kr": {
+      "total_terms": 1976,
+      "from_tbx": 1466,
+      "from_glossary": 510
+    },
+    "nl-nl": {
+      "total_terms": 2049,
+      "from_tbx": 1490,
+      "from_glossary": 559
+    },
+    "pl-pl": {
+      "total_terms": 1902,
+      "from_tbx": 1394,
+      "from_glossary": 508
+    },
+    "pt-br": {
+      "total_terms": 1962,
+      "from_tbx": 1572,
+      "from_glossary": 390
+    },
+    "pt-pt": {
+      "total_terms": 1989,
+      "from_tbx": 1472,
+      "from_glossary": 517
+    },
+    "ro-ro": {
+      "total_terms": 1623,
+      "from_tbx": 1455,
+      "from_glossary": 168
+    },
+    "sv-se": {
+      "total_terms": 1742,
+      "from_tbx": 1253,
+      "from_glossary": 489
+    },
+    "zh-cn": {
+      "total_terms": 1999,
+      "from_tbx": 1492,
+      "from_glossary": 507
+    },
+    "zh-tw": {
+      "total_terms": 1946,
+      "from_tbx": 1475,
+      "from_glossary": 471
+    }
+  }
+}
