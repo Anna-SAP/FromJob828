@@ -1,0 +1,1507 @@
+{
+  "language": "ES-XL",
+  "source": "RC_Style_Guide_ES-XL_20241206.pdf",
+  "total_rules": 150,
+  "rules": [
+    {
+      "rule_id": "ES-XL_RULE_00001",
+      "language": "ES-XL",
+      "category": "style_tone",
+      "section": "General Overview",
+      "description": "Produce the most natural-sounding translation avoiding literal transposition of English syntax",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Sentences need to be rewritten with adapted syntax. Balance faithfulness to source and readability in target language."
+    },
+    {
+      "rule_id": "ES-XL_RULE_00002",
+      "language": "ES-XL",
+      "category": "style_tone",
+      "section": "General Overview",
+      "description": "Use clear and precise style that should not read like a translation",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Translation should be easily understood by native speakers at all times"
+    },
+    {
+      "rule_id": "ES-XL_RULE_00003",
+      "language": "ES-XL",
+      "category": "style_tone",
+      "section": "General Overview",
+      "description": "Avoid heaviness, ambiguities, repetitions and Anglicisms",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Also avoid enriching the text excessively"
+    },
+    {
+      "rule_id": "ES-XL_RULE_00004",
+      "language": "ES-XL",
+      "category": "ui_elements",
+      "section": "Buttons",
+      "description": "Translate buttons as verbs, generally using infinitive form",
+      "example_correct": "Añadir categorías",
+      "example_incorrect": "Añada las categorías",
+      "notes": "Be concise, avoid articles or prepositions. Pay attention to character/space limitations."
+    },
+    {
+      "rule_id": "ES-XL_RULE_00005",
+      "language": "ES-XL",
+      "category": "punctuation",
+      "section": "Buttons",
+      "description": "Button translations should not end with period unless they include more than one sentence",
+      "example_correct": "Cancelar",
+      "example_incorrect": "Cancelar.",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00006",
+      "language": "ES-XL",
+      "category": "trademarks",
+      "section": "Names of RingCentral Products, Applications and Features",
+      "description": "Check reference material and linguistic instructions including terminology and DNT lists before translating product/application names",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Many product/application names are trademarked and not localizable"
+    },
+    {
+      "rule_id": "ES-XL_RULE_00007",
+      "language": "ES-XL",
+      "category": "localization_general",
+      "section": "Adaptation to Latin American Market",
+      "description": "Replace English examples with Spanish equivalents when needed for localization",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Example given about wildcards explanation needing adaptation"
+    },
+    {
+      "rule_id": "ES-XL_RULE_00008",
+      "language": "ES-XL",
+      "category": "style_tone",
+      "section": "Style and Tone",
+      "description": "Keep professional and welcoming tone without being patronizing or pompous",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Always keep in mind the user/target audience"
+    },
+    {
+      "rule_id": "ES-XL_RULE_00009",
+      "language": "ES-XL",
+      "category": "style_tone",
+      "section": "Style and Tone",
+      "description": "Be precise, clear, consistent and natural. Rephrase unclear sentences",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Break up long English sentences into smaller parts for better understanding"
+    },
+    {
+      "rule_id": "ES-XL_RULE_00010",
+      "language": "ES-XL",
+      "category": "style_tone",
+      "section": "Style and Tone",
+      "description": "Focus on usability with accurate and concise translations",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "No ambiguities or mistranslations"
+    },
+    {
+      "rule_id": "ES-XL_RULE_00011",
+      "language": "ES-XL",
+      "category": "style_tone",
+      "section": "Style and Tone",
+      "description": "Be clear and coherent so target reader understands easily",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Text should be readable"
+    },
+    {
+      "rule_id": "ES-XL_RULE_00012",
+      "language": "ES-XL",
+      "category": "style_tone",
+      "section": "Style and Tone",
+      "description": "Be objective and neutral without inserting personal opinion",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Avoid colloquial or slang words, be politically correct and aim for bias-free language"
+    },
+    {
+      "rule_id": "ES-XL_RULE_00013",
+      "language": "ES-XL",
+      "category": "style_tone",
+      "section": "Style and Tone",
+      "description": "Content and numbers should be free of mistakes",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Ensure correctness"
+    },
+    {
+      "rule_id": "ES-XL_RULE_00014",
+      "language": "ES-XL",
+      "category": "style_tone",
+      "section": "Style and Tone",
+      "description": "Use idiomatically correct verbs, metaphors, expressions so text doesn't sound like translation",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00015",
+      "language": "ES-XL",
+      "category": "style_tone",
+      "section": "Style and Tone",
+      "description": "Be complete - do not leave out content",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Don't omit words, phrases, or whole paragraphs"
+    },
+    {
+      "rule_id": "ES-XL_RULE_00016",
+      "language": "ES-XL",
+      "category": "style_tone",
+      "section": "Style and Tone",
+      "description": "Keep an appropriate business-like tone for the target reader",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00017",
+      "language": "ES-XL",
+      "category": "terminology",
+      "section": "Terminology",
+      "description": "Ensure consistency within and across files using RingCentral approved tools and documents",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Consistency is of utmost importance"
+    },
+    {
+      "rule_id": "ES-XL_RULE_00018",
+      "language": "ES-XL",
+      "category": "terminology",
+      "section": "Terminology",
+      "description": "Always check RingCentral term lists as first and binding source for translation",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Use most recent version as they are frequently updated"
+    },
+    {
+      "rule_id": "ES-XL_RULE_00019",
+      "language": "ES-XL",
+      "category": "terminology",
+      "section": "Terminology",
+      "description": "For other terms consult Microsoft Language Portal and IT vendor portals",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Available at https://www.microsoft.com/en-us/language"
+    },
+    {
+      "rule_id": "ES-XL_RULE_00020",
+      "language": "ES-XL",
+      "category": "localization_general",
+      "section": "Cross-references",
+      "description": "Translate internal cross-references consistently throughout translation and all files",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Internal cross-references mention other parts of text within the file/document being translated"
+    },
+    {
+      "rule_id": "ES-XL_RULE_00021",
+      "language": "ES-XL",
+      "category": "localization_general",
+      "section": "Cross-references",
+      "description": "For external cross-references, check if document was localized before and match translations",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "If document not translated before, leave as in source language"
+    },
+    {
+      "rule_id": "ES-XL_RULE_00022",
+      "language": "ES-XL",
+      "category": "style_tone",
+      "section": "Politeness",
+      "description": "Use formal addressing 'usted' not 'tu' or 'vos'",
+      "example_correct": "Introduzca su nombre de usuario",
+      "example_incorrect": "Por favor, introduce tu nombre de usuario",
+      "notes": "English tends to be over polite. It's not necessary to use 'Please' with user instructions."
+    },
+    {
+      "rule_id": "ES-XL_RULE_00023",
+      "language": "ES-XL",
+      "category": "style_tone",
+      "section": "Politeness",
+      "description": "Be more direct and use imperative form where appropriate",
+      "example_correct": "Introduzca su nombre de usuario",
+      "example_incorrect": "Por favor, introduce tu nombre de usuario",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00024",
+      "language": "ES-XL",
+      "category": "style_tone",
+      "section": "Gender",
+      "description": "Spanish gives priority to masculine forms unless context requires otherwise",
+      "example_correct": "Los usuarios pueden contactar con la asistencia al cliente cuando necesiten ayuda.",
+      "example_incorrect": "Los usuarios y las usuarias pueden contactar con la asistencia al cliente cuando necesiten ayuda.",
+      "notes": "Try to find neutral forms when possible. Balance bias-free language, fluency and character limitations."
+    },
+    {
+      "rule_id": "ES-XL_RULE_00025",
+      "language": "ES-XL",
+      "category": "style_tone",
+      "section": "Gender",
+      "description": "Use neutral welcome forms instead of gendered ones",
+      "example_correct": "Le damos la bienvenida",
+      "example_incorrect": "Bienvenido/a",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00026",
+      "language": "ES-XL",
+      "category": "grammar",
+      "section": "Passive voice",
+      "description": "Avoid passive voice when possible, use active form or reflexive passive voice with 'se'",
+      "example_correct": "Se han facilitado todos los detalles sobre este tema.",
+      "example_incorrect": "Todos los detalles sobre este tema han sido facilitados.",
+      "notes": "Passive voice not as common as in English and sounds wordy. Exception: legal/official documents."
+    },
+    {
+      "rule_id": "ES-XL_RULE_00027",
+      "language": "ES-XL",
+      "category": "grammar",
+      "section": "Passive voice",
+      "description": "Use active voice to improve readability",
+      "example_correct": "En este informe técnico aparecen algunas funciones nuevas.",
+      "example_incorrect": "En este informe técnico son detalladas algunas funciones nuevas.",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00028",
+      "language": "ES-XL",
+      "category": "grammar",
+      "section": "Negative constructions",
+      "description": "Avoid reproducing English negative constructions when they sound unnatural",
+      "example_correct": "Solo desmarque la casilla si es obligatorio",
+      "example_incorrect": "No desmarque la casilla si no es obligatorio",
+      "notes": "Positive constructions may be better, but check to avoid distortions from source"
+    },
+    {
+      "rule_id": "ES-XL_RULE_00029",
+      "language": "ES-XL",
+      "category": "grammar",
+      "section": "Use of Possessives",
+      "description": "Don't transfer extensive use of English possessive adjectives to Spanish",
+      "example_correct": "Puede editar los archivos desde una computadora o desde un celular",
+      "example_incorrect": "Puede editar sus archivos desde su computadora o desde su celular",
+      "notes": "Simple articles can often replace possessive adjectives. 'Our' sometimes refers to third person."
+    },
+    {
+      "rule_id": "ES-XL_RULE_00030",
+      "language": "ES-XL",
+      "category": "grammar",
+      "section": "Articles",
+      "description": "Follow standard Spanish grammar rules for proper use of articles",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00031",
+      "language": "ES-XL",
+      "category": "grammar",
+      "section": "Translation of the –ing form",
+      "description": "Don't always translate -ing form as gerund; consider context and use appropriate form",
+      "example_correct": "Nuestros controladores disponen de una memoria que protege la integridad de sus datos.",
+      "example_incorrect": "Nuestros controladores disponen de una memoria protegiendo la integridad de sus datos.",
+      "notes": "Gerund marks action in progress before/during main action. Not correct for actions after/consequence of another or as adjective."
+    },
+    {
+      "rule_id": "ES-XL_RULE_00032",
+      "language": "ES-XL",
+      "category": "grammar",
+      "section": "Translation of the –ing form",
+      "description": "Use conditional construction instead of gerund for conditional actions",
+      "example_correct": "Si accede al sitio web, acepta los términos y condiciones.",
+      "example_incorrect": "Accediendo al sitio web, acepta los términos y condiciones.",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00033",
+      "language": "ES-XL",
+      "category": "grammar",
+      "section": "Translation of the –ing form",
+      "description": "Translate gerunds in English headings/titles as noun forms, not gerunds",
+      "example_correct": "Primeros pasos, introducción",
+      "example_incorrect": "Empezando",
+      "notes": "Use verbal forms consistently as alternative"
+    },
+    {
+      "rule_id": "ES-XL_RULE_00034",
+      "language": "ES-XL",
+      "category": "grammar",
+      "section": "Translation of the –ing form",
+      "description": "Use present tense for product introductions instead of gerund",
+      "example_correct": "Presentamos RingCentral",
+      "example_incorrect": "Presentando RingCentral",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00035",
+      "language": "ES-XL",
+      "category": "style_tone",
+      "section": "Conciseness",
+      "description": "Check context and concentrate on meaning, render as clearly as possible",
+      "example_correct": "Introduzca sus datos personales.",
+      "example_incorrect": "Introduzca su nombre, su dirección de correo electrónico y su fecha de nacimiento.",
+      "notes": "English sometimes uses additional words to express concepts"
+    },
+    {
+      "rule_id": "ES-XL_RULE_00036",
+      "language": "ES-XL",
+      "category": "style_tone",
+      "section": "Conciseness",
+      "description": "Simplify temporal expressions for clarity",
+      "example_correct": "Ahora puede acceder a todo el contenido.",
+      "example_incorrect": "Esto significa que a partir de ahora puede acceder a todo el contenido.",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00037",
+      "language": "ES-XL",
+      "category": "style_tone",
+      "section": "Repetitions",
+      "description": "Use pronouns or other techniques to avoid repetitions that are acceptable in English but not Spanish",
+      "example_correct": "Para eliminar un archivo de su computadora, selecciónelo en el panel derecho y haga clic en Suprimir.",
+      "example_incorrect": "Para eliminar un archivo de su ordenador, seleccione el archivo en el panel derecho y haga clic en Suprimir.",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00038",
+      "language": "ES-XL",
+      "category": "grammar",
+      "section": "Repetitions",
+      "description": "Do not use 'mismo/misma' as pronouns",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Using the adjective 'mismo/misma' as pronouns is incorrect"
+    },
+    {
+      "rule_id": "ES-XL_RULE_00039",
+      "language": "ES-XL",
+      "category": "terminology",
+      "section": "False friends",
+      "description": "Be careful with false friends and literal translations that have different meanings",
+      "example_correct": "Anular, cancelar",
+      "example_incorrect": "Abortar",
+      "notes": "For English 'Abort'"
+    },
+    {
+      "rule_id": "ES-XL_RULE_00040",
+      "language": "ES-XL",
+      "category": "terminology",
+      "section": "False friends",
+      "description": "Translate 'Actually' correctly",
+      "example_correct": "Realmente",
+      "example_incorrect": "Actualmente",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00041",
+      "language": "ES-XL",
+      "category": "terminology",
+      "section": "False friends",
+      "description": "Translate 'Assess' correctly",
+      "example_correct": "Evaluar",
+      "example_incorrect": "Asesorar",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00042",
+      "language": "ES-XL",
+      "category": "terminology",
+      "section": "False friends",
+      "description": "Translate 'Assume' correctly",
+      "example_correct": "Suponer",
+      "example_incorrect": "Asumir",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00043",
+      "language": "ES-XL",
+      "category": "terminology",
+      "section": "False friends",
+      "description": "Translate 'Billion' correctly",
+      "example_correct": "Mil millones",
+      "example_incorrect": "Billón",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00044",
+      "language": "ES-XL",
+      "category": "terminology",
+      "section": "False friends",
+      "description": "Translate 'Consistent' correctly",
+      "example_correct": "Coherente, uniforme",
+      "example_incorrect": "Consistente",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00045",
+      "language": "ES-XL",
+      "category": "terminology",
+      "section": "False friends",
+      "description": "Translate 'Eventual' correctly",
+      "example_correct": "Final",
+      "example_incorrect": "Eventual",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00046",
+      "language": "ES-XL",
+      "category": "terminology",
+      "section": "False friends",
+      "description": "Translate 'Fabric' correctly",
+      "example_correct": "Tejido",
+      "example_incorrect": "Fábrica",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00047",
+      "language": "ES-XL",
+      "category": "terminology",
+      "section": "False friends",
+      "description": "Translate 'Facility' correctly",
+      "example_correct": "Instalación",
+      "example_incorrect": "Facilidad",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00048",
+      "language": "ES-XL",
+      "category": "terminology",
+      "section": "False friends",
+      "description": "Translate 'Resume' correctly",
+      "example_correct": "Reanudar",
+      "example_incorrect": "Resumir",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00049",
+      "language": "ES-XL",
+      "category": "terminology",
+      "section": "False friends",
+      "description": "Translate 'Support' correctly",
+      "example_correct": "Asistencia",
+      "example_incorrect": "Soporte",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00050",
+      "language": "ES-XL",
+      "category": "capitalization",
+      "section": "Capitalization",
+      "description": "Use capital letter for proper names, product names, geographical names",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00051",
+      "language": "ES-XL",
+      "category": "capitalization",
+      "section": "Capitalization",
+      "description": "Use capital letter for first word after period, exclamation mark, question mark, ellipsis",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "When sentence after ellipsis is different or repetition of previous sentence"
+    },
+    {
+      "rule_id": "ES-XL_RULE_00052",
+      "language": "ES-XL",
+      "category": "capitalization",
+      "section": "Capitalization",
+      "description": "Use capital letter after colon only for quotes, explanatory sentences, or notices/warnings",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00053",
+      "language": "ES-XL",
+      "category": "capitalization",
+      "section": "Capitalization",
+      "description": "Use title case for nouns and adjectives of organizations, bodies, departments, awards, events",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00054",
+      "language": "ES-XL",
+      "category": "capitalization",
+      "section": "Capitalization",
+      "description": "Use lowercase for nationalities, languages, religions, days of week, months, seasons, currencies, job titles",
+      "example_correct": "No disponible los martes",
+      "example_incorrect": "No disponible los Martes",
+      "notes": "Contrary to English"
+    },
+    {
+      "rule_id": "ES-XL_RULE_00055",
+      "language": "ES-XL",
+      "category": "capitalization",
+      "section": "Capitalization",
+      "description": "Use lowercase for months",
+      "example_correct": "Estará listo a partir de julio.",
+      "example_incorrect": "Estará listo a partir de Julio.",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00056",
+      "language": "ES-XL",
+      "category": "capitalization",
+      "section": "Capitalization",
+      "description": "Use lowercase for currencies",
+      "example_correct": "1 dólar estadounidense",
+      "example_incorrect": "1 Dólar Estadounidense",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00057",
+      "language": "ES-XL",
+      "category": "capitalization",
+      "section": "Capitalization",
+      "description": "Use lowercase for languages",
+      "example_correct": "Los usuarios que hablan polaco",
+      "example_incorrect": "Los usuarios que hablan Polaco",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00058",
+      "language": "ES-XL",
+      "category": "capitalization",
+      "section": "Capitalization",
+      "description": "Use lowercase for nationalities",
+      "example_correct": "Nuestro amigo es francés",
+      "example_incorrect": "Nuestro amigo es Francés",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00059",
+      "language": "ES-XL",
+      "category": "capitalization",
+      "section": "Capitalization",
+      "description": "Don't capitalize web and email addresses unless needed for clarity",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00060",
+      "language": "ES-XL",
+      "category": "capitalization",
+      "section": "Capitalization",
+      "description": "In titles, headings, UI options, only capitalize first word",
+      "example_correct": "Cómo garantizar una transición fluida",
+      "example_incorrect": "Cómo Garantizar una Transición Fluida",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00061",
+      "language": "ES-XL",
+      "category": "capitalization",
+      "section": "Capitalization",
+      "description": "Capitalize only first word in terms and conditions titles",
+      "example_correct": "Términos y condiciones de XXX",
+      "example_incorrect": "Términos y Condiciones de XXX",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00062",
+      "language": "ES-XL",
+      "category": "capitalization",
+      "section": "Capitalization",
+      "description": "Capitalize only first word in page layout references",
+      "example_correct": "Diseño de la página",
+      "example_incorrect": "Diseño de la Página",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00063",
+      "language": "ES-XL",
+      "category": "capitalization",
+      "section": "Capitalization",
+      "description": "Capitalize only first word in model names",
+      "example_correct": "Nombre del modelo",
+      "example_incorrect": "Nombre del Modelo",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00064",
+      "language": "ES-XL",
+      "category": "capitalization",
+      "section": "Capitalization",
+      "description": "Retain capitalization in legal texts where it conveys specific meaning",
+      "example_correct": "Este acuerdo (el \"Acuerdo\") es vinculante",
+      "example_incorrect": "Este acuerdo (el \"acuerdo\") es vinculante",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00065",
+      "language": "ES-XL",
+      "category": "capitalization",
+      "section": "Capitalization",
+      "description": "Preserve capitalization for Software in legal contexts",
+      "example_correct": "Instalar y usar una copia del Software",
+      "example_incorrect": "Instalar y usar una copia del software",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00066",
+      "language": "ES-XL",
+      "category": "formatting",
+      "section": "Capitalization",
+      "description": "Preserve all upper case formatting in paragraphs with legal implications",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Sometimes whole paragraphs are written in upper case and formatting must be preserved"
+    },
+    {
+      "rule_id": "ES-XL_RULE_00067",
+      "language": "ES-XL",
+      "category": "spelling",
+      "section": "Spelling",
+      "description": "Run spell-checker when translation is completed",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Also recommended to copy text to Word document and run Spelling & Grammar (F7)"
+    },
+    {
+      "rule_id": "ES-XL_RULE_00068",
+      "language": "ES-XL",
+      "category": "punctuation",
+      "section": "Spacing",
+      "description": "Separate brand name tags from preceding or following text with a space",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00069",
+      "language": "ES-XL",
+      "category": "punctuation",
+      "section": "Spacing",
+      "description": "No space before any punctuation sign in Spanish",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00070",
+      "language": "ES-XL",
+      "category": "punctuation",
+      "section": "Spacing",
+      "description": "Replace double spaces after full stops with single spaces",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "English documents often include double spaces after full stops"
+    },
+    {
+      "rule_id": "ES-XL_RULE_00071",
+      "language": "ES-XL",
+      "category": "punctuation",
+      "section": "Spacing",
+      "description": "Use non-breaking spaces for names, numbers, software names and versions",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Ctrl + Shift + Space in MS Word or Alt+0160 to prevent separation at end of line"
+    },
+    {
+      "rule_id": "ES-XL_RULE_00072",
+      "language": "ES-XL",
+      "category": "punctuation",
+      "section": "Use of punctuation - Comma",
+      "description": "Separate enumeration elements with comma, last element preceded by conjunction without comma",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00073",
+      "language": "ES-XL",
+      "category": "punctuation",
+      "section": "Use of punctuation - Comma",
+      "description": "Don't separate subject from predicate with comma",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00074",
+      "language": "ES-XL",
+      "category": "punctuation",
+      "section": "Use of punctuation - Comma",
+      "description": "Always precede and/or follow vocative particle with comma",
+      "example_correct": "\"Hola, Juan\"",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00075",
+      "language": "ES-XL",
+      "category": "punctuation",
+      "section": "Use of punctuation - Period",
+      "description": "Place period outside brackets or quotes when sentence is between them",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00076",
+      "language": "ES-XL",
+      "category": "punctuation",
+      "section": "Use of punctuation - Period",
+      "description": "Don't use full stops after headings, titles, table columns, or captions unless full sentence",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00077",
+      "language": "ES-XL",
+      "category": "punctuation",
+      "section": "Use of punctuation - Period",
+      "description": "Don't use full stops if sentence ends with abbreviation, interrogation/exclamation mark, ellipsis, or colon",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00078",
+      "language": "ES-XL",
+      "category": "punctuation",
+      "section": "Use of punctuation - Colon",
+      "description": "Avoid using colons as English makes wider use of them, prefer commas where possible",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00079",
+      "language": "ES-XL",
+      "category": "punctuation",
+      "section": "Use of punctuation - Colon",
+      "description": "Use colon to introduce enumerations, explanations, notices, advertisements, warnings",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00080",
+      "language": "ES-XL",
+      "category": "punctuation",
+      "section": "Use of punctuation - Colon",
+      "description": "Use colon to introduce list of items",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00081",
+      "language": "ES-XL",
+      "category": "punctuation",
+      "section": "Use of punctuation - Colon",
+      "description": "Use colon to separate clauses where second expands or illustrates first",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00082",
+      "language": "ES-XL",
+      "category": "punctuation",
+      "section": "Use of punctuation - Colon",
+      "description": "Use colon to indicate proportion between numbers",
+      "example_correct": "a ratio of 10:1",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00083",
+      "language": "ES-XL",
+      "category": "punctuation",
+      "section": "Use of punctuation - Colon",
+      "description": "Use colon to separate hours from minutes in numerical time",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00084",
+      "language": "ES-XL",
+      "category": "punctuation",
+      "section": "Use of punctuation - Colon",
+      "description": "Start with uppercase after headings like Advertencia, Nota when statement is full sentence",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00085",
+      "language": "ES-XL",
+      "category": "punctuation",
+      "section": "Use of punctuation - Semi-colon",
+      "description": "Use semi-colons less than in English, mainly to separate enumeration items when commas would be confusing",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00086",
+      "language": "ES-XL",
+      "category": "punctuation",
+      "section": "Use of punctuation - Semi-colon",
+      "description": "Avoid semi-colons and start new sentence instead",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00087",
+      "language": "ES-XL",
+      "category": "punctuation",
+      "section": "Use of punctuation - Exclamation mark",
+      "description": "Avoid exclamation marks unless really necessary, emphasize main unit rather than whole sentence",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Not as common in Spanish as in English"
+    },
+    {
+      "rule_id": "ES-XL_RULE_00088",
+      "language": "ES-XL",
+      "category": "punctuation",
+      "section": "Use of punctuation - Exclamation mark",
+      "description": "Keep only one exclamation mark when they appear in groups",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00089",
+      "language": "ES-XL",
+      "category": "punctuation",
+      "section": "Use of punctuation - Exclamation mark",
+      "description": "Always use initial and final exclamation marks",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00090",
+      "language": "ES-XL",
+      "category": "punctuation",
+      "section": "Use of punctuation - Hyphen/En dash/Em dash",
+      "description": "Use hyphen to join two parts of compound term",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00091",
+      "language": "ES-XL",
+      "category": "punctuation",
+      "section": "Use of punctuation - Hyphen/En dash/Em dash",
+      "description": "Use en dash as minus sign or in number ranges without spaces",
+      "example_correct": "en 3-10 días",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00092",
+      "language": "ES-XL",
+      "category": "punctuation",
+      "section": "Use of punctuation - Hyphen/En dash/Em dash",
+      "description": "Use em dash to separate element within sentence, always close with final em dash",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Spaces around but not inside. Avoid when can be replaced by brackets"
+    },
+    {
+      "rule_id": "ES-XL_RULE_00093",
+      "language": "ES-XL",
+      "category": "punctuation",
+      "section": "Use of punctuation - Round and square brackets",
+      "description": "Use square brackets only when round brackets already appear in sentence",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Round brackets commonly seen in Spanish. Square brackets used to define tags"
+    },
+    {
+      "rule_id": "ES-XL_RULE_00094",
+      "language": "ES-XL",
+      "category": "punctuation",
+      "section": "Use of punctuation - Quotation marks",
+      "description": "Never use straight single quote for variables",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Updated 20241207"
+    },
+    {
+      "rule_id": "ES-XL_RULE_00095",
+      "language": "ES-XL",
+      "category": "punctuation",
+      "section": "Use of punctuation - Quotation marks",
+      "description": "Use quotation marks to quote sentences from other sources or document titles",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00096",
+      "language": "ES-XL",
+      "category": "punctuation",
+      "section": "Use of punctuation - Quotation marks",
+      "description": "Avoid single quotes unless software requirements force their use",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "To avoid breaking builds or technical issues"
+    },
+    {
+      "rule_id": "ES-XL_RULE_00097",
+      "language": "ES-XL",
+      "category": "punctuation",
+      "section": "Use of punctuation - Quotation marks",
+      "description": "Place punctuation outside quotes",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00098",
+      "language": "ES-XL",
+      "category": "punctuation",
+      "section": "Use of punctuation - Quotation marks",
+      "description": "Don't use quotation marks for emphasis, remarks, or DNT terms",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00099",
+      "language": "ES-XL",
+      "category": "punctuation",
+      "section": "Use of punctuation - Bar",
+      "description": "Use bar between words to indicate multiple options without spaces",
+      "example_correct": "país/región",
+      "example_incorrect": "país / region",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00100",
+      "language": "ES-XL",
+      "category": "punctuation",
+      "section": "Use of punctuation - Ampersand",
+      "description": "Avoid using ampersand except in trademarked or product names",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Notable exceptions: AT&T, H&R Block"
+    },
+    {
+      "rule_id": "ES-XL_RULE_00101",
+      "language": "ES-XL",
+      "category": "punctuation",
+      "section": "Use of punctuation - Accent marks",
+      "description": "Follow standard Spanish rules about accent marks",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Accent marks mandatory in capitalized letters or words"
+    },
+    {
+      "rule_id": "ES-XL_RULE_00102",
+      "language": "ES-XL",
+      "category": "formatting",
+      "section": "Style to use in bulleted lists",
+      "description": "If bulleted items are complete sentences, begin with capital and end with period",
+      "example_correct": "• Inicie sesión y diríjase a la página de perfil.\n• Haga clic en Preferencias y seleccione la opción Idioma.",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00103",
+      "language": "ES-XL",
+      "category": "formatting",
+      "section": "Style to use in bulleted lists",
+      "description": "If bulleted items are phrases or single words, don't use period",
+      "example_correct": "• Símbolos numéricos\n• Símbolos y caracteres alfanuméricos\n• Cadenas de valores",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00104",
+      "language": "ES-XL",
+      "category": "formatting",
+      "section": "Style to use in bulleted lists",
+      "description": "If list items depend syntactically on introductory sentence, use lowercase and semicolons except last item with period",
+      "example_correct": "Para crear una cuenta nueva debe:\n• visitar la página inicial;\n• hacer clic en Nuevo usuario;\n• introducir sus datos personales; y\n• hacer clic en Aceptar.",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00105",
+      "language": "ES-XL",
+      "category": "formatting",
+      "section": "Style to use in bulleted lists",
+      "description": "Be consistent - structure all list items the same way",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "All items should be fragments or complete sentences. Match tone, voice, verb tense"
+    },
+    {
+      "rule_id": "ES-XL_RULE_00106",
+      "language": "ES-XL",
+      "category": "formatting",
+      "section": "Style to use in bulleted lists",
+      "description": "Don't introduce bullet list with preposition",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00107",
+      "language": "ES-XL",
+      "category": "formatting",
+      "section": "Meta descriptions and meta titles",
+      "description": "Meta descriptions have maximum 155 characters including spaces and punctuation",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Not shorter than 50 characters"
+    },
+    {
+      "rule_id": "ES-XL_RULE_00108",
+      "language": "ES-XL",
+      "category": "formatting",
+      "section": "Meta descriptions and meta titles",
+      "description": "Meta titles have maximum 55 characters including spaces and punctuation",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00109",
+      "language": "ES-XL",
+      "category": "formatting",
+      "section": "Meta descriptions and meta titles",
+      "description": "Follow title case capitalization/formatting rules for meta content",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00110",
+      "language": "ES-XL",
+      "category": "formatting",
+      "section": "Meta descriptions and meta titles",
+      "description": "Separate RingCentral from rest of meta title with horizontal bar",
+      "example_correct": "Visual Voicemail | RingCentral",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00111",
+      "language": "ES-XL",
+      "category": "formatting",
+      "section": "Meta descriptions and meta titles",
+      "description": "Use en dash to separate keywords/keyword phrases",
+      "example_correct": "Virtual PBX – Cloud PBX | RingCentral",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00112",
+      "language": "ES-XL",
+      "category": "abbreviations",
+      "section": "Abbreviations",
+      "description": "Avoid abbreviations when possible, use standardized abbreviations when needed",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "May need to abbreviate in UI options"
+    },
+    {
+      "rule_id": "ES-XL_RULE_00113",
+      "language": "ES-XL",
+      "category": "abbreviations",
+      "section": "Abbreviations",
+      "description": "Use standard abbreviation for Código",
+      "example_correct": "Cód.",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00114",
+      "language": "ES-XL",
+      "category": "abbreviations",
+      "section": "Abbreviations",
+      "description": "Use standard abbreviation for Departamento",
+      "example_correct": "Dpto.",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00115",
+      "language": "ES-XL",
+      "category": "abbreviations",
+      "section": "Abbreviations",
+      "description": "Use standard abbreviation for Estados Unidos",
+      "example_correct": "EE. UU.",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00116",
+      "language": "ES-XL",
+      "category": "abbreviations",
+      "section": "Abbreviations",
+      "description": "Use standard abbreviation for Etcétera",
+      "example_correct": "Etc.",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00117",
+      "language": "ES-XL",
+      "category": "abbreviations",
+      "section": "Abbreviations",
+      "description": "Use standard abbreviation for Gran Bretaña",
+      "example_correct": "GB",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00118",
+      "language": "ES-XL",
+      "category": "abbreviations",
+      "section": "Abbreviations",
+      "description": "Use standard abbreviation for Máximo",
+      "example_correct": "Máx.",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00119",
+      "language": "ES-XL",
+      "category": "abbreviations",
+      "section": "Abbreviations",
+      "description": "Use standard abbreviation for Mínimo",
+      "example_correct": "Mín.",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00120",
+      "language": "ES-XL",
+      "category": "abbreviations",
+      "section": "Abbreviations",
+      "description": "Use standard abbreviation for Número",
+      "example_correct": "N.º",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00121",
+      "language": "ES-XL",
+      "category": "abbreviations",
+      "section": "Abbreviations",
+      "description": "Use standard abbreviation for Página",
+      "example_correct": "Pág., p.",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00122",
+      "language": "ES-XL",
+      "category": "abbreviations",
+      "section": "Abbreviations",
+      "description": "Use standard abbreviation for Por ejemplo",
+      "example_correct": "P. ej.",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00123",
+      "language": "ES-XL",
+      "category": "abbreviations",
+      "section": "Abbreviations",
+      "description": "Use standard abbreviation for Teléfono",
+      "example_correct": "Tel., teléf.",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00124",
+      "language": "ES-XL",
+      "category": "abbreviations",
+      "section": "Abbreviations",
+      "description": "Use standard abbreviation for Unión Europea",
+      "example_correct": "UE",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00125",
+      "language": "ES-XL",
+      "category": "abbreviations",
+      "section": "Acronyms",
+      "description": "Investigate acronym localizability based on RingCentral project requirements",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00126",
+      "language": "ES-XL",
+      "category": "abbreviations",
+      "section": "Acronyms",
+      "description": "Don't add 'por sus siglas en inglés' between brackets unless specified",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00127",
+      "language": "ES-XL",
+      "category": "abbreviations",
+      "section": "Acronyms",
+      "description": "Acronyms should not have plural endings",
+      "example_correct": "",
+      "example_incorrect": "ONGs",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00128",
+      "language": "ES-XL",
+      "category": "abbreviations",
+      "section": "Acronyms",
+      "description": "If translation possible for acronym before expansion, locate translation before English",
+      "example_correct": "CSV (valores separados por comas, Comma Separated Values)",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00129",
+      "language": "ES-XL",
+      "category": "abbreviations",
+      "section": "Acronyms",
+      "description": "If translation not possible for acronym before expansion, leave expansion in parenthesis",
+      "example_correct": "HPFS (High Performance File System)",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00130",
+      "language": "ES-XL",
+      "category": "abbreviations",
+      "section": "Acronyms",
+      "description": "If expansion comes before acronym and translation possible, add English expansion in parenthesis after acronym",
+      "example_correct": "Revoluciones por minuto (RPM, revolution per minute)",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00131",
+      "language": "ES-XL",
+      "category": "abbreviations",
+      "section": "Acronyms",
+      "description": "If expansion comes before acronym and translation not possible, leave expansion and acronym in parenthesis",
+      "example_correct": "Desktop Publishing (DTP)",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00132",
+      "language": "ES-XL",
+      "category": "abbreviations",
+      "section": "Acronyms",
+      "description": "If acronym not followed by expansion, use acronym without expansion",
+      "example_correct": "ROI",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00133",
+      "language": "ES-XL",
+      "category": "numbers",
+      "section": "Numbers",
+      "description": "Write numbers in full when used as nouns",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00134",
+      "language": "ES-XL",
+      "category": "numbers",
+      "section": "Numbers",
+      "description": "Write numbers in full at beginning of sentence",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00135",
+      "language": "ES-XL",
+      "category": "numbers",
+      "section": "Numbers",
+      "description": "Write numbers in full when appearing alone representing simple quantities up to 9",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00136",
+      "language": "ES-XL",
+      "category": "numbers",
+      "section": "Numbers",
+      "description": "Write numbers in full in expressions like 'in the 80s'",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00137",
+      "language": "ES-XL",
+      "category": "numbers",
+      "section": "Numbers",
+      "description": "Use numerals for dates, large numbers, ages, document references",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00138",
+      "language": "ES-XL",
+      "category": "numbers",
+      "section": "Numbers",
+      "description": "Replace decimal point with comma",
+      "example_correct": "0,25",
+      "example_incorrect": "0.25",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00139",
+      "language": "ES-XL",
+      "category": "numbers",
+      "section": "Numbers",
+      "description": "Replace thousand separator with non-breaking space for numbers with 5+ digits",
+      "example_correct": "18 567",
+      "example_incorrect": "18,567",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00140",
+      "language": "ES-XL",
+      "category": "numbers",
+      "section": "Numbers",
+      "description": "Use comma for decimal separator in 4-digit numbers",
+      "example_correct": "1254,28",
+      "example_incorrect": "1,254.28",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00141",
+      "language": "ES-XL",
+      "category": "numbers",
+      "section": "Numbers",
+      "description": "Use non-breaking spaces for large number separation",
+      "example_correct": "8 990 500",
+      "example_incorrect": "8,990,500",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00142",
+      "language": "ES-XL",
+      "category": "numbers",
+      "section": "Numbers",
+      "description": "Avoid mixing numerical and alphabetical forms",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00143",
+      "language": "ES-XL",
+      "category": "numbers",
+      "section": "Units of Measure",
+      "description": "Separate units of measure from preceding number with non-breaking space",
+      "example_correct": "533 MHz",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00144",
+      "language": "ES-XL",
+      "category": "numbers",
+      "section": "Units of Measure",
+      "description": "Convert imperial units to metric based on project requirements",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "May add converted value first with original in brackets or convert to metric equivalent"
+    },
+    {
+      "rule_id": "ES-XL_RULE_00145",
+      "language": "ES-XL",
+      "category": "numbers",
+      "section": "Units of Measure",
+      "description": "Monitor sizes always expressed in inches as exception",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00146",
+      "language": "ES-XL",
+      "category": "numbers",
+      "section": "Percentages",
+      "description": "Write percentages in figures followed by % symbol without space",
+      "example_correct": "37%",
+      "example_incorrect": "37 %",
+      "notes": "No blank spaces between figure and symbol to avoid confusion"
+    },
+    {
+      "rule_id": "ES-XL_RULE_00147",
+      "language": "ES-XL",
+      "category": "numbers",
+      "section": "Date and time",
+      "description": "Use day-month format not month-day format",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Adapt to Spanish standards"
+    },
+    {
+      "rule_id": "ES-XL_RULE_00148",
+      "language": "ES-XL",
+      "category": "numbers",
+      "section": "Date and time",
+      "description": "Use DD/MM/YYYY for short date format",
+      "example_correct": "28/09/2015",
+      "example_incorrect": "",
+      "notes": "Can be separated by hyphen or bar"
+    },
+    {
+      "rule_id": "ES-XL_RULE_00149",
+      "language": "ES-XL",
+      "category": "numbers",
+      "section": "Date and time",
+      "description": "Use dddd de mmmmm de yyyy for long date format",
+      "example_correct": "28 de septiembre de 2015",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ES-XL_RULE_00150",
+      "language": "ES-XL",
+      "category": "numbers",
+      "section": "Date and time",
+      "description": "Use hh:mm:ss for standard time format with 24-hour clock",
+      "example_correct": "23:30 h",
+      "example_incorrect": "11:30 PM",
+      "notes": ""
+    }
+  ]
+}

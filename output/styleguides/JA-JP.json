@@ -1,0 +1,907 @@
+{
+  "language": "JA-JP",
+  "source": "RC_Style_Guide_JA-JP_20241206.pdf",
+  "total_rules": 90,
+  "rules": [
+    {
+      "rule_id": "JA-JP_RULE_00001",
+      "language": "JA-JP",
+      "category": "style_tone",
+      "section": "General Overview",
+      "description": "Produce natural-sounding translations that capture intended meaning for a wide Japanese-speaking audience",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Avoid literal translation. Balance faithfulness to source and readability in target language"
+    },
+    {
+      "rule_id": "JA-JP_RULE_00002",
+      "language": "JA-JP",
+      "category": "style_tone",
+      "section": "General Overview",
+      "description": "Use clear, concise and precise style that is easily understood and doesn't read like a translation",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Put yourself in the reader's place to ensure clarity and fluency"
+    },
+    {
+      "rule_id": "JA-JP_RULE_00003",
+      "language": "JA-JP",
+      "category": "style_tone",
+      "section": "General Overview",
+      "description": "Avoid heaviness, ambiguities, repetitions, and overly polite expressions",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Also avoid enriching the text excessively"
+    },
+    {
+      "rule_id": "JA-JP_RULE_00004",
+      "language": "JA-JP",
+      "category": "ui_elements",
+      "section": "Buttons",
+      "description": "Translation of buttons should be clear and concise with attention to character/space limitations",
+      "example_correct": "会議に参加",
+      "example_incorrect": "ミーティングに参加する",
+      "notes": "English: Join a Meeting"
+    },
+    {
+      "rule_id": "JA-JP_RULE_00005",
+      "language": "JA-JP",
+      "category": "ui_elements",
+      "section": "Buttons",
+      "description": "Use concise button text avoiding unnecessary particles",
+      "example_correct": "今すぐ登録",
+      "example_incorrect": "今すぐに登録する",
+      "notes": "English: Join Now"
+    },
+    {
+      "rule_id": "JA-JP_RULE_00006",
+      "language": "JA-JP",
+      "category": "trademarks",
+      "section": "Names of RingCentral Products, Applications and Features",
+      "description": "Check reference material and terminology lists before translating product/application names as they may be trademarked",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Terms marked as DNT (Do not translate) should not be localized"
+    },
+    {
+      "rule_id": "JA-JP_RULE_00007",
+      "language": "JA-JP",
+      "category": "localization_general",
+      "section": "Adaptation to Japanese Market",
+      "description": "Replace English examples with Japanese equivalents when needed for localization/adaptation",
+      "example_correct": "*システム",
+      "example_incorrect": "*ing",
+      "notes": "Example: wildcard operators should use Japanese terms instead of English ones"
+    },
+    {
+      "rule_id": "JA-JP_RULE_00008",
+      "language": "JA-JP",
+      "category": "style_tone",
+      "section": "Style and Tone",
+      "description": "Be precise, clear, consistent and natural. Rephrase unclear sentences and rework sentences that sound like translations",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Break up long English sentences into smaller parts for better readability"
+    },
+    {
+      "rule_id": "JA-JP_RULE_00009",
+      "language": "JA-JP",
+      "category": "style_tone",
+      "section": "Style and Tone",
+      "description": "Use accurate and concise style with no ambiguities or mistranslations",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Most readers don't have patience for long sentences. Information should be grasped in seconds"
+    },
+    {
+      "rule_id": "JA-JP_RULE_00010",
+      "language": "JA-JP",
+      "category": "style_tone",
+      "section": "Style and Tone",
+      "description": "Write clearly and coherently so target readers understand easily",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "JA-JP_RULE_00011",
+      "language": "JA-JP",
+      "category": "style_tone",
+      "section": "Style and Tone",
+      "description": "Be objective and neutral without inserting personal opinions",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Avoid colloquial or slang words, be politically correct"
+    },
+    {
+      "rule_id": "JA-JP_RULE_00012",
+      "language": "JA-JP",
+      "category": "style_tone",
+      "section": "Style and Tone",
+      "description": "Ensure content and numbers are free of mistakes",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "JA-JP_RULE_00013",
+      "language": "JA-JP",
+      "category": "style_tone",
+      "section": "Style and Tone",
+      "description": "Use idiomatically correct verbs, metaphors, and expressions so text doesn't sound like a translation",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "JA-JP_RULE_00014",
+      "language": "JA-JP",
+      "category": "style_tone",
+      "section": "Style and Tone",
+      "description": "Be complete - do not leave out content (words, phrases, whole paragraphs)",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "JA-JP_RULE_00015",
+      "language": "JA-JP",
+      "category": "style_tone",
+      "section": "Style and Tone",
+      "description": "Use です/ます調 in general, except for legal and other documents that need だ/である調",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Japanese specific instruction"
+    },
+    {
+      "rule_id": "JA-JP_RULE_00016",
+      "language": "JA-JP",
+      "category": "style_tone",
+      "section": "Style and Tone",
+      "description": "In lists, use だ/である調 or 体言止め",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Japanese specific instruction"
+    },
+    {
+      "rule_id": "JA-JP_RULE_00017",
+      "language": "JA-JP",
+      "category": "style_tone",
+      "section": "Politeness",
+      "description": "Style should be formal and polite appropriate for business communication",
+      "example_correct": "ユーザー名を入力してください。",
+      "example_incorrect": "ユーザー名をご入力ください。",
+      "notes": "Avoid casual expressions and overly polite expressions like ございます、していただきます"
+    },
+    {
+      "rule_id": "JA-JP_RULE_00018",
+      "language": "JA-JP",
+      "category": "localization_general",
+      "section": "Cross-references",
+      "description": "Cross-references shall be referenced consistently throughout translation and all files",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Translation of document titles might be included in terminology list or reference material"
+    },
+    {
+      "rule_id": "JA-JP_RULE_00019",
+      "language": "JA-JP",
+      "category": "localization_general",
+      "section": "Cross-references",
+      "description": "If unable to retrieve cross-reference information, contact Project Management team or Language Lead",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "If no response in time, leave title in source language with proposed translation in parenthesis"
+    },
+    {
+      "rule_id": "JA-JP_RULE_00020",
+      "language": "JA-JP",
+      "category": "localization_general",
+      "section": "Cross-references",
+      "description": "If document has not been translated before, leave as in source language",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "JA-JP_RULE_00021",
+      "language": "JA-JP",
+      "category": "grammar",
+      "section": "Use of Pronouns - Possessives",
+      "description": "Possessives like 'your' and 'our' do not need to be translated unless needed for clarification",
+      "example_correct": "ファイルを編集します",
+      "example_incorrect": "あなたのファイルを編集します",
+      "notes": "English: You can edit your files"
+    },
+    {
+      "rule_id": "JA-JP_RULE_00022",
+      "language": "JA-JP",
+      "category": "grammar",
+      "section": "Use of Pronouns - Possessives",
+      "description": "Use appropriate Japanese expressions instead of direct translation of possessives",
+      "example_correct": "お使いのコンピューター",
+      "example_incorrect": "あなたのコンピューター",
+      "notes": "English: Your computer"
+    },
+    {
+      "rule_id": "JA-JP_RULE_00023",
+      "language": "JA-JP",
+      "category": "grammar",
+      "section": "Use of Pronouns - We/Us",
+      "description": "Usually avoid 'we' or 'us' and replace with client names instead, per Japanese convention",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Exception: For RingCentral partner content, this rule doesn't apply. Don't replace 'we'/'us' with RingCentral"
+    },
+    {
+      "rule_id": "JA-JP_RULE_00024",
+      "language": "JA-JP",
+      "category": "grammar",
+      "section": "Translation of Subject Word",
+      "description": "Subject word doesn't always need translation in Japanese, especially 'you'",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Omit 'you' or replace with specific noun. Substitute 'we' with specific noun like company name"
+    },
+    {
+      "rule_id": "JA-JP_RULE_00025",
+      "language": "JA-JP",
+      "category": "grammar",
+      "section": "Use of Passive Voice",
+      "description": "When subject is a computer or application, omit the subject or use passive voice",
+      "example_correct": "「入力」と表示されたら、",
+      "example_incorrect": "システムが「入力」と表示したら、",
+      "notes": "English: When the system displays Enter, ..."
+    },
+    {
+      "rule_id": "JA-JP_RULE_00026",
+      "language": "JA-JP",
+      "category": "punctuation",
+      "section": "Punctuation",
+      "description": "NEVER use straight single quote for variables",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Updated on 20241207"
+    },
+    {
+      "rule_id": "JA-JP_RULE_00027",
+      "language": "JA-JP",
+      "category": "formatting",
+      "section": "Spacing",
+      "description": "In principle, leave no space between single byte and double byte characters",
+      "example_correct": "HDビデオ会議",
+      "example_incorrect": "HD<space>ビデオ会議",
+      "notes": "English: HD video conferencing"
+    },
+    {
+      "rule_id": "JA-JP_RULE_00028",
+      "language": "JA-JP",
+      "category": "formatting",
+      "section": "Spacing",
+      "description": "Exception for URLs: Add a single byte space before and after a URL",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "JA-JP_RULE_00029",
+      "language": "JA-JP",
+      "category": "formatting",
+      "section": "Spacing",
+      "description": "Compound Katakana words: No spaces between Katakana words unless necessary to clarify meaning",
+      "example_correct": "オーディオデバイス",
+      "example_incorrect": "オーディオ<space>デバイス",
+      "notes": "English: audio device"
+    },
+    {
+      "rule_id": "JA-JP_RULE_00030",
+      "language": "JA-JP",
+      "category": "formatting",
+      "section": "Spacing",
+      "description": "There should be a space between two English words/numbers as appropriate in English grammar",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "JA-JP_RULE_00031",
+      "language": "JA-JP",
+      "category": "punctuation",
+      "section": "Apostrophe",
+      "description": "Use straight apostrophe consistently instead of curly apostrophe",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "JA-JP_RULE_00032",
+      "language": "JA-JP",
+      "category": "punctuation",
+      "section": "Punctuation, Brackets, Parentheses, and Other Symbols",
+      "description": "Use double-byte Japanese period 。 for all Japanese sentences",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "JA-JP_RULE_00033",
+      "language": "JA-JP",
+      "category": "punctuation",
+      "section": "Punctuation, Brackets, Parentheses, and Other Symbols",
+      "description": "Use single byte English period . only in English quotation, codes, etc.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "JA-JP_RULE_00034",
+      "language": "JA-JP",
+      "category": "punctuation",
+      "section": "Punctuation, Brackets, Parentheses, and Other Symbols",
+      "description": "Use double-byte Japanese comma 、 for all Japanese sentences",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "JA-JP_RULE_00035",
+      "language": "JA-JP",
+      "category": "punctuation",
+      "section": "Punctuation, Brackets, Parentheses, and Other Symbols",
+      "description": "Use single byte English comma , only as thousand separator in numbers",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "JA-JP_RULE_00036",
+      "language": "JA-JP",
+      "category": "punctuation",
+      "section": "Punctuation, Brackets, Parentheses, and Other Symbols",
+      "description": "Use double-byte question mark ？",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "JA-JP_RULE_00037",
+      "language": "JA-JP",
+      "category": "punctuation",
+      "section": "Punctuation, Brackets, Parentheses, and Other Symbols",
+      "description": "Use double-byte exclamation mark ！",
+      "example_correct": "!!",
+      "example_incorrect": "！！",
+      "notes": "When multiple exclamation marks are used consecutively, use single byte characters"
+    },
+    {
+      "rule_id": "JA-JP_RULE_00038",
+      "language": "JA-JP",
+      "category": "punctuation",
+      "section": "Punctuation, Brackets, Parentheses, and Other Symbols",
+      "description": "Use double-byte tilde ～ for range when minus sign is typically used in English",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "JA-JP_RULE_00039",
+      "language": "JA-JP",
+      "category": "punctuation",
+      "section": "Punctuation, Brackets, Parentheses, and Other Symbols",
+      "description": "Use double-byte colon : but not after full sentences",
+      "example_correct": "次の通りです。",
+      "example_incorrect": "次の通りです：",
+      "notes": ""
+    },
+    {
+      "rule_id": "JA-JP_RULE_00040",
+      "language": "JA-JP",
+      "category": "punctuation",
+      "section": "Punctuation, Brackets, Parentheses, and Other Symbols",
+      "description": "Use single byte semi-colon ; only in code and English text, not in Japanese text",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "JA-JP_RULE_00041",
+      "language": "JA-JP",
+      "category": "punctuation",
+      "section": "Punctuation, Brackets, Parentheses, and Other Symbols",
+      "description": "Use double byte & between two double byte characters, and single byte between two single byte characters",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "JA-JP_RULE_00042",
+      "language": "JA-JP",
+      "category": "punctuation",
+      "section": "Punctuation, Brackets, Parentheses, and Other Symbols",
+      "description": "Use single byte double quotation marks \"\" within Japanese brackets and in quotation when needed",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Do not use as general quotation"
+    },
+    {
+      "rule_id": "JA-JP_RULE_00043",
+      "language": "JA-JP",
+      "category": "punctuation",
+      "section": "Punctuation, Brackets, Parentheses, and Other Symbols",
+      "description": "Do not use single quotation marks '' in Japanese text",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "JA-JP_RULE_00044",
+      "language": "JA-JP",
+      "category": "punctuation",
+      "section": "Punctuation, Brackets, Parentheses, and Other Symbols",
+      "description": "Use double-byte Japanese brackets 「」 for quotation, titles, and emphasis where double quotation marks are used in English",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "JA-JP_RULE_00045",
+      "language": "JA-JP",
+      "category": "punctuation",
+      "section": "Punctuation, Brackets, Parentheses, and Other Symbols",
+      "description": "Use double-byte Japanese double brackets 『』 for publication titles and cases where differentiation with 「」 is needed",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "JA-JP_RULE_00046",
+      "language": "JA-JP",
+      "category": "punctuation",
+      "section": "Punctuation, Brackets, Parentheses, and Other Symbols",
+      "description": "Use single byte brackets [] for UI buttons, tabs, etc.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "JA-JP_RULE_00047",
+      "language": "JA-JP",
+      "category": "punctuation",
+      "section": "Punctuation, Brackets, Parentheses, and Other Symbols",
+      "description": "Use single byte parenthesis ()",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "JA-JP_RULE_00048",
+      "language": "JA-JP",
+      "category": "punctuation",
+      "section": "Punctuation, Brackets, Parentheses, and Other Symbols",
+      "description": "Use single byte % with no space between numbers and the symbol",
+      "example_correct": "50%",
+      "example_incorrect": "",
+      "notes": "If spelled out as 'percent' in source, using パーセント is OK"
+    },
+    {
+      "rule_id": "JA-JP_RULE_00049",
+      "language": "JA-JP",
+      "category": "punctuation",
+      "section": "Punctuation, Brackets, Parentheses, and Other Symbols",
+      "description": "Use single byte en dash – and em dash — following English source",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "JA-JP_RULE_00050",
+      "language": "JA-JP",
+      "category": "abbreviations",
+      "section": "Abbreviations",
+      "description": "Japanese abbreviation should be avoided unless widely used and accepted as a Japanese word",
+      "example_correct": "パソコン, アプリ",
+      "example_incorrect": "スマホ",
+      "notes": "スマホ is considered casual and should be avoided except in ad-copy"
+    },
+    {
+      "rule_id": "JA-JP_RULE_00051",
+      "language": "JA-JP",
+      "category": "abbreviations",
+      "section": "Acronyms",
+      "description": "Acronyms should not be translated in general, unless not used in Japan at all",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "JA-JP_RULE_00052",
+      "language": "JA-JP",
+      "category": "abbreviations",
+      "section": "Acronyms",
+      "description": "When acronym is before its expansion, include Japanese expansion in parentheses",
+      "example_correct": "CSV (コンマ区切り値)",
+      "example_incorrect": "",
+      "notes": "English: CSV (Comma Separated Values)"
+    },
+    {
+      "rule_id": "JA-JP_RULE_00053",
+      "language": "JA-JP",
+      "category": "abbreviations",
+      "section": "Acronyms",
+      "description": "When expansion comes before acronym, translate expansion and keep English acronym",
+      "example_correct": "ローカルエリアネットワーク (LAN)",
+      "example_incorrect": "",
+      "notes": "English: local area network (LAN)"
+    },
+    {
+      "rule_id": "JA-JP_RULE_00054",
+      "language": "JA-JP",
+      "category": "abbreviations",
+      "section": "Acronyms",
+      "description": "When acronym is not followed by expansion, use the acronym without expansion",
+      "example_correct": "OLE",
+      "example_incorrect": "",
+      "notes": "English: OLE"
+    },
+    {
+      "rule_id": "JA-JP_RULE_00055",
+      "language": "JA-JP",
+      "category": "numbers",
+      "section": "Numbers",
+      "description": "Use single byte numbers",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "JA-JP_RULE_00056",
+      "language": "JA-JP",
+      "category": "numbers",
+      "section": "Numbers",
+      "description": "Use single byte comma as thousand separator",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "JA-JP_RULE_00057",
+      "language": "JA-JP",
+      "category": "numbers",
+      "section": "Numbers",
+      "description": "Kansuji (一, 二, etc.) should not be used unless it's a fixed expression that cannot be converted to regular number",
+      "example_correct": "一括、一斉",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "JA-JP_RULE_00058",
+      "language": "JA-JP",
+      "category": "numbers",
+      "section": "Units of Measure",
+      "description": "For units not commonly used in Japan, add converted metric value first and leave original in brackets, or convert to metric equivalent",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Monitor sizes are always expressed in inches as exception"
+    },
+    {
+      "rule_id": "JA-JP_RULE_00059",
+      "language": "JA-JP",
+      "category": "numbers",
+      "section": "Units of Measure",
+      "description": "Units should be abbreviated when used with numbers, but can be spelled out if needed",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Some units are not commonly abbreviated in Japanese and should always be spelled out"
+    },
+    {
+      "rule_id": "JA-JP_RULE_00060",
+      "language": "JA-JP",
+      "category": "numbers",
+      "section": "Date and time - Date Format",
+      "description": "Always use Western calendar dates, not Japanese 元号",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "JA-JP_RULE_00061",
+      "language": "JA-JP",
+      "category": "numbers",
+      "section": "Date and time - Date Format",
+      "description": "Use long format 2017年1月12日 in general sentences",
+      "example_correct": "2017年1月12日",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "JA-JP_RULE_00062",
+      "language": "JA-JP",
+      "category": "numbers",
+      "section": "Date and time - Date Format",
+      "description": "Use short format 2017/1/12 in tables or when space is limited",
+      "example_correct": "2017/1/12",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "JA-JP_RULE_00063",
+      "language": "JA-JP",
+      "category": "numbers",
+      "section": "Date and time - Time Format",
+      "description": "Use long format 午後1時30分 for time",
+      "example_correct": "午後1時30分",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "JA-JP_RULE_00064",
+      "language": "JA-JP",
+      "category": "numbers",
+      "section": "Date and time - Time Format",
+      "description": "Use short format 13:30 (24h format preferred) when space is limited",
+      "example_correct": "13:30",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "JA-JP_RULE_00065",
+      "language": "JA-JP",
+      "category": "numbers",
+      "section": "Currency",
+      "description": "Use long format 米ドル in sentences",
+      "example_correct": "米ドル",
+      "example_incorrect": "",
+      "notes": "USD → 米ドル"
+    },
+    {
+      "rule_id": "JA-JP_RULE_00066",
+      "language": "JA-JP",
+      "category": "numbers",
+      "section": "Currency",
+      "description": "Use short format USD in tables or when space is limited",
+      "example_correct": "USD",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "JA-JP_RULE_00067",
+      "language": "JA-JP",
+      "category": "numbers",
+      "section": "Currency",
+      "description": "When source uses currency symbols, use symbols in translation",
+      "example_correct": "$",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "JA-JP_RULE_00068",
+      "language": "JA-JP",
+      "category": "formatting",
+      "section": "Fonts",
+      "description": "Do not use italics in Japanese. Use bold or underline for emphasis instead",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "JA-JP_RULE_00069",
+      "language": "JA-JP",
+      "category": "localization_general",
+      "section": "URLs",
+      "description": "URLs should be localized if applicable",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "JA-JP_RULE_00070",
+      "language": "JA-JP",
+      "category": "localization_general",
+      "section": "Addresses and Phone Numbers",
+      "description": "Translate country and city names based on Japanese conventions",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "JA-JP_RULE_00071",
+      "language": "JA-JP",
+      "category": "localization_general",
+      "section": "Addresses and Phone Numbers",
+      "description": "Localize address formats based on Japanese conventions",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "JA-JP_RULE_00072",
+      "language": "JA-JP",
+      "category": "localization_general",
+      "section": "Addresses and Phone Numbers",
+      "description": "RingCentral phone numbers should be localized when appropriate using local office numbers",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "JA-JP_RULE_00073",
+      "language": "JA-JP",
+      "category": "formatting",
+      "section": "Addresses and Phone Numbers",
+      "description": "Use xxx-xxx-xxxx format for phone numbers",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "JA-JP_RULE_00074",
+      "language": "JA-JP",
+      "category": "formatting",
+      "section": "Addresses and Phone Numbers",
+      "description": "For overseas numbers, use +Country code-xxx-xxx-xxxx (name of country) format",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "JA-JP_RULE_00075",
+      "language": "JA-JP",
+      "category": "spelling",
+      "section": "Using Katakana - Compound Katakana words",
+      "description": "Write compound Katakana words without spaces or Nakaguro between them",
+      "example_correct": "モバイルネットワーク",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "JA-JP_RULE_00076",
+      "language": "JA-JP",
+      "category": "spelling",
+      "section": "Using Katakana - Compound Katakana words",
+      "description": "Exception: If official company/organization name has Nakaguro or space, use the official name as is",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "JA-JP_RULE_00077",
+      "language": "JA-JP",
+      "category": "spelling",
+      "section": "Using Katakana - Compound Katakana words",
+      "description": "If company has official name in Japan, use the official name. If not represented in Japan, use source text as is",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Do not transcribe the name"
+    },
+    {
+      "rule_id": "JA-JP_RULE_00078",
+      "language": "JA-JP",
+      "category": "spelling",
+      "section": "Using Katakana - Compound Katakana words",
+      "description": "Leave person names in source language unless well-known (politician, celebrity)",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Avoid inaccurate transcription"
+    },
+    {
+      "rule_id": "JA-JP_RULE_00079",
+      "language": "JA-JP",
+      "category": "spelling",
+      "section": "Using Katakana - Compound Katakana words",
+      "description": "If katakana string becomes too long and hard to read, rephrase adding particles like の, による, etc.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "JA-JP_RULE_00080",
+      "language": "JA-JP",
+      "category": "spelling",
+      "section": "Using Katakana - Katakana Long Vowels",
+      "description": "Follow national guidelines and add 長音棒 after words ending with -er, -or, -ry, etc.",
+      "example_correct": "コンピューター, モニター, ユーザー, デリバリー",
+      "example_incorrect": "コンピュータ, モニタ, ユーザ, デリバリ",
+      "notes": "Use Microsoft Language Portal as handy reference"
+    },
+    {
+      "rule_id": "JA-JP_RULE_00081",
+      "language": "JA-JP",
+      "category": "spelling",
+      "section": "Spelling and Consistency",
+      "description": "Run spell and grammar checks before completing project",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "JA-JP_RULE_00082",
+      "language": "JA-JP",
+      "category": "spelling",
+      "section": "Spelling and Consistency",
+      "description": "Pay attention to character conversion errors",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "JA-JP_RULE_00083",
+      "language": "JA-JP",
+      "category": "spelling",
+      "section": "Spelling and Consistency",
+      "description": "Check for inconsistency, especially for katakana spelling",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "JA-JP_RULE_00084",
+      "language": "JA-JP",
+      "category": "trademarks",
+      "section": "Trademarks and Product Names",
+      "description": "Refer to most updated version of approved RingCentral term list",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Use trademark symbols only on first mention unless otherwise indicated"
+    },
+    {
+      "rule_id": "JA-JP_RULE_00085",
+      "language": "JA-JP",
+      "category": "trademarks",
+      "section": "Third Party Trademarks and Product Names",
+      "description": "Follow localized equivalence in official websites if available for third party product names",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "JA-JP_RULE_00086",
+      "language": "JA-JP",
+      "category": "trademarks",
+      "section": "Third Party Trademarks and Product Names",
+      "description": "Complete extensive research to determine if official approved trademarked translated version is available",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Before using as in source"
+    },
+    {
+      "rule_id": "JA-JP_RULE_00087",
+      "language": "JA-JP",
+      "category": "trademarks",
+      "section": "Copyright Information, Footer, Publication Dates",
+      "description": "Copyright notice ©2015 RingCentral, Inc. All rights reserved. should not be translated",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "JA-JP_RULE_00088",
+      "language": "JA-JP",
+      "category": "terminology",
+      "section": "Copyright Information, Footer, Publication Dates",
+      "description": "The term 'copyright' should not be translated in copyright statements but should be translated as 著作権 elsewhere",
+      "example_correct": "著作権",
+      "example_incorrect": "",
+      "notes": "When copyright appears outside of copyright statement"
+    },
+    {
+      "rule_id": "JA-JP_RULE_00089",
+      "language": "JA-JP",
+      "category": "ui_elements",
+      "section": "References to UI Options",
+      "description": "If software has been translated, match relevant translation memory or string list provided",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Bilingual format not needed for unknown UIs. Provide translation tentatively"
+    },
+    {
+      "rule_id": "JA-JP_RULE_00090",
+      "language": "JA-JP",
+      "category": "ui_elements",
+      "section": "References to UI Options",
+      "description": "If software has not been translated, use bilingual format with English first, followed by target in brackets",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    }
+  ]
+}

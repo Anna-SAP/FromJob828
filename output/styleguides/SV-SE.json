@@ -1,0 +1,1087 @@
+{
+  "language": "SV-SE",
+  "source": "RC_Style_Guide_SV-SE_20241209.pdf",
+  "total_rules": 108,
+  "rules": [
+    {
+      "rule_id": "SV-SE_RULE_00001",
+      "language": "SV-SE",
+      "category": "ui_elements",
+      "section": "Buttons",
+      "description": "Buttons should typically be translated as verbs using the infinitive form. Be concise, avoid using articles or prepositions.",
+      "example_correct": "Öppna (for Open File)",
+      "example_incorrect": "Öppna filen (for Open File)",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00002",
+      "language": "SV-SE",
+      "category": "punctuation",
+      "section": "Buttons",
+      "description": "Translations of buttons do not end in a period, unless they consist of more than one sentence.",
+      "example_correct": "Avbryt",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00003",
+      "language": "SV-SE",
+      "category": "formatting",
+      "section": "Buttons",
+      "description": "Make sure to capitalize the first word of the button.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00004",
+      "language": "SV-SE",
+      "category": "punctuation",
+      "section": "Buttons",
+      "description": "Do NOT use any quotation marks around buttons even if the English source uses them. Capitalize the first letter to indicate it is a button.",
+      "example_correct": "Klicka på Granskning och övergång nedan för att komma igång.",
+      "example_incorrect": "Klicka på \"Granskning och övergång\" nedan för att komma igång",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00005",
+      "language": "SV-SE",
+      "category": "terminology",
+      "section": "Buttons",
+      "description": "Often the word 'button' itself (knapp) can be left out in Swedish.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00006",
+      "language": "SV-SE",
+      "category": "trademarks",
+      "section": "Names of RingCentral Products, Applications and Features",
+      "description": "Product/application names are often trademarked, thus not to be localized. Check reference material and linguistic instructions, including terminology lists.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00007",
+      "language": "SV-SE",
+      "category": "localization_general",
+      "section": "Adaptation to Swedish Market",
+      "description": "Replace English examples by Swedish equivalents when needed for localization/adaptation.",
+      "example_correct": "För example, searching on '*ning' will select any knowledge base items that contain 'lagning', 'löpning', 'inmatning' or 'uppringnin'.",
+      "example_incorrect": "",
+      "notes": "Examples should use Swedish words for wildcards demonstration"
+    },
+    {
+      "rule_id": "SV-SE_RULE_00008",
+      "language": "SV-SE",
+      "category": "style_tone",
+      "section": "Style and Tone",
+      "description": "Use formal addressing of people: du/din (you/your) for business audience.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00009",
+      "language": "SV-SE",
+      "category": "style_tone",
+      "section": "Style and Tone",
+      "description": "Register should be professional and welcoming. Try to make it business casual. Be precise and clear, consistent and natural.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00010",
+      "language": "SV-SE",
+      "category": "style_tone",
+      "section": "Style and Tone",
+      "description": "Avoid unnecessarily formal or pompous tone. Refrain from using words that add formality without adding meaning, like 'dock', 'med avseende på'.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00011",
+      "language": "SV-SE",
+      "category": "grammar",
+      "section": "Style and Tone",
+      "description": "Always use 'du ska' NOT 'du skall'.",
+      "example_correct": "du ska",
+      "example_incorrect": "du skall",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00012",
+      "language": "SV-SE",
+      "category": "style_tone",
+      "section": "Overview of Style Expectations",
+      "description": "For most product UI, Support Content and Customer Training Materials: be accurate, concise, clear, coherent, objective, correct, and complete.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00013",
+      "language": "SV-SE",
+      "category": "style_tone",
+      "section": "Overview of Style Expectations",
+      "description": "Avoid condescending, childish or overly familiar tone and treat the reader as an adult and a professional.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00014",
+      "language": "SV-SE",
+      "category": "style_tone",
+      "section": "Overview of Style Expectations",
+      "description": "For Marketing Content, E-mails, Product Guides, PR letters, Customer Proposals: be idiomatically correct and avoid literal translations.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00015",
+      "language": "SV-SE",
+      "category": "style_tone",
+      "section": "Overview of Style Expectations",
+      "description": "Avoid the passive voice and the use of the word 'men'. Use the active form to improve readability.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Passive voice only advised in specific texts like legal and official documents"
+    },
+    {
+      "rule_id": "SV-SE_RULE_00016",
+      "language": "SV-SE",
+      "category": "grammar",
+      "section": "Overview of Style Expectations",
+      "description": "Avoid use of possessives. The use of the second-person possessive, as in 'dina filer' is to be avoided. Simple articles can often replace possessive adjectives.",
+      "example_correct": "filerna",
+      "example_incorrect": "dina filer",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00017",
+      "language": "SV-SE",
+      "category": "localization_general",
+      "section": "Cross-references",
+      "description": "For internal cross-references, translate references to chapters, sections, headings or titles within the document consistently.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00018",
+      "language": "SV-SE",
+      "category": "localization_general",
+      "section": "Cross-references",
+      "description": "For external cross-references, check if the text or document has been localized before, and match the relevant translations. If not translated before, leave as in source language.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00019",
+      "language": "SV-SE",
+      "category": "style_tone",
+      "section": "Political Correctness - Politeness",
+      "description": "Do not hesitate to be more direct and use the imperative form. Avoid the use of Vänligen (Please).",
+      "example_correct": "Ange ditt användarnamn.",
+      "example_incorrect": "Vänligen ange ditt användarnamn.",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00020",
+      "language": "SV-SE",
+      "category": "style_tone",
+      "section": "Political Correctness - Gender",
+      "description": "Use gender-neutral writing as much as possible. When referring to persons, use words like 'hen' instead of 'honom' or 'henne' or re-formulate the sentence.",
+      "example_correct": "Serviceteamet kommer att kontakta kunden och informera hen.",
+      "example_incorrect": "Serviceteamet kommer att kontakta kunden och informera honom/henne.",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00021",
+      "language": "SV-SE",
+      "category": "style_tone",
+      "section": "Political Correctness - Gender",
+      "description": "When possible, reformulate sentences to avoid gendered constructions.",
+      "example_correct": "Be din nätverksadministratör att anpassa datorn efter programmet.",
+      "example_incorrect": "Fråga din nätverksadministratör om han kan anpassa datorn efter programmet.",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00022",
+      "language": "SV-SE",
+      "category": "grammar",
+      "section": "Articles",
+      "description": "For the proper use of articles, follow standard Swedish grammar rules regarding articles.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Refer to www.svenska.se"
+    },
+    {
+      "rule_id": "SV-SE_RULE_00023",
+      "language": "SV-SE",
+      "category": "style_tone",
+      "section": "Conciseness / Fluency",
+      "description": "For most product UI and Support Content: Avoid bloated expressions like 'som gör det möjligt att...'.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00024",
+      "language": "SV-SE",
+      "category": "terminology",
+      "section": "Conciseness / Fluency",
+      "description": "Avoid overly long or complex compounds. Unintuitive compounds are an intelligibility and usability issue.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00025",
+      "language": "SV-SE",
+      "category": "style_tone",
+      "section": "Conciseness / Fluency",
+      "description": "For Marketing Content and similar: 'Please' and 'sorry' are not translated.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00026",
+      "language": "SV-SE",
+      "category": "style_tone",
+      "section": "Conciseness / Fluency",
+      "description": "'Successfully' should not be included in the Swedish translation.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00027",
+      "language": "SV-SE",
+      "category": "style_tone",
+      "section": "Conciseness / Fluency",
+      "description": "Avoid starting a sentence with 'Men...'.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00028",
+      "language": "SV-SE",
+      "category": "style_tone",
+      "section": "Conciseness / Fluency",
+      "description": "Avoid starting a sentence with 'Till exempel'.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00029",
+      "language": "SV-SE",
+      "category": "style_tone",
+      "section": "Overtranslation",
+      "description": "Avoid overtranslation - the use of unnecessary words where a less verbose version would be equally clear.",
+      "example_correct": "med",
+      "example_incorrect": "med hjälp av",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00030",
+      "language": "SV-SE",
+      "category": "style_tone",
+      "section": "Literal Translations",
+      "description": "Avoid literal translations. Translating literally without paying attention to Swedish rules for style and idiom can result in hard to understand sentences.",
+      "example_correct": "Komplexa formler kan vara enklare att skriva om de består av kortare formler med namn.",
+      "example_incorrect": "Det kan vara enklare att skriva komplexa former om delar av dessa formler innehåller namngivna, kortare former.",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00031",
+      "language": "SV-SE",
+      "category": "terminology",
+      "section": "Technical Terms",
+      "description": "The RingCentral Glossary is your first and binding source for technical terms.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00032",
+      "language": "SV-SE",
+      "category": "terminology",
+      "section": "Technical Terms",
+      "description": "For terms not listed in the glossary, stick to Microsoft standard terminology where applicable.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Reference: https://www.microsoft.com/en-us/language"
+    },
+    {
+      "rule_id": "SV-SE_RULE_00033",
+      "language": "SV-SE",
+      "category": "formatting",
+      "section": "Capitalization",
+      "description": "When referring to UI elements, always use Uppercase.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00034",
+      "language": "SV-SE",
+      "category": "punctuation",
+      "section": "Capitalization",
+      "description": "The first word following a colon should not be written with a capital in Swedish, unless there is more than one sentence after the colon.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00035",
+      "language": "SV-SE",
+      "category": "formatting",
+      "section": "Capitalization",
+      "description": "In sentences and headings, only use uppercase at the beginning of the sentence.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00036",
+      "language": "SV-SE",
+      "category": "formatting",
+      "section": "Capitalization",
+      "description": "Even if titles and headings are fully capitalized in English, follow the Swedish rules. Exception: legal texts where capitalization conveys specific meaning.",
+      "example_correct": "Detta enskilda avtal (det 'Enskilda avtalet') är ett bindande avtal...",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00037",
+      "language": "SV-SE",
+      "category": "trademarks",
+      "section": "Capitalization",
+      "description": "Product names follow the source capitalization.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00038",
+      "language": "SV-SE",
+      "category": "formatting",
+      "section": "Capitalization",
+      "description": "Use lowercase in months, days and currencies.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00039",
+      "language": "SV-SE",
+      "category": "spelling",
+      "section": "Spelling",
+      "description": "Run the spell-checker when you have completed your translation. If possible, copy the translated word into Word to use the grammar checker too.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00040",
+      "language": "SV-SE",
+      "category": "punctuation",
+      "section": "Spacing",
+      "description": "Brand name tags need to be separated from the preceding or following text with a space.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00041",
+      "language": "SV-SE",
+      "category": "punctuation",
+      "section": "Spacing",
+      "description": "Run a controlled search and replace double spaces after full stops with single spaces in Swedish.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00042",
+      "language": "SV-SE",
+      "category": "punctuation",
+      "section": "Spacing",
+      "description": "Use non-breaking spaces to prevent certain expressions from being separated at the end of a line, such as people's names, numbers, software names and versions.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Use Ctrl + Shift + Space bar in MS Word or Alt+0160. Do not use in software files."
+    },
+    {
+      "rule_id": "SV-SE_RULE_00043",
+      "language": "SV-SE",
+      "category": "punctuation",
+      "section": "Use of punctuation",
+      "description": "Follow the Swedish punctuation rules as described in official Swedish references.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00044",
+      "language": "SV-SE",
+      "category": "punctuation",
+      "section": "Comma",
+      "description": "Use a comma where a sentence would otherwise be too long or complicated, or where omission could cause confusion. Do not use the comma to separate two sentences.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00045",
+      "language": "SV-SE",
+      "category": "punctuation",
+      "section": "Period",
+      "description": "Acronyms and units of measurement are not spelled with periods.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00046",
+      "language": "SV-SE",
+      "category": "punctuation",
+      "section": "Period",
+      "description": "The period is used as a separator in version numbers.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00047",
+      "language": "SV-SE",
+      "category": "punctuation",
+      "section": "Period",
+      "description": "Do not use full stops after headings and titles, after columns in a table, or after captions used with illustrations, tables etc., unless the expression is a full sentence.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00048",
+      "language": "SV-SE",
+      "category": "punctuation",
+      "section": "Period",
+      "description": "Do not use full stops if a sentence ends with an abbreviation, an interrogation or exclamation mark, ellipsis, or colon.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00049",
+      "language": "SV-SE",
+      "category": "punctuation",
+      "section": "Colon",
+      "description": "Try to avoid using colons, especially in marketing related content.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00050",
+      "language": "SV-SE",
+      "category": "punctuation",
+      "section": "Colon",
+      "description": "Use colons to introduce lists and at the end of a sentence that introduces a procedure.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00051",
+      "language": "SV-SE",
+      "category": "punctuation",
+      "section": "Colon",
+      "description": "If a colon is followed by more text, the first word after the colon does not get a capital, if the item following the colon is a single sentence.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00052",
+      "language": "SV-SE",
+      "category": "punctuation",
+      "section": "Semicolon",
+      "description": "As a rule, semicolons are preferably avoided. If used, make sure Swedish punctuation rules with regard to the semicolon are respected.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00053",
+      "language": "SV-SE",
+      "category": "punctuation",
+      "section": "Ellipsis (...)",
+      "description": "In front and behind an ellipsis there is generally a space. However, if a word is aborted, there is no space in front.",
+      "example_correct": "Installerar mjukvara ...",
+      "example_incorrect": "Installerar mjukvara",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00054",
+      "language": "SV-SE",
+      "category": "punctuation",
+      "section": "Ellipsis (...)",
+      "description": "When ellipsis dots are used in English, they must be used in Swedish as well.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00055",
+      "language": "SV-SE",
+      "category": "punctuation",
+      "section": "Hyphen (-) / n dash (–) / m dash (—)",
+      "description": "Use normal hyphen (-) to connect the components of certain compounds.",
+      "example_correct": "PowerPoint-presentation",
+      "example_incorrect": "PowerPoint presentation",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00056",
+      "language": "SV-SE",
+      "category": "punctuation",
+      "section": "Hyphen (-) / n dash (–) / m dash (—)",
+      "description": "Use normal hyphen (-) to separate words across a line break.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00057",
+      "language": "SV-SE",
+      "category": "punctuation",
+      "section": "Hyphen (-) / n dash (–) / m dash (—)",
+      "description": "Use normal hyphen (-) as an ellipsis marker for a component that has been omitted, but not for whole words.",
+      "example_correct": "hård- och mjukvara",
+      "example_incorrect": "hard och software",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00058",
+      "language": "SV-SE",
+      "category": "punctuation",
+      "section": "Hyphen (-) / n dash (–) / m dash (—)",
+      "description": "The hyphen is also used as the minus sign.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00059",
+      "language": "SV-SE",
+      "category": "punctuation",
+      "section": "Hyphen (-) / n dash (–) / m dash (—)",
+      "description": "Do not use the En or Em-dash. Replace En or Em dashes that appear in English text by commas or brackets.",
+      "example_correct": "Uppgifterna i cellen (text, nummer eller formel) påverkar dess resultat.",
+      "example_incorrect": "Uppgifterna i cellen – text, nummer eller formel – påverkar dess resultat.",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00060",
+      "language": "SV-SE",
+      "category": "punctuation",
+      "section": "Hyphen (-) / n dash (–) / m dash (—)",
+      "description": "Only use en-dash to replace 'to', e.g. August–September, 15–35, etc. No space is used before or after the en-dash.",
+      "example_correct": "Antal användare: 2–4",
+      "example_incorrect": "Antal användare: 2 – 4",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00061",
+      "language": "SV-SE",
+      "category": "punctuation",
+      "section": "Round and square brackets",
+      "description": "Use round brackets for further explications which would otherwise disrupt the sentence. The first letter is lowercase unless the sentence in parentheses is independent.",
+      "example_correct": "Ange de begärda uppgifterna (siffror) på den streckade linjen.",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00062",
+      "language": "SV-SE",
+      "category": "punctuation",
+      "section": "Round and square brackets",
+      "description": "Use round brackets when adding the full form of an acronym.",
+      "example_correct": "XML (Extended Markup Language)",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00063",
+      "language": "SV-SE",
+      "category": "punctuation",
+      "section": "Round and square brackets",
+      "description": "Use square brackets for indicating variables or for indicating additional information within round brackets.",
+      "example_correct": "Ange sökvägen (UNC-sökväg [intern] eller URL [extern]) och klicka sedan på Spara.",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00064",
+      "language": "SV-SE",
+      "category": "punctuation",
+      "section": "Quotation marks",
+      "description": "NEVER use straight single quote for variables.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00065",
+      "language": "SV-SE",
+      "category": "punctuation",
+      "section": "Quotation marks",
+      "description": "Use right double quotation marks (\"like this\") (alt+0148).",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00066",
+      "language": "SV-SE",
+      "category": "punctuation",
+      "section": "Quotation marks",
+      "description": "Double quotes are used for direct quotations, and also to give a sarcastic sense to the sentence.",
+      "example_correct": "Kontoret var förmodligen \"tillfälligt\" stängt.",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00067",
+      "language": "SV-SE",
+      "category": "punctuation",
+      "section": "Quotation marks",
+      "description": "In English, file names and other variables are often placed between single quotation marks. In Swedish, we omit these.",
+      "example_correct": "Vill du spara ändringarna i Profil?",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00068",
+      "language": "SV-SE",
+      "category": "punctuation",
+      "section": "Apostrophe",
+      "description": "Use straight apostrophes consistently in translations, instead of curly apostrophes.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00069",
+      "language": "SV-SE",
+      "category": "punctuation",
+      "section": "Enumerations - Complete sentences",
+      "description": "The sentence introducing the enumeration ends with a colon. Each part of the enumeration starts with a capital letter and ends with a period (or question mark).",
+      "example_correct": "Följande fall är möjliga:\n● Servern finns i nätverket.\n● Servern finns utanför nätverket.",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00070",
+      "language": "SV-SE",
+      "category": "punctuation",
+      "section": "Enumerations - Phrases/words",
+      "description": "If the parts of an enumeration consist of a single word or a small group of words, the punctuation marks may be omitted altogether.",
+      "example_correct": "Servern kan placeras på följande platser:\n● inom nätverket\n● utanför nätverket",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00071",
+      "language": "SV-SE",
+      "category": "punctuation",
+      "section": "Enumerations - Parts of sentences",
+      "description": "If the enumeration consists of phrases or parts of sentences, then each part starts with a lowercase letter and ends without punctuation. Only the last part gets a period.",
+      "example_correct": "Du måste installera programvaran om:\n● servern finns i nätverket\n● servern finns utanför nätverket\n● servern finns tillgänglig från mobila enheter.",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00072",
+      "language": "SV-SE",
+      "category": "abbreviations",
+      "section": "Abbreviations",
+      "description": "Do not use abbreviations in body text. Expressions such as 'till exempel' and 'med mera' must be written in full instead of being abbreviated.",
+      "example_correct": "till exempel",
+      "example_incorrect": "t.ex.",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00073",
+      "language": "SV-SE",
+      "category": "abbreviations",
+      "section": "Abbreviations",
+      "description": "Abbreviations are only used when absolutely necessary, except for units or when there are space issues. Be consistent - do not abbreviate a term in some sentences and spell it out in others.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00074",
+      "language": "SV-SE",
+      "category": "abbreviations",
+      "section": "Abbreviations",
+      "description": "If there is insufficient space, articles and prepositions can often be omitted first, without the text losing content or clarity. However, do not use this 'telegram style' if it is not necessary.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00075",
+      "language": "SV-SE",
+      "category": "abbreviations",
+      "section": "Acronyms",
+      "description": "Write an acronym without any periods and in lowercase where the acronym is used as a word (aids, covid-19).",
+      "example_correct": "aids, covid-19",
+      "example_incorrect": "",
+      "notes": "If an organisation uses different notation, follow their notation"
+    },
+    {
+      "rule_id": "SV-SE_RULE_00076",
+      "language": "SV-SE",
+      "category": "abbreviations",
+      "section": "Acronyms",
+      "description": "For acronyms used as words, normal grammar rules apply. For acronyms written with capitals (PC, FN) use hyphen in compounds and colon for genitive case or plural.",
+      "example_correct": "cd-romskiva\nPC-användare\nFN:s huvudkontor",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00077",
+      "language": "SV-SE",
+      "category": "abbreviations",
+      "section": "Acronyms",
+      "description": "When an acronym makes its first appearance in text, spell it out (if not commonly known). Put the full term between brackets, immediately after the acronym.",
+      "example_correct": "LAN (Local Area Network)",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00078",
+      "language": "SV-SE",
+      "category": "abbreviations",
+      "section": "Acronyms",
+      "description": "If the acronym refers to a term not normally translated into Swedish, give only the full English term. If the term has a generally accepted translation, use the acronym followed by the Swedish term.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00079",
+      "language": "SV-SE",
+      "category": "abbreviations",
+      "section": "Acronyms",
+      "description": "For spelling of acronyms in compounds, use hyphen.",
+      "example_correct": "LAN-port",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00080",
+      "language": "SV-SE",
+      "category": "abbreviations",
+      "section": "Acronyms",
+      "description": "Acronyms that require no explanation include: ADSL MS-DOS GUI PC ASCII ANSI EGA VGA PCI ROM UNIX TCP/IP cd-rom dvd",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00081",
+      "language": "SV-SE",
+      "category": "numbers",
+      "section": "Numbers",
+      "description": "Numbers should be written in full when used as nouns, when appearing alone and representing simple quantities (usually up to 12), and in expressions like 'in the 80s'.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00082",
+      "language": "SV-SE",
+      "category": "numbers",
+      "section": "Numbers",
+      "description": "Dates, large numbers, ages, document references should be written as numbers. Replace the decimal point by a comma and the thousand separator by a blank space.",
+      "example_correct": "0,25\n1 254,28\n18 567\n8 990 500",
+      "example_incorrect": "0.25\n1,254.28\n18,567\n8,990,500",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00083",
+      "language": "SV-SE",
+      "category": "numbers",
+      "section": "Numbers",
+      "description": "Avoid mixing numerical and alphabetical forms.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00084",
+      "language": "SV-SE",
+      "category": "numbers",
+      "section": "Units of Measure",
+      "description": "Sweden uses the metric system. Pounds, miles, inches, feet and gallons should be avoided as much as possible.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00085",
+      "language": "SV-SE",
+      "category": "numbers",
+      "section": "Units of Measure",
+      "description": "If content includes imperial units, either add converted metric value first and leave original in brackets, or convert to metric equivalent, based on project requirements.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00086",
+      "language": "SV-SE",
+      "category": "numbers",
+      "section": "Units of Measure",
+      "description": "Units of measure should be separated from the preceding number by a non-breaking space.",
+      "example_correct": "15 °C",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00087",
+      "language": "SV-SE",
+      "category": "numbers",
+      "section": "Units of Measure",
+      "description": "Monitor sizes are always expressed in inches and represent one of the few exceptions to metric system usage.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00088",
+      "language": "SV-SE",
+      "category": "abbreviations",
+      "section": "Units of Measure",
+      "description": "After abbreviations of units of measurement - according to official Swedish standards - there is no period.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00089",
+      "language": "SV-SE",
+      "category": "numbers",
+      "section": "Percentages",
+      "description": "The percent sign is %, with non-breaking space between the number and the percent sign.",
+      "example_correct": "99 %",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00090",
+      "language": "SV-SE",
+      "category": "numbers",
+      "section": "Date and time - Date",
+      "description": "Default Short Date Format: dd-mm-yy. In short format, month (with leading zero), day (with leading zero) and year (without century) are displayed in numbers.",
+      "example_correct": "05-10-20",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00091",
+      "language": "SV-SE",
+      "category": "numbers",
+      "section": "Date and time - Date",
+      "description": "Default Long Date Format: dddd mmmm yyyy. Names of days are optional and month name is spelled out completely. Years are written in four numbers. Names of workdays and months start with lowercase.",
+      "example_correct": "tisdag 26 maj 2020 OR 26 maj 2020",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00092",
+      "language": "SV-SE",
+      "category": "numbers",
+      "section": "Date and time - Time",
+      "description": "In a general context, the abbreviation kl. is used or just the hours when referring to opening hours. Use 24-hours format (not am, pm) and separate hour and minutes with a period, not colon.",
+      "example_correct": "Mötet börjar kl. 8.30.\nÖppningstider: 9.30–12.30; 13.30–18.30.",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00093",
+      "language": "SV-SE",
+      "category": "numbers",
+      "section": "Date and time - Time",
+      "description": "In technical and scientific texts the symbols h, min and s are common, written between the figures according to ISO standard.",
+      "example_correct": "17 h 03 min 16 s",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00094",
+      "language": "SV-SE",
+      "category": "numbers",
+      "section": "Date and time - Time",
+      "description": "The symbol h is also common in general language for speed indications (without a period).",
+      "example_correct": "Han körde i 150 km/h på motorvägen.",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00095",
+      "language": "SV-SE",
+      "category": "numbers",
+      "section": "Currency",
+      "description": "The currency sign is written after the amount and followed by a space.",
+      "example_correct": "23,50 €\n23,50 EUR\n50 cent",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00096",
+      "language": "SV-SE",
+      "category": "grammar",
+      "section": "Prepositions",
+      "description": "Pay attention to the correct use of prepositions in translations. For UI terminology, consult the Microsoft Language Portal for use of prepositions for Swedish UI content.",
+      "example_correct": "migrera till\nimportera från/till\nexportera till\nintegrera med\nuppdatera/uppgradera till\nändra till\nkompatibel med\nklicka på\nanslut till\ni verktygsfältet\npå internet\ni menyn\npå en sida",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00097",
+      "language": "SV-SE",
+      "category": "trademarks",
+      "section": "Trademarks and Product Names",
+      "description": "Application/product names are often trademarked and therefore rarely translated. Before translating any application, product, or feature name, verify that it is translatable and not protected.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00098",
+      "language": "SV-SE",
+      "category": "trademarks",
+      "section": "Trademarks and Product Names",
+      "description": "Use trademark and registered trademark symbols only on the first mention in the translated version of your content, unless otherwise indicated.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00099",
+      "language": "SV-SE",
+      "category": "trademarks",
+      "section": "Trademarks and Product Names",
+      "description": "For third party products, research to determine whether an official, approved trademarked translated version is available before using as in source.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00100",
+      "language": "SV-SE",
+      "category": "trademarks",
+      "section": "Trademarks and Product Names",
+      "description": "Compounds with brand names are most often concatenated with hyphens, with capitalization retained in the compound.",
+      "example_correct": "Windows-uppdatering",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00101",
+      "language": "SV-SE",
+      "category": "trademarks",
+      "section": "Copyright Information, Footer, Publication Dates",
+      "description": "For copyright notices, make sure you receive instructions on whether an official and approved translated version is available.",
+      "example_correct": "©2015 RingCentral, Inc. Med ensamrätt. RingCentral, RingCentral Office, RingCentral Meetings och RingCentral-logotyperna är registrerade varumärken som tillhör RingCentral, Inc. Andra tredjepartsmärken och -logotyper som förekommer i detta document är varumärken som tilhör respective ägare.",
+      "example_incorrect": "",
+      "notes": "Use this translation if no official version is available"
+    },
+    {
+      "rule_id": "SV-SE_RULE_00102",
+      "language": "SV-SE",
+      "category": "localization_general",
+      "section": "References to links",
+      "description": "When source files include references to URLs, query if said link has a local version, and modify the document accordingly. If not, leave the URL as it appears in the source English text.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00103",
+      "language": "SV-SE",
+      "category": "ui_elements",
+      "section": "References to UI Options",
+      "description": "If software has been translated, match the relevant translation memory or string list provided with the translation package.",
+      "example_correct": "Klicka på Öppna fil.",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00104",
+      "language": "SV-SE",
+      "category": "ui_elements",
+      "section": "References to UI Options",
+      "description": "If software has not been translated, use bilingual format: English first, followed by target in brackets. Put the translation outside the formatting.",
+      "example_correct": "Klicka på Open File (öppna fil).",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00105",
+      "language": "SV-SE",
+      "category": "ui_elements",
+      "section": "References to UI Options",
+      "description": "When Microsoft terminology or Microsoft UI items are quoted, refer to Microsoft approved terminology on the MS Portal.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Reference: http://www.microsoft.com/Language/en-US/Default.aspx"
+    },
+    {
+      "rule_id": "SV-SE_RULE_00106",
+      "language": "SV-SE",
+      "category": "localization_general",
+      "section": "Addresses and Phone Numbers",
+      "description": "Translate country and city names based on your country/region's conventions.",
+      "example_correct": "Kalifornien",
+      "example_incorrect": "California",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00107",
+      "language": "SV-SE",
+      "category": "localization_general",
+      "section": "Addresses and Phone Numbers",
+      "description": "Localize address formats, if necessary, based on your country/region's conventions.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "SV-SE_RULE_00108",
+      "language": "SV-SE",
+      "category": "localization_general",
+      "section": "Addresses and Phone Numbers",
+      "description": "If source only includes toll free numbers and US numbers, add an international country code to the local number for international users.",
+      "example_correct": "Tel: 888-528-RING (7464) eller +1-650-472-4100",
+      "example_incorrect": "Phone: 888-528-RING (7464) or 650-472-4100",
+      "notes": ""
+    }
+  ]
+}

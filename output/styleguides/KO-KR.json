@@ -1,0 +1,1197 @@
+{
+  "language": "KO-KR",
+  "source": "RC_Style_Guide_KO-KR_20241206.pdf",
+  "total_rules": 119,
+  "rules": [
+    {
+      "rule_id": "KO-KR_RULE_00001",
+      "language": "KO-KR",
+      "category": "style_tone",
+      "section": "General Overview",
+      "description": "Produce the most natural-sounding translation. Capture RingCentral content's intended meaning and transfer it into natural language that is best suited to a wide Korean-speaking audience.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Avoid literal transposition of English syntax in Korean."
+    },
+    {
+      "rule_id": "KO-KR_RULE_00002",
+      "language": "KO-KR",
+      "category": "style_tone",
+      "section": "General Overview",
+      "description": "Avoid literal transposition of the English syntax in Korean: most of the times, sentences need to be rewritten with an adapted syntax.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Try to balance faithfulness to the source and readability in the target language."
+    },
+    {
+      "rule_id": "KO-KR_RULE_00003",
+      "language": "KO-KR",
+      "category": "style_tone",
+      "section": "General Overview",
+      "description": "Use a clear and precise style. The translation should be easily understood and should not read like a translation.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Put yourself in the reader's place, and determine whether the output is clear and fluent, as well as consistent and accurate."
+    },
+    {
+      "rule_id": "KO-KR_RULE_00004",
+      "language": "KO-KR",
+      "category": "style_tone",
+      "section": "General Overview",
+      "description": "Avoid heaviness, ambiguities, repetitions and Anglicism. Also, avoid enriching the text excessively.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "KO-KR_RULE_00005",
+      "language": "KO-KR",
+      "category": "ui_elements",
+      "section": "Buttons",
+      "description": "Buttons should typically be translated as verbs; generally, the infinitive form is used. Be concise, avoid using articles or prepositions and go straight to the point.",
+      "example_correct": "파일 열기",
+      "example_incorrect": "파일을 열기",
+      "notes": "Pay particular attention to possible character/space limitations."
+    },
+    {
+      "rule_id": "KO-KR_RULE_00006",
+      "language": "KO-KR",
+      "category": "ui_elements",
+      "section": "Buttons",
+      "description": "Button translations should be concise and direct.",
+      "example_correct": "선택한 항목만 표시",
+      "example_incorrect": "선택한 항목만 표시하기",
+      "notes": ""
+    },
+    {
+      "rule_id": "KO-KR_RULE_00007",
+      "language": "KO-KR",
+      "category": "ui_elements",
+      "section": "Buttons",
+      "description": "Simple button commands should be translated concisely.",
+      "example_correct": "취소",
+      "example_incorrect": "취소하기",
+      "notes": ""
+    },
+    {
+      "rule_id": "KO-KR_RULE_00008",
+      "language": "KO-KR",
+      "category": "trademarks",
+      "section": "Names of RingCentral Products, Applications and Features",
+      "description": "Before translating any product, application, third party or feature names you check your reference material and linguistic instructions, including terminology lists.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "In many cases, product/application names are trademarked, thus not localizable."
+    },
+    {
+      "rule_id": "KO-KR_RULE_00009",
+      "language": "KO-KR",
+      "category": "localization_general",
+      "section": "Adaptation to Korean Market",
+      "description": "Sometimes you may need to replace English examples by Korean equivalents.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "The explanation about the use of wildcards is a good example of text in need of localization/adaptation."
+    },
+    {
+      "rule_id": "KO-KR_RULE_00010",
+      "language": "KO-KR",
+      "category": "style_tone",
+      "section": "Style and Tone",
+      "description": "Be precise and clear, consistent and natural. Rephrase sentences that are not clear enough, and rework sentences that sound like a translation.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Do not hesitate to break up long English sentences into smaller friendlier parts in order to provide better understanding."
+    },
+    {
+      "rule_id": "KO-KR_RULE_00011",
+      "language": "KO-KR",
+      "category": "style_tone",
+      "section": "Style and Tone",
+      "description": "Use accurate and concise (exact) style: no ambiguities or mistranslations.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "KO-KR_RULE_00012",
+      "language": "KO-KR",
+      "category": "style_tone",
+      "section": "Style and Tone",
+      "description": "Use clear and coherent (readable) style: target reader should understand the text easily.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "KO-KR_RULE_00013",
+      "language": "KO-KR",
+      "category": "style_tone",
+      "section": "Style and Tone",
+      "description": "Use objective style: neutral, do not insert your own opinion, avoid colloquial or slang words, be always politically correct, aim for bias-free language.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "KO-KR_RULE_00014",
+      "language": "KO-KR",
+      "category": "style_tone",
+      "section": "Style and Tone",
+      "description": "Ensure content is correct: content and numbers should be free of mistakes.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "KO-KR_RULE_00015",
+      "language": "KO-KR",
+      "category": "style_tone",
+      "section": "Style and Tone",
+      "description": "Use idiomatically correct language: use of correct verbs, metaphors, expressions, etc. so that text does not sound like a translation.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "KO-KR_RULE_00016",
+      "language": "KO-KR",
+      "category": "style_tone",
+      "section": "Style and Tone",
+      "description": "Be complete: do not leave out content (words, phrases, whole paragraphs).",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "KO-KR_RULE_00017",
+      "language": "KO-KR",
+      "category": "style_tone",
+      "section": "Style and Tone",
+      "description": "Keep an eye on the target reader: use an appropriate tone.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "KO-KR_RULE_00018",
+      "language": "KO-KR",
+      "category": "localization_general",
+      "section": "Cross-references",
+      "description": "Cross-references shall be referenced consistently throughout your translation as well as throughout all files.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Translation of document titles (external cross-reference) might be included in the terminology list or the reference material."
+    },
+    {
+      "rule_id": "KO-KR_RULE_00019",
+      "language": "KO-KR",
+      "category": "localization_general",
+      "section": "Cross-references",
+      "description": "If you are unable to retrieve cross-reference information, please contact the Project Management team or your Language Lead; if the document has not been translated before, please leave as in source language.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "KO-KR_RULE_00020",
+      "language": "KO-KR",
+      "category": "style_tone",
+      "section": "Politeness",
+      "description": "Use the \"formal but friendly\" tone for some content types in Korean. Keep a friendly tone, but not being too colloquial or too rigid.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "KO-KR_RULE_00021",
+      "language": "KO-KR",
+      "category": "style_tone",
+      "section": "Politeness",
+      "description": "Use the imperative form in user instructions. However, in this case, a polite tone of voice should be applied.",
+      "example_correct": "사용자 이름을 입력하세요.",
+      "example_incorrect": "사용자 이름을 입력하시오.",
+      "notes": ""
+    },
+    {
+      "rule_id": "KO-KR_RULE_00022",
+      "language": "KO-KR",
+      "category": "grammar",
+      "section": "Passive voice",
+      "description": "Whenever possible, avoid the passive voice, which is too formal and wordy, and use the active form to improve readability.",
+      "example_correct": "새로운 기능을 사용하기 전에 구성 폴더에서 구성 파일을 가져오는 것이 좋습니다.",
+      "example_incorrect": "새로운 기능을 사용하기 전에 구성 폴더에서 구성 파일을 가져오는 것이 권장되어집니다.",
+      "notes": "Passive voice is only advised in specific texts like legal and official documents (e.g. privacy policies, terms of a contract, NDAs, etc.)"
+    },
+    {
+      "rule_id": "KO-KR_RULE_00023",
+      "language": "KO-KR",
+      "category": "grammar",
+      "section": "Passive voice",
+      "description": "Avoid passive voice constructions for better readability.",
+      "example_correct": "ClientHost 특성 값으로 지정된 호스트의 URL입니다.",
+      "example_incorrect": "ClientHost 특성 값으로 지정되어진 호스트의 URL입니다.",
+      "notes": ""
+    },
+    {
+      "rule_id": "KO-KR_RULE_00024",
+      "language": "KO-KR",
+      "category": "grammar",
+      "section": "Passive voice",
+      "description": "Use active voice instead of passive constructions.",
+      "example_correct": "나중에 다시 시작하지 않고 기능을 활성화 및 비활성화할 수 있습니다.",
+      "example_incorrect": "나중에 다시 시작하지 않고 기능이 활성화 및 비활성화되게 할 수 있습니다.",
+      "notes": ""
+    },
+    {
+      "rule_id": "KO-KR_RULE_00025",
+      "language": "KO-KR",
+      "category": "grammar",
+      "section": "Use of Possessives",
+      "description": "Simple articles can often replace possessive adjectives.",
+      "example_correct": "컴퓨터 또는 모바일 장치에서 파일을 편집할 수 있습니다.",
+      "example_incorrect": "귀하는 컴퓨터 또는 모바일 장치에서 파일을 편집할 수 있습니다.",
+      "notes": "Use of possessives is quite common in English. Do not transfer the extensive use of English possessive adjectives to target."
+    },
+    {
+      "rule_id": "KO-KR_RULE_00026",
+      "language": "KO-KR",
+      "category": "grammar",
+      "section": "Use of Possessives",
+      "description": "Avoid overuse of possessive adjectives when simple forms are more natural.",
+      "example_correct": "비밀번호를 브라우저에 붙여넣으십시오.",
+      "example_incorrect": "귀하의 비밀번호를 브라우저에 붙여넣으세요.",
+      "notes": ""
+    },
+    {
+      "rule_id": "KO-KR_RULE_00027",
+      "language": "KO-KR",
+      "category": "grammar",
+      "section": "Pronouns",
+      "description": "'We' or 'us' can often refer to partner names other than RingCentral. Do not replace 'we' or 'us' (or any other possible pronouns) with RingCentral.",
+      "example_correct": "죄송합니다. 카메라에 액세스할 수 없습니다.",
+      "example_incorrect": "죄송합니다. RingCentral은 카메라에 액세스할 수 없습니다.",
+      "notes": "In most cases, there is no need to translate 'we' for fluency."
+    },
+    {
+      "rule_id": "KO-KR_RULE_00028",
+      "language": "KO-KR",
+      "category": "grammar",
+      "section": "Articles",
+      "description": "In most cases, there is no need to translate articles into Korean for fluency and conciseness.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "KO-KR_RULE_00029",
+      "language": "KO-KR",
+      "category": "grammar",
+      "section": "Translation of the –ing form",
+      "description": "The –ing form can be translated in different ways, based on context, such as a verb, a noun, an infinitive clause, etc.",
+      "example_correct": "컨트롤러에는 데이터 무결성을 보호하는 캐시가 제공됩니다.",
+      "example_incorrect": "",
+      "notes": "You should use the most appropriate option among those suggested."
+    },
+    {
+      "rule_id": "KO-KR_RULE_00030",
+      "language": "KO-KR",
+      "category": "grammar",
+      "section": "Translation of the –ing form",
+      "description": "Translate -ing forms contextually for implementation scenarios.",
+      "example_correct": "이러한 서비스는 초기 사이트 아키텍처에서 완전한 팜 구현이 가능한 구현을 지원할 수 있습니다.",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "KO-KR_RULE_00031",
+      "language": "KO-KR",
+      "category": "grammar",
+      "section": "Translation of the –ing form",
+      "description": "Translate -ing forms in conditional contexts appropriately.",
+      "example_correct": "이 웹 사이트에 액세스하면 이용 약관에 동의하는 것입니다.",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "KO-KR_RULE_00032",
+      "language": "KO-KR",
+      "category": "style_tone",
+      "section": "Conciseness / Fluency",
+      "description": "English sometimes uses additional words to express concepts. Check the context, concentrate on the meaning and render it as clearly as you can.",
+      "example_correct": "귀하의 이름, 이메일 주소, 회사 이름",
+      "example_incorrect": "귀하의 이름, 귀하의 이메일 주소, 귀하의 회사 이름",
+      "notes": ""
+    },
+    {
+      "rule_id": "KO-KR_RULE_00033",
+      "language": "KO-KR",
+      "category": "style_tone",
+      "section": "Conciseness / Fluency",
+      "description": "Use concise expressions when possible.",
+      "example_correct": "즉, 이제...",
+      "example_incorrect": "다시 말해 귀하는 이제...",
+      "notes": ""
+    },
+    {
+      "rule_id": "KO-KR_RULE_00034",
+      "language": "KO-KR",
+      "category": "style_tone",
+      "section": "Conciseness / Fluency",
+      "description": "Simplify instructions for better readability.",
+      "example_correct": "IP 주소를 설정하기 위해 네트워크 설정 탭을 사용합니다.",
+      "example_incorrect": "네트워크 설정 탭을 사용하여 IP 주소를 설정합니다.",
+      "notes": ""
+    },
+    {
+      "rule_id": "KO-KR_RULE_00035",
+      "language": "KO-KR",
+      "category": "style_tone",
+      "section": "Conciseness / Fluency",
+      "description": "Use simpler forms for instructions.",
+      "example_correct": "편집기를 닫으려면 확인을 클릭하세요.",
+      "example_incorrect": "편집기를 닫기 위해서는 확인을 클릭하십시오.",
+      "notes": ""
+    },
+    {
+      "rule_id": "KO-KR_RULE_00036",
+      "language": "KO-KR",
+      "category": "style_tone",
+      "section": "Conciseness / Fluency",
+      "description": "Avoid redundant expressions in lists.",
+      "example_correct": "예를 들어 설정 폴더에는 다음이 포함되어 있습니다.",
+      "example_incorrect": "예를 들어 설정 폴더에는 다음과 같은 항목이 포함되어 있습니다.",
+      "notes": ""
+    },
+    {
+      "rule_id": "KO-KR_RULE_00037",
+      "language": "KO-KR",
+      "category": "style_tone",
+      "section": "Repetitions",
+      "description": "When localizing software or documentation, repetitions are acceptable in English, but might not in Korean. Do not hesitate to use pronouns or other \"tricks\" in order to avoid them.",
+      "example_correct": "컴퓨터에서 파일을 삭제하려면 오른쪽 창에서 파일을 선택하고 삭제를 클릭하세요.",
+      "example_incorrect": "컴퓨터에서 파일을 삭제하려면 오른쪽 창에서 삭제를 원하는 파일을 선택하고 삭제를 클릭하십시오.",
+      "notes": ""
+    },
+    {
+      "rule_id": "KO-KR_RULE_00038",
+      "language": "KO-KR",
+      "category": "style_tone",
+      "section": "Repetitions",
+      "description": "Use pronouns and varied expressions to avoid repetitive wording.",
+      "example_correct": "설정은 디바이스의 로컬 사용자 인터페이스 요소를 구성하는 데 사용됩니다. 이러한 요소에는 포트, 인증서 등이 있습니다.",
+      "example_incorrect": "설정은 장치의 로컬 사용자 인터페이스 요소를 구성하는 데 사용됩니다. 로컬 사용자 인터페이스 요소에는 포트, 인증서 등이 있습니다.",
+      "notes": ""
+    },
+    {
+      "rule_id": "KO-KR_RULE_00039",
+      "language": "KO-KR",
+      "category": "terminology",
+      "section": "False friends",
+      "description": "Be careful with literal translations of 'need to'.",
+      "example_correct": "문제를 해결하려면 ISP에 문의해야 합니다.",
+      "example_incorrect": "문제를 해결하려면 ISP에 문의해야 할 필요가 있습니다.",
+      "notes": "Please be careful with the so-called \"false friends\" and with literal translations that can have a different meaning from the source."
+    },
+    {
+      "rule_id": "KO-KR_RULE_00040",
+      "language": "KO-KR",
+      "category": "terminology",
+      "section": "False friends",
+      "description": "Translate 'for more details' appropriately.",
+      "example_correct": "자세한 내용은 다음 문서를 참조하세요. OR: 자세히 알아보려면 다음 문서를 참조하세요.",
+      "example_incorrect": "더 이상의 정보는 다음 문서를 참조하십시오.",
+      "notes": ""
+    },
+    {
+      "rule_id": "KO-KR_RULE_00041",
+      "language": "KO-KR",
+      "category": "terminology",
+      "section": "False friends",
+      "description": "Use '해결하다' instead of '고치다' for fixing problems.",
+      "example_correct": "문제의 근본 원인을 알아야 문제를 해결할 수 있기 때문입니다.",
+      "example_incorrect": "문제의 근본 원인을 알아야 문제를 고칠 수 있기 때문입니다.",
+      "notes": ""
+    },
+    {
+      "rule_id": "KO-KR_RULE_00042",
+      "language": "KO-KR",
+      "category": "terminology",
+      "section": "Technical Terms",
+      "description": "Regarding technical terms, the RingCentral Glossary is your first and binding source.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "KO-KR_RULE_00043",
+      "language": "KO-KR",
+      "category": "terminology",
+      "section": "Technical Terms",
+      "description": "For terms not listed in the glossary stick to Microsoft standard terminology where applicable.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "http://www.microsoft.com/Language/en-US/Default.aspx"
+    },
+    {
+      "rule_id": "KO-KR_RULE_00044",
+      "language": "KO-KR",
+      "category": "terminology",
+      "section": "Technical Terms",
+      "description": "Use available online resources like Wikipedia, administrator web pages, large IT vendor portals etc.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "KO-KR_RULE_00045",
+      "language": "KO-KR",
+      "category": "terminology",
+      "section": "Technical Terms",
+      "description": "In case of doubt check back with your PM or Language Lead.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "KO-KR_RULE_00046",
+      "language": "KO-KR",
+      "category": "terminology",
+      "section": "General Word Choice",
+      "description": "Use one term for one concept and use terms consistently. Although the use of synonyms might be more interesting to read, worldwide users might assume that your choice of a different term indicates a subtle distinction in meaning.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "KO-KR_RULE_00047",
+      "language": "KO-KR",
+      "category": "terminology",
+      "section": "General Word Choice",
+      "description": "Use simple, direct words. The text style must be clear, simple, and correct. Use the simplest and most specific word possible.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "This is especially effective when explaining a complex technical concept or action. Imagine looking over the user's shoulder and explaining how to accomplish the task."
+    },
+    {
+      "rule_id": "KO-KR_RULE_00048",
+      "language": "KO-KR",
+      "category": "terminology",
+      "section": "General Word Choice",
+      "description": "Choose appropriate translations for 'included with'.",
+      "example_correct": "컴퓨터와 함께 제공되는 앱",
+      "example_incorrect": "컴퓨터에 포함된 앱",
+      "notes": "'Included with' can be translated literally as '포함된,' but '함께 제공되는' is more accurate and fluent for some cases."
+    },
+    {
+      "rule_id": "KO-KR_RULE_00049",
+      "language": "KO-KR",
+      "category": "terminology",
+      "section": "General Word Choice",
+      "description": "Avoid redundancy in technical terms.",
+      "example_correct": "PIN",
+      "example_incorrect": "PIN 번호",
+      "notes": "PIN = Personal Identification Number, so 'number' is redundant."
+    },
+    {
+      "rule_id": "KO-KR_RULE_00050",
+      "language": "KO-KR",
+      "category": "terminology",
+      "section": "General Word Choice",
+      "description": "Avoid redundancy in protocol names.",
+      "example_correct": "TCP/IP",
+      "example_incorrect": "TCP/IP 프로토콜",
+      "notes": "IP = Internet Protocol, so 'protocol' is redundant."
+    },
+    {
+      "rule_id": "KO-KR_RULE_00051",
+      "language": "KO-KR",
+      "category": "formatting",
+      "section": "Capitalization",
+      "description": "Korean characters have no upper and lower cases, so there are no capitalization rules for the language. Product names, abbreviations, or acronym from English or other alphabetic languages are capitalized in accordance with their respective rules.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "KO-KR_RULE_00052",
+      "language": "KO-KR",
+      "category": "formatting",
+      "section": "Index entries",
+      "description": "All index entries have to be consistent with the terminology used in the document. Keep the entries as short as possible and enclose denominators in brackets where needed.",
+      "example_correct": "서버",
+      "example_incorrect": "서버",
+      "notes": ""
+    },
+    {
+      "rule_id": "KO-KR_RULE_00053",
+      "language": "KO-KR",
+      "category": "formatting",
+      "section": "Index entries",
+      "description": "Keep index entries concise.",
+      "example_correct": "추가",
+      "example_incorrect": "추가하기",
+      "notes": ""
+    },
+    {
+      "rule_id": "KO-KR_RULE_00054",
+      "language": "KO-KR",
+      "category": "formatting",
+      "section": "Index entries",
+      "description": "Keep index entries concise.",
+      "example_correct": "삭제",
+      "example_incorrect": "삭제",
+      "notes": ""
+    },
+    {
+      "rule_id": "KO-KR_RULE_00055",
+      "language": "KO-KR",
+      "category": "formatting",
+      "section": "Index entries",
+      "description": "Use brackets for options when needed.",
+      "example_correct": "새로 추가(옵션)",
+      "example_incorrect": "새로 추가 옵션",
+      "notes": ""
+    },
+    {
+      "rule_id": "KO-KR_RULE_00056",
+      "language": "KO-KR",
+      "category": "formatting",
+      "section": "Index entries",
+      "description": "Use spaces in compound terms.",
+      "example_correct": "데이터 센터",
+      "example_incorrect": "데이터센터",
+      "notes": ""
+    },
+    {
+      "rule_id": "KO-KR_RULE_00057",
+      "language": "KO-KR",
+      "category": "spelling",
+      "section": "Spelling",
+      "description": "Do not forget to run the spell-checker when you have completed your translation. If possible, copy the translated word into online Korean Spell-Checker.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "http://speller.cs.pusan.ac.kr/"
+    },
+    {
+      "rule_id": "KO-KR_RULE_00058",
+      "language": "KO-KR",
+      "category": "punctuation",
+      "section": "Spacing",
+      "description": "Brand name tags need to be separated from the preceding or following text with a space.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "KO-KR_RULE_00059",
+      "language": "KO-KR",
+      "category": "punctuation",
+      "section": "Spacing",
+      "description": "In Korean, there is a no space before any punctuation sign.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "KO-KR_RULE_00060",
+      "language": "KO-KR",
+      "category": "punctuation",
+      "section": "Spacing",
+      "description": "English documents often include double spaces after full stops. Run a controlled search and replace them by single spaces in Korean.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "KO-KR_RULE_00061",
+      "language": "KO-KR",
+      "category": "punctuation",
+      "section": "Spacing",
+      "description": "Use non-breaking spaces to prevent certain expressions to be separated at the end of a line, such as people's names, numbers, software names and versions, etc.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "To obtain such a space, press Ctrl + Shift + Space bar in MS Word or use Alt+0160. Do not use non-breaking spaces in software files, though."
+    },
+    {
+      "rule_id": "KO-KR_RULE_00062",
+      "language": "KO-KR",
+      "category": "punctuation",
+      "section": "Comma",
+      "description": "Follow the Korean rules. Unlike in English, comma is used only when necessary in Korean such as enumerating things.",
+      "example_correct": "계정이 없는 경우 새 사용자로 등록하세요.",
+      "example_incorrect": "계정이 없는 경우, 새 사용자로 등록하십시오.",
+      "notes": "Comma is also used to avoid confusion, but this usage is very limited. Be noted that frequent commas will lower fluency and give the incomplete impression to readers."
+    },
+    {
+      "rule_id": "KO-KR_RULE_00063",
+      "language": "KO-KR",
+      "category": "punctuation",
+      "section": "Period",
+      "description": "A period is used to end a sentence, a paragraph or an abbreviated word. When a sentence is placed between brackets or quotes, the period is placed inside.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "KO-KR_RULE_00064",
+      "language": "KO-KR",
+      "category": "punctuation",
+      "section": "Period",
+      "description": "Do not use full stops after headings and titles, after columns in a table, or after captions used with illustrations, tables etc., unless the expression considered is a full sentence.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "KO-KR_RULE_00065",
+      "language": "KO-KR",
+      "category": "punctuation",
+      "section": "Period",
+      "description": "Do not use full stops if a sentence ends with an interrogation or exclamation mark, ellipsis, or colon.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "KO-KR_RULE_00066",
+      "language": "KO-KR",
+      "category": "punctuation",
+      "section": "Colon",
+      "description": "Use colons sparingly and in accordance with Korean linguistic rules. Please note that Korean translated sentences cannot end with a colon.",
+      "example_correct": "패키지 생성 마법사를 엽니다. 패키지 탭을 클릭합니다.",
+      "example_incorrect": "패키지 생성 마법사를 엽니다: 패키지 탭을 클릭합니다.",
+      "notes": "It is recommended to add '다음,' '다음과 같은(이),' or equivalents to the translation for fluent connections between sentences when the English source ends with colons."
+    },
+    {
+      "rule_id": "KO-KR_RULE_00067",
+      "language": "KO-KR",
+      "category": "punctuation",
+      "section": "Colon",
+      "description": "When a colon appears after a word or phrase as in a title or heading, it can be kept as in English.",
+      "example_correct": "카테고리 열에는 상태 및 구성의 두 항목이 표시됩니다.",
+      "example_incorrect": "카테고리 열에는: 상태 및 구성의 두 항목이 표시됩니다.",
+      "notes": ""
+    },
+    {
+      "rule_id": "KO-KR_RULE_00068",
+      "language": "KO-KR",
+      "category": "punctuation",
+      "section": "Colon",
+      "description": "Examples can retain colons when appropriate.",
+      "example_correct": "예: 압축 파일",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "KO-KR_RULE_00069",
+      "language": "KO-KR",
+      "category": "punctuation",
+      "section": "Colon",
+      "description": "Complete sentence examples should end with periods.",
+      "example_correct": "예: 파일이 압축되었습니다.",
+      "example_incorrect": "예: 파일이 압축되었습니다",
+      "notes": ""
+    },
+    {
+      "rule_id": "KO-KR_RULE_00070",
+      "language": "KO-KR",
+      "category": "punctuation",
+      "section": "Semi-colon",
+      "description": "Semicolons are not used in Korean. Instead, Use a comma or start a new sentence for better readability.",
+      "example_correct": "컴퓨터, 랩톱 및 모바일 디바이스와 운영 체제, 애플리케이션 및 모바일 앱을 비롯하여 네트워크, 라우터 및 방화벽 등의 범주가 있습니다.",
+      "example_incorrect": "컴퓨터, 랩톱, 모바일 장치; 운영 체제, 응용 프로그램 및 모바일 앱; 네트워크, 라우터 및 방화벽.",
+      "notes": ""
+    },
+    {
+      "rule_id": "KO-KR_RULE_00071",
+      "language": "KO-KR",
+      "category": "punctuation",
+      "section": "Semi-colon",
+      "description": "Replace semicolons with periods or commas for better flow.",
+      "example_correct": "사용자 이름 및 비밀번호 필드의 정보를 메모하세요. 나중에 로그인할 때 필요합니다.",
+      "example_incorrect": "사용자 이름 및 비밀번호 필드의 정보를 참고하십시오; 나중에 로그인할 때 필요합니다.",
+      "notes": ""
+    },
+    {
+      "rule_id": "KO-KR_RULE_00072",
+      "language": "KO-KR",
+      "category": "punctuation",
+      "section": "Question mark",
+      "description": "The full-form question mark '？' is used for Korean.",
+      "example_correct": "어떻게 하시겠습니까?",
+      "example_incorrect": "무엇을 하시겠습니까",
+      "notes": ""
+    },
+    {
+      "rule_id": "KO-KR_RULE_00073",
+      "language": "KO-KR",
+      "category": "punctuation",
+      "section": "Question mark",
+      "description": "Use question marks in headings appropriately.",
+      "example_correct": "RingCentral이란?",
+      "example_incorrect": "RingCentral이란",
+      "notes": ""
+    },
+    {
+      "rule_id": "KO-KR_RULE_00074",
+      "language": "KO-KR",
+      "category": "punctuation",
+      "section": "Exclamation mark",
+      "description": "Exclamation marks are not as common in Korean as they are in English. Sometimes it is better to remove them.",
+      "example_correct": "파일을 찾지 못했습니다.",
+      "example_incorrect": "파일을 찾지 못했습니다!",
+      "notes": ""
+    },
+    {
+      "rule_id": "KO-KR_RULE_00075",
+      "language": "KO-KR",
+      "category": "punctuation",
+      "section": "Exclamation mark",
+      "description": "When exclamation marks appear in groups (!!!), you may keep only one.",
+      "example_correct": "주의!",
+      "example_incorrect": "주의!!!",
+      "notes": ""
+    },
+    {
+      "rule_id": "KO-KR_RULE_00076",
+      "language": "KO-KR",
+      "category": "punctuation",
+      "section": "Ellipsis",
+      "description": "Ellipses most often appear in user interface. In general, follow the English usage in Korean.",
+      "example_correct": "업데이트 다운로드 중...",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "KO-KR_RULE_00077",
+      "language": "KO-KR",
+      "category": "punctuation",
+      "section": "Ellipsis",
+      "description": "When Korean sentence ends with verbs such as '~하세요' or '~합니다' style, use a period instead of ellipsis.",
+      "example_correct": "이는 다음과 같은 인상을 줄 수 있습니다.",
+      "example_incorrect": "이는 다음과 같은 인상을 줄 수 있습니다...",
+      "notes": ""
+    },
+    {
+      "rule_id": "KO-KR_RULE_00078",
+      "language": "KO-KR",
+      "category": "punctuation",
+      "section": "Hyphen (-) / n dash (–) / m dash (—)",
+      "description": "En dashes and em dashes are not used in Korean. Remove en dashes between words.",
+      "example_correct": "Windows 호환",
+      "example_incorrect": "Windows–호환",
+      "notes": "Generally in Korean, hyphen is not used between words, so should be often deleted."
+    },
+    {
+      "rule_id": "KO-KR_RULE_00079",
+      "language": "KO-KR",
+      "category": "punctuation",
+      "section": "Hyphen (-) / n dash (–) / m dash (—)",
+      "description": "Remove en dashes in measurements.",
+      "example_correct": "500GB 하드 드라이브",
+      "example_incorrect": "500–GB 하드 드라이브",
+      "notes": ""
+    },
+    {
+      "rule_id": "KO-KR_RULE_00080",
+      "language": "KO-KR",
+      "category": "punctuation",
+      "section": "Hyphen (-) / n dash (–) / m dash (—)",
+      "description": "Use a hyphen as minus sign.",
+      "example_correct": "6-2=4",
+      "example_incorrect": "6–2=4",
+      "notes": ""
+    },
+    {
+      "rule_id": "KO-KR_RULE_00081",
+      "language": "KO-KR",
+      "category": "punctuation",
+      "section": "Hyphen (-) / n dash (–) / m dash (—)",
+      "description": "Use a hyphen where it replaces a colon or comma.",
+      "example_correct": "RingCentral - 완벽한 솔루션!",
+      "example_incorrect": "RingCentral – 완벽한 솔루션!",
+      "notes": ""
+    },
+    {
+      "rule_id": "KO-KR_RULE_00082",
+      "language": "KO-KR",
+      "category": "punctuation",
+      "section": "Hyphen (-) / n dash (–) / m dash (—)",
+      "description": "Use a tilde for indicating ranges.",
+      "example_correct": "5월 3일~6월 22일",
+      "example_incorrect": "5월 3일 – 6월 22일",
+      "notes": "It also used to indicate the period between dates or points. In this case, Korean should use tilde symbol (~.)"
+    },
+    {
+      "rule_id": "KO-KR_RULE_00083",
+      "language": "KO-KR",
+      "category": "punctuation",
+      "section": "Hyphen (-) / n dash (–) / m dash (—)",
+      "description": "Rather use a colon or a hyphen than an em dash.",
+      "example_correct": "활성화: 서버를 활성화하려면 이 옵션을 클릭하세요. OR: 활성화 - 서버를 활성화하려면 이 옵션을 클릭하세요.",
+      "example_incorrect": "활성화 — 서버를 활성화하려면 이 옵션을 클릭하십시오.",
+      "notes": ""
+    },
+    {
+      "rule_id": "KO-KR_RULE_00084",
+      "language": "KO-KR",
+      "category": "punctuation",
+      "section": "Round and square brackets",
+      "description": "Use round brackets for further explications which would otherwise disrupt the sentence, for spelling out acronyms, or for translations of UI items in cases where the UI has not been localized.",
+      "example_correct": "경로(UNC 경로 또는 URL)를 지정한 다음 저장을 클릭하세요.",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "KO-KR_RULE_00085",
+      "language": "KO-KR",
+      "category": "punctuation",
+      "section": "Round and square brackets",
+      "description": "Use round brackets for spelling out acronyms.",
+      "example_correct": "FTP(File Transfer Protocol)를 사용하여 큰 파일을 업로드할 수 있습니다.",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "KO-KR_RULE_00086",
+      "language": "KO-KR",
+      "category": "punctuation",
+      "section": "Round and square brackets",
+      "description": "Use round brackets for UI translations when UI has not been localized.",
+      "example_correct": "Open File(파일 열기)을 클릭하세요.",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "KO-KR_RULE_00087",
+      "language": "KO-KR",
+      "category": "punctuation",
+      "section": "Round and square brackets",
+      "description": "Square brackets are sometimes used for indicating variables.",
+      "example_correct": "저장 경로는 \\[server]\\[share] 형식으로 지정됩니다.",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "KO-KR_RULE_00088",
+      "language": "KO-KR",
+      "category": "punctuation",
+      "section": "Round and square brackets",
+      "description": "Square brackets are used for indicating additional information within round brackets.",
+      "example_correct": "경로(UNC 경로 [내부] 또는 URL [외부])를 지정한 다음 저장을 클릭하세요.",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "KO-KR_RULE_00089",
+      "language": "KO-KR",
+      "category": "punctuation",
+      "section": "Quotation marks",
+      "description": "NEVER use straight single quote for variables.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Updates on 20241207"
+    },
+    {
+      "rule_id": "KO-KR_RULE_00090",
+      "language": "KO-KR",
+      "category": "punctuation",
+      "section": "Quotation marks",
+      "description": "Use quotation marks in accordance with Korean linguistic rules.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Quotation marks are used to quote sentences taken from other sources, or to quote titles of other documents."
+    },
+    {
+      "rule_id": "KO-KR_RULE_00091",
+      "language": "KO-KR",
+      "category": "punctuation",
+      "section": "Quotation marks",
+      "description": "Use single quotes when quoting someone's unspoken thoughts or introducing/emphasizing concepts.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "KO-KR_RULE_00092",
+      "language": "KO-KR",
+      "category": "punctuation",
+      "section": "Quotation marks",
+      "description": "For UI, use single quotation marks in Korean translations to indicate UI terms when the UI reference is emphasized in the English source with quotation marks (double or single quotation marks).",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "KO-KR_RULE_00093",
+      "language": "KO-KR",
+      "category": "punctuation",
+      "section": "Quotation marks",
+      "description": "Double quotes are used only for 1) Quoting or describing direct conversations in Korean. 2) Around placeholders (even if the placeholders are enclosed with quotes in English source).",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "KO-KR_RULE_00094",
+      "language": "KO-KR",
+      "category": "punctuation",
+      "section": "Quotation marks",
+      "description": "Punctuation should be placed inside the quotes unless you quote an entire sentence.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "KO-KR_RULE_00095",
+      "language": "KO-KR",
+      "category": "punctuation",
+      "section": "Quotation marks",
+      "description": "Use \"straight quotes\" for all other texts.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "KO-KR_RULE_00096",
+      "language": "KO-KR",
+      "category": "punctuation",
+      "section": "Apostrophe",
+      "description": "Korean language does not use apostrophe, so should be often deleted.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "KO-KR_RULE_00097",
+      "language": "KO-KR",
+      "category": "formatting",
+      "section": "Style to use in bulleted lists - Example 1",
+      "description": "If the bulleted items are complete sentences (with a conjugated verb), each item ends with a period.",
+      "example_correct": "가능한 상황:\n● 서버가 네트워크 내부에 있습니다.\n● 서버가 네트워크 외부에 있습니다.",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "KO-KR_RULE_00098",
+      "language": "KO-KR",
+      "category": "formatting",
+      "section": "Style to use in bulleted lists - Example 2",
+      "description": "If the bulleted items are phrases or single words, items shall not be followed by a period.",
+      "example_correct": "서버가 있을 수 있는 위치:\n● 네트워크 내부\n● 네트워크 외부",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "KO-KR_RULE_00099",
+      "language": "KO-KR",
+      "category": "formatting",
+      "section": "Style to use in bulleted lists - Example 3",
+      "description": "If the list items are not full sentences and depend syntactically on the introductory sentence, the introductory sentence and each element should be connected fluently. Either full sentence or phrase form is acceptable, but their style should be consistent.",
+      "example_correct": "다음과 같은 경우 소프트웨어를 설치해야 합니다.\n● 서버가 네트워크 내부에 있는 경우\n● 서버가 네트워크 외부에 있는 경우\n● 모바일 장치에서 서버에 액세스하는 경우",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "KO-KR_RULE_00100",
+      "language": "KO-KR",
+      "category": "abbreviations",
+      "section": "Abbreviations",
+      "description": "Abbreviations found in English content should be treated the same in Korean unless otherwise they have equivalent common localized versions (e.g. \"etc.\" into \"등\").",
+      "example_correct": "소리가 왜곡됨/깨끗하지 않음/깨짐 등의 증상이 나타납니다.",
+      "example_incorrect": "",
+      "notes": "An abbreviation is a shortened version of a word or phrase such as vs. for versus, etc. for et cetera."
+    },
+    {
+      "rule_id": "KO-KR_RULE_00101",
+      "language": "KO-KR",
+      "category": "abbreviations",
+      "section": "Abbreviations",
+      "description": "For abbreviations unfamiliar to the public, please use full expression in Korean followed by the acronym in parentheses.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "KO-KR_RULE_00102",
+      "language": "KO-KR",
+      "category": "abbreviations",
+      "section": "Acronyms",
+      "description": "Translation of acronyms depends on RingCentral project-related requirements, and should always be investigated to confirm their localizability.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "KO-KR_RULE_00103",
+      "language": "KO-KR",
+      "category": "abbreviations",
+      "section": "Acronyms",
+      "description": "The acronym is well known and established in Korean and practically considered a word on its own, spelling out the term is not necessary. Use the acronym only.",
+      "example_correct": "CD, HTML, PIN, SMS",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "KO-KR_RULE_00104",
+      "language": "KO-KR",
+      "category": "abbreviations",
+      "section": "Acronyms",
+      "description": "The acronym might be known in Korean, spelling out the term is useful. Use the acronym followed by first the English and then the translated spelled out term in brackets.",
+      "example_correct": "CSV(Comma Separated Values, 쉼표로 구분된 값), DRM(Digital Rights Management, 디지털 저작권 관리)",
+      "example_incorrect": "",
+      "notes": "This depends on the target audience, for ex. in an administrator's guide there would be no need to spell out FTP or CSV."
+    },
+    {
+      "rule_id": "KO-KR_RULE_00105",
+      "language": "KO-KR",
+      "category": "abbreviations",
+      "section": "Acronyms",
+      "description": "The acronym is country or otherwise specific. Use the acronym followed by the English spelled out term in brackets and add a short Korean explanation rather than a translation.",
+      "example_correct": "ANSI(American National Standards Institute, 미국규격협회 또는 해당 협회에서 정한 규격)",
+      "example_incorrect": "",
+      "notes": "Depending on the context, you might add either of the two in brackets."
+    },
+    {
+      "rule_id": "KO-KR_RULE_00106",
+      "language": "KO-KR",
+      "category": "abbreviations",
+      "section": "Acronyms",
+      "description": "The acronym is not well known or not commonly used in Korean. Decide according to the target audience: You can either omit the acronym and just spell out the term or use the usual pattern.",
+      "example_correct": "인터넷 서비스 제공업체 OR: 인터넷 서비스 제공업체(ISP)",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "KO-KR_RULE_00107",
+      "language": "KO-KR",
+      "category": "abbreviations",
+      "section": "Acronyms",
+      "description": "The spelled out term is followed by an acronym in brackets. Don't hesitate to reverse the order where you see fit.",
+      "example_correct": "SSO(Single Sign On, 싱글 사인 온)",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "KO-KR_RULE_00108",
+      "language": "KO-KR",
+      "category": "numbers",
+      "section": "Numbers",
+      "description": "Numbers should be written in full when used as nouns.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "KO-KR_RULE_00109",
+      "language": "KO-KR",
+      "category": "numbers",
+      "section": "Numbers",
+      "description": "Numbers should be written in full when appearing alone and representing simple quantities, usually the numbers up to 12.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "KO-KR_RULE_00110",
+      "language": "KO-KR",
+      "category": "numbers",
+      "section": "Numbers",
+      "description": "Numbers should be written in full in expressions like \"in the 80s\".",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "KO-KR_RULE_00111",
+      "language": "KO-KR",
+      "category": "numbers",
+      "section": "Numbers",
+      "description": "Dates, large numbers, ages, document references (paragraph, page, etc.) should be written as numbers. Remember to keep the decimal point by a dot and the thousand separators by a comma.",
+      "example_correct": "0.25, 1,254.28, 18,567, 8,990,500",
+      "example_incorrect": "0,25, 1.254,28, 18.567, 8.990.500",
+      "notes": ""
+    },
+    {
+      "rule_id": "KO-KR_RULE_00112",
+      "language": "KO-KR",
+      "category": "numbers",
+      "section": "Numbers",
+      "description": "Avoid mixing numerical and alphabetical forms.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "KO-KR_RULE_00113",
+      "language": "KO-KR",
+      "category": "numbers",
+      "section": "Units of Measure",
+      "description": "Units of measure should not be separated from the preceding number.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "KO-KR_RULE_00114",
+      "language": "KO-KR",
+      "category": "numbers",
+      "section": "Units of Measure",
+      "description": "If the content includes units of measures that do not apply to your locale, for example imperial system ones, you might be instructed to either add converted value of the system that applies to your locale first and leave the original one in brackets, or to convert the value into its metric equivalent, based on the project requirements.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Note: monitor sizes are always expressed in inches and represent, therefore, one of the few exceptions."
+    },
+    {
+      "rule_id": "KO-KR_RULE_00115",
+      "language": "KO-KR",
+      "category": "numbers",
+      "section": "Percentages",
+      "description": "% symbol can be read as \"퍼센트,\" but use numerals and the percent sign (%) rather than the word as possible unless otherwise specified.",
+      "example_correct": "38%",
+      "example_incorrect": "38 % OR: 38 퍼센트",
+      "notes": "When using the symbol, there should be no space between the symbol and the numeral."
+    },
+    {
+      "rule_id": "KO-KR_RULE_00116",
+      "language": "KO-KR",
+      "category": "numbers",
+      "section": "Date and time",
+      "description": "Adapt date and time formats to Korean standards. Date format, for example, should follow month-day, and not day-month.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "KO-KR_RULE_00117",
+      "language": "KO-KR",
+      "category": "numbers",
+      "section": "Date and time",
+      "description": "The short format would be separated by hyphen, slash, or periods. Recommended formats: Short date: YYYY.MM.DD. Example: 2020.05.26",
+      "example_correct": "2020.05.26",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "KO-KR_RULE_00118",
+      "language": "KO-KR",
+      "category": "numbers",
+      "section": "Date and time",
+      "description": "Long date: y년 M월 d일 EEEE. Example: 2020년 5월 26일 화요일",
+      "example_correct": "2020년 5월 26일 화요일",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "KO-KR_RULE_00119",
+      "language": "KO-KR",
+      "category": "numbers",
+      "section": "Date and time",
+      "description": "The standard time format is hh:mm:ss. Use 12-hour format rather than 24-hour.",
+      "example_correct": "오후 11:30, 오전 8시~오후 8시, 2014-6-8",
+      "example_incorrect": "11:30 PM, 8AM to 8PM, 8-June-2014",
+      "notes": ""
+    }
+  ]
+}

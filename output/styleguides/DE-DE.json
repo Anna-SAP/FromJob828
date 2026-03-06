@@ -1,0 +1,1317 @@
+{
+  "language": "DE-DE",
+  "source": "RC_Style_Guide_DE-DE_20241206.pdf",
+  "total_rules": 131,
+  "rules": [
+    {
+      "rule_id": "DE-DE_RULE_00001",
+      "language": "DE-DE",
+      "category": "localization_general",
+      "section": "General Overview",
+      "description": "RingCentral specific instructions take precedence over this style guide when there are conflicts",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "The client's specific instructions should take precedence over this document"
+    },
+    {
+      "rule_id": "DE-DE_RULE_00002",
+      "language": "DE-DE",
+      "category": "style_tone",
+      "section": "Our style",
+      "description": "Capture source meaning and produce natural-sounding translation for wide German-speaking audience",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Translation should not read like a translation"
+    },
+    {
+      "rule_id": "DE-DE_RULE_00003",
+      "language": "DE-DE",
+      "category": "style_tone",
+      "section": "Readability is key",
+      "description": "Use German syntax and avoid literal transposition of English syntax",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Split long sentences if necessary to improve readability"
+    },
+    {
+      "rule_id": "DE-DE_RULE_00004",
+      "language": "DE-DE",
+      "category": "style_tone",
+      "section": "Readability is key",
+      "description": "Be accurate and concise, avoid ambiguities, unnecessary repetitions and superfluous filler words",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "DE-DE_RULE_00005",
+      "language": "DE-DE",
+      "category": "style_tone",
+      "section": "Readability is key",
+      "description": "Be clear and coherent so target reader can easily understand the text",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "DE-DE_RULE_00006",
+      "language": "DE-DE",
+      "category": "style_tone",
+      "section": "Readability is key",
+      "description": "Use objective, neutral language without personal opinion, avoid colloquial or slang words",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Always be politically correct and aim for bias-free language"
+    },
+    {
+      "rule_id": "DE-DE_RULE_00007",
+      "language": "DE-DE",
+      "category": "style_tone",
+      "section": "Readability is key",
+      "description": "Use idiomatic language with appropriate verbs, metaphors, expressions so text doesn't sound like a translation",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "DE-DE_RULE_00008",
+      "language": "DE-DE",
+      "category": "style_tone",
+      "section": "Readability is key",
+      "description": "Use appropriate tone depending on target audience",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "DE-DE_RULE_00009",
+      "language": "DE-DE",
+      "category": "style_tone",
+      "section": "Form of address (du vs. Sie)",
+      "description": "Always use formal 'Sie' for RingCentral content",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Do not use stiff language (Beamtendeutsch), but keep it polite, informative and friendly"
+    },
+    {
+      "rule_id": "DE-DE_RULE_00010",
+      "language": "DE-DE",
+      "category": "style_tone",
+      "section": "Conciseness / Fluency",
+      "description": "Avoid excessive usage of 'Verwenden Sie... um zu...'",
+      "example_correct": "Legen Sie die IP-Adresse auf der Registerkarte „Netzwerkeinstellungen\" fest.",
+      "example_incorrect": "Verwenden Sie die Registerkarte „Netzwerkeinstellungen\", um die IP-Adresse festzulegen.",
+      "notes": "English can be quite verbose - check context and concentrate on meaning"
+    },
+    {
+      "rule_id": "DE-DE_RULE_00011",
+      "language": "DE-DE",
+      "category": "style_tone",
+      "section": "Conciseness / Fluency",
+      "description": "Avoid starting sentences with 'Um...' or 'Beispielsweise'",
+      "example_correct": "Klicken Sie auf OK, um den Editor zu schließen.",
+      "example_incorrect": "Um den Editor zu schließen, klicken Sie auf OK.",
+      "notes": ""
+    },
+    {
+      "rule_id": "DE-DE_RULE_00012",
+      "language": "DE-DE",
+      "category": "style_tone",
+      "section": "Conciseness / Fluency",
+      "description": "Avoid bloated expressions like 'haben Sie die Möglichkeit...'",
+      "example_correct": "Sie können jetzt ...",
+      "example_incorrect": "Das bedeutet, dass Sie jetzt...",
+      "notes": ""
+    },
+    {
+      "rule_id": "DE-DE_RULE_00013",
+      "language": "DE-DE",
+      "category": "style_tone",
+      "section": "Conciseness / Fluency",
+      "description": "Use concise forms instead of possessive repetitions",
+      "example_correct": "Ihr Name, Ihre E-Mail-Adresse, der Name Ihrer Firma",
+      "example_incorrect": "Name, E-Mail-Adresse, Firmenname",
+      "notes": ""
+    },
+    {
+      "rule_id": "DE-DE_RULE_00014",
+      "language": "DE-DE",
+      "category": "style_tone",
+      "section": "Conciseness / Fluency",
+      "description": "Use more natural phrasing for examples",
+      "example_correct": "Der Ordner „Einstellungen\" enthält beispielsweise Folgendes:",
+      "example_incorrect": "Beispielsweise enthält der Ordner „Einstellungen\" Folgendes:",
+      "notes": ""
+    },
+    {
+      "rule_id": "DE-DE_RULE_00015",
+      "language": "DE-DE",
+      "category": "style_tone",
+      "section": "English Imperatives",
+      "description": "Avoid overuse of imperatives in marketing texts, as they sound like orders in German",
+      "example_correct": "Hier erfahren Sie mehr über die neuen Funktionen",
+      "example_incorrect": "Entdecken Sie die neuen Funktionen",
+      "notes": "This refers to descriptive and marketing content. Use imperatives in instructions."
+    },
+    {
+      "rule_id": "DE-DE_RULE_00016",
+      "language": "DE-DE",
+      "category": "style_tone",
+      "section": "English Imperatives",
+      "description": "Rephrase marketing imperatives to more natural German forms",
+      "example_correct": "Sie können unter xxx mehr über yyy erfahren",
+      "example_incorrect": "Finden Sie mehr heraus ...",
+      "notes": ""
+    },
+    {
+      "rule_id": "DE-DE_RULE_00017",
+      "language": "DE-DE",
+      "category": "style_tone",
+      "section": "English Imperatives",
+      "description": "Use natural communication phrases instead of direct imperatives",
+      "example_correct": "Mit xxx können Sie mit Ihrer Familie und Freunden sprechen // Mit xxx ist die Kommunikation mit Familie und Freunden ganz einfach",
+      "example_incorrect": "Kommunizieren Sie mit Ihrer Familie und Ihren Freunden",
+      "notes": ""
+    },
+    {
+      "rule_id": "DE-DE_RULE_00018",
+      "language": "DE-DE",
+      "category": "style_tone",
+      "section": "English Imperatives",
+      "description": "Rephrase learning imperatives to sound more natural",
+      "example_correct": "So lernen Sie mehr über die Grundfunktionen",
+      "example_incorrect": "Lernen Sie mehr über die Grundfunktionen",
+      "notes": ""
+    },
+    {
+      "rule_id": "DE-DE_RULE_00019",
+      "language": "DE-DE",
+      "category": "style_tone",
+      "section": "Order of presented information",
+      "description": "Present information in logical order that makes sense to the reader from the start",
+      "example_correct": "Wenn Sie weitere Informationen benötigen, wenden Sie sich an uns.",
+      "example_incorrect": "Kontaktieren Sie uns, um weitere Informationen zu erhalten.",
+      "notes": "It should be clear right from the start what the sentence is about"
+    },
+    {
+      "rule_id": "DE-DE_RULE_00020",
+      "language": "DE-DE",
+      "category": "style_tone",
+      "section": "Order of presented information",
+      "description": "Place location information logically in German syntax",
+      "example_correct": "Klicken Sie in der Systemsteuerung auf \"Einstellungen öffnen\".",
+      "example_incorrect": "Klicken Sie auf \"Einstellungen öffnen\" in der Systemsteuerung.",
+      "notes": ""
+    },
+    {
+      "rule_id": "DE-DE_RULE_00021",
+      "language": "DE-DE",
+      "category": "style_tone",
+      "section": "Repetitions",
+      "description": "Avoid repetitions that are acceptable in English but not in German, use pronouns or other alternatives",
+      "example_correct": "Wenn Sie eine Datei vom Computer löschen möchten, wählen Sie sie im rechten Fensterbereich aus und klicken Sie dann auf „Löschen\".",
+      "example_incorrect": "Um eine Datei von Ihrem Computer zu löschen, wählen Sie die Datei im rechten Fensterbereich aus und klicken dann auf „Löschen\".",
+      "notes": ""
+    },
+    {
+      "rule_id": "DE-DE_RULE_00022",
+      "language": "DE-DE",
+      "category": "style_tone",
+      "section": "Repetitions",
+      "description": "Use pronouns to avoid repetitive noun phrases",
+      "example_correct": "Mit den Einstellungen werden die Elemente der lokalen Benutzeroberfläche eines Geräts konfiguriert, darunter Ports, ein Zertifikat ...",
+      "example_incorrect": "Mit den Einstellungen werden die Elemente der lokalen Benutzeroberfläche eines Geräts konfiguriert. Zu diesen Einstellungen gehören Ports, ein Zertifikat ...",
+      "notes": ""
+    },
+    {
+      "rule_id": "DE-DE_RULE_00023",
+      "language": "DE-DE",
+      "category": "terminology",
+      "section": "False friends",
+      "description": "Use 'tatsächlich, eigentlich, selbst' instead of 'aktuell' when translating 'actual'",
+      "example_correct": "Der hier eingegebene Text wird oben im Browserfenster (und nicht auf der Seite selbst) angezeigt.",
+      "example_incorrect": "Der hier eingegebene Text wird oben im Browserfenster (und nicht auf der aktuellen Seite selbst) angezeigt.",
+      "notes": "Be careful with false friends and literal translations"
+    },
+    {
+      "rule_id": "DE-DE_RULE_00024",
+      "language": "DE-DE",
+      "category": "terminology",
+      "section": "False friends",
+      "description": "Use 'darauf achten, sich vergewissern, müssen' instead of 'sicherstellen' when translating 'make sure'",
+      "example_correct": "Achten Sie darauf, dass unter „Netzwerkeinrichtung\" die Option „Proxys\" ausgewählt ist. OR: Unter „Netzwerkeinrichtung\" muss (die Option) „Proxys\" ausgewählt sein.",
+      "example_incorrect": "Stellen Sie sicher, dass unter „Netzwerkeinrichtung\" die Option „Proxys\" ausgewählt ist.",
+      "notes": ""
+    },
+    {
+      "rule_id": "DE-DE_RULE_00025",
+      "language": "DE-DE",
+      "category": "terminology",
+      "section": "False friends",
+      "description": "Use 'sollten' instead of 'wollen, möchten' when translating 'want' in advisory contexts",
+      "example_correct": "Die GPS-Funktion belastet den Akku stark, daher sollten Sie diese Funktion nur kurz nutzen.",
+      "example_incorrect": "Die GPS-Funktion belastet den Akku stark, daher möchten Sie diese Funktion nur kurz nutzen.",
+      "notes": ""
+    },
+    {
+      "rule_id": "DE-DE_RULE_00026",
+      "language": "DE-DE",
+      "category": "terminology",
+      "section": "False friends",
+      "description": "Use 'mehrere Minuten lang' instead of 'für mehrere Minuten'",
+      "example_correct": "mehrere Minuten lang",
+      "example_incorrect": "für mehrere Minuten",
+      "notes": ""
+    },
+    {
+      "rule_id": "DE-DE_RULE_00027",
+      "language": "DE-DE",
+      "category": "grammar",
+      "section": "Passive voice",
+      "description": "Avoid passive voice whenever possible, use active form to improve readability",
+      "example_correct": "Bevor Sie diese neue Funktion verwenden, sollten Sie die Konfigurationsdatei aus dem Konfigurationsordner importieren.",
+      "example_incorrect": "Vor der Verwendung dieser neuen Funktion wird empfohlen, dass Sie die Konfigurationsdatei aus dem Konfigurationsordner importieren.",
+      "notes": "Passive voice only advised for legal and official documents"
+    },
+    {
+      "rule_id": "DE-DE_RULE_00028",
+      "language": "DE-DE",
+      "category": "grammar",
+      "section": "Passive voice",
+      "description": "Use active constructions for clearer meaning",
+      "example_correct": "Dies ist die URL für den vom Wert der Eigenschaft „ClientHost\" angegebenen Host.",
+      "example_incorrect": "Dies ist die URL für den Host, der vom Wert der Eigenschaft „ClientHost\" angegeben wird.",
+      "notes": ""
+    },
+    {
+      "rule_id": "DE-DE_RULE_00029",
+      "language": "DE-DE",
+      "category": "grammar",
+      "section": "Passive voice",
+      "description": "Convert passive constructions to active voice",
+      "example_correct": "Später können Sie die Funktion ohne Neustart aktivieren bzw. deaktivieren.",
+      "example_incorrect": "Später kann die Funktion ohne Neustart aktiviert bzw. deaktiviert werden.",
+      "notes": ""
+    },
+    {
+      "rule_id": "DE-DE_RULE_00030",
+      "language": "DE-DE",
+      "category": "grammar",
+      "section": "Use of possessive pronouns",
+      "description": "Don't transfer excessive use of English possessive pronouns into German",
+      "example_correct": "Sie können die Dateien auf dem Computer oder Mobilgerät bearbeiten.",
+      "example_incorrect": "Sie können Ihre Dateien auf Ihrem Computer oder auf Ihrem Mobilgerät bearbeiten.",
+      "notes": ""
+    },
+    {
+      "rule_id": "DE-DE_RULE_00031",
+      "language": "DE-DE",
+      "category": "grammar",
+      "section": "Use of possessive pronouns",
+      "description": "Reduce unnecessary possessive pronouns in context",
+      "example_correct": "Geben Sie Ihr Kennwort im Browser ein.",
+      "example_incorrect": "Geben Sie Ihr Kennwort in Ihrem Browser ein.",
+      "notes": ""
+    },
+    {
+      "rule_id": "DE-DE_RULE_00032",
+      "language": "DE-DE",
+      "category": "style_tone",
+      "section": "Politeness",
+      "description": "Don't translate excessive English politeness, be more direct where appropriate",
+      "example_correct": "Geben Sie Ihren Benutzernamen ein.",
+      "example_incorrect": "Geben Sie bitte Ihren Benutzernamen ein.",
+      "notes": "German does not require the same caution as English"
+    },
+    {
+      "rule_id": "DE-DE_RULE_00033",
+      "language": "DE-DE",
+      "category": "style_tone",
+      "section": "Gender",
+      "description": "German usually gives priority to masculine forms unless specifically needed based on context",
+      "example_correct": "Der Kundendienst wird sich mit dem Kunden in Verbindung setzen und ihn informieren.",
+      "example_incorrect": "Der Kundendienst wird sich mit dem Kunden bzw. der Kundin in Verbindung setzen und ihn bzw. sie informieren.",
+      "notes": "It's clear that this refers to male and female clients equally"
+    },
+    {
+      "rule_id": "DE-DE_RULE_00034",
+      "language": "DE-DE",
+      "category": "style_tone",
+      "section": "Gender",
+      "description": "Try to find neutral forms where possible and avoid male/female stereotypes",
+      "example_correct": "Für die Einladung erhalten sowohl Sie als auch Ihr Freund bzw. Ihre Freundin einen Bonus. Ihr Freund kann...",
+      "example_incorrect": "Für die Einladung erhalten sowohl Sie als auch Ihr Freund einen Bonus. Ihr Freund kann...",
+      "notes": "Adding the female form once and using only the male form subsequently is a possible compromise"
+    },
+    {
+      "rule_id": "DE-DE_RULE_00035",
+      "language": "DE-DE",
+      "category": "style_tone",
+      "section": "Gender",
+      "description": "Use plural or explicitly use female form for bias-free language",
+      "example_correct": "So bezahlen beispielsweise Ärzte oder Rechtsanwälte... OR: So bezahlt beispielsweise ein Arzt oder eine Rechtsanwältin...",
+      "example_incorrect": "So bezahlt beispielsweise ein Arzt oder ein Rechtsanwalt...",
+      "notes": "Using plural or explicitly using the female form are good solutions for bias-free language"
+    },
+    {
+      "rule_id": "DE-DE_RULE_00036",
+      "language": "DE-DE",
+      "category": "terminology",
+      "section": "Technical Terms",
+      "description": "RingCentral Glossary is first and binding source for technical terms",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "DE-DE_RULE_00037",
+      "language": "DE-DE",
+      "category": "terminology",
+      "section": "Technical Terms",
+      "description": "Use Microsoft standard terminology for terms not in glossary",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "https://www.microsoft.com/en-us/language"
+    },
+    {
+      "rule_id": "DE-DE_RULE_00038",
+      "language": "DE-DE",
+      "category": "terminology",
+      "section": "Technical Terms",
+      "description": "Use available online resources like Wikipedia, administrator web pages, large IT vendor portals",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "DE-DE_RULE_00039",
+      "language": "DE-DE",
+      "category": "terminology",
+      "section": "Technical Terms",
+      "description": "Check back with PM or Language Lead in case of doubt",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "DE-DE_RULE_00040",
+      "language": "DE-DE",
+      "category": "terminology",
+      "section": "General Word Choice",
+      "description": "Use alternatives to 'benutzerdefiniert' to make it sound more natural",
+      "example_correct": "individuelle/persönliche Begrüßungsnachricht",
+      "example_incorrect": "benutzerdefinierte Begrüßungsnachricht",
+      "notes": "Try to find alternatives like 'individuell', 'maßgeschneidert', 'speziell'"
+    },
+    {
+      "rule_id": "DE-DE_RULE_00041",
+      "language": "DE-DE",
+      "category": "terminology",
+      "section": "General Word Choice",
+      "description": "Avoid redundancy in technical terms",
+      "example_correct": "PIN",
+      "example_incorrect": "PIN-Nummer",
+      "notes": "PIN = Personal Identification Number, so 'number' is redundant"
+    },
+    {
+      "rule_id": "DE-DE_RULE_00042",
+      "language": "DE-DE",
+      "category": "terminology",
+      "section": "General Word Choice",
+      "description": "Avoid redundancy in protocol names",
+      "example_correct": "TCP/IP",
+      "example_incorrect": "TCP/IP-Protokoll",
+      "notes": "IP = Internet Protocol, so 'protocol' is redundant"
+    },
+    {
+      "rule_id": "DE-DE_RULE_00043",
+      "language": "DE-DE",
+      "category": "style_tone",
+      "section": "General Word Choice",
+      "description": "Leave out 'oder nicht' in most cases",
+      "example_correct": "Gibt an, ob die Erweiterung aktiviert wird.",
+      "example_incorrect": "Gibt an, ob die Erweiterung aktiviert oder nicht aktiviert wird.",
+      "notes": ""
+    },
+    {
+      "rule_id": "DE-DE_RULE_00044",
+      "language": "DE-DE",
+      "category": "terminology",
+      "section": "General Word Choice",
+      "description": "Use simple verb forms instead of compounds with 'an-', 'ab-', 'aus-'",
+      "example_correct": "klicken (auf xxx), speichern, drucken",
+      "example_incorrect": "anklicken, abspeichern, ausdrucken",
+      "notes": ""
+    },
+    {
+      "rule_id": "DE-DE_RULE_00045",
+      "language": "DE-DE",
+      "category": "terminology",
+      "section": "Preferred phrasing",
+      "description": "Use 'Informationen zu ...' for 'About XYZ'",
+      "example_correct": "Informationen zu ...",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "DE-DE_RULE_00046",
+      "language": "DE-DE",
+      "category": "terminology",
+      "section": "Preferred phrasing",
+      "description": "Use '... wie in Abbildung xx dargestellt' for 'as shown in figure xx'",
+      "example_correct": "... wie in Abbildung xx dargestellt",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "DE-DE_RULE_00047",
+      "language": "DE-DE",
+      "category": "terminology",
+      "section": "Preferred phrasing",
+      "description": "Use 'Weitere Informationen zu xxx finden Sie in xxx.' for 'For more information on xxx, see xxx.'",
+      "example_correct": "Weitere Informationen zu xxx finden Sie in xxx.",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "DE-DE_RULE_00048",
+      "language": "DE-DE",
+      "category": "abbreviations",
+      "section": "Preferred phrasing",
+      "description": "Use 'k. A. / n. v. / –' for 'N/A (Non Available)'",
+      "example_correct": "k. A. / n. v. / –",
+      "example_incorrect": "",
+      "notes": "keine Angabe / nicht vorhanden / n-dash"
+    },
+    {
+      "rule_id": "DE-DE_RULE_00049",
+      "language": "DE-DE",
+      "category": "terminology",
+      "section": "Preferred phrasing",
+      "description": "Use 'Beachten Sie, dass ...' or 'Beachten Sie Folgendes: ...' for 'Please note that'",
+      "example_correct": "Beachten Sie, dass ... Beachten Sie Folgendes: ...",
+      "example_incorrect": "",
+      "notes": "Can sometimes just be left out"
+    },
+    {
+      "rule_id": "DE-DE_RULE_00050",
+      "language": "DE-DE",
+      "category": "terminology",
+      "section": "Preferred phrasing",
+      "description": "Use 'xxx wird in xxx erläutert.' for 'Refer to xxx for instructions on xxx.'",
+      "example_correct": "xxx wird in xxx erläutert.",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "DE-DE_RULE_00051",
+      "language": "DE-DE",
+      "category": "terminology",
+      "section": "Preferred phrasing",
+      "description": "Use 'möchte' for 'want (to), would like'",
+      "example_correct": "möchte",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "DE-DE_RULE_00052",
+      "language": "DE-DE",
+      "category": "terminology",
+      "section": "Preferred phrasing",
+      "description": "Use 'Sie sollten ...' for 'we recommend…'",
+      "example_correct": "Sie sollten ...",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "DE-DE_RULE_00053",
+      "language": "DE-DE",
+      "category": "terminology",
+      "section": "Preferred phrasing",
+      "description": "Use 'Gehen Sie so vor:' for 'Follow these steps:'",
+      "example_correct": "Gehen Sie so vor:",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "DE-DE_RULE_00054",
+      "language": "DE-DE",
+      "category": "terminology",
+      "section": "Preferred phrasing",
+      "description": "Use 'Wenden Sie sich an [den Support].' for 'Contact [support].'",
+      "example_correct": "Wenden Sie sich an [den Support].",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "DE-DE_RULE_00055",
+      "language": "DE-DE",
+      "category": "terminology",
+      "section": "Preferred phrasing",
+      "description": "Use 'Möchten Sie [die Datei] wirklich [löschen]?' for 'Are you sure you want to [delete the file]?'",
+      "example_correct": "Möchten Sie [die Datei] wirklich [löschen]?",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "DE-DE_RULE_00056",
+      "language": "DE-DE",
+      "category": "trademarks",
+      "section": "Product names and trademarks",
+      "description": "For third-party product names, follow localized equivalence on official websites if available",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "DE-DE_RULE_00057",
+      "language": "DE-DE",
+      "category": "trademarks",
+      "section": "Product names and trademarks",
+      "description": "Check reference material and linguistic instructions before translating product/application/third party/feature names",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Many product/application names are trademarked and not localizable"
+    },
+    {
+      "rule_id": "DE-DE_RULE_00058",
+      "language": "DE-DE",
+      "category": "trademarks",
+      "section": "Product names and trademarks",
+      "description": "Use trademark symbols only on first mention unless otherwise indicated",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Refer to most updated version of approved RingCentral term list"
+    },
+    {
+      "rule_id": "DE-DE_RULE_00059",
+      "language": "DE-DE",
+      "category": "trademarks",
+      "section": "Product names and trademarks",
+      "description": "Research extensively for official approved trademarked translated versions of third-party products",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Otherwise use as in source"
+    },
+    {
+      "rule_id": "DE-DE_RULE_00060",
+      "language": "DE-DE",
+      "category": "ui_elements",
+      "section": "Buttons",
+      "description": "Translate buttons as verbs, generally using infinitive form",
+      "example_correct": "Datei öffnen",
+      "example_incorrect": "Öffnen Sie die Datei / Öffne Datei",
+      "notes": ""
+    },
+    {
+      "rule_id": "DE-DE_RULE_00061",
+      "language": "DE-DE",
+      "category": "ui_elements",
+      "section": "Buttons",
+      "description": "Be concise in buttons, avoid articles or prepositions",
+      "example_correct": "Nur ausgewählte anzeigen",
+      "example_incorrect": "Zeige nur ausgewählte an",
+      "notes": "Go straight to the point"
+    },
+    {
+      "rule_id": "DE-DE_RULE_00062",
+      "language": "DE-DE",
+      "category": "ui_elements",
+      "section": "Buttons",
+      "description": "Use proper infinitive form for Cancel button",
+      "example_correct": "Abbrechen",
+      "example_incorrect": "Abbruch",
+      "notes": "Pay attention to character/space limitations"
+    },
+    {
+      "rule_id": "DE-DE_RULE_00063",
+      "language": "DE-DE",
+      "category": "ui_elements",
+      "section": "References to UI options",
+      "description": "Match relevant translation memory or string list if software has been translated",
+      "example_correct": "Klicken Sie auf Datei öffnen.",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "DE-DE_RULE_00064",
+      "language": "DE-DE",
+      "category": "ui_elements",
+      "section": "References to UI options",
+      "description": "Use bilingual format if software has not been translated (English first, target in brackets)",
+      "example_correct": "Klicken Sie auf Open File (Datei öffnen).",
+      "example_incorrect": "",
+      "notes": "Put the translation outside the formatting"
+    },
+    {
+      "rule_id": "DE-DE_RULE_00065",
+      "language": "DE-DE",
+      "category": "ui_elements",
+      "section": "References to UI options",
+      "description": "Use Microsoft approved terminology for Microsoft UI items",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "https://www.microsoft.com/en-us/language"
+    },
+    {
+      "rule_id": "DE-DE_RULE_00066",
+      "language": "DE-DE",
+      "category": "formatting",
+      "section": "Index entries",
+      "description": "First level index entries should always be capitalized",
+      "example_correct": "Server",
+      "example_incorrect": "server",
+      "notes": ""
+    },
+    {
+      "rule_id": "DE-DE_RULE_00067",
+      "language": "DE-DE",
+      "category": "formatting",
+      "section": "Index entries",
+      "description": "Second level index entries should be capitalized as necessary",
+      "example_correct": "hinzufügen",
+      "example_incorrect": "Hinzufügen",
+      "notes": ""
+    },
+    {
+      "rule_id": "DE-DE_RULE_00068",
+      "language": "DE-DE",
+      "category": "formatting",
+      "section": "Index entries",
+      "description": "Keep index entries as short as possible and enclose denominators in brackets where needed",
+      "example_correct": "Neu hinzufügen (Option)",
+      "example_incorrect": "Neu hinzufügen Option",
+      "notes": "A comma can be added within an index entry if needed"
+    },
+    {
+      "rule_id": "DE-DE_RULE_00069",
+      "language": "DE-DE",
+      "category": "localization_general",
+      "section": "Cross-references",
+      "description": "Check cross-references for consistency",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Cross-references can be internal or external"
+    },
+    {
+      "rule_id": "DE-DE_RULE_00070",
+      "language": "DE-DE",
+      "category": "localization_general",
+      "section": "Cross-references",
+      "description": "Check terminology list or reference material for document title translations",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Contact PM or Language Lead if unable to retrieve information"
+    },
+    {
+      "rule_id": "DE-DE_RULE_00071",
+      "language": "DE-DE",
+      "category": "localization_general",
+      "section": "Cross-references",
+      "description": "Leave untranslated documents as in source language",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "DE-DE_RULE_00072",
+      "language": "DE-DE",
+      "category": "terminology",
+      "section": "Cross-references",
+      "description": "Use 'Weitere Informationen finden Sie im Abschnitt […].' for 'Refer to section […]'",
+      "example_correct": "Weitere Informationen finden Sie im Abschnitt […].",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "DE-DE_RULE_00073",
+      "language": "DE-DE",
+      "category": "terminology",
+      "section": "Cross-references",
+      "description": "Use 'Weitere Informationen finden Sie im Kapitel […] dieses Dokuments.' for 'For more information see chapter […] in this document'",
+      "example_correct": "Weitere Informationen finden Sie im Kapitel […] dieses Dokuments.",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "DE-DE_RULE_00074",
+      "language": "DE-DE",
+      "category": "terminology",
+      "section": "Cross-references",
+      "description": "Use 'Siehe Tabelle […] unten' for 'See also table […] below'",
+      "example_correct": "Siehe Tabelle […] unten",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "DE-DE_RULE_00075",
+      "language": "DE-DE",
+      "category": "terminology",
+      "section": "Cross-references",
+      "description": "Use 'Siehe Abbildung 12.1 \"[Name der Abbildung]\"' for 'See graphic 12.1 \"[title of graphic]\"'",
+      "example_correct": "Siehe Abbildung 12.1 \"[Name der Abbildung]\"",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "DE-DE_RULE_00076",
+      "language": "DE-DE",
+      "category": "terminology",
+      "section": "Cross-references",
+      "description": "Use 'Weitere Informationen finden Sie im Benutzerhandbuch \"[Titel]\".' for 'For more information, see user manual \"[title]\".'",
+      "example_correct": "Weitere Informationen finden Sie im Benutzerhandbuch \"[Titel]\".",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "DE-DE_RULE_00077",
+      "language": "DE-DE",
+      "category": "localization_general",
+      "section": "Copyright Footer",
+      "description": "Use provided German translation for copyright footer unless other project-specific instructions exist",
+      "example_correct": "©2015 RingCentral, Inc. Alle Rechte vorbehalten. RingCentral, RingCentral Office, RingCentral Meetings und das RingCentral-Logo sind eingetragene Marken der RingCentral, Inc. Alle anderen in diesem Dokument aufgeführten Kennzeichen, Marken und Logos sind Marken ihrer jeweiligen Besitzer.",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "DE-DE_RULE_00078",
+      "language": "DE-DE",
+      "category": "formatting",
+      "section": "Capitalization",
+      "description": "In legal texts, retain specific capitalization as it conveys legal meaning",
+      "example_correct": "Dieser individuelle Vertrag (der \"Individuelle Vertrag\") ist ein bindender Vertrag ...",
+      "example_incorrect": "Dieser individuelle Vertrag (der \"individuelle Vertrag\") ist ein bindender Vertrag ...",
+      "notes": "Since nouns are capitalized in German, this will occur rarely"
+    },
+    {
+      "rule_id": "DE-DE_RULE_00079",
+      "language": "DE-DE",
+      "category": "formatting",
+      "section": "Capitalization",
+      "description": "Preserve all upper case formatting in legal texts as it may have legal implications",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Sometimes whole paragraphs are written with all upper case"
+    },
+    {
+      "rule_id": "DE-DE_RULE_00080",
+      "language": "DE-DE",
+      "category": "spelling",
+      "section": "Spelling",
+      "description": "Run spell-checker before delivering translation",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "If possible, copy translated text into Word to use grammar checker too"
+    },
+    {
+      "rule_id": "DE-DE_RULE_00081",
+      "language": "DE-DE",
+      "category": "spelling",
+      "section": "Spelling",
+      "description": "Use Duden as spelling reference",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "DE-DE_RULE_00082",
+      "language": "DE-DE",
+      "category": "punctuation",
+      "section": "Spacing",
+      "description": "Replace double spaces after full stops with single spaces",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "English documents often include double spaces after full stops"
+    },
+    {
+      "rule_id": "DE-DE_RULE_00083",
+      "language": "DE-DE",
+      "category": "punctuation",
+      "section": "Spacing",
+      "description": "Separate brand name tags from preceding or following text with a space",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "DE-DE_RULE_00084",
+      "language": "DE-DE",
+      "category": "punctuation",
+      "section": "Spacing",
+      "description": "Use non-breaking space between number and value",
+      "example_correct": "10 GB, 20 €, 50 cm",
+      "example_incorrect": "",
+      "notes": "Ctrl + Shift + Space bar in MS Word or Alt+0160"
+    },
+    {
+      "rule_id": "DE-DE_RULE_00085",
+      "language": "DE-DE",
+      "category": "punctuation",
+      "section": "Spacing",
+      "description": "Use non-breaking space in dates",
+      "example_correct": "12. Juli 2020",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "DE-DE_RULE_00086",
+      "language": "DE-DE",
+      "category": "punctuation",
+      "section": "Spacing",
+      "description": "Use non-breaking space in abbreviations",
+      "example_correct": "z. B., d. h.",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "DE-DE_RULE_00087",
+      "language": "DE-DE",
+      "category": "punctuation",
+      "section": "Spacing",
+      "description": "Use non-breaking space between number and associated word",
+      "example_correct": "5 Benutzer, 30 Minuten",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "DE-DE_RULE_00088",
+      "language": "DE-DE",
+      "category": "punctuation",
+      "section": "Spacing",
+      "description": "Do not use non-breaking spaces in software files",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "DE-DE_RULE_00089",
+      "language": "DE-DE",
+      "category": "punctuation",
+      "section": "Comma",
+      "description": "No comma before the last element of an enumeration",
+      "example_correct": "Tick, Trick und Track",
+      "example_incorrect": "Tick, Trick, und Track",
+      "notes": "In contrary to English"
+    },
+    {
+      "rule_id": "DE-DE_RULE_00090",
+      "language": "DE-DE",
+      "category": "punctuation",
+      "section": "Period",
+      "description": "Use full stops for complete sentences",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "DE-DE_RULE_00091",
+      "language": "DE-DE",
+      "category": "punctuation",
+      "section": "Period",
+      "description": "Do not use full stops in headings, titles and after captions for illustrations, tables etc.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "DE-DE_RULE_00092",
+      "language": "DE-DE",
+      "category": "punctuation",
+      "section": "Period",
+      "description": "Do not use full stops if sentence ends with abbreviation, interrogation mark, exclamation mark, ellipsis, or colon",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "DE-DE_RULE_00093",
+      "language": "DE-DE",
+      "category": "punctuation",
+      "section": "Colon",
+      "description": "Use colons when it sounds natural, word after colon must be capitalized if it's a complete sentence",
+      "example_correct": "Öffnen Sie den Assistenten zur Paketerstellung, indem Sie auf die Registerkarte Paket klicken.",
+      "example_incorrect": "Öffnen Sie den Assistenten zur Paketerstellung: Klicken Sie auf die Registerkarte Paket.",
+      "notes": "English makes wider use of colons"
+    },
+    {
+      "rule_id": "DE-DE_RULE_00094",
+      "language": "DE-DE",
+      "category": "punctuation",
+      "section": "Colon",
+      "description": "Use colon appropriately with complete sentences",
+      "example_correct": "In der Spalte Kategorie werden zwei Einträge angezeigt: Status und Konfiguration. OR: In der Spalte Kategorie werden die beiden Einträge Status und Konfiguration angezeigt.",
+      "example_incorrect": "In der Spalte Kategorie werden zwei Einträge angezeigt, Status und Konfiguration.",
+      "notes": ""
+    },
+    {
+      "rule_id": "DE-DE_RULE_00095",
+      "language": "DE-DE",
+      "category": "punctuation",
+      "section": "Colon",
+      "description": "Lowercase word after colon if not a complete sentence",
+      "example_correct": "Beispiel: eine komprimierte Datei.",
+      "example_incorrect": "Beispiel: Eine komprimierte Datei.",
+      "notes": ""
+    },
+    {
+      "rule_id": "DE-DE_RULE_00096",
+      "language": "DE-DE",
+      "category": "punctuation",
+      "section": "Colon",
+      "description": "Capitalize word after colon if it's a complete sentence",
+      "example_correct": "Beispiel: Die Datei ist komprimiert.",
+      "example_incorrect": "Beispiel: die Datei ist komprimiert.",
+      "notes": ""
+    },
+    {
+      "rule_id": "DE-DE_RULE_00097",
+      "language": "DE-DE",
+      "category": "punctuation",
+      "section": "Semi-colon",
+      "description": "Avoid semicolons, they are less common in German than English",
+      "example_correct": "Es gibt folgende Kategorien: Computer, Laptops und Mobilgeräte, Betriebssysteme, Anwendungen und mobile Apps, Netzwerke, Router und Firewalls.",
+      "example_incorrect": "Es gibt folgende Kategorien: Computer, Laptops und Mobilgeräte; Betriebssysteme, Anwendungen und mobile Apps; Netzwerke, Router und Firewalls.",
+      "notes": "Use comma or start new sentence instead"
+    },
+    {
+      "rule_id": "DE-DE_RULE_00098",
+      "language": "DE-DE",
+      "category": "punctuation",
+      "section": "Semi-colon",
+      "description": "Use comma or separate sentences instead of semicolon",
+      "example_correct": "Notieren Sie sich die Angaben in den Feldern \"Benutzername\" und \"Kennwort\", Sie benötigen Sie später zur Anmeldung. OR: Notieren Sie sich die Angaben in den Feldern \"Benutzername\" und \"Kennwort\". Sie benötigen Sie später zur Anmeldung.",
+      "example_incorrect": "Notieren Sie sich die Angaben in den Feldern \"Benutzername\" und \"Kennwort\"; Sie benötigen Sie später zur Anmeldung.",
+      "notes": ""
+    },
+    {
+      "rule_id": "DE-DE_RULE_00099",
+      "language": "DE-DE",
+      "category": "punctuation",
+      "section": "Question mark",
+      "description": "Avoid question marks in headers as they are less used in German than English",
+      "example_correct": "Ziel",
+      "example_incorrect": "Was möchten Sie tun?",
+      "notes": "For headings"
+    },
+    {
+      "rule_id": "DE-DE_RULE_00100",
+      "language": "DE-DE",
+      "category": "punctuation",
+      "section": "Question mark",
+      "description": "Use descriptive headings instead of questions",
+      "example_correct": "Informationen zu RingCentral",
+      "example_incorrect": "Was ist RingCentral?",
+      "notes": ""
+    },
+    {
+      "rule_id": "DE-DE_RULE_00101",
+      "language": "DE-DE",
+      "category": "punctuation",
+      "section": "Exclamation mark",
+      "description": "Exclamation marks are less common in German than English, sometimes better to remove them",
+      "example_correct": "Die Datei wurde nicht gefunden.",
+      "example_incorrect": "Die Datei wurde nicht gefunden!",
+      "notes": ""
+    },
+    {
+      "rule_id": "DE-DE_RULE_00102",
+      "language": "DE-DE",
+      "category": "punctuation",
+      "section": "Exclamation mark",
+      "description": "Do not use multiple exclamation marks, one is enough",
+      "example_correct": "Vorsicht!",
+      "example_incorrect": "Vorsicht!!!",
+      "notes": ""
+    },
+    {
+      "rule_id": "DE-DE_RULE_00103",
+      "language": "DE-DE",
+      "category": "punctuation",
+      "section": "Exclamation mark",
+      "description": "Do not use exclamation marks in buttons",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "DE-DE_RULE_00104",
+      "language": "DE-DE",
+      "category": "punctuation",
+      "section": "Ellipsis (…)",
+      "description": "Insert non-breaking space between text and ellipsis at end of sentence",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "DE-DE_RULE_00105",
+      "language": "DE-DE",
+      "category": "punctuation",
+      "section": "Hyphen (-) / en-dash (–) / em-dash (—)",
+      "description": "Use hyphen for compounds",
+      "example_correct": "Windows-Betriebssystem, 500-MB-Festplatte, RingCentral-Benutzer",
+      "example_incorrect": "Windows–Betriebssystem, 500–MB–Festplatte",
+      "notes": ""
+    },
+    {
+      "rule_id": "DE-DE_RULE_00106",
+      "language": "DE-DE",
+      "category": "punctuation",
+      "section": "Hyphen (-) / en-dash (–) / em-dash (—)",
+      "description": "Use en-dash as minus sign",
+      "example_correct": "6 – 2 = 4",
+      "example_incorrect": "6-2=4 // 6 - 2 = 4",
+      "notes": "ALT+0151"
+    },
+    {
+      "rule_id": "DE-DE_RULE_00107",
+      "language": "DE-DE",
+      "category": "punctuation",
+      "section": "Hyphen (-) / en-dash (–) / em-dash (—)",
+      "description": "Use en-dash where it replaces colon or comma",
+      "example_correct": "RingCentral – die perfekte Lösung!",
+      "example_incorrect": "RingCentral - die perfekte Lösung!",
+      "notes": ""
+    },
+    {
+      "rule_id": "DE-DE_RULE_00108",
+      "language": "DE-DE",
+      "category": "punctuation",
+      "section": "Hyphen (-) / en-dash (–) / em-dash (—)",
+      "description": "Use en-dash for indicating ranges",
+      "example_correct": "Mo bis Fr, 8–16 Uhr, Seite 1–4",
+      "example_incorrect": "Mo bis Fr, 8 - 16 Uhr, Seite 1-4",
+      "notes": "Use 'bis' in flow text: Wir sind von Montag bis Freitag für Sie da."
+    },
+    {
+      "rule_id": "DE-DE_RULE_00109",
+      "language": "DE-DE",
+      "category": "punctuation",
+      "section": "Hyphen (-) / en-dash (–) / em-dash (—)",
+      "description": "Use colon instead of em-dash",
+      "example_correct": "Aktivieren: Klicken Sie auf diese Option, um den Server zu aktivieren.",
+      "example_incorrect": "Aktivieren — Klicken Sie auf diese Option, um den Server zu aktivieren.",
+      "notes": "Em-dashes are not used in German"
+    },
+    {
+      "rule_id": "DE-DE_RULE_00110",
+      "language": "DE-DE",
+      "category": "punctuation",
+      "section": "Quotation marks",
+      "description": "Generally use straight double upper quotes",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "NEVER use straight single quote for variables"
+    },
+    {
+      "rule_id": "DE-DE_RULE_00111",
+      "language": "DE-DE",
+      "category": "punctuation",
+      "section": "Quotation marks",
+      "description": "Use typographic quotation marks for printed documents",
+      "example_correct": "„typographic quotation marks",
+      "example_incorrect": "",
+      "notes": "ALT+0132, ALT+0147"
+    },
+    {
+      "rule_id": "DE-DE_RULE_00112",
+      "language": "DE-DE",
+      "category": "punctuation",
+      "section": "Quotation marks",
+      "description": "Only use single quotes if software requirements make it necessary",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "To avoid breaking builds or causing technical issues"
+    },
+    {
+      "rule_id": "DE-DE_RULE_00113",
+      "language": "DE-DE",
+      "category": "punctuation",
+      "section": "Quotation marks",
+      "description": "Place punctuation outside quotes unless quoting entire sentence",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "DE-DE_RULE_00114",
+      "language": "DE-DE",
+      "category": "grammar",
+      "section": "Prepositions",
+      "description": "Use 'migrieren nach' instead of 'migrieren zu' or 'migrieren auf'",
+      "example_correct": "migrieren nach",
+      "example_incorrect": "migrieren zu / migrieren auf",
+      "notes": "According to Microsoft preposition guidelines"
+    },
+    {
+      "rule_id": "DE-DE_RULE_00115",
+      "language": "DE-DE",
+      "category": "grammar",
+      "section": "Prepositions",
+      "description": "Use 'importieren von/in' instead of 'importieren von/nach'",
+      "example_correct": "importieren von/in",
+      "example_incorrect": "importieren von/nach",
+      "notes": ""
+    },
+    {
+      "rule_id": "DE-DE_RULE_00116",
+      "language": "DE-DE",
+      "category": "grammar",
+      "section": "Prepositions",
+      "description": "Use 'exportieren nach' instead of 'exportieren zu'",
+      "example_correct": "exportieren nach",
+      "example_incorrect": "exportieren zu",
+      "notes": ""
+    },
+    {
+      "rule_id": "DE-DE_RULE_00117",
+      "language": "DE-DE",
+      "category": "grammar",
+      "section": "Prepositions",
+      "description": "Use 'Integration in' instead of 'Integration mit'",
+      "example_correct": "Integration in",
+      "example_incorrect": "Integration mit",
+      "notes": ""
+    },
+    {
+      "rule_id": "DE-DE_RULE_00118",
+      "language": "DE-DE",
+      "category": "grammar",
+      "section": "Prepositions",
+      "description": "Use 'aktualisieren auf' instead of 'aktualisieren zu'",
+      "example_correct": "aktualisieren auf",
+      "example_incorrect": "aktualisieren zu",
+      "notes": ""
+    },
+    {
+      "rule_id": "DE-DE_RULE_00119",
+      "language": "DE-DE",
+      "category": "grammar",
+      "section": "Prepositions",
+      "description": "Use 'ändern in' instead of 'ändern zu'",
+      "example_correct": "ändern in",
+      "example_incorrect": "ändern zu",
+      "notes": ""
+    },
+    {
+      "rule_id": "DE-DE_RULE_00120",
+      "language": "DE-DE",
+      "category": "grammar",
+      "section": "Prepositions",
+      "description": "Use 'kompatibel mit' instead of 'kompatibel zu'",
+      "example_correct": "kompatibel mit",
+      "example_incorrect": "kompatibel zu",
+      "notes": ""
+    },
+    {
+      "rule_id": "DE-DE_RULE_00121",
+      "language": "DE-DE",
+      "category": "grammar",
+      "section": "Prepositions",
+      "description": "Use 'klicken auf' instead of 'anklicken'",
+      "example_correct": "klicken auf",
+      "example_incorrect": "anklicken",
+      "notes": ""
+    },
+    {
+      "rule_id": "DE-DE_RULE_00122",
+      "language": "DE-DE",
+      "category": "grammar",
+      "section": "Prepositions",
+      "description": "Use 'verbinden mit' instead of 'verbinden zu'",
+      "example_correct": "verbinden mit",
+      "example_incorrect": "verbinden zu",
+      "notes": ""
+    },
+    {
+      "rule_id": "DE-DE_RULE_00123",
+      "language": "DE-DE",
+      "category": "grammar",
+      "section": "Prepositions",
+      "description": "Use 'auf der Symbolleiste' instead of 'in der Symbolleiste'",
+      "example_correct": "auf der Symbolleiste",
+      "example_incorrect": "in der Symbolleiste",
+      "notes": ""
+    },
+    {
+      "rule_id": "DE-DE_RULE_00124",
+      "language": "DE-DE",
+      "category": "grammar",
+      "section": "Prepositions",
+      "description": "Use 'auf dem Menü / Internet / Web' instead of 'im Menü / Netzwerk / Internet / Web'",
+      "example_correct": "auf dem Menü / Internet / Web",
+      "example_incorrect": "im Menü / Netzwerk / Internet / Web",
+      "notes": ""
+    },
+    {
+      "rule_id": "DE-DE_RULE_00125",
+      "language": "DE-DE",
+      "category": "grammar",
+      "section": "Prepositions",
+      "description": "Use 'auf einer Seite / Website / Webseite / einem Bildschirm' instead of 'in einer Seite / Website / Webseite / einem Bildschirm'",
+      "example_correct": "auf einer Seite / Website / Webseite / einem Bildschirm",
+      "example_incorrect": "in einer Seite / Website / Webseite / einem Bildschirm",
+      "notes": ""
+    },
+    {
+      "rule_id": "DE-DE_RULE_00126",
+      "language": "DE-DE",
+      "category": "grammar",
+      "section": "Prepositions",
+      "description": "Use 'Anzahl von' instead of 'Anzahl an'",
+      "example_correct": "Anzahl von",
+      "example_incorrect": "Anzahl an",
+      "notes": ""
+    },
+    {
+      "rule_id": "DE-DE_RULE_00127",
+      "language": "DE-DE",
+      "category": "abbreviations",
+      "section": "Abbreviations",
+      "description": "Avoid abbreviations whenever possible",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "May need to abbreviate in UI options"
+    },
+    {
+      "rule_id": "DE-DE_RULE_00128",
+      "language": "DE-DE",
+      "category": "abbreviations",
+      "section": "Abbreviations",
+      "description": "Shorten word by at least two letters, abbreviation should end with consonant and period",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "DE-DE_RULE_00129",
+      "language": "DE-DE",
+      "category": "abbreviations",
+      "section": "Abbreviations",
+      "description": "If word has double consonant, abbreviate after the second consonant",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "DE-DE_RULE_00130",
+      "language": "DE-DE",
+      "category": "abbreviations",
+      "section": "Acronyms",
+      "description": "Translation of acronyms depends on project requirements and should be checked for localizability",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "DE-DE_RULE_00131",
+      "language": "DE-DE",
+      "category": "abbreviations",
+      "section": "Acronyms",
+      "description": "For well-known established acronyms, use acronym only",
+      "example_correct": "CD, DSL, PIN, SMS",
+      "example_incorrect": "",
+      "notes": "Spelling out the term is not necessary"
+    }
+  ]
+}

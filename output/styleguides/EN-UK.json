@@ -1,0 +1,1057 @@
+{
+  "language": "EN-UK",
+  "source": "RC_Style_Guide_EN-UK_20241207.pdf",
+  "total_rules": 105,
+  "rules": [
+    {
+      "rule_id": "EN-UK_RULE_00001",
+      "language": "EN-UK",
+      "category": "localization_general",
+      "section": "General Overview",
+      "description": "Produce the most natural-sounding translation that captures the intended meaning of RingCentral content and transfers it into natural language suited to a wide UK English-speaking audience.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Avoid literal transposition of US English syntax in UK English: sentences may need to be rewritten with an adapted syntax. Balance faithfulness to the source and readability in the target language."
+    },
+    {
+      "rule_id": "EN-UK_RULE_00002",
+      "language": "EN-UK",
+      "category": "style_tone",
+      "section": "General Overview",
+      "description": "Use a clear and precise style that is easily understood, putting yourself in the reader's position to determine whether output is clear, fluent, consistent and accurate.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Avoid heaviness, ambiguities, repetitions and Americanisms. Also avoid enriching the text excessively."
+    },
+    {
+      "rule_id": "EN-UK_RULE_00003",
+      "language": "EN-UK",
+      "category": "localization_general",
+      "section": "General Overview",
+      "description": "If topics in this style guide conflict with RingCentral-approved terminology lists, instructions or reference material provided, the client's specific instructions should take precedence over this document.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "EN-UK_RULE_00004",
+      "language": "EN-UK",
+      "category": "ui_elements",
+      "section": "Buttons",
+      "description": "Buttons should typically be translated as verbs - generally, the imperative form is used. Be concise, avoid using articles and prepositions and get straight to the point.",
+      "example_correct": "Submit Form, Email User, View Demo, Contact Us",
+      "example_incorrect": "Submitting Form, E-mailing User, Viewing Demo, Contacting Us",
+      "notes": "Pay particular attention to possible character/space limitations depending on project-specific requirements."
+    },
+    {
+      "rule_id": "EN-UK_RULE_00005",
+      "language": "EN-UK",
+      "category": "terminology",
+      "section": "Names of RingCentral products, applications and features",
+      "description": "Product/application names are often trademarked and thus not localisable. Before translating any product, application, third-party or feature names, check your reference material and linguistic instructions, including terminology lists.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "EN-UK_RULE_00006",
+      "language": "EN-UK",
+      "category": "localization_general",
+      "section": "Adaptation to UK English market",
+      "description": "Replace US English examples with UK English equivalents when necessary for localisation/adaptation.",
+      "example_correct": "Searching for '?ing' will return knowledge base items containing the word 'ring'",
+      "example_incorrect": "",
+      "notes": "Example given about wildcard operators where fishing, hunting, ring or drinking are UK-appropriate examples."
+    },
+    {
+      "rule_id": "EN-UK_RULE_00007",
+      "language": "EN-UK",
+      "category": "style_tone",
+      "section": "Style and tone",
+      "description": "Be precise, clear, consistent and natural. Rephrase sentences that are not clear enough, and rework sentences that may sound unnatural.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Do not hesitate to break up long sentences into smaller, friendlier parts in order to provide better understanding."
+    },
+    {
+      "rule_id": "EN-UK_RULE_00008",
+      "language": "EN-UK",
+      "category": "style_tone",
+      "section": "Style and tone",
+      "description": "Use accurate and concise style - do not include ambiguities or mistranslations.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Part of appropriate style for technical texts and documents."
+    },
+    {
+      "rule_id": "EN-UK_RULE_00009",
+      "language": "EN-UK",
+      "category": "style_tone",
+      "section": "Style and tone",
+      "description": "Use clear and coherent (readable) style - the target reader should understand the text easily.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Part of appropriate style for technical texts and documents."
+    },
+    {
+      "rule_id": "EN-UK_RULE_00010",
+      "language": "EN-UK",
+      "category": "style_tone",
+      "section": "Style and tone",
+      "description": "Remain objective - remain neutral, do not insert your own opinion, avoid colloquial or slang words and always be politically correct.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Part of appropriate style for technical texts and documents."
+    },
+    {
+      "rule_id": "EN-UK_RULE_00011",
+      "language": "EN-UK",
+      "category": "style_tone",
+      "section": "Style and tone",
+      "description": "Be correct - the content and numbers should be free of mistakes.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Part of appropriate style for technical texts and documents."
+    },
+    {
+      "rule_id": "EN-UK_RULE_00012",
+      "language": "EN-UK",
+      "category": "style_tone",
+      "section": "Style and tone",
+      "description": "Be idiomatically correct - use correct verbs, metaphors, expressions, etc. so that the text sounds natural.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Part of appropriate style for technical texts and documents."
+    },
+    {
+      "rule_id": "EN-UK_RULE_00013",
+      "language": "EN-UK",
+      "category": "style_tone",
+      "section": "Style and tone",
+      "description": "Be complete - do not leave out any content (words, phrases, whole paragraphs).",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Part of appropriate style for technical texts and documents."
+    },
+    {
+      "rule_id": "EN-UK_RULE_00014",
+      "language": "EN-UK",
+      "category": "style_tone",
+      "section": "Style and tone",
+      "description": "Keep the target reader in mind - use an appropriate tone.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Part of appropriate style for technical texts and documents."
+    },
+    {
+      "rule_id": "EN-UK_RULE_00015",
+      "language": "EN-UK",
+      "category": "localization_general",
+      "section": "Cross-references",
+      "description": "For internal cross-references (references to chapters, sections, headings or titles within the file or document you are translating), reference consistently throughout your translation and all files.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Don't forget that one document might be part of a larger translation kit."
+    },
+    {
+      "rule_id": "EN-UK_RULE_00016",
+      "language": "EN-UK",
+      "category": "localization_general",
+      "section": "Cross-references",
+      "description": "For external cross-references (references to titles of other documents not being translated or already translated), check whether the text or document has been localised before and match up relevant translations.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "If document has not been translated before, please leave in US English. Contact Project Management team or Language Lead if unable to retrieve this information."
+    },
+    {
+      "rule_id": "EN-UK_RULE_00017",
+      "language": "EN-UK",
+      "category": "style_tone",
+      "section": "Politeness",
+      "description": "UK English tends to be 'overly polite' in places. Instructions given to the user often begin with 'Please'.",
+      "example_correct": "Please enter your username.",
+      "example_incorrect": "Enter your user name.",
+      "notes": "US English tends to be more informal, using more direct phrases and the imperative form."
+    },
+    {
+      "rule_id": "EN-UK_RULE_00018",
+      "language": "EN-UK",
+      "category": "style_tone",
+      "section": "Gender",
+      "description": "UK English tends to be gender-neutral where possible, depending on the context. Avoid the use of 'him/her'.",
+      "example_correct": "The service team will contact the customer and inform them.",
+      "example_incorrect": "The service team will contact the customer and inform him/her.",
+      "notes": ""
+    },
+    {
+      "rule_id": "EN-UK_RULE_00019",
+      "language": "EN-UK",
+      "category": "grammar",
+      "section": "Passive voice",
+      "description": "Whenever possible, avoid the passive voice, which is too formal and wordy, and use the active voice to improve readability.",
+      "example_correct": "This topic provides all details. Several new features are highlighted in this white paper.",
+      "example_incorrect": "All details are provided in this topic. This white paper highlights some new features.",
+      "notes": "The passive voice is only recommended in specific texts such as legal texts and official documents (e.g. privacy policies, contract terms and conditions, NDAs etc.)."
+    },
+    {
+      "rule_id": "EN-UK_RULE_00020",
+      "language": "EN-UK",
+      "category": "grammar",
+      "section": "Use of possessives",
+      "description": "Try not to use possessives excessively when transferring text into UK English. Simple articles can often replace possessive adjectives, and if repeated previously, the possessive adjective can be omitted.",
+      "example_correct": "You can edit your files on either your computer or mobile device.",
+      "example_incorrect": "You can edit your files on either your computer, or your mobile device.",
+      "notes": "The use of possessives is quite common in US English."
+    },
+    {
+      "rule_id": "EN-UK_RULE_00021",
+      "language": "EN-UK",
+      "category": "grammar",
+      "section": "Articles",
+      "description": "For the proper use of articles, refer to standard UK English grammar rules.",
+      "example_correct": "Input text into the field below. This text will be displayed on the next screen. The text should be clear and concise.",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "EN-UK_RULE_00022",
+      "language": "EN-UK",
+      "category": "grammar",
+      "section": "Translation of the -ing form",
+      "description": "The -ing verb form can be left as-is in some cases, but in other cases, it should be adapted.",
+      "example_correct": "Our controllers come with a cache that protects your data integrity. These services can assist with implementations, from the initial site architecture to implementing a complete farm. By accessing this website, you agree to the terms and conditions",
+      "example_incorrect": "Our controllers come with a cache protecting your data integrity. These services can assist with implementations from initial site architecture to implementing a complete farm. By accessing this web site, you agree to the terms and conditions",
+      "notes": ""
+    },
+    {
+      "rule_id": "EN-UK_RULE_00023",
+      "language": "EN-UK",
+      "category": "style_tone",
+      "section": "Conciseness",
+      "description": "English sometimes uses additional words to express concepts. Check the context, concentrate on the meaning and render it as clearly as you can.",
+      "example_correct": "Your Name, Email Address and Company Name",
+      "example_incorrect": "Your Name, Your Email Address, Your Company Name",
+      "notes": ""
+    },
+    {
+      "rule_id": "EN-UK_RULE_00024",
+      "language": "EN-UK",
+      "category": "style_tone",
+      "section": "Repetitions",
+      "description": "When localising software or documentation, repetitions acceptable in US English might not be acceptable in UK English. Such repetitions can be replaced with pronouns or via other methods.",
+      "example_correct": "To delete a file from your computer, select it from the right-hand pane and click Delete",
+      "example_incorrect": "To delete a file from your computer, select the file from the right pane and click Delete",
+      "notes": ""
+    },
+    {
+      "rule_id": "EN-UK_RULE_00025",
+      "language": "EN-UK",
+      "category": "spelling",
+      "section": "Capitalisation",
+      "description": "Follow UK English capitalisation rules which sometimes differ from US English ones.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "EN-UK_RULE_00026",
+      "language": "EN-UK",
+      "category": "spelling",
+      "section": "Capitalisation",
+      "description": "Use capital letters for proper names, product names, geographical names.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "EN-UK_RULE_00027",
+      "language": "EN-UK",
+      "category": "spelling",
+      "section": "Capitalisation",
+      "description": "Use capital letters for the first word after a full stop, exclamation mark, question mark or ellipsis, and the first word after a short phrase with a colon.",
+      "example_correct": "Warning: Do not forget this rule",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "EN-UK_RULE_00028",
+      "language": "EN-UK",
+      "category": "spelling",
+      "section": "Capitalisation",
+      "description": "For headings, use capital letters for all words except for articles, pronouns, coordinating conjunctions and prepositions. Use capitals for nouns and adjectives of organisations, bodies, departments, awards and events.",
+      "example_correct": "United Nations, Internal Affairs",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "EN-UK_RULE_00029",
+      "language": "EN-UK",
+      "category": "spelling",
+      "section": "Capitalisation",
+      "description": "UK English makes extensive use of capitalisation, including for nationalities, languages, religions, days of the week, months and job titles. However, seasons should not be capitalised.",
+      "example_correct": "Tuesday, July, US President Barack Obama, This app will be available next spring, Our friend is Spanish",
+      "example_incorrect": "tuesday, july, U.S. president barack obama, This app will be available next Spring, Our friend is spanish",
+      "notes": ""
+    },
+    {
+      "rule_id": "EN-UK_RULE_00030",
+      "language": "EN-UK",
+      "category": "spelling",
+      "section": "Capitalisation",
+      "description": "For shorter headings/titles, UI options, menus, etc. follow the source capitalisation when title case is used in US English source to avoid inconsistencies.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "It is increasingly common to use title case in UK English as well for these elements."
+    },
+    {
+      "rule_id": "EN-UK_RULE_00031",
+      "language": "EN-UK",
+      "category": "spelling",
+      "section": "Capitalisation",
+      "description": "For full sentences (also in longer headings), sentence case should be used.",
+      "example_correct": "How to use this app",
+      "example_incorrect": "How to Use This App",
+      "notes": ""
+    },
+    {
+      "rule_id": "EN-UK_RULE_00032",
+      "language": "EN-UK",
+      "category": "spelling",
+      "section": "Capitalisation",
+      "description": "Legal texts are an exception where capitalisation is used to denote specific terms in an agreement and must be retained.",
+      "example_correct": "This agreement (the 'Agreement') is a binding agreement. Install and use a copy of the Software.",
+      "example_incorrect": "This agreement (the 'agreement') is a binding agreement. Install and use a copy of the software.",
+      "notes": "Sometimes whole paragraphs are written in upper case, and this formatting must be preserved as these conventions may have legal implications."
+    },
+    {
+      "rule_id": "EN-UK_RULE_00033",
+      "language": "EN-UK",
+      "category": "spelling",
+      "section": "Capitalisation",
+      "description": "For titles of documents, standard title capitalisation rules should be used.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "EN-UK_RULE_00034",
+      "language": "EN-UK",
+      "category": "spelling",
+      "section": "Spelling",
+      "description": "Run the spellchecker when you have completed your translation and ensure that it is set to UK English.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "EN-UK_RULE_00035",
+      "language": "EN-UK",
+      "category": "punctuation",
+      "section": "Spacing",
+      "description": "In UK English, there is generally no space before punctuation signs, such as full stops, question marks, colons, semicolons and exclamation marks.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "EN-UK_RULE_00036",
+      "language": "EN-UK",
+      "category": "punctuation",
+      "section": "Spacing",
+      "description": "There is always a space before speech marks, brackets and en-dashes (and in the case of en-dashes, a space afterwards as well).",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "EN-UK_RULE_00037",
+      "language": "EN-UK",
+      "category": "punctuation",
+      "section": "Spacing",
+      "description": "Use non-breaking spaces to prevent certain expressions to be separated at the end of a line, such as people's names, numbers, software names and versions etc.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "To obtain such a space, press Ctrl + Shift + Space bar in Microsoft Word, or use Alt + 0160."
+    },
+    {
+      "rule_id": "EN-UK_RULE_00038",
+      "language": "EN-UK",
+      "category": "punctuation",
+      "section": "Spacing",
+      "description": "Brand name tags need to be separated from the preceding or following text with a space.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "EN-UK_RULE_00039",
+      "language": "EN-UK",
+      "category": "punctuation",
+      "section": "Comma",
+      "description": "Do not use the Oxford comma.",
+      "example_correct": "I went to the shop and bought cereal, milk and orange juice",
+      "example_incorrect": "I went to the shop and bought cereal, milk, and orange juice",
+      "notes": ""
+    },
+    {
+      "rule_id": "EN-UK_RULE_00040",
+      "language": "EN-UK",
+      "category": "punctuation",
+      "section": "Comma",
+      "description": "Use a comma to separate sub-clauses and main clauses.",
+      "example_correct": "If necessary, fill in the following fields",
+      "example_incorrect": "If necessary fill in the following fields",
+      "notes": ""
+    },
+    {
+      "rule_id": "EN-UK_RULE_00041",
+      "language": "EN-UK",
+      "category": "punctuation",
+      "section": "Comma",
+      "description": "Do not use a comma after 'e.g.' and 'i.e.', or before 'etc.'.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "EN-UK_RULE_00042",
+      "language": "EN-UK",
+      "category": "punctuation",
+      "section": "Full stop",
+      "description": "A full stop is used to end a sentence, a paragraph or an abbreviated word. When a sentence is placed between brackets or quotes, the full stop is placed inside.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "EN-UK_RULE_00043",
+      "language": "EN-UK",
+      "category": "punctuation",
+      "section": "Full stop",
+      "description": "Do not use full stops after headings and titles, after columns in a table or after captions used for illustrations, tables etc., unless the expression is considered a full sentence.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "EN-UK_RULE_00044",
+      "language": "EN-UK",
+      "category": "punctuation",
+      "section": "Full stop",
+      "description": "Do not use full stops if a sentence ends with an abbreviation, a question or exclamation mark, ellipsis or colon.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "EN-UK_RULE_00045",
+      "language": "EN-UK",
+      "category": "punctuation",
+      "section": "Colon",
+      "description": "Colons are used at the start of bullet point lists, or to present an example of something.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "EN-UK_RULE_00046",
+      "language": "EN-UK",
+      "category": "punctuation",
+      "section": "Colon",
+      "description": "Colons can be used with short phrases to denote a warning or notification.",
+      "example_correct": "Warning: Note:",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "EN-UK_RULE_00047",
+      "language": "EN-UK",
+      "category": "punctuation",
+      "section": "Colon",
+      "description": "Colons can be used with an incomplete sentence at the start of a bullet point list where the bullet point items complete this sentence.",
+      "example_correct": "Please make sure that you:",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "EN-UK_RULE_00048",
+      "language": "EN-UK",
+      "category": "punctuation",
+      "section": "Semicolon",
+      "description": "Semicolons are used to separate items in a list where the exclusive use of commas would be confusing, at the end of bullet point items which are not full sentences and as a longer break where a full stop could also be used.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "However, they are used more often in formal language, so avoid the use of semicolons in more colloquial language."
+    },
+    {
+      "rule_id": "EN-UK_RULE_00049",
+      "language": "EN-UK",
+      "category": "punctuation",
+      "section": "Question mark",
+      "description": "Question marks are used the same in UK English as in US English. It should not be combined with an exclamation mark.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "EN-UK_RULE_00050",
+      "language": "EN-UK",
+      "category": "punctuation",
+      "section": "Exclamation mark",
+      "description": "Avoid the use of exclamation marks in more formal language. When exclamation marks appear in groups, only keep one.",
+      "example_correct": "",
+      "example_incorrect": "!!!",
+      "notes": ""
+    },
+    {
+      "rule_id": "EN-UK_RULE_00051",
+      "language": "EN-UK",
+      "category": "punctuation",
+      "section": "Hyphen, en-dash (–) and em-dash (—)",
+      "description": "Use hyphens for compound adjectives.",
+      "example_correct": "high-priced item",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "EN-UK_RULE_00052",
+      "language": "EN-UK",
+      "category": "punctuation",
+      "section": "Hyphen, en-dash (–) and em-dash (—)",
+      "description": "Use hyphens as a minus sign for negative values.",
+      "example_correct": "-38°C",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "EN-UK_RULE_00053",
+      "language": "EN-UK",
+      "category": "punctuation",
+      "section": "Hyphen, en-dash (–) and em-dash (—)",
+      "description": "Use hyphens with certain prefixes like 'sub-', 'post-' and 're-' where the following letter is 'e' or 'u'.",
+      "example_correct": "re-entry, re-use",
+      "example_incorrect": "",
+      "notes": "However, these can vary, so when in doubt, check a reputable dictionary for guidance on spelling."
+    },
+    {
+      "rule_id": "EN-UK_RULE_00054",
+      "language": "EN-UK",
+      "category": "punctuation",
+      "section": "Hyphen, en-dash (–) and em-dash (—)",
+      "description": "Where em-dashes are used in US English, en-dashes are used instead in UK English. When used this way, the en-dash should always have spaces either side, and the em-dash is not used at all in UK English.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Typically used to set off parenthetical information, to emphasise a conclusion or to replace a colon."
+    },
+    {
+      "rule_id": "EN-UK_RULE_00055",
+      "language": "EN-UK",
+      "category": "punctuation",
+      "section": "Hyphen, en-dash (–) and em-dash (—)",
+      "description": "The en dash is used to represent ranges.",
+      "example_correct": "Monday–Friday, January–December, numbers 1–10",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "EN-UK_RULE_00056",
+      "language": "EN-UK",
+      "category": "punctuation",
+      "section": "Brackets and square brackets",
+      "description": "Brackets are used to denote additional information. When used for full sentences, the final punctuation should be placed within the bracket.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "EN-UK_RULE_00057",
+      "language": "EN-UK",
+      "category": "punctuation",
+      "section": "Brackets and square brackets",
+      "description": "Square brackets can be used for inserting editorial information, for example, information that is missing from an original quote, or for '[sic]' following incorrectly spelt information in a quote. Square brackets are also used instead of normal brackets when used within brackets.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "EN-UK_RULE_00058",
+      "language": "EN-UK",
+      "category": "punctuation",
+      "section": "Quotation marks",
+      "description": "Never use straight single quote for variables.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Update on 20241207"
+    },
+    {
+      "rule_id": "EN-UK_RULE_00059",
+      "language": "EN-UK",
+      "category": "punctuation",
+      "section": "Quotation marks",
+      "description": "Generally, single quotation marks are to be used in UK English.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "EN-UK_RULE_00060",
+      "language": "EN-UK",
+      "category": "punctuation",
+      "section": "Quotation marks",
+      "description": "Punctuation should be placed inside the quotes when the quotes are full sentences or are direct quotes, but should be placed outside when only part of the quote has been inserted and the speech is not direct.",
+      "example_correct": "'We started using the app earlier this year.' 'The app is very nice', she said, 'and my entire team enjoy using it'. She also mentioned that 'the app has a lot of useful features'.",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "EN-UK_RULE_00061",
+      "language": "EN-UK",
+      "category": "punctuation",
+      "section": "Quotation marks",
+      "description": "Use 'curly' quotes instead of straight ones.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Alt + 0145 (') and Alt + 0146 (')"
+    },
+    {
+      "rule_id": "EN-UK_RULE_00062",
+      "language": "EN-UK",
+      "category": "punctuation",
+      "section": "Ampersand (&)",
+      "description": "Avoid using ampersands except for in titles and short UI elements where space is limited.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "EN-UK_RULE_00063",
+      "language": "EN-UK",
+      "category": "punctuation",
+      "section": "Ellipsis (…)",
+      "description": "Avoid overuse of ellipsis. Use it to indicate omitted text and ongoing computer operations, such as loading or processing actions, when users are waiting for a response.",
+      "example_correct": "loading…",
+      "example_incorrect": "",
+      "notes": "Do not use it to indicate a trailing-off though."
+    },
+    {
+      "rule_id": "EN-UK_RULE_00064",
+      "language": "EN-UK",
+      "category": "punctuation",
+      "section": "Ellipsis (…)",
+      "description": "Follow an ellipsis with a capital letter unless it is bracketed or represents an omission mid-sentence.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "EN-UK_RULE_00065",
+      "language": "EN-UK",
+      "category": "punctuation",
+      "section": "Ellipsis (…)",
+      "description": "There should be no space before an ellipsis, but a space after it (unless it is bracketed). An ellipsis mid-sentence requires a space before and after.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "EN-UK_RULE_00066",
+      "language": "EN-UK",
+      "category": "punctuation",
+      "section": "Apostrophe",
+      "description": "Use the 'smart' (curly) apostrophe symbol in contractions, possessives and rare plurals.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Keyboard shortcut Alt + 0146"
+    },
+    {
+      "rule_id": "EN-UK_RULE_00067",
+      "language": "EN-UK",
+      "category": "formatting",
+      "section": "Formatting to use in bullet-point lists",
+      "description": "If the bullet-point items are complete sentences (with a conjugated verb), each item should begin with a capital letter and end with a full stop.",
+      "example_correct": "● For example, sentences should be formatted like this.\n● Please note that each additional item has the same formatting.",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "EN-UK_RULE_00068",
+      "language": "EN-UK",
+      "category": "formatting",
+      "section": "Formatting to use in bullet-point lists",
+      "description": "If the bullet-point items are short, individual items, do not end each item with any punctuation, apart from the final item which you should end in a full stop.",
+      "example_correct": "Bullet-point items not requiring end punctuation are:\n● short\n● concise\n● sometimes several words long\n● inclusive of a final full stop.",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "EN-UK_RULE_00069",
+      "language": "EN-UK",
+      "category": "formatting",
+      "section": "Formatting to use in bullet-point lists",
+      "description": "If the bulleted items are incomplete sentences which complete the previous sentence, end each one with a semicolon, and end the final one with a full stop.",
+      "example_correct": "For example, you should:\n● format sentences like this if they complete the prior sentence;\n● ensure that semicolons are used;\n● not forget to end the last item with a full stop.",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "EN-UK_RULE_00070",
+      "language": "EN-UK",
+      "category": "abbreviations",
+      "section": "Abbreviations",
+      "description": "Abbreviations should be avoided whenever possible, but you may need to abbreviate words in items such as UI options. As a rule, shorten a word by at least two letters.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "EN-UK_RULE_00071",
+      "language": "EN-UK",
+      "category": "abbreviations",
+      "section": "Abbreviations",
+      "description": "If the abbreviation still constitutes part of the word, end it with a full stop. However, if vowels or consonants have been taken out so that it no longer constitutes part of the word, it should not end in a full stop.",
+      "example_correct": "Including - Incl., Authorisation - Auth., Department - Dept, Standard - Std",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "EN-UK_RULE_00072",
+      "language": "EN-UK",
+      "category": "abbreviations",
+      "section": "Acronyms",
+      "description": "Acronyms sometimes separated by full stops in US English should not use any full stops in UK English.",
+      "example_correct": "US",
+      "example_incorrect": "U.S.",
+      "notes": "Particularly in country names."
+    },
+    {
+      "rule_id": "EN-UK_RULE_00073",
+      "language": "EN-UK",
+      "category": "abbreviations",
+      "section": "Acronyms",
+      "description": "If acronyms are not followed by any expansion or description, these can be left as-is.",
+      "example_correct": "OLE",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "EN-UK_RULE_00074",
+      "language": "EN-UK",
+      "category": "numbers",
+      "section": "Numbers",
+      "description": "Numbers should be written out in full when used as nouns.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "EN-UK_RULE_00075",
+      "language": "EN-UK",
+      "category": "numbers",
+      "section": "Numbers",
+      "description": "Numbers should be written out in full when appearing at the beginning of a sentence.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "EN-UK_RULE_00076",
+      "language": "EN-UK",
+      "category": "numbers",
+      "section": "Numbers",
+      "description": "Numbers should be written out in full when appearing alone and representing quantities below 10.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "EN-UK_RULE_00077",
+      "language": "EN-UK",
+      "category": "numbers",
+      "section": "Numbers",
+      "description": "Numbers should be written out in full in expressions such as 'in the eighties'.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "EN-UK_RULE_00078",
+      "language": "EN-UK",
+      "category": "numbers",
+      "section": "Numbers",
+      "description": "Dates, large numbers, ages and document references (paragraph, page etc.) should be written as digits.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "EN-UK_RULE_00079",
+      "language": "EN-UK",
+      "category": "numbers",
+      "section": "Numbers",
+      "description": "Full stops should be used as the decimal point, and thousand comma separators should be used.",
+      "example_correct": "0.25, 1,254.28, 18,567",
+      "example_incorrect": "0,25, 1254,28, 18.567",
+      "notes": ""
+    },
+    {
+      "rule_id": "EN-UK_RULE_00080",
+      "language": "EN-UK",
+      "category": "numbers",
+      "section": "Numbers",
+      "description": "If the amount is over 1 million, a digit should be used before the 'million' (or 'billion' etc.) which is written out in full, depending on the context.",
+      "example_correct": "1 million",
+      "example_incorrect": "1,000,000",
+      "notes": ""
+    },
+    {
+      "rule_id": "EN-UK_RULE_00081",
+      "language": "EN-UK",
+      "category": "numbers",
+      "section": "Units of measurement",
+      "description": "Units of measurement should be separated from the preceding number by a non-breaking space.",
+      "example_correct": "533 MHz",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "EN-UK_RULE_00082",
+      "language": "EN-UK",
+      "category": "numbers",
+      "section": "Units of measurement",
+      "description": "If the content includes units of measures that do not apply to your locale, you might be instructed to either add the converted value of the system that applies to UK English first and leave the original one in brackets, or to convert the value into its metric equivalent, based on the project requirements.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Monitor sizes are always expressed in inches and are therefore one of the few exceptions."
+    },
+    {
+      "rule_id": "EN-UK_RULE_00083",
+      "language": "EN-UK",
+      "category": "numbers",
+      "section": "Units of measurement",
+      "description": "Use UK English spelling for units of measurement.",
+      "example_correct": "kilometre, metre, decimetre, centimetre, millimetre, litre, decilitre, centilitre, millilitre",
+      "example_incorrect": "kilometer, meter, decimeter, centimeter, millimeter, liter, deciliter, centiliter, milliliter",
+      "notes": "Unlike other measurement symbols, no space is included before the Celsius symbol."
+    },
+    {
+      "rule_id": "EN-UK_RULE_00084",
+      "language": "EN-UK",
+      "category": "numbers",
+      "section": "Units of measurement",
+      "description": "Note that the British metric ton differs from the US ton.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Please visit https://en.wikipedia.org/wiki/Ton for more details."
+    },
+    {
+      "rule_id": "EN-UK_RULE_00085",
+      "language": "EN-UK",
+      "category": "numbers",
+      "section": "Percentages",
+      "description": "Percentages are usually written in figures followed by the symbol %. No blank spaces are used between the figure and the symbol.",
+      "example_correct": "37%",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "EN-UK_RULE_00086",
+      "language": "EN-UK",
+      "category": "numbers",
+      "section": "Date and time",
+      "description": "Adapt date and time formats to UK English standards. The date format should be the day then month, and not the month then day.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "EN-UK_RULE_00087",
+      "language": "EN-UK",
+      "category": "numbers",
+      "section": "Date and time",
+      "description": "The short format must be separated by forward slashes.",
+      "example_correct": "15/03/2015",
+      "example_incorrect": "",
+      "notes": "Short date: DD/MM/YYYY"
+    },
+    {
+      "rule_id": "EN-UK_RULE_00088",
+      "language": "EN-UK",
+      "category": "numbers",
+      "section": "Date and time",
+      "description": "Use the recommended long date format.",
+      "example_correct": "Friday, 30 October 2015",
+      "example_incorrect": "",
+      "notes": "Long date: dddd, d MMMM yyyy"
+    },
+    {
+      "rule_id": "EN-UK_RULE_00089",
+      "language": "EN-UK",
+      "category": "numbers",
+      "section": "Date and time",
+      "description": "The standard time format is hh.mm, or hh:mm:ss. The 12-hour clock should be used, followed by 'am' or 'pm'. Note that 'am' and 'pm' are not capitalised. A space should also be included beforehand.",
+      "example_correct": "11.30 pm, 8 am to 8 pm",
+      "example_incorrect": "11:30 PM, 8AM to 8PM",
+      "notes": ""
+    },
+    {
+      "rule_id": "EN-UK_RULE_00090",
+      "language": "EN-UK",
+      "category": "numbers",
+      "section": "Date and time",
+      "description": "Use UK English date format for full dates.",
+      "example_correct": "Wednesday, 28 October 2015, 05/04/2000",
+      "example_incorrect": "Wednesday October 28, 2015, 2000-04-05",
+      "notes": ""
+    },
+    {
+      "rule_id": "EN-UK_RULE_00091",
+      "language": "EN-UK",
+      "category": "numbers",
+      "section": "Date and time",
+      "description": "Use the specified month abbreviations in extended and abbreviated forms.",
+      "example_correct": "January/Jan, February/Feb, March/Mar, April/Apr, May/May, June/Jun, July/Jul, August/Aug, September/Sep, October/Oct, November/Nov, December/Dec",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "EN-UK_RULE_00092",
+      "language": "EN-UK",
+      "category": "localization_general",
+      "section": "Fax cover style",
+      "description": "For RC UK/CA/UK/EU/AU brands, use UK English template with specific display names and layout configurations as specified in the brand matrix.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Template ID '1 UK English template' = (17 English_British) in db. Layout: Left: To | Right: From"
+    },
+    {
+      "rule_id": "EN-UK_RULE_00093",
+      "language": "EN-UK",
+      "category": "localization_general",
+      "section": "Fax cover style",
+      "description": "For BT UK brand, use UK English template with 'English (U.K.)' display name and remove US English legacy templates.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Template Names: 'English (U.K.)' for all platforms. Layout: Left: To | Right: From"
+    },
+    {
+      "rule_id": "EN-UK_RULE_00094",
+      "language": "EN-UK",
+      "category": "numbers",
+      "section": "Currency",
+      "description": "Currency symbols are placed immediately in front of the numeral, with no space afterwards.",
+      "example_correct": "€145.80",
+      "example_incorrect": "",
+      "notes": "For certain types of text, the three-letter ISO code may be used instead followed by space, e.g. 'EUR 145.80'."
+    },
+    {
+      "rule_id": "EN-UK_RULE_00095",
+      "language": "EN-UK",
+      "category": "trademarks",
+      "section": "Trademarks and product names",
+      "description": "RingCentral has a number of registered and unregistered trademarks and trademarked phrases. Refer to the most updated version of the approved RingCentral term list for your language.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Unless otherwise indicated, you must use the trademark and registered trademark symbols only when mentioning these for the first time in your translation."
+    },
+    {
+      "rule_id": "EN-UK_RULE_00096",
+      "language": "EN-UK",
+      "category": "trademarks",
+      "section": "Trademarks and product names",
+      "description": "For third-party products mentioned in RingCentral content, conduct thorough research to determine whether an official, approved, trademarked translated version is available. Otherwise, use as in the source.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "EN-UK_RULE_00097",
+      "language": "EN-UK",
+      "category": "trademarks",
+      "section": "Third-party trademarks and product names",
+      "description": "As a general rule, for product names from third parties, it's correct to follow the localised equivalence in official websites if there's one.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "EN-UK_RULE_00098",
+      "language": "EN-UK",
+      "category": "trademarks",
+      "section": "Third-party trademarks and product names",
+      "description": "For third-party trademarks and products mentioned in RingCentral content, conduct thorough research to determine whether an official, approved, trademarked translated version is available before using as in the source.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Useful links provided for Adobe, Apple, Google, Microsoft and Salesforce trademarks lists."
+    },
+    {
+      "rule_id": "EN-UK_RULE_00099",
+      "language": "EN-UK",
+      "category": "localization_general",
+      "section": "Copyright information, footer and publication dates",
+      "description": "Copyright notices tend to be standard texts. Ensure that you are using the official version of the copyright text for use in UK English.",
+      "example_correct": "©2015 RingCentral, Inc. All rights reserved. RingCentral, RingCentral Office, RingCentral Meetings and the RingCentral logo are registered trademarks of RingCentral, Inc. Other third-party marks and logos displayed in this document are the trademarks of their respective owners.",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "EN-UK_RULE_00100",
+      "language": "EN-UK",
+      "category": "localization_general",
+      "section": "References to links",
+      "description": "Whenever source files include references to URLs, translators should query if these links have a local version, and modify the document accordingly. If not, the relevant URL will be left as it appears in the US English text.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "EN-UK_RULE_00101",
+      "language": "EN-UK",
+      "category": "ui_elements",
+      "section": "References to UI Options",
+      "description": "If software has been translated, match the relevant translation memory or string list provided with the translation package.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Instructions may vary based on RingCentral project-specific guidelines."
+    },
+    {
+      "rule_id": "EN-UK_RULE_00102",
+      "language": "EN-UK",
+      "category": "ui_elements",
+      "section": "References to UI Options",
+      "description": "If software has not been translated, maintain the original US English terms.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "When necessary, refer to Microsoft approved terminology for your language on the MS Portal."
+    },
+    {
+      "rule_id": "EN-UK_RULE_00103",
+      "language": "EN-UK",
+      "category": "localization_general",
+      "section": "Addresses and Phone Numbers",
+      "description": "Translate country and city names based on your country/region's conventions.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "EN-UK_RULE_00104",
+      "language": "EN-UK",
+      "category": "localization_general",
+      "section": "Addresses and Phone Numbers",
+      "description": "Localise address formats, if necessary, based on your country/region's conventions. Include the country name for addresses outside the UK, or include the relevant country code before the postal code.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "EN-UK_RULE_00105",
+      "language": "EN-UK",
+      "category": "localization_general",
+      "section": "Addresses and Phone Numbers",
+      "description": "If the source only includes Freephone numbers and US numbers, add an international country code to the local number for international users, followed by a '0'.",
+      "example_correct": "RingCentral, Inc. (Belmont/HQ) 20 Davis Drive, Belmont, California 94402, US, Tel.: 888-528-RING (7464) or +1 (0)650-472-4100",
+      "example_incorrect": "RingCentral, Inc. (Belmont/HQ) 20 Davis Drive, Belmont, California 94402 Phone: 888-528-RING (7464) or 650-472-4100",
+      "notes": ""
+    }
+  ]
+}

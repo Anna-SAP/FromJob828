@@ -1,0 +1,697 @@
+{
+  "language": "ZH-CN",
+  "source": "RC_ Style Guide_ZH-CN_20241209.pdf",
+  "total_rules": 69,
+  "rules": [
+    {
+      "rule_id": "ZH-CN_RULE_00001",
+      "language": "ZH-CN",
+      "category": "style_tone",
+      "section": "General Overview",
+      "description": "Produce the most natural-sounding translation and capture intended meaning for wide Simplified Chinese-speaking audience",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Avoid literal transposition of English syntax; balance faithfulness to source and readability in target language"
+    },
+    {
+      "rule_id": "ZH-CN_RULE_00002",
+      "language": "ZH-CN",
+      "category": "style_tone",
+      "section": "General Overview",
+      "description": "Use a clear and precise style that is easily understood and does not read like a translation",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Avoid heaviness, ambiguities, repetitions and Anglicism; avoid enriching text excessively"
+    },
+    {
+      "rule_id": "ZH-CN_RULE_00003",
+      "language": "ZH-CN",
+      "category": "ui_elements",
+      "section": "Software Localization - Buttons",
+      "description": "Translate buttons as verbs, generally in imperative form; be concise, avoid articles or prepositions",
+      "example_correct": "呼叫, 回复",
+      "example_incorrect": "电话, 回电话",
+      "notes": "Pay attention to character/space limitations"
+    },
+    {
+      "rule_id": "ZH-CN_RULE_00004",
+      "language": "ZH-CN",
+      "category": "trademarks",
+      "section": "Names of RingCentral Products, Applications and Features",
+      "description": "Check reference material and linguistic instructions before translating product/application names as many are trademarked",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-CN_RULE_00005",
+      "language": "ZH-CN",
+      "category": "localization_general",
+      "section": "Adaptation to Simplified Chinese Market",
+      "description": "Replace English examples with Simplified Chinese equivalents when needed for localization/adaptation",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Especially important for wildcard operators and similar technical examples"
+    },
+    {
+      "rule_id": "ZH-CN_RULE_00006",
+      "language": "ZH-CN",
+      "category": "style_tone",
+      "section": "Style and Tone",
+      "description": "Be precise, clear, consistent and natural; rephrase unclear sentences and rework sentences that sound like translations",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Break up long English sentences into smaller parts for better understanding"
+    },
+    {
+      "rule_id": "ZH-CN_RULE_00007",
+      "language": "ZH-CN",
+      "category": "style_tone",
+      "section": "Style and Tone",
+      "description": "Use accurate and concise style with no ambiguities or mistranslations",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-CN_RULE_00008",
+      "language": "ZH-CN",
+      "category": "style_tone",
+      "section": "Style and Tone",
+      "description": "Use clear and coherent style that target reader can understand easily",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-CN_RULE_00009",
+      "language": "ZH-CN",
+      "category": "style_tone",
+      "section": "Style and Tone",
+      "description": "Use objective style that is neutral; avoid colloquial or slang words; be politically correct",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Do not insert your own opinion"
+    },
+    {
+      "rule_id": "ZH-CN_RULE_00010",
+      "language": "ZH-CN",
+      "category": "style_tone",
+      "section": "Style and Tone",
+      "description": "Use idiomatically correct language with correct verbs, metaphors, expressions so text does not sound like translation",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-CN_RULE_00011",
+      "language": "ZH-CN",
+      "category": "style_tone",
+      "section": "Style and Tone",
+      "description": "Keep translation complete; do not leave out content (words, phrases, whole paragraphs)",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-CN_RULE_00012",
+      "language": "ZH-CN",
+      "category": "localization_general",
+      "section": "Cross-references",
+      "description": "Reference cross-references consistently throughout translation and all files",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "For external cross-references, check if document has been localized before and match relevant translations"
+    },
+    {
+      "rule_id": "ZH-CN_RULE_00013",
+      "language": "ZH-CN",
+      "category": "localization_general",
+      "section": "Cross-references",
+      "description": "Leave external cross-references in source language if document has not been translated before",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Contact Project Management team or Language Lead if unable to retrieve translation information"
+    },
+    {
+      "rule_id": "ZH-CN_RULE_00014",
+      "language": "ZH-CN",
+      "category": "style_tone",
+      "section": "Politeness",
+      "description": "Use formal and polite style appropriate for business communication",
+      "example_correct": "请输入您的用户名。",
+      "example_incorrect": "输入用户名。",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-CN_RULE_00015",
+      "language": "ZH-CN",
+      "category": "grammar",
+      "section": "Gender",
+      "description": "Give priority to masculine forms unless context specifically requires otherwise",
+      "example_correct": "服务团队会联系客户并告知他。",
+      "example_incorrect": "服务团队会联系客户并告知他/她。",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-CN_RULE_00016",
+      "language": "ZH-CN",
+      "category": "grammar",
+      "section": "Passive voice",
+      "description": "Avoid passive voice when possible; use active form to improve readability",
+      "example_correct": "这个主题提供了所有细节。",
+      "example_incorrect": "所有细节都在这个主题中提供了。",
+      "notes": "Passive voice only advised for legal and official documents"
+    },
+    {
+      "rule_id": "ZH-CN_RULE_00017",
+      "language": "ZH-CN",
+      "category": "grammar",
+      "section": "Use of Possessives",
+      "description": "Do not transfer extensive use of English possessive adjectives to target; simple articles can often replace possessive adjectives",
+      "example_correct": "您可以在电脑或移动设备上编辑文件。",
+      "example_incorrect": "您可以在您的电脑，或您的移动设备上编辑您的文件。",
+      "notes": "In some cases, 'our' refers to a subject in third person"
+    },
+    {
+      "rule_id": "ZH-CN_RULE_00018",
+      "language": "ZH-CN",
+      "category": "grammar",
+      "section": "Articles",
+      "description": "No need to translate articles into Simplified Chinese for fluency and conciseness",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Translate articles only if important to emphasize noun to avoid reader confusion"
+    },
+    {
+      "rule_id": "ZH-CN_RULE_00019",
+      "language": "ZH-CN",
+      "category": "grammar",
+      "section": "Translation of the –ing form",
+      "description": "Translate -ing form in different ways based on context (verb, noun, infinitive clause, etc.)",
+      "example_correct": "我们的控制器带有一个保护数据完整性的缓存; 这些服务可以协助实施，从初始站点架构到完整服务器场。; 访问此网站，您即同意条款和条件",
+      "example_incorrect": "",
+      "notes": "Use most appropriate option based on context"
+    },
+    {
+      "rule_id": "ZH-CN_RULE_00020",
+      "language": "ZH-CN",
+      "category": "style_tone",
+      "section": "Conciseness",
+      "description": "Check context and concentrate on meaning; render as clearly as possible without additional words",
+      "example_correct": "您的姓名、电子邮件地址、公司名称; 这意味着现在可以…",
+      "example_incorrect": "您的姓名，您的电子邮件地址，您的公司名称; 这意味着您现在可以…",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-CN_RULE_00021",
+      "language": "ZH-CN",
+      "category": "style_tone",
+      "section": "Repetitions",
+      "description": "Avoid repetitions by using pronouns or other methods, as repetitions are acceptable in English but might not be in Simplified Chinese",
+      "example_correct": "要从电脑中删除文件，请在右侧窗格里选择，然后单击\"删除\"。",
+      "example_incorrect": "要从电脑中删除文件，请从右侧窗格中选择该文件，然后单击\"删除\"。",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-CN_RULE_00022",
+      "language": "ZH-CN",
+      "category": "terminology",
+      "section": "False friends",
+      "description": "Be careful with false friends and literal translations that can have different meaning from source",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-CN_RULE_00023",
+      "language": "ZH-CN",
+      "category": "spelling",
+      "section": "Spelling",
+      "description": "Run spell-checker when translation is completed",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-CN_RULE_00024",
+      "language": "ZH-CN",
+      "category": "punctuation",
+      "section": "Spacing",
+      "description": "No space before any punctuation sign in Simplified Chinese",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-CN_RULE_00025",
+      "language": "ZH-CN",
+      "category": "punctuation",
+      "section": "Spacing",
+      "description": "Replace double spaces after full stops with single spaces in Simplified Chinese",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-CN_RULE_00026",
+      "language": "ZH-CN",
+      "category": "formatting",
+      "section": "Spacing",
+      "description": "Use non-breaking spaces to prevent separation at end of line for names, numbers, software names and versions",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Use Ctrl + Shift + Space in MS Word or Alt+0160"
+    },
+    {
+      "rule_id": "ZH-CN_RULE_00027",
+      "language": "ZH-CN",
+      "category": "formatting",
+      "section": "Spacing",
+      "description": "Separate brand name tags from preceding or following text with a space",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-CN_RULE_00028",
+      "language": "ZH-CN",
+      "category": "punctuation",
+      "section": "Comma",
+      "description": "Use Chinese comma (，) in both software and document localization",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-CN_RULE_00029",
+      "language": "ZH-CN",
+      "category": "punctuation",
+      "section": "Comma",
+      "description": "Use pause symbol (、) instead of comma when enumerating several items in Simplified Chinese",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-CN_RULE_00030",
+      "language": "ZH-CN",
+      "category": "punctuation",
+      "section": "Comma",
+      "description": "Can omit previous comma when translating 'and' (和) or 'or' (或) in Simplified Chinese",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-CN_RULE_00031",
+      "language": "ZH-CN",
+      "category": "punctuation",
+      "section": "Period",
+      "description": "When sentence is placed between brackets or quotes, place period outside",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-CN_RULE_00032",
+      "language": "ZH-CN",
+      "category": "punctuation",
+      "section": "Period",
+      "description": "Do not use full stops after headings, titles, table columns, or captions unless expression is a full sentence",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-CN_RULE_00033",
+      "language": "ZH-CN",
+      "category": "punctuation",
+      "section": "Period",
+      "description": "Do not use full stops if sentence ends with interrogation mark, exclamation mark, ellipsis, or colon",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-CN_RULE_00034",
+      "language": "ZH-CN",
+      "category": "punctuation",
+      "section": "Semi-colon",
+      "description": "Avoid use of semi-colons; start new sentence instead",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Semi-colons used less in Simplified Chinese than English; mainly for separating items in enumeration when commas would be confusing"
+    },
+    {
+      "rule_id": "ZH-CN_RULE_00035",
+      "language": "ZH-CN",
+      "category": "punctuation",
+      "section": "Exclamation mark",
+      "description": "Exclamation marks not as common in Simplified Chinese; sometimes better to remove them",
+      "example_correct": "地址无效！",
+      "example_incorrect": "地址无效！！！",
+      "notes": "When they appear in groups (!!!), keep only one"
+    },
+    {
+      "rule_id": "ZH-CN_RULE_00036",
+      "language": "ZH-CN",
+      "category": "punctuation",
+      "section": "Quotation marks",
+      "description": "Never use straight single quote for variables",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Updated on 20241207"
+    },
+    {
+      "rule_id": "ZH-CN_RULE_00037",
+      "language": "ZH-CN",
+      "category": "punctuation",
+      "section": "Quotation marks",
+      "description": "Generally use double quotes in Simplified Chinese; place punctuation outside the quotes",
+      "example_correct": "如果希望呼入电话的处理方式在每天所有时间都相同，请选择\"24小时\"。",
+      "example_incorrect": "如果希望呼入电话的处理方式在每天所有时间都相同，请选择\"24小时。\"",
+      "notes": "Single quotes should be avoided unless software requirements or technical constraints require them"
+    },
+    {
+      "rule_id": "ZH-CN_RULE_00038",
+      "language": "ZH-CN",
+      "category": "punctuation",
+      "section": "Apostrophe",
+      "description": "Use straight apostrophe consistently in translations instead of curly apostrophe",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-CN_RULE_00039",
+      "language": "ZH-CN",
+      "category": "punctuation",
+      "section": "Style to use in bulleted lists - Example 1",
+      "description": "If bulleted items are complete sentences (with conjugated verb), each ends with period",
+      "example_correct": "● 请输入其他提示名称，然后重新上传。; ● 请输入其他提示名称。",
+      "example_incorrect": "● 请输入其他提示名称，然后重新上传; ● 请输入其他提示名称",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-CN_RULE_00040",
+      "language": "ZH-CN",
+      "category": "punctuation",
+      "section": "Style to use in bulleted lists - Example 2",
+      "description": "If bulleted items are phrases or single words, items shall not be followed by period",
+      "example_correct": "● 美国; ● 英国; ● 加拿大",
+      "example_incorrect": "● 美国，; ● 英国，; ● 加拿大。",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-CN_RULE_00041",
+      "language": "ZH-CN",
+      "category": "punctuation",
+      "section": "Style to use in bulleted lists - Example 3",
+      "description": "If list items are not full sentences and depend syntactically on introductory sentence, each element should end with semicolon",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-CN_RULE_00042",
+      "language": "ZH-CN",
+      "category": "abbreviations",
+      "section": "Abbreviations",
+      "description": "Avoid abbreviations whenever possible; only use commonly used abbreviations, never create new ones",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "On first use, follow with spelling out or translation in brackets"
+    },
+    {
+      "rule_id": "ZH-CN_RULE_00043",
+      "language": "ZH-CN",
+      "category": "abbreviations",
+      "section": "Acronyms",
+      "description": "Translation of acronyms depends on RingCentral project-related requirements and should be investigated to confirm localizability",
+      "example_correct": "CSV（逗号分隔值）; 高性能文件系统 (HPFS)",
+      "example_incorrect": "",
+      "notes": "Follow specific guidelines for different acronym presentation formats"
+    },
+    {
+      "rule_id": "ZH-CN_RULE_00044",
+      "language": "ZH-CN",
+      "category": "abbreviations",
+      "section": "Acronyms",
+      "description": "If acronym translation is possible, put it in parenthesis after the acronym",
+      "example_correct": "CSV（逗号分隔值）",
+      "example_incorrect": "",
+      "notes": "When acronym comes before its expansion"
+    },
+    {
+      "rule_id": "ZH-CN_RULE_00045",
+      "language": "ZH-CN",
+      "category": "abbreviations",
+      "section": "Acronyms",
+      "description": "If acronym translation is not possible, leave expansion in parenthesis",
+      "example_correct": "NWCS (NetWare Workstation Compatible Service)",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-CN_RULE_00046",
+      "language": "ZH-CN",
+      "category": "abbreviations",
+      "section": "Acronyms",
+      "description": "When expansion comes before acronym and translation is possible, keep English acronym",
+      "example_correct": "高性能文件系统 (HPFS)",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-CN_RULE_00047",
+      "language": "ZH-CN",
+      "category": "abbreviations",
+      "section": "Acronyms",
+      "description": "When expansion comes before acronym and translation is not possible, leave both expansion and acronym in parenthesis",
+      "example_correct": "Desktop Publishing (DTP)",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-CN_RULE_00048",
+      "language": "ZH-CN",
+      "category": "abbreviations",
+      "section": "Acronyms",
+      "description": "When acronym is not followed by expansion, use acronym without expansion",
+      "example_correct": "OLE",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-CN_RULE_00049",
+      "language": "ZH-CN",
+      "category": "abbreviations",
+      "section": "Acronyms",
+      "description": "Some acronyms are localizable: AM to 上午, PM to 下午",
+      "example_correct": "上午; 下午",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-CN_RULE_00050",
+      "language": "ZH-CN",
+      "category": "numbers",
+      "section": "Numbers",
+      "description": "Write numbers in full when used as nouns, at beginning of sentence, appearing alone representing simple quantities (usually up to 9), and in expressions like 'in the 80s'",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-CN_RULE_00051",
+      "language": "ZH-CN",
+      "category": "numbers",
+      "section": "Numbers",
+      "description": "Write dates, large numbers, ages, document references as numbers",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-CN_RULE_00052",
+      "language": "ZH-CN",
+      "category": "numbers",
+      "section": "Numbers",
+      "description": "Replace decimal point with comma and thousand separator with dot",
+      "example_correct": "0.25; 1,254.28; 18,567; 8,990,500",
+      "example_incorrect": ".25; 1254.28; 18567; 8990500",
+      "notes": "Avoid mixing numerical and alphabetical forms"
+    },
+    {
+      "rule_id": "ZH-CN_RULE_00053",
+      "language": "ZH-CN",
+      "category": "numbers",
+      "section": "Units of Measure",
+      "description": "Separate units of measure from preceding number by non-breaking space",
+      "example_correct": "533 MHz",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-CN_RULE_00054",
+      "language": "ZH-CN",
+      "category": "numbers",
+      "section": "Units of Measure",
+      "description": "For imperial system units, either add converted metric value first with original in brackets, or convert to metric equivalent based on project requirements",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Monitor sizes are always expressed in inches as exception"
+    },
+    {
+      "rule_id": "ZH-CN_RULE_00055",
+      "language": "ZH-CN",
+      "category": "numbers",
+      "section": "Percentages",
+      "description": "Write percentages in figures followed by % symbol with no blank spaces between figure and symbol",
+      "example_correct": "37%",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-CN_RULE_00056",
+      "language": "ZH-CN",
+      "category": "numbers",
+      "section": "Date and time",
+      "description": "Adapt date and time formats to Simplified Chinese standards",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Date format should follow month/day pattern"
+    },
+    {
+      "rule_id": "ZH-CN_RULE_00057",
+      "language": "ZH-CN",
+      "category": "numbers",
+      "section": "Date and time",
+      "description": "Use short date format YYYY/MM/DD separated by hyphen or slash",
+      "example_correct": "2018/03/15",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-CN_RULE_00058",
+      "language": "ZH-CN",
+      "category": "numbers",
+      "section": "Date and time",
+      "description": "Use long date format yyyy 年MM 月 dd 日",
+      "example_correct": "2018 年3 月 15 日",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-CN_RULE_00059",
+      "language": "ZH-CN",
+      "category": "numbers",
+      "section": "Date and time",
+      "description": "Use standard time format hh:mm:ss with 24-hour clock format",
+      "example_correct": "23:30; 8:00 至 20:00",
+      "example_incorrect": "11:30 PM; 8AM to 8PM",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-CN_RULE_00060",
+      "language": "ZH-CN",
+      "category": "numbers",
+      "section": "Currency",
+      "description": "Place currency symbols behind numeral with two decimal figures",
+      "example_correct": "145.80 元",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-CN_RULE_00061",
+      "language": "ZH-CN",
+      "category": "trademarks",
+      "section": "Trademarks and Product Names",
+      "description": "Refer to most updated version of approved RingCentral term list; use trademark symbols only on first mention unless otherwise indicated",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-CN_RULE_00062",
+      "language": "ZH-CN",
+      "category": "trademarks",
+      "section": "Third Party Trademarks and Product Names",
+      "description": "Complete extensive research to determine if official, approved trademarked translated version is available before using as in source",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Follow localized equivalence in official websites if available"
+    },
+    {
+      "rule_id": "ZH-CN_RULE_00063",
+      "language": "ZH-CN",
+      "category": "localization_general",
+      "section": "Copyright Information, Footer, Publication Dates",
+      "description": "Make sure to receive instructions on whether official and approved translated version of copyright notices is available",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Copyright notices tend to be standard texts"
+    },
+    {
+      "rule_id": "ZH-CN_RULE_00064",
+      "language": "ZH-CN",
+      "category": "localization_general",
+      "section": "References to links",
+      "description": "Query if URLs have local version and modify document accordingly; if not, leave URL as in source English text",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-CN_RULE_00065",
+      "language": "ZH-CN",
+      "category": "ui_elements",
+      "section": "References to UI Options",
+      "description": "If software has been translated, match relevant translation memory or string list provided with translation package",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-CN_RULE_00066",
+      "language": "ZH-CN",
+      "category": "ui_elements",
+      "section": "References to UI Options",
+      "description": "If software has not been translated, use bilingual format with English first, followed by target in brackets",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-CN_RULE_00067",
+      "language": "ZH-CN",
+      "category": "localization_general",
+      "section": "Addresses and Phone Numbers",
+      "description": "Translate country and city names based on your country/region's conventions",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-CN_RULE_00068",
+      "language": "ZH-CN",
+      "category": "localization_general",
+      "section": "Addresses and Phone Numbers",
+      "description": "Localize address formats based on your country/region's conventions if necessary",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-CN_RULE_00069",
+      "language": "ZH-CN",
+      "category": "localization_general",
+      "section": "Addresses and Phone Numbers",
+      "description": "Add international country code to local number for international users when source only includes toll free and US numbers",
+      "example_correct": "RingCentral，Inc.（贝尔蒙/总部）加州贝尔蒙特戴维斯大道20号94402电话：888-528-(7464) 或+ 1-650-472-4100",
+      "example_incorrect": "",
+      "notes": ""
+    }
+  ]
+}
