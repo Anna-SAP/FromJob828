@@ -1,0 +1,2190 @@
+{
+  "language": "RO-RO",
+  "source": "RC_Style_Guide_RO-RO_20241209.pdf",
+  "total_rules": 218,
+  "rules": [
+    {
+      "rule_id": "RO-RO_RULE_00001",
+      "language": "RO-RO",
+      "category": "style_tone",
+      "section": "General Overview",
+      "description": "Produce the most natural-sounding translation, capturing intended meaning and transferring it into natural language suited to a wide Romanian-speaking audience",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Avoid literal transposition of English syntax in Romanian; sentences need to be rewritten with adapted syntax"
+    },
+    {
+      "rule_id": "RO-RO_RULE_00002",
+      "language": "RO-RO",
+      "category": "style_tone",
+      "section": "General Overview",
+      "description": "Use a clear and precise style that is easily understood and does not read like a translation",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Balance faithfulness to source and readability in target language"
+    },
+    {
+      "rule_id": "RO-RO_RULE_00003",
+      "language": "RO-RO",
+      "category": "style_tone",
+      "section": "General Overview",
+      "description": "Avoid heaviness, ambiguity, repetitions and Anglicism. Also avoid enriching the text excessively",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00004",
+      "language": "RO-RO",
+      "category": "ui_elements",
+      "section": "Buttons",
+      "description": "Translate buttons as verbs, generally using the imperative form. Be concise, avoid using articles or prepositions",
+      "example_correct": "Adăugați categorii",
+      "example_incorrect": "Adăugare categorii",
+      "notes": "Pay attention to possible character/space limitations"
+    },
+    {
+      "rule_id": "RO-RO_RULE_00005",
+      "language": "RO-RO",
+      "category": "ui_elements",
+      "section": "Buttons",
+      "description": "Use imperative form in button text for direct actions",
+      "example_correct": "Accesați pagina profilului și dați clic pe butonul Adăugați categorii",
+      "example_incorrect": "Accesați pagina profilului și dați clic pe butonul Adăugare categorii",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00006",
+      "language": "RO-RO",
+      "category": "ui_elements",
+      "section": "Buttons",
+      "description": "Simplify button text to essential action",
+      "example_correct": "Apăsați pe butonul OK pentru a salva toate modificările",
+      "example_incorrect": "Nu uitați să apăsați pe butonul În regulă pentru a salva toate modificările",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00007",
+      "language": "RO-RO",
+      "category": "ui_elements",
+      "section": "Buttons",
+      "description": "Use concise button text avoiding unnecessary explanatory text",
+      "example_correct": "Descărcați documentul",
+      "example_incorrect": "Dacă doriți să revizuiți documentul, va trebui să îl descărcați",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00008",
+      "language": "RO-RO",
+      "category": "trademarks",
+      "section": "Names of RingCentral Products, Applications and Features",
+      "description": "Check reference material and linguistic instructions including terminology lists before translating product/application names, as many are trademarked",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00009",
+      "language": "RO-RO",
+      "category": "localization_general",
+      "section": "Adaptation to Romanian Market",
+      "description": "Replace English examples with Romanian equivalents when needed for localization/adaptation",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Example given is about wildcard operators and their usage examples"
+    },
+    {
+      "rule_id": "RO-RO_RULE_00010",
+      "language": "RO-RO",
+      "category": "style_tone",
+      "section": "Style and Tone",
+      "description": "Use 2nd person plural (Formal) (dvs.)",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00011",
+      "language": "RO-RO",
+      "category": "style_tone",
+      "section": "Style and Tone",
+      "description": "Sound friendly and approachable without using terms that are TOO colloquial",
+      "example_correct": "Folosiți funcția de chat pentru a discuta cu prietenii",
+      "example_incorrect": "Folosiți funcția de chat pentru a sta la taclale cu prietenii",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00012",
+      "language": "RO-RO",
+      "category": "style_tone",
+      "section": "Style and Tone",
+      "description": "Be precise and clear, consistent and natural. Rephrase unclear sentences and rework sentences that sound like a translation",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Break up long English sentences into smaller friendlier parts for better understanding"
+    },
+    {
+      "rule_id": "RO-RO_RULE_00013",
+      "language": "RO-RO",
+      "category": "style_tone",
+      "section": "Style and Tone",
+      "description": "Use accurate and concise style with no ambiguities or mistranslations",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00014",
+      "language": "RO-RO",
+      "category": "style_tone",
+      "section": "Style and Tone",
+      "description": "Use clear and coherent style so target reader understands the text easily",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00015",
+      "language": "RO-RO",
+      "category": "style_tone",
+      "section": "Style and Tone",
+      "description": "Use objective style: neutral, do not insert your own opinion, avoid colloquial or slang words, be always politically correct",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00016",
+      "language": "RO-RO",
+      "category": "style_tone",
+      "section": "Style and Tone",
+      "description": "Ensure content and numbers are correct and free of mistakes",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00017",
+      "language": "RO-RO",
+      "category": "style_tone",
+      "section": "Style and Tone",
+      "description": "Use idiomatically correct language with correct verbs, metaphors, expressions so text does not sound like a translation",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00018",
+      "language": "RO-RO",
+      "category": "style_tone",
+      "section": "Style and Tone",
+      "description": "Be complete: do not leave out content (words, phrases, whole paragraphs)",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00019",
+      "language": "RO-RO",
+      "category": "style_tone",
+      "section": "Style and Tone",
+      "description": "Keep an eye on the target reader: use an appropriate tone",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00020",
+      "language": "RO-RO",
+      "category": "style_tone",
+      "section": "Style and Tone",
+      "description": "Go through English text and interpret it before translating. Ensure understanding of overall meaning",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Query any concepts that may be difficult to translate"
+    },
+    {
+      "rule_id": "RO-RO_RULE_00021",
+      "language": "RO-RO",
+      "category": "style_tone",
+      "section": "Style and Tone",
+      "description": "Beware of differences of register and tone between Romanian and American English. Use natural language",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00022",
+      "language": "RO-RO",
+      "category": "style_tone",
+      "section": "Style and Tone",
+      "description": "Avoid literal translations. Target language must flow naturally as if written originally in that language",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00023",
+      "language": "RO-RO",
+      "category": "style_tone",
+      "section": "Style and Tone",
+      "description": "Identify areas where language specific standard texts should be used (system requirements, legal text, etc.)",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00024",
+      "language": "RO-RO",
+      "category": "localization_general",
+      "section": "Internal Cross-references",
+      "description": "Translate internal cross-references consistently throughout translation and all files",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "References to chapters, sections, headings or titles within the file or document being translated"
+    },
+    {
+      "rule_id": "RO-RO_RULE_00025",
+      "language": "RO-RO",
+      "category": "localization_general",
+      "section": "External Cross references",
+      "description": "Check if external documents have been localized before and match relevant translations unless otherwise specified",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "References to titles of other documents not being translated or already translated in previous project"
+    },
+    {
+      "rule_id": "RO-RO_RULE_00026",
+      "language": "RO-RO",
+      "category": "localization_general",
+      "section": "External Cross references",
+      "description": "If document has not been translated before, leave external cross-reference in source language",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Contact Project Management team or Language Lead if unable to retrieve translation information"
+    },
+    {
+      "rule_id": "RO-RO_RULE_00027",
+      "language": "RO-RO",
+      "category": "style_tone",
+      "section": "Politeness",
+      "description": "Use formal and polite style appropriate for business communication",
+      "example_correct": "Introduceți numele de utilizator",
+      "example_incorrect": "Bagă-ți numele de utilizator",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00028",
+      "language": "RO-RO",
+      "category": "grammar",
+      "section": "Gender",
+      "description": "Romanian usually gives priority to masculine forms, unless differently needed based on specific context",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00029",
+      "language": "RO-RO",
+      "category": "grammar",
+      "section": "Gender",
+      "description": "Try to rephrase translation to avoid needing to specify both gender forms whenever possible",
+      "example_correct": "Să fim prieteni! Spuneți-le tuturor despre noul nostru produs",
+      "example_incorrect": "Fiți prietenul(a) nostru(astră) și spuneți-le tuturor despre noul nostru produs",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00030",
+      "language": "RO-RO",
+      "category": "grammar",
+      "section": "Gender",
+      "description": "Avoid gendered adjectives whenever possible",
+      "example_correct": "Ca utilizator, aveți acces la următoarele funcții",
+      "example_incorrect": "Ca utilizator(are), aveți acces la următoarele funcții",
+      "notes": "In English, sometimes 'they' is used as a generic third-person singular pronoun"
+    },
+    {
+      "rule_id": "RO-RO_RULE_00031",
+      "language": "RO-RO",
+      "category": "grammar",
+      "section": "Passive voice",
+      "description": "Avoid passive voice whenever possible and use active form to improve readability",
+      "example_correct": "În acest subiect, puteți găsi toate detaliile",
+      "example_incorrect": "Toate detaliile sunt furnizate în acest subiect",
+      "notes": "Passive voice is too formal and wordy"
+    },
+    {
+      "rule_id": "RO-RO_RULE_00032",
+      "language": "RO-RO",
+      "category": "grammar",
+      "section": "Passive voice",
+      "description": "Use passive voice only in specific texts like legal and official documents (privacy policies, terms of contract, NDAs, etc.)",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00033",
+      "language": "RO-RO",
+      "category": "grammar",
+      "section": "Passive voice",
+      "description": "Use active voice to make text more readable",
+      "example_correct": "Această carte albă detaliază anumite funcții noi",
+      "example_incorrect": "Anumite funcții noi sunt detaliate în această carte albă",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00034",
+      "language": "RO-RO",
+      "category": "grammar",
+      "section": "Use of Possessives",
+      "description": "Do not transfer extensive use of English possessive adjectives to target language",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "In some cases, 'our' refers to a subject in the third person"
+    },
+    {
+      "rule_id": "RO-RO_RULE_00035",
+      "language": "RO-RO",
+      "category": "grammar",
+      "section": "Use of Possessives",
+      "description": "Simple articles can often replace possessive adjectives",
+      "example_correct": "Puteți să vă editați fișierele fie pe computer, fie pe dispozitivul mobil",
+      "example_incorrect": "Dvs. puteți să editați fișierele dvs. fie pe computerul dvs., fie pe dispozitivul dvs. mobil",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00036",
+      "language": "RO-RO",
+      "category": "grammar",
+      "section": "Articles",
+      "description": "For proper use of articles, refer to standard Romanian grammar rules",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00037",
+      "language": "RO-RO",
+      "category": "grammar",
+      "section": "Translation of the –ing form",
+      "description": "The –ing form can be translated in different ways based on context, such as verb, noun, infinitive clause",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00038",
+      "language": "RO-RO",
+      "category": "grammar",
+      "section": "Translation of the –ing form",
+      "description": "Use of gerund is not always recommendable in Romanian. Gerund is not correct when describing action occurring after or as consequence of another one or when acting like an adjective",
+      "example_correct": "Controlerele noastre au un cache care vă protejează integritatea datelor",
+      "example_incorrect": "Controlerele noastre vin cu un cache protejându-vă integritatea datelor",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00039",
+      "language": "RO-RO",
+      "category": "grammar",
+      "section": "Translation of the –ing form",
+      "description": "Gerunds used in English headings and titles should never be translated as gerunds, but rather use noun form or verbal forms consistently",
+      "example_correct": "Noțiuni introductive",
+      "example_incorrect": "Începând",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00040",
+      "language": "RO-RO",
+      "category": "grammar",
+      "section": "Translation of the –ing form",
+      "description": "Use conditional structures instead of gerunds for sequential or conditional actions",
+      "example_correct": "Dacă accesați acest site web, sunteți de acord cu termenii și condițiile",
+      "example_incorrect": "Accesând acest site web, sunteți de acord cu termenii și condițiile",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00041",
+      "language": "RO-RO",
+      "category": "grammar",
+      "section": "Translation of the –ing form",
+      "description": "Use appropriate Romanian introductory phrases instead of gerund forms",
+      "example_correct": "Vă prezentăm RingCentral",
+      "example_incorrect": "Prezentând RingCentral",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00042",
+      "language": "RO-RO",
+      "category": "style_tone",
+      "section": "Conciseness",
+      "description": "Check context, concentrate on meaning and render as clearly as possible. English sometimes uses additional words to express concepts",
+      "example_correct": "De acum, puteți accesa întregul conținut",
+      "example_incorrect": "Aceasta înseamnă că, de acum înainte, veți putea accesa întregul conținut",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00043",
+      "language": "RO-RO",
+      "category": "style_tone",
+      "section": "Repetitions",
+      "description": "Repetitions are acceptable in English but might not be in Romanian. Use pronouns or other techniques to avoid them",
+      "example_correct": "Pentru a șterge un fișier de pe computer, selectați-l din panoul din dreapta și dați clic pe Ștergeți",
+      "example_incorrect": "Pentru a șterge un fișier de pe computer, selectați fișierul din panoul din dreapta și dați clic pe Ștergeți",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00044",
+      "language": "RO-RO",
+      "category": "terminology",
+      "section": "False friends",
+      "description": "Be careful with false friends and literal translations that can have different meaning from source",
+      "example_correct": "Anula",
+      "example_incorrect": "Avorta",
+      "notes": "For English 'Abort'"
+    },
+    {
+      "rule_id": "RO-RO_RULE_00045",
+      "language": "RO-RO",
+      "category": "terminology",
+      "section": "False friends",
+      "description": "Translate 'Actually' correctly",
+      "example_correct": "De fapt",
+      "example_incorrect": "Actual",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00046",
+      "language": "RO-RO",
+      "category": "terminology",
+      "section": "False friends",
+      "description": "Translate 'Assume' correctly",
+      "example_correct": "Presupune",
+      "example_incorrect": "Asuma",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00047",
+      "language": "RO-RO",
+      "category": "terminology",
+      "section": "False friends",
+      "description": "Translate 'Billion' correctly",
+      "example_correct": "Miliard",
+      "example_incorrect": "Bilion",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00048",
+      "language": "RO-RO",
+      "category": "terminology",
+      "section": "False friends",
+      "description": "Translate 'Consistent' correctly",
+      "example_correct": "Consecvent",
+      "example_incorrect": "Consistent",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00049",
+      "language": "RO-RO",
+      "category": "terminology",
+      "section": "False friends",
+      "description": "Translate 'Fabric' correctly",
+      "example_correct": "Material/țesătură",
+      "example_incorrect": "Fabrică",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00050",
+      "language": "RO-RO",
+      "category": "terminology",
+      "section": "False friends",
+      "description": "Translate 'Library' correctly",
+      "example_correct": "Bibliotecă",
+      "example_incorrect": "Librărie",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00051",
+      "language": "RO-RO",
+      "category": "terminology",
+      "section": "False friends",
+      "description": "Translate 'Resume' correctly",
+      "example_correct": "Relua",
+      "example_incorrect": "Rezuma",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00052",
+      "language": "RO-RO",
+      "category": "terminology",
+      "section": "False friends",
+      "description": "Translate 'Support' correctly",
+      "example_correct": "Susține",
+      "example_incorrect": "Suporta",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00053",
+      "language": "RO-RO",
+      "category": "capitalization",
+      "section": "Capitalization",
+      "description": "Refer to Romanian extensive capitalization rules in DOOM 3",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00054",
+      "language": "RO-RO",
+      "category": "capitalization",
+      "section": "Capitalization",
+      "description": "In Romanian titles, only the first letter of the first word is capitalized",
+      "example_correct": "Prezentare generală a tabelelor",
+      "example_incorrect": "Prezentare Generală a Tabelelor",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00055",
+      "language": "RO-RO",
+      "category": "capitalization",
+      "section": "Capitalization",
+      "description": "When title contains a proper noun, brand name, feature, app etc., that term is also capitalized",
+      "example_correct": "Prezentare generală a tabelelor Excel",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00056",
+      "language": "RO-RO",
+      "category": "capitalization",
+      "section": "Capitalization",
+      "description": "When title contains the name of a page, that name is capitalized",
+      "example_correct": "Despre pagina Prezentare generală",
+      "example_incorrect": "",
+      "notes": "Here, Prezentare generală is the name of a page"
+    },
+    {
+      "rule_id": "RO-RO_RULE_00057",
+      "language": "RO-RO",
+      "category": "capitalization",
+      "section": "Capitalization",
+      "description": "Apply general capitalization rule to UIs and table headers",
+      "example_correct": "Meniu principal",
+      "example_incorrect": "Meniu Principal",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00058",
+      "language": "RO-RO",
+      "category": "capitalization",
+      "section": "Capitalization",
+      "description": "Romanian does NOT capitalize the name of days and months",
+      "example_correct": "12 iulie",
+      "example_incorrect": "12 Iulie",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00059",
+      "language": "RO-RO",
+      "category": "capitalization",
+      "section": "Capitalization",
+      "description": "Do not capitalize days of the week",
+      "example_correct": "Ajung sâmbătă",
+      "example_incorrect": "Ajung Sâmbătă",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00060",
+      "language": "RO-RO",
+      "category": "capitalization",
+      "section": "Capitalization",
+      "description": "Use capital letter for proper names, product names, geographical names",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00061",
+      "language": "RO-RO",
+      "category": "capitalization",
+      "section": "Capitalization",
+      "description": "Use capital letter for the first word after a period, exclamation mark, question mark, after ellipsis when the sentence starting after ellipsis is different or repetition of previous sentence",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00062",
+      "language": "RO-RO",
+      "category": "capitalization",
+      "section": "Capitalization",
+      "description": "Use capital letter after colon only when sentence is a quote, explanatory sentence (in enumerations) or when sentence is a note, notice, advertisement or warning",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00063",
+      "language": "RO-RO",
+      "category": "capitalization",
+      "section": "Capitalization",
+      "description": "In title case, use capitals for nouns and adjectives of organizations, bodies, departments, awards, and events",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Examples: United Nations, Internal Affairs"
+    },
+    {
+      "rule_id": "RO-RO_RULE_00064",
+      "language": "RO-RO",
+      "category": "capitalization",
+      "section": "Capitalization",
+      "description": "Use lower case for nationalities, languages, religions, days of the week, months, season names, currencies, job titles in Romanian",
+      "example_correct": "Nu e disponibil marți",
+      "example_incorrect": "Nu e disponibil Marți",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00065",
+      "language": "RO-RO",
+      "category": "capitalization",
+      "section": "Capitalization",
+      "description": "Use lower case for months",
+      "example_correct": "Va fi gata până în iulie",
+      "example_incorrect": "Va fi gata până în Iulie",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00066",
+      "language": "RO-RO",
+      "category": "capitalization",
+      "section": "Capitalization",
+      "description": "Use lower case for currencies",
+      "example_correct": "1 dolar SUA",
+      "example_incorrect": "1 Dolar SUA",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00067",
+      "language": "RO-RO",
+      "category": "capitalization",
+      "section": "Capitalization",
+      "description": "Use lower case for languages",
+      "example_correct": "Utilizatorii care vorbesc poloneză",
+      "example_incorrect": "Utilizatorii care vorbesc Poloneză",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00068",
+      "language": "RO-RO",
+      "category": "capitalization",
+      "section": "Capitalization",
+      "description": "Use lower case for nationalities",
+      "example_correct": "Prietenul nostru este francez",
+      "example_incorrect": "Prietenul nostru este Francez",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00069",
+      "language": "RO-RO",
+      "category": "capitalization",
+      "section": "Capitalization",
+      "description": "In titles, headings, UI options, only the first word of the string should be capitalized",
+      "example_correct": "Efectuarea unei tranziții fără probleme",
+      "example_incorrect": "Efectuarea unei Tranziții fără Probleme",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00070",
+      "language": "RO-RO",
+      "category": "capitalization",
+      "section": "Capitalization",
+      "description": "Capitalize only first word in terms and conditions titles",
+      "example_correct": "Termenii și condițiile XXX",
+      "example_incorrect": "Termenii și Condițiile XXX",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00071",
+      "language": "RO-RO",
+      "category": "capitalization",
+      "section": "Capitalization",
+      "description": "Capitalize only first word in UI elements",
+      "example_correct": "Dispunerea paginii",
+      "example_incorrect": "Dispunerea Paginii",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00072",
+      "language": "RO-RO",
+      "category": "capitalization",
+      "section": "Capitalization",
+      "description": "Capitalize only first word in model names",
+      "example_correct": "Numele modelului",
+      "example_incorrect": "Numele Modelului",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00073",
+      "language": "RO-RO",
+      "category": "capitalization",
+      "section": "Capitalization",
+      "description": "Exception to capitalization rule: in legal texts, capitalization conveys specific meaning and must be retained in translation",
+      "example_correct": "Acest contract („Contractul\") este un acord cu efecte juridice",
+      "example_incorrect": "Acest contract („contractul\") este un acord cu efecte juridice",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00074",
+      "language": "RO-RO",
+      "category": "capitalization",
+      "section": "Capitalization",
+      "description": "Preserve capitalization in legal software terms",
+      "example_correct": "Instalați și folosiți o copie a Software-ului",
+      "example_incorrect": "Instalați și folosiți o copie a software-ului",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00075",
+      "language": "RO-RO",
+      "category": "capitalization",
+      "section": "Capitalization",
+      "description": "Preserve formatting when whole paragraphs are written in all upper case as these conventions may have legal implications",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00076",
+      "language": "RO-RO",
+      "category": "punctuation",
+      "section": "Special symbols",
+      "description": "Use ASCII code Alt+0147 for opening English quotation mark",
+      "example_correct": "",
+      ",\n    \"example_incorrect": "",
+      "notes": "",
+      "example_incorrect": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00077",
+      "language": "RO-RO",
+      "category": "punctuation",
+      "section": "Special symbols",
+      "description": "Use ASCII code Alt+0148 for closing English quotation mark",
+      "example_correct": "",
+      ",\n    \"example_incorrect": "",
+      "notes": "",
+      "example_incorrect": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00078",
+      "language": "RO-RO",
+      "category": "punctuation",
+      "section": "Special symbols",
+      "description": "Use ASCII code Alt+0171 for opening French quotation mark",
+      "example_correct": "«",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00079",
+      "language": "RO-RO",
+      "category": "punctuation",
+      "section": "Special symbols",
+      "description": "Use ASCII code Alt+0187 for closing French quotation mark",
+      "example_correct": "»",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00080",
+      "language": "RO-RO",
+      "category": "spelling",
+      "section": "Spelling",
+      "description": "Run spell-checker when translation is completed",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00081",
+      "language": "RO-RO",
+      "category": "spelling",
+      "section": "Spelling",
+      "description": "Use new (standard) Romanian extended characters, specifically ș Ș, ț Ț",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00082",
+      "language": "RO-RO",
+      "category": "numbers",
+      "section": "Decimal and thousand separators",
+      "description": "Use comma to separate decimals",
+      "example_correct": "2.550,00 USD, 1,12%, 18,5 km",
+      "example_incorrect": "$2,550.00, 1.12%, 18.5km",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00083",
+      "language": "RO-RO",
+      "category": "numbers",
+      "section": "Decimal and thousand separators",
+      "description": "Use full-stop to separate thousands",
+      "example_correct": "10.000",
+      "example_incorrect": "10,000",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00084",
+      "language": "RO-RO",
+      "category": "formatting",
+      "section": "Spacing",
+      "description": "Ensure consistent use of spaces in target documents, even if source document is inconsistent",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Remove double spaces and be particularly aware of non-breaking spaces around tags"
+    },
+    {
+      "rule_id": "RO-RO_RULE_00085",
+      "language": "RO-RO",
+      "category": "formatting",
+      "section": "Spacing",
+      "description": "Measurement units are separated from the value by a space (preferably non-breaking space)",
+      "example_correct": "15 mm, 240 kg",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00086",
+      "language": "RO-RO",
+      "category": "formatting",
+      "section": "Spacing",
+      "description": "The percentage symbol % is usually not separated by a space",
+      "example_correct": "3%",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00087",
+      "language": "RO-RO",
+      "category": "formatting",
+      "section": "Spacing",
+      "description": "Brand name tags need to be separated from preceding or following text with a space",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00088",
+      "language": "RO-RO",
+      "category": "formatting",
+      "section": "Spacing",
+      "description": "In Romanian there is no space before any punctuation sign",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00089",
+      "language": "RO-RO",
+      "category": "formatting",
+      "section": "Spacing",
+      "description": "Replace double spaces after full stops with single spaces in Romanian",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "English documents often include double spaces after full stops"
+    },
+    {
+      "rule_id": "RO-RO_RULE_00090",
+      "language": "RO-RO",
+      "category": "formatting",
+      "section": "Spacing",
+      "description": "Use non-breaking spaces to prevent certain expressions from being separated at end of line (numbers + measurement units, software names and versions, etc.)",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Press Ctrl + Shift + Space bar in MS Word or use Alt+0160"
+    },
+    {
+      "rule_id": "RO-RO_RULE_00091",
+      "language": "RO-RO",
+      "category": "punctuation",
+      "section": "Use of punctuation - Comma",
+      "description": "Use comma when a natural pause is heard, but use of comma is quite subjective",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00092",
+      "language": "RO-RO",
+      "category": "punctuation",
+      "section": "Use of punctuation - Comma",
+      "description": "In enumeration, each element should be separated by comma. The last element is preceded by conjunction and no comma",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00093",
+      "language": "RO-RO",
+      "category": "punctuation",
+      "section": "Use of punctuation - Comma",
+      "description": "In a sentence, the subject should not be separated by comma from the predicate",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00094",
+      "language": "RO-RO",
+      "category": "punctuation",
+      "section": "Use of punctuation - Comma",
+      "description": "A vocative particle must be always preceded and/or followed by a comma",
+      "example_correct": "Bună ziua, Ion!",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00095",
+      "language": "RO-RO",
+      "category": "punctuation",
+      "section": "Use of punctuation - Period",
+      "description": "Use period to end a sentence, paragraph or abbreviated word",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00096",
+      "language": "RO-RO",
+      "category": "punctuation",
+      "section": "Use of punctuation - Period",
+      "description": "When sentence is placed between brackets or quotes, the period is placed outside",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00097",
+      "language": "RO-RO",
+      "category": "punctuation",
+      "section": "Use of punctuation - Period",
+      "description": "Do not use full stops after headings and titles, after columns in a table, or after captions used with illustrations, tables etc., unless the expression is a full sentence",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00098",
+      "language": "RO-RO",
+      "category": "punctuation",
+      "section": "Use of punctuation - Period",
+      "description": "Do not use full stops if sentence ends with abbreviation, interrogation or exclamation mark, ellipsis, or colon",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00099",
+      "language": "RO-RO",
+      "category": "punctuation",
+      "section": "Use of punctuation - Colon",
+      "description": "Try to avoid using colons, as English makes wider use of them. Prefer commas wherever possible",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00100",
+      "language": "RO-RO",
+      "category": "punctuation",
+      "section": "Use of punctuation - Colon",
+      "description": "Colon is commonly used to introduce new sentences (enumerations, explanations, notices, advertisements, warnings)",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00101",
+      "language": "RO-RO",
+      "category": "punctuation",
+      "section": "Use of punctuation - Colon",
+      "description": "Use uppercase after headings like 'Avertisment', 'Atenție', 'Pericol', 'Notă', etc. when the statement is a full sentence",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00102",
+      "language": "RO-RO",
+      "category": "punctuation",
+      "section": "Use of punctuation - Semi-colon",
+      "description": "Semi-colons are used to separate sentences or groups of sentences that are syntactically independent but semantically related",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00103",
+      "language": "RO-RO",
+      "category": "punctuation",
+      "section": "Use of punctuation - Semi-colon",
+      "description": "Avoid use of semi-colons. Start a new sentence instead",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00104",
+      "language": "RO-RO",
+      "category": "punctuation",
+      "section": "Use of punctuation - Exclamation mark",
+      "description": "Exclamation marks are not as common in Romanian as in English. Avoid using exclamation marks unless really necessary",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "As per voice and style"
+    },
+    {
+      "rule_id": "RO-RO_RULE_00105",
+      "language": "RO-RO",
+      "category": "punctuation",
+      "section": "Use of punctuation - Exclamation mark",
+      "description": "When exclamation marks appear in groups (!!!), keep only one",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00106",
+      "language": "RO-RO",
+      "category": "punctuation",
+      "section": "Use of punctuation - Hyphen/En dash/Em dash",
+      "description": "Hyphen (-) is used to divide words between syllables, link parts of compound word, connect parts of inverted or imperative verb form, articulate loanwords with ends differing from pronunciation",
+      "example_correct": "site-ul, mouse-ul",
+      "example_incorrect": "",
+      "notes": "It is not preceded or followed by space"
+    },
+    {
+      "rule_id": "RO-RO_RULE_00107",
+      "language": "RO-RO",
+      "category": "punctuation",
+      "section": "Use of punctuation - Hyphen/En dash/Em dash",
+      "description": "En dash (–) is used to structure sentence, has role of parentheses and isolates elements not essential to sentence meaning",
+      "example_correct": "Apoziția reprezintă o explicație, izolată în enunț prin semne de punctuație, care are rolul de a suplimenta – din punct de vedere semantic – un mesaj",
+      "example_incorrect": "",
+      "notes": "It is preceded and followed by space"
+    },
+    {
+      "rule_id": "RO-RO_RULE_00108",
+      "language": "RO-RO",
+      "category": "punctuation",
+      "section": "Use of punctuation - Hyphen/En dash/Em dash",
+      "description": "Em dash (—) is only used in specific cases (linie de dialog)",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00109",
+      "language": "RO-RO",
+      "category": "punctuation",
+      "section": "Use of punctuation - Round and square brackets",
+      "description": "In Romanian round brackets are commonly seen, and square brackets are only used when round brackets already appear in the sentence",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Bear in mind that often square brackets are used to define tags"
+    },
+    {
+      "rule_id": "RO-RO_RULE_00110",
+      "language": "RO-RO",
+      "category": "punctuation",
+      "section": "Use of punctuation - Quotation marks",
+      "description": "NEVER use straight single quote for variables",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00111",
+      "language": "RO-RO",
+      "category": "punctuation",
+      "section": "Use of punctuation - Quotation marks",
+      "description": "Romanian uses Alt+0132 for opening quotation mark („) and Alt+0148 for closing quotation mark (\")",
+      "example_correct": "Accesați secțiunea „Contul meu",
+      "example_incorrect": "",
+      "notes": "In software strings, Romanian quotation marks do not need to be escaped"
+    },
+    {
+      "rule_id": "RO-RO_RULE_00112",
+      "language": "RO-RO",
+      "category": "punctuation",
+      "section": "Style to use in bulleted lists",
+      "description": "Lists can be introduced by lead-in phrases or clauses, introduced by constructions ended with a colon",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00113",
+      "language": "RO-RO",
+      "category": "punctuation",
+      "section": "Style to use in bulleted lists",
+      "description": "In both bulleted and numbered lists, list items end with semicolon (except for very short items with no verb) and are not capitalized (except for proper nouns)",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00114",
+      "language": "RO-RO",
+      "category": "punctuation",
+      "section": "Style to use in bulleted lists",
+      "description": "Exception: If items in list are very short with no verb, such as single words or phrases with no internal punctuation, put comma at end of each item",
+      "example_correct": "act de identitate, cerere, dosar cu șină.",
+      "example_incorrect": "",
+      "notes": "Rule of thumb: these lists include simple items that could dwell in a sentence as enumeration"
+    },
+    {
+      "rule_id": "RO-RO_RULE_00115",
+      "language": "RO-RO",
+      "category": "punctuation",
+      "section": "Style to use in bulleted lists",
+      "description": "For longer list items with no verb, follow standard punctuation for lists",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00116",
+      "language": "RO-RO",
+      "category": "punctuation",
+      "section": "Style to use in bulleted lists",
+      "description": "Standard list rules apply for lists introduced by sentence ending in colon",
+      "example_correct": "Pentru a vă actualiza numărul de mobil, așteptăm să ne trimiteți: numărul preferat, cu prefixul țării; numele complet, așa cum apare în actul de identitate; data expirării cardului de credit adăugat în profil.",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00117",
+      "language": "RO-RO",
+      "category": "punctuation",
+      "section": "Style to use in bulleted lists",
+      "description": "If list item contains more than one sentence, first sentence starts with small letter and last sentence ends with full stop. All other sentences follow regular editing rules",
+      "example_correct": "numele trebuie să fie vizibil pe document; imaginile încărcate trebuie să fie clare și lizibile. Nu folosiți blițul când fotografiați documentele. Blițul creează o pată de lumină care poate acoperi informații importante. verificați dacă toate cele patru colțuri ale documentelor sunt vizibile în fotografiile încărcate.",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00118",
+      "language": "RO-RO",
+      "category": "punctuation",
+      "section": "Style to use in bulleted lists",
+      "description": "For lists not introduced by constructions ended with colon, which usually include standalone items, use regular text editing standards and punctuation",
+      "example_correct": "Pentru a începe, selectați Profiluri. Selectați „Plată",
+      "Salvați\".": "example_incorrect\": \"",
+      "notes": "Even when semantically introduced by a sentence in text, if that sentence does not end with colon, list items start with capital letter and end with full stop",
+      "example_incorrect": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00119",
+      "language": "RO-RO",
+      "category": "formatting",
+      "section": "Meta descriptions and meta titles",
+      "description": "Meta descriptions have maximum of 155 characters (including spaces and punctuation). Should not be shorter than 50 characters or longer than 155 characters",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "As long as description accurately describes content of page and follows rule of thumb, should be okay"
+    },
+    {
+      "rule_id": "RO-RO_RULE_00120",
+      "language": "RO-RO",
+      "category": "formatting",
+      "section": "Meta descriptions and meta titles",
+      "description": "Meta titles have maximum of 55 characters (including spaces and punctuation)",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00121",
+      "language": "RO-RO",
+      "category": "formatting",
+      "section": "Meta descriptions and meta titles",
+      "description": "Follow title case capitalization/formatting rules for meta titles",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00122",
+      "language": "RO-RO",
+      "category": "formatting",
+      "section": "Meta descriptions and meta titles",
+      "description": "Separate 'RingCentral' from rest of meta title with horizontal bar",
+      "example_correct": "Visual Voicemail | RingCentral",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00123",
+      "language": "RO-RO",
+      "category": "formatting",
+      "section": "Meta descriptions and meta titles",
+      "description": "Use en dash (–) to separate keywords/keyword phrases",
+      "example_correct": "Virtual PBX – Cloud PBX | RingCentral",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00124",
+      "language": "RO-RO",
+      "category": "abbreviations",
+      "section": "Abbreviations",
+      "description": "Abbreviations should be avoided whenever possible, but may be needed in UI options. Preferably use standardized abbreviations",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00125",
+      "language": "RO-RO",
+      "category": "abbreviations",
+      "section": "Abbreviations",
+      "description": "Use SUA for United States of America",
+      "example_correct": "SUA",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00126",
+      "language": "RO-RO",
+      "category": "abbreviations",
+      "section": "Abbreviations",
+      "description": "Use Etc. for Etcetera",
+      "example_correct": "Etc.",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00127",
+      "language": "RO-RO",
+      "category": "abbreviations",
+      "section": "Abbreviations",
+      "description": "Use UK for United Kingdom",
+      "example_correct": "UK",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00128",
+      "language": "RO-RO",
+      "category": "abbreviations",
+      "section": "Abbreviations",
+      "description": "Use Max. for Maximum",
+      "example_correct": "Max.",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00129",
+      "language": "RO-RO",
+      "category": "abbreviations",
+      "section": "Abbreviations",
+      "description": "Use Min. for Minimum",
+      "example_correct": "Min.",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00130",
+      "language": "RO-RO",
+      "category": "abbreviations",
+      "section": "Abbreviations",
+      "description": "Use Pt. for Pentru",
+      "example_correct": "Pt.",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00131",
+      "language": "RO-RO",
+      "category": "abbreviations",
+      "section": "Abbreviations",
+      "description": "Use Tel. for Telefon",
+      "example_correct": "Tel.",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00132",
+      "language": "RO-RO",
+      "category": "abbreviations",
+      "section": "Abbreviations",
+      "description": "Use Nr. for Număr",
+      "example_correct": "Nr.",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00133",
+      "language": "RO-RO",
+      "category": "abbreviations",
+      "section": "Abbreviations",
+      "description": "Use Pag. for Pagină",
+      "example_correct": "Pag.",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00134",
+      "language": "RO-RO",
+      "category": "abbreviations",
+      "section": "Abbreviations",
+      "description": "Use De ex. for De exemplu",
+      "example_correct": "De ex.",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00135",
+      "language": "RO-RO",
+      "category": "abbreviations",
+      "section": "Abbreviations",
+      "description": "Use UE for Uniunea Europeană",
+      "example_correct": "UE",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00136",
+      "language": "RO-RO",
+      "category": "abbreviations",
+      "section": "Acronyms",
+      "description": "Translation of acronyms depends on RingCentral project-related requirements and should always be investigated to confirm localizability",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00137",
+      "language": "RO-RO",
+      "category": "abbreviations",
+      "section": "Acronyms",
+      "description": "Acronyms should not have plural endings",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00138",
+      "language": "RO-RO",
+      "category": "abbreviations",
+      "section": "Acronyms",
+      "description": "When acronym comes before its expansion, keep this order",
+      "example_correct": "HPFS (High Performance File System)",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00139",
+      "language": "RO-RO",
+      "category": "abbreviations",
+      "section": "Acronyms",
+      "description": "When expansion comes before its acronym, keep this order",
+      "example_correct": "Desktop Publishing (DTP)",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00140",
+      "language": "RO-RO",
+      "category": "numbers",
+      "section": "Numbers",
+      "description": "Write numbers in full when used as nouns",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00141",
+      "language": "RO-RO",
+      "category": "numbers",
+      "section": "Numbers",
+      "description": "Write numbers in full when at the beginning of a sentence",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00142",
+      "language": "RO-RO",
+      "category": "numbers",
+      "section": "Numbers",
+      "description": "Write numbers in full when appearing alone and representing simple quantities, usually the numbers up to 9",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00143",
+      "language": "RO-RO",
+      "category": "numbers",
+      "section": "Numbers",
+      "description": "Write numbers in full in expressions like 'in the 80s'",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00144",
+      "language": "RO-RO",
+      "category": "numbers",
+      "section": "Numbers",
+      "description": "Write dates, large numbers, ages, document references (paragraph, page, etc.) as numbers",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00145",
+      "language": "RO-RO",
+      "category": "numbers",
+      "section": "Numbers",
+      "description": "Replace decimal point with comma and thousand separator with point",
+      "example_correct": "0,25",
+      "example_incorrect": "0.25",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00146",
+      "language": "RO-RO",
+      "category": "numbers",
+      "section": "Numbers",
+      "description": "Use proper Romanian number formatting for large numbers",
+      "example_correct": "1.254,28",
+      "example_incorrect": "1,254.28",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00147",
+      "language": "RO-RO",
+      "category": "numbers",
+      "section": "Numbers",
+      "description": "Use proper formatting for thousands",
+      "example_correct": "18.567",
+      "example_incorrect": "18,567",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00148",
+      "language": "RO-RO",
+      "category": "numbers",
+      "section": "Numbers",
+      "description": "Use proper formatting for millions",
+      "example_correct": "8.990.500",
+      "example_incorrect": "8,990,500",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00149",
+      "language": "RO-RO",
+      "category": "numbers",
+      "section": "Numbers",
+      "description": "Avoid mixing numerical and alphabetical forms",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00150",
+      "language": "RO-RO",
+      "category": "numbers",
+      "section": "Units of Measure",
+      "description": "Units of measure should be separated from the preceding number by a non-breaking space",
+      "example_correct": "533 MHz",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00151",
+      "language": "RO-RO",
+      "category": "numbers",
+      "section": "Units of Measure",
+      "description": "Convert imperial units to metric based on project requirements, either adding converted value first with original in brackets or converting to metric equivalent",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Monitor sizes are always expressed in inches and represent an exception"
+    },
+    {
+      "rule_id": "RO-RO_RULE_00152",
+      "language": "RO-RO",
+      "category": "numbers",
+      "section": "Units of Measure",
+      "description": "Use conversion: 1 inch = 2,54 cm",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00153",
+      "language": "RO-RO",
+      "category": "numbers",
+      "section": "Units of Measure",
+      "description": "Use conversion: 1 foot = 30,48 cm",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00154",
+      "language": "RO-RO",
+      "category": "numbers",
+      "section": "Units of Measure",
+      "description": "Use conversion: 1 yard = 91,44 cm",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00155",
+      "language": "RO-RO",
+      "category": "numbers",
+      "section": "Units of Measure",
+      "description": "Use conversion: 1 mile = 1,609 km",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00156",
+      "language": "RO-RO",
+      "category": "numbers",
+      "section": "Units of Measure",
+      "description": "Use conversion: 1 pint = 0,57 l",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00157",
+      "language": "RO-RO",
+      "category": "numbers",
+      "section": "Units of Measure",
+      "description": "Use conversion: 1 quart = 1,136 l",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00158",
+      "language": "RO-RO",
+      "category": "numbers",
+      "section": "Units of Measure",
+      "description": "Use conversion: 1 gallon = 4,546 l",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00159",
+      "language": "RO-RO",
+      "category": "numbers",
+      "section": "Units of Measure",
+      "description": "Use conversion: 1 ounce = 28,349 g",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00160",
+      "language": "RO-RO",
+      "category": "numbers",
+      "section": "Units of Measure",
+      "description": "Use conversion: 1 pound = 453,59 g",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00161",
+      "language": "RO-RO",
+      "category": "numbers",
+      "section": "Units of Measure",
+      "description": "Use conversion: 1 stone = 6,348 kg",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00162",
+      "language": "RO-RO",
+      "category": "numbers",
+      "section": "Units of Measure",
+      "description": "Use conversion: 1 ton = 1.016 kg",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00163",
+      "language": "RO-RO",
+      "category": "numbers",
+      "section": "Percentages",
+      "description": "Percentages are usually written in figures followed by the symbol %. No blank spaces should be used between the figure and the symbol",
+      "example_correct": "37%",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00164",
+      "language": "RO-RO",
+      "category": "numbers",
+      "section": "Date and time",
+      "description": "The correct date order for Romanian is DD.MM.YYYY (day first)",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00165",
+      "language": "RO-RO",
+      "category": "numbers",
+      "section": "Date format",
+      "description": "If a month needs to be abbreviated, use the first three letters and end in a period, except for September (Sept.)",
+      "example_correct": "12.03.2023, 12 martie 2023, 12 mar. 2023",
+      "example_incorrect": "3/12/23, 12 Martie 2023, 12 Mart. 2023",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00166",
+      "language": "RO-RO",
+      "category": "numbers",
+      "section": "Date format",
+      "description": "November is abbreviated as nov., to create no confusion with 'noi' (which is a pronoun)",
+      "example_correct": "nov.",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00167",
+      "language": "RO-RO",
+      "category": "numbers",
+      "section": "Date format",
+      "description": "Use ian. for ianuarie",
+      "example_correct": "ian.",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00168",
+      "language": "RO-RO",
+      "category": "numbers",
+      "section": "Date format",
+      "description": "Use feb. for februarie",
+      "example_correct": "feb.",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00169",
+      "language": "RO-RO",
+      "category": "numbers",
+      "section": "Date format",
+      "description": "Use mar. for martie",
+      "example_correct": "mar.",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00170",
+      "language": "RO-RO",
+      "category": "numbers",
+      "section": "Date format",
+      "description": "Use apr. for aprilie",
+      "example_correct": "apr.",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00171",
+      "language": "RO-RO",
+      "category": "numbers",
+      "section": "Date format",
+      "description": "Use mai for mai (no abbreviation)",
+      "example_correct": "mai",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00172",
+      "language": "RO-RO",
+      "category": "numbers",
+      "section": "Date format",
+      "description": "Use iun. for iunie",
+      "example_correct": "iun.",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00173",
+      "language": "RO-RO",
+      "category": "numbers",
+      "section": "Date format",
+      "description": "Use iul. for iulie",
+      "example_correct": "iul.",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00174",
+      "language": "RO-RO",
+      "category": "numbers",
+      "section": "Date format",
+      "description": "Use aug. for august",
+      "example_correct": "aug.",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00175",
+      "language": "RO-RO",
+      "category": "numbers",
+      "section": "Date format",
+      "description": "Use sept. for septembrie",
+      "example_correct": "sept.",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00176",
+      "language": "RO-RO",
+      "category": "numbers",
+      "section": "Date format",
+      "description": "Use oct. for octombrie",
+      "example_correct": "oct.",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00177",
+      "language": "RO-RO",
+      "category": "numbers",
+      "section": "Date format",
+      "description": "Use nov. for noiembrie",
+      "example_correct": "nov.",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00178",
+      "language": "RO-RO",
+      "category": "numbers",
+      "section": "Date format",
+      "description": "Use dec. for decembrie",
+      "example_correct": "dec.",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00179",
+      "language": "RO-RO",
+      "category": "numbers",
+      "section": "Time formats",
+      "description": "The correct time format for Romanian is: 04:00, 16:00 (use 24-hour format, without am/pm)",
+      "example_correct": "04:00, 16:00",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00180",
+      "language": "RO-RO",
+      "category": "numbers",
+      "section": "Currency",
+      "description": "Currency symbols are placed after the numeral and preceded by a non-breaking space, with two decimal figures",
+      "example_correct": "135,80 €",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00181",
+      "language": "RO-RO",
+      "category": "numbers",
+      "section": "Currency",
+      "description": "Romanian uses ISO codes for currency",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00182",
+      "language": "RO-RO",
+      "category": "numbers",
+      "section": "Currency",
+      "description": "Use 100 CAD for Canadian dollar",
+      "example_correct": "100 CAD",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00183",
+      "language": "RO-RO",
+      "category": "numbers",
+      "section": "Currency",
+      "description": "Use 100 EUR for European currency, not €100 EUR",
+      "example_correct": "100 EUR",
+      "example_incorrect": "€100 EUR",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00184",
+      "language": "RO-RO",
+      "category": "numbers",
+      "section": "Currency",
+      "description": "Use 100 GBP for Great Britain pound, not £100 GBP",
+      "example_correct": "100 GBP",
+      "example_incorrect": "£100 GBP",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00185",
+      "language": "RO-RO",
+      "category": "numbers",
+      "section": "Currency",
+      "description": "Use 100 USD for US dollar",
+      "example_correct": "100 USD",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00186",
+      "language": "RO-RO",
+      "category": "terminology",
+      "section": "Specific expressions",
+      "description": "Translate 'About' as 'Despre'",
+      "example_correct": "Despre",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00187",
+      "language": "RO-RO",
+      "category": "terminology",
+      "section": "Specific expressions",
+      "description": "Translate 'as shown in figure xx' as 'după cum se arată în figura xx'",
+      "example_correct": "după cum se arată în figura xx",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00188",
+      "language": "RO-RO",
+      "category": "terminology",
+      "section": "Specific expressions",
+      "description": "Translate 'For more information on xx, see xxx.' as 'Pentru mai multe informații despre xx, consultați xxx.'",
+      "example_correct": "Pentru mai multe informații despre xx, consultați xxx.",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00189",
+      "language": "RO-RO",
+      "category": "terminology",
+      "section": "Specific expressions",
+      "description": "Translate 'N/A (Non Available)' as 'Indisponibil'",
+      "example_correct": "Indisponibil",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00190",
+      "language": "RO-RO",
+      "category": "terminology",
+      "section": "Specific expressions",
+      "description": "Translate 'Please note that' as 'Rețineți'",
+      "example_correct": "Rețineți",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00191",
+      "language": "RO-RO",
+      "category": "terminology",
+      "section": "Specific expressions",
+      "description": "Translate 'Refer to xx for instructions on xxx.' as 'Consultați xx pentru instrucțiuni despre xx'",
+      "example_correct": "Consultați xx pentru instrucțiuni despre xx",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00192",
+      "language": "RO-RO",
+      "category": "terminology",
+      "section": "Specific expressions",
+      "description": "Translate 'registered trademark' as 'marcă comercială înregistrată'",
+      "example_correct": "marcă comercială înregistrată",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00193",
+      "language": "RO-RO",
+      "category": "terminology",
+      "section": "Specific expressions",
+      "description": "Translate 'Troubleshooting' as 'Depanare'",
+      "example_correct": "Depanare",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00194",
+      "language": "RO-RO",
+      "category": "terminology",
+      "section": "Specific expressions",
+      "description": "Translate 'Trademark' as 'Marcă comercială'",
+      "example_correct": "Marcă comercială",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00195",
+      "language": "RO-RO",
+      "category": "terminology",
+      "section": "Specific expressions",
+      "description": "Translate 'User's Guide' as 'Ghid de utilizare'",
+      "example_correct": "Ghid de utilizare",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00196",
+      "language": "RO-RO",
+      "category": "terminology",
+      "section": "Specific expressions",
+      "description": "Translate 'want (to), would like' as 'dori'",
+      "example_correct": "dori",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00197",
+      "language": "RO-RO",
+      "category": "terminology",
+      "section": "Specific expressions",
+      "description": "Translate 'we recommend…' as 'vă recomandăm'",
+      "example_correct": "vă recomandăm",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00198",
+      "language": "RO-RO",
+      "category": "terminology",
+      "section": "Specific expressions",
+      "description": "Translate 'Follow these steps to xxx' as 'Urmați acești pași pentru a xxx'",
+      "example_correct": "Urmați acești pași pentru a xxx",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00199",
+      "language": "RO-RO",
+      "category": "trademarks",
+      "section": "Trademarks and Product Names",
+      "description": "Refer to the most updated version of the approved RingCentral term list for your language",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00200",
+      "language": "RO-RO",
+      "category": "trademarks",
+      "section": "Trademarks and Product Names",
+      "description": "Use trademark and registered trademark symbols only on the first mention in the translated version of your content, unless otherwise indicated",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00201",
+      "language": "RO-RO",
+      "category": "trademarks",
+      "section": "Trademarks and Product Names",
+      "description": "For third party products mentioned in RingCentral content, complete extensive research to determine whether an official, approved trademarked translated version is available; otherwise, use as in source",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00202",
+      "language": "RO-RO",
+      "category": "trademarks",
+      "section": "Copyright Information, Footer, Publication Dates",
+      "description": "Copyright notices tend to be standard texts. Make sure you receive instructions on whether an official and approved translated version is available",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Example provided: ©2016 RingCentral, Inc. All rights reserved. RingCentral, RingCentral Office, RingCentral Meetings, and the RingCentral logo are registered trademarks of RingCentral, Inc. Other third-party marks and logos displayed in this document are the trademarks of their respective owners."
+    },
+    {
+      "rule_id": "RO-RO_RULE_00203",
+      "language": "RO-RO",
+      "category": "formatting",
+      "section": "Copyright Information, Footer, Publication Dates",
+      "description": "Use the copyright symbol to denote copyright ownership for works other than sound recordings",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "To create a copyright symbol on a Mac, press opt + [ g ]. In Windows, hold alt and type 0169. When a copyright symbol is needed in plain-text format, use a lowercase 'c' in parentheses: (c) 2016 RingCentral"
+    },
+    {
+      "rule_id": "RO-RO_RULE_00204",
+      "language": "RO-RO",
+      "category": "localization_general",
+      "section": "References to links",
+      "description": "When source files include references to URLs, translators should query if said link has a local version, and modify the document accordingly",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "If not, the relevant URL will be left as it appears in the source English text"
+    },
+    {
+      "rule_id": "RO-RO_RULE_00205",
+      "language": "RO-RO",
+      "category": "ui_elements",
+      "section": "References to UI Options",
+      "description": "If software has been translated, match the relevant translation memory or string list provided with the translation package",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00206",
+      "language": "RO-RO",
+      "category": "ui_elements",
+      "section": "References to UI Options",
+      "description": "If software has not been translated, use bilingual format, i.e. English first, followed by target in brackets",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00207",
+      "language": "RO-RO",
+      "category": "ui_elements",
+      "section": "References to UI Options",
+      "description": "Use bold type to reference on-screen instructions, commands, menu items, or buttons",
+      "example_correct": "Tap the Transfer icon",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00208",
+      "language": "RO-RO",
+      "category": "ui_elements",
+      "section": "References to UI Options",
+      "description": "When necessary, refer to Microsoft approved terminology for your language on the MS Portal",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "http://www.microsoft.com/Language/en-US/Default.aspx"
+    },
+    {
+      "rule_id": "RO-RO_RULE_00209",
+      "language": "RO-RO",
+      "category": "localization_general",
+      "section": "Addresses and Phone Numbers",
+      "description": "Translate country and city names based on your country/region's conventions",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00210",
+      "language": "RO-RO",
+      "category": "localization_general",
+      "section": "Addresses and Phone Numbers",
+      "description": "Localize address formats, if necessary, based on your country/region's conventions",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00211",
+      "language": "RO-RO",
+      "category": "formatting",
+      "section": "Addresses and Phone Numbers",
+      "description": "Unless needed for clarity, don't capitalize web or email addresses",
+      "example_correct": "Learn more at ringcentral.com",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00212",
+      "language": "RO-RO",
+      "category": "formatting",
+      "section": "Addresses and Phone Numbers",
+      "description": "Do not include www or http/s in URLs",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00213",
+      "language": "RO-RO",
+      "category": "formatting",
+      "section": "Addresses and Phone Numbers",
+      "description": "If a URL comes at the end of the sentence, use a period after. Be sure the period is not part of a hyperlinked URL",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00214",
+      "language": "RO-RO",
+      "category": "localization_general",
+      "section": "Addresses and Phone Numbers",
+      "description": "If source only includes toll free numbers and US numbers, add an international country code to the local number for international users",
+      "example_correct": "RingCentral, Inc. (Belmont/HQ) 20 Davis Drive, Belmont, California 94402 Teléfono: +1-888-528-RING (7464) o +1-650-472-4100",
+      "example_incorrect": "RingCentral, Inc. (Belmont/HQ) 20 Davis Drive, Belmont, California 94402 Phone: 888-528-RING (7464) or 650-472-4100",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00215",
+      "language": "RO-RO",
+      "category": "trademarks",
+      "section": "Third-party products and trademarks",
+      "description": "If a term is not listed in this section, check the common and industry-specific terms section",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Unless otherwise indicated, use trademark and registered trademark symbols only on the first mention"
+    },
+    {
+      "rule_id": "RO-RO_RULE_00216",
+      "language": "RO-RO",
+      "category": "formatting",
+      "section": "Units of measure and spacing",
+      "description": "Romanian uses metric system, not imperial",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00217",
+      "language": "RO-RO",
+      "category": "formatting",
+      "section": "Units of measure and spacing",
+      "description": "Units of measurement are separated from the value by a space (preferably non-breaking)",
+      "example_correct": "20 cm, 5 ºC",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "RO-RO_RULE_00218",
+      "language": "RO-RO",
+      "category": "formatting",
+      "section": "Units of measure and spacing",
+      "description": "The percentage isn't separated by a space",
+      "example_correct": "10%",
+      "example_incorrect": "",
+      "notes": ""
+    }
+  ]
+}

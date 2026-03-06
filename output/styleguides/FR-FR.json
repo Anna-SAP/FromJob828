@@ -1,0 +1,1407 @@
+{
+  "language": "FR-FR",
+  "source": "RC_Style_Guide_FR-FR_20241209.pdf",
+  "total_rules": 140,
+  "rules": [
+    {
+      "rule_id": "FR-FR_RULE_00001",
+      "language": "FR-FR",
+      "category": "localization_general",
+      "section": "General Overview",
+      "description": "Produce the most natural sounding translation, capturing intended meaning and transferring it into natural language suited to a wide French-speaking audience.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Avoid literal transposition of English syntax in French; sentences often need to be rewritten with adapted syntax."
+    },
+    {
+      "rule_id": "FR-FR_RULE_00002",
+      "language": "FR-FR",
+      "category": "style_tone",
+      "section": "General Overview",
+      "description": "Use a clear and precise style. Translation should be easily understood and not read like a translation.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Balance faithfulness to source and readability in target language."
+    },
+    {
+      "rule_id": "FR-FR_RULE_00003",
+      "language": "FR-FR",
+      "category": "style_tone",
+      "section": "General Overview",
+      "description": "Avoid heaviness, ambiguities, repetitions and Anglicism. Also avoid enriching the text excessively.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00004",
+      "language": "FR-FR",
+      "category": "localization_general",
+      "section": "Software Localization - Reference material",
+      "description": "Follow priority order: 1. DNT list 2. Style guide 3. Glossary 4. Translation memory",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Client's specific instructions should take precedence over this document if there are conflicts."
+    },
+    {
+      "rule_id": "FR-FR_RULE_00005",
+      "language": "FR-FR",
+      "category": "ui_elements",
+      "section": "Software Localization - UI options",
+      "description": "If software has been translated, match the relevant translation in the resources provided.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00006",
+      "language": "FR-FR",
+      "category": "ui_elements",
+      "section": "Software Localization - UI options",
+      "description": "If software has not been translated, use bilingual format: English first, followed by target in brackets.",
+      "example_correct": "Cliquez sur Open File (Ouvrir un fichier).",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00007",
+      "language": "FR-FR",
+      "category": "ui_elements",
+      "section": "Software Localization - UI options",
+      "description": "UI options should typically be translated as verbs, generally using the infinitive form. Be concise, avoid articles or prepositions and go straight to the point.",
+      "example_correct": "Insérer",
+      "example_incorrect": "Insérez/Insertion",
+      "notes": "Write the first letter of the option with an uppercase."
+    },
+    {
+      "rule_id": "FR-FR_RULE_00008",
+      "language": "FR-FR",
+      "category": "ui_elements",
+      "section": "Software Localization - UI options",
+      "description": "For compound UI options, be clear and direct.",
+      "example_correct": "Ajouter un utilisateur",
+      "example_incorrect": "Ajoutez/ Ajout Utilisateur",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00009",
+      "language": "FR-FR",
+      "category": "ui_elements",
+      "section": "Software Localization - UI options",
+      "description": "Use 'et' instead of '&' in UI options and avoid literal translations.",
+      "example_correct": "Enregistrer et quitter",
+      "example_incorrect": "Enregistrer & Fermer Sauvegarde et fermeture",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00010",
+      "language": "FR-FR",
+      "category": "trademarks",
+      "section": "Names of RingCentral Products, Applications and Features",
+      "description": "Check reference material and linguistic instructions, including terminology and DNT lists, before translating any product, application, third party or feature names.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Many product/application names are trademarked and not localizable."
+    },
+    {
+      "rule_id": "FR-FR_RULE_00011",
+      "language": "FR-FR",
+      "category": "localization_general",
+      "section": "Adaptation to French Market",
+      "description": "Replace English examples with French equivalents when needed for localization/adaptation.",
+      "example_correct": "searching on 'chasse' will select any knowledge base items that contain 'chasse', 'pêche', 'sonner'",
+      "example_incorrect": "searching on '*ing' will select any knowledge base items that contain 'fishing', 'hunting', 'ring'",
+      "notes": "Good example is wildcard operator explanations that need French word examples."
+    },
+    {
+      "rule_id": "FR-FR_RULE_00012",
+      "language": "FR-FR",
+      "category": "style_tone",
+      "section": "Linguistic Overview - Target audience",
+      "description": "Understand who the audience is (end users, partners, etc.) before translating.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00013",
+      "language": "FR-FR",
+      "category": "style_tone",
+      "section": "Linguistic Overview - Style and Tone",
+      "description": "Be precise and clear, consistent and natural. Rephrase sentences that are not clear enough, and rework sentences that sound like a translation.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Break up long English sentences into smaller friendlier parts for better understanding."
+    },
+    {
+      "rule_id": "FR-FR_RULE_00014",
+      "language": "FR-FR",
+      "category": "style_tone",
+      "section": "Linguistic Overview - Style and Tone",
+      "description": "Use accurate and concise style with no ambiguities or mistranslations.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00015",
+      "language": "FR-FR",
+      "category": "style_tone",
+      "section": "Linguistic Overview - Style and Tone",
+      "description": "Be clear and coherent so target reader should understand the text easily.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00016",
+      "language": "FR-FR",
+      "category": "style_tone",
+      "section": "Linguistic Overview - Style and Tone",
+      "description": "Be objective: neutral, do not insert your own opinion, avoid colloquial or slang words, be always politically correct.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00017",
+      "language": "FR-FR",
+      "category": "style_tone",
+      "section": "Linguistic Overview - Style and Tone",
+      "description": "Be correct: content and numbers should be free of mistakes.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00018",
+      "language": "FR-FR",
+      "category": "style_tone",
+      "section": "Linguistic Overview - Style and Tone",
+      "description": "Be idiomatically correct: use correct verbs, metaphors, expressions so text does not sound like a translation.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00019",
+      "language": "FR-FR",
+      "category": "style_tone",
+      "section": "Linguistic Overview - Style and Tone",
+      "description": "Be complete: do not leave out content (words, phrases, whole paragraphs).",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00020",
+      "language": "FR-FR",
+      "category": "style_tone",
+      "section": "Linguistic Overview - Style and Tone",
+      "description": "Keep an eye on the target reader: use an appropriate tone.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00021",
+      "language": "FR-FR",
+      "category": "style_tone",
+      "section": "Linguistic Overview - Style and Tone",
+      "description": "Be consistent: use same structure and translate the same way between two files, even if they are different (i.e operating systems).",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00022",
+      "language": "FR-FR",
+      "category": "localization_general",
+      "section": "Cross-references",
+      "description": "For internal cross-references, translate references to chapters, sections, headings or titles within the document consistently.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Internal cross-references mention other parts of text within the file or document being translated."
+    },
+    {
+      "rule_id": "FR-FR_RULE_00023",
+      "language": "FR-FR",
+      "category": "localization_general",
+      "section": "Cross-references",
+      "description": "For external cross-references, check if text or document has been localized before and match relevant translations.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "External cross-references are to titles of other documents not being translated or already translated in previous project."
+    },
+    {
+      "rule_id": "FR-FR_RULE_00024",
+      "language": "FR-FR",
+      "category": "localization_general",
+      "section": "Cross-references",
+      "description": "If external document has not been translated before, leave as in source language.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Contact Project Management team or French Language Lead if unable to retrieve translation information."
+    },
+    {
+      "rule_id": "FR-FR_RULE_00025",
+      "language": "FR-FR",
+      "category": "style_tone",
+      "section": "Political Correctness - Politeness",
+      "description": "Do not overuse 'S'il vous plaît'. Be more direct and use imperative form or similar constructions where appropriate.",
+      "example_correct": "Veuillez entrer votre nom d'utilisateur.",
+      "example_incorrect": "S'il vous plaît, entrez votre nom d'utilisateur.",
+      "notes": "French does not often use the equivalent of English 'Please'."
+    },
+    {
+      "rule_id": "FR-FR_RULE_00026",
+      "language": "FR-FR",
+      "category": "grammar",
+      "section": "Political Correctness - Gender",
+      "description": "French usually gives priority to masculine forms, unless differently needed based on specific context.",
+      "example_correct": "Le service contactera le client pour l'informer.",
+      "example_incorrect": "Le service contactera le client/la cliente pour l'informer.",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00027",
+      "language": "FR-FR",
+      "category": "grammar",
+      "section": "Political Correctness - Gender",
+      "description": "Use workaround to avoid gender issues before country tags.",
+      "example_correct": "Les tarifs sortants locaux s'appliquent lors des appels émis vers le pays suivant : {CountryName}",
+      "example_incorrect": "Les tarifs sortants locaux s'appliquent lors des appels émis vers le/la/les/l'/{CountryName}",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00028",
+      "language": "FR-FR",
+      "category": "grammar",
+      "section": "Passive voice",
+      "description": "Avoid passive voice whenever possible, which is too formal and wordy. Use active form to improve readability.",
+      "example_correct": "Le logiciel sauvegarde tous les fichiers dans le répertoire.",
+      "example_incorrect": "Tous les fichiers sont sauvegardés dans le répertoire par le logiciel.",
+      "notes": "Passive voice is only advised in specific texts like legal and official documents."
+    },
+    {
+      "rule_id": "FR-FR_RULE_00029",
+      "language": "FR-FR",
+      "category": "grammar",
+      "section": "Passive voice",
+      "description": "In presentation contexts, use active voice for better readability.",
+      "example_correct": "Ce livre blanc présente certaines fonctionnalités nouvelles.",
+      "example_incorrect": "Certaines fonctionnalités nouvelles sont présentées dans ce livre blanc.",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00030",
+      "language": "FR-FR",
+      "category": "grammar",
+      "section": "Use of Possessives",
+      "description": "Do not transfer extensive use of English possessive adjectives to French. Simple articles can often replace possessive adjectives.",
+      "example_correct": "Vous pouvez éditer les fichiers sur un ordinateur ou appareil mobile.",
+      "example_incorrect": "Vous pouvez éditer vos fichiers sur votre ordinateur ou votre appareil mobile.",
+      "notes": "In some cases, 'your' refers to a subject in third person."
+    },
+    {
+      "rule_id": "FR-FR_RULE_00031",
+      "language": "FR-FR",
+      "category": "grammar",
+      "section": "Articles",
+      "description": "For proper use of articles with foreign words, follow standard French grammar rules.",
+      "example_correct": "les attaques DDoS",
+      "example_incorrect": "",
+      "notes": "Examples include: (la Süddeutsche Zeitung), (les Big Data)"
+    },
+    {
+      "rule_id": "FR-FR_RULE_00032",
+      "language": "FR-FR",
+      "category": "grammar",
+      "section": "Translation of the –ing form",
+      "description": "The –ing form can be translated in different ways based on context: as a verb, noun, infinitive clause, subordinate clause, gerund etc. Use the most appropriate option.",
+      "example_correct": "Nos contrôleurs sont livrés avec une mémoire cache qui protège l'intégrité de vos données",
+      "example_incorrect": "",
+      "notes": "Choose among various translation options based on context."
+    },
+    {
+      "rule_id": "FR-FR_RULE_00033",
+      "language": "FR-FR",
+      "category": "style_tone",
+      "section": "Conciseness",
+      "description": "English sometimes uses additional words to express concepts. Check context, concentrate on meaning and render it as clearly as possible.",
+      "example_correct": "Nom, adresse électronique, nom de société",
+      "example_incorrect": "Votre nom, votre adresse électronique, votre nom de société",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00034",
+      "language": "FR-FR",
+      "category": "style_tone",
+      "section": "Conciseness",
+      "description": "Simplify transitional expressions.",
+      "example_correct": "Vous pouvez donc désormais...",
+      "example_incorrect": "Ceci signifie que vous pouvez désormais...",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00035",
+      "language": "FR-FR",
+      "category": "style_tone",
+      "section": "Repetitions",
+      "description": "Repetitions are acceptable in English but not in French. Use pronouns or other techniques to avoid them.",
+      "example_correct": "Pour supprimer un fichier sur votre ordinateur, sélectionnez-le dans le volet de droite, puis cliquez sur Supprimer...",
+      "example_incorrect": "Pour supprimer un fichier sur votre ordinateur, sélectionnez le fichier dans le volet de droite, puis cliquez sur Supprimer...",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00036",
+      "language": "FR-FR",
+      "category": "terminology",
+      "section": "False friends",
+      "description": "Be careful with false friends and literal translations that can have different meaning from source.",
+      "example_correct": "en réalité",
+      "example_incorrect": "actuellement",
+      "notes": "For English 'actually'"
+    },
+    {
+      "rule_id": "FR-FR_RULE_00037",
+      "language": "FR-FR",
+      "category": "terminology",
+      "section": "False friends",
+      "description": "Translate 'support' correctly based on context.",
+      "example_correct": "soutenir, prendre en charge",
+      "example_incorrect": "supporter",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00038",
+      "language": "FR-FR",
+      "category": "terminology",
+      "section": "False friends",
+      "description": "Translate 'comprehensive' correctly.",
+      "example_correct": "complet",
+      "example_incorrect": "compréhensif",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00039",
+      "language": "FR-FR",
+      "category": "terminology",
+      "section": "False friends",
+      "description": "Translate 'demand' correctly.",
+      "example_correct": "exiger",
+      "example_incorrect": "demander",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00040",
+      "language": "FR-FR",
+      "category": "terminology",
+      "section": "False friends",
+      "description": "Translate 'issue' correctly.",
+      "example_correct": "problème",
+      "example_incorrect": "issue",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00041",
+      "language": "FR-FR",
+      "category": "terminology",
+      "section": "False friends",
+      "description": "Translate 'surname' correctly.",
+      "example_correct": "nom (de famille)",
+      "example_incorrect": "surnom",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00042",
+      "language": "FR-FR",
+      "category": "terminology",
+      "section": "False friends",
+      "description": "Translate 'pass exams' correctly.",
+      "example_correct": "réussir des examens",
+      "example_incorrect": "passer des examens",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00043",
+      "language": "FR-FR",
+      "category": "terminology",
+      "section": "False friends",
+      "description": "Translate 'balance' correctly.",
+      "example_correct": "équilibre",
+      "example_incorrect": "balance",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00044",
+      "language": "FR-FR",
+      "category": "capitalization",
+      "section": "Capitalization",
+      "description": "Use capital letters for proper names, product names, geographical names.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00045",
+      "language": "FR-FR",
+      "category": "capitalization",
+      "section": "Capitalization",
+      "description": "Use capital letters for the first word after a period, exclamation mark, question mark, ellipsis.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00046",
+      "language": "FR-FR",
+      "category": "capitalization",
+      "section": "Capitalization",
+      "description": "In title case, use capitals for nouns and adjectives of organizations, bodies, departments, awards, and events.",
+      "example_correct": "Nations Unies, Ministère de l'Intérieur",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00047",
+      "language": "FR-FR",
+      "category": "capitalization",
+      "section": "Capitalization",
+      "description": "Use lowercase for nationalities, languages, religions, days of the week, months, season names, currencies, job titles in French.",
+      "example_correct": "le mardi",
+      "example_incorrect": "Le Mardi",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00048",
+      "language": "FR-FR",
+      "category": "capitalization",
+      "section": "Capitalization",
+      "description": "Use lowercase for months.",
+      "example_correct": "En juillet",
+      "example_incorrect": "En Juillet",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00049",
+      "language": "FR-FR",
+      "category": "capitalization",
+      "section": "Capitalization",
+      "description": "Use lowercase for currencies.",
+      "example_correct": "1 dollar américain",
+      "example_incorrect": "1 Dollar Américain",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00050",
+      "language": "FR-FR",
+      "category": "capitalization",
+      "section": "Capitalization",
+      "description": "Use lowercase for languages.",
+      "example_correct": "Utilisateurs parlant le français",
+      "example_incorrect": "Utilisateurs parlant le Français",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00051",
+      "language": "FR-FR",
+      "category": "capitalization",
+      "section": "Capitalization",
+      "description": "Use lowercase for nationalities.",
+      "example_correct": "Notre ami est espagnol",
+      "example_incorrect": "Notre ami est Espagnol",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00052",
+      "language": "FR-FR",
+      "category": "capitalization",
+      "section": "Capitalization",
+      "description": "In titles, headings, UI options, only the first word of the string should be capitalized.",
+      "example_correct": "Termes et conditions de XXX",
+      "example_incorrect": "Termes Et Conditions De XXX",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00053",
+      "language": "FR-FR",
+      "category": "capitalization",
+      "section": "Capitalization",
+      "description": "Only capitalize first word in page layout terms.",
+      "example_correct": "Mise en page",
+      "example_incorrect": "Mise en Page",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00054",
+      "language": "FR-FR",
+      "category": "capitalization",
+      "section": "Capitalization",
+      "description": "Only capitalize first word in model names.",
+      "example_correct": "Nom de modèle",
+      "example_incorrect": "Nom de Modèle",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00055",
+      "language": "FR-FR",
+      "category": "capitalization",
+      "section": "Capitalization",
+      "description": "In legal texts, retain capitalization that conveys specific meaning.",
+      "example_correct": "Le présent accord (l'« Accord ») est un accord contraignant",
+      "example_incorrect": "Le présent accord (l'« accord ») est un accord contraignant",
+      "notes": "Exception to general capitalization rules for legal implications."
+    },
+    {
+      "rule_id": "FR-FR_RULE_00056",
+      "language": "FR-FR",
+      "category": "capitalization",
+      "section": "Capitalization",
+      "description": "In legal software terms, capitalize appropriately.",
+      "example_correct": "Installez et utilisez une copie du Logiciel.",
+      "example_incorrect": "Installez et utilisez une copie du logiciel.",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00057",
+      "language": "FR-FR",
+      "category": "capitalization",
+      "section": "Capitalization",
+      "description": "Preserve all upper case formatting when whole paragraphs are written this way, as these conventions may have legal implications.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00058",
+      "language": "FR-FR",
+      "category": "spelling",
+      "section": "Spelling",
+      "description": "Run spell-checker when translation is completed.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00059",
+      "language": "FR-FR",
+      "category": "punctuation",
+      "section": "Punctuation - Spacing",
+      "description": "Brand name tags need to be separated from preceding or following text with a space.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00060",
+      "language": "FR-FR",
+      "category": "punctuation",
+      "section": "Punctuation - Spacing",
+      "description": "Use non-breaking space before double punctuation signs: colons, semicolons, question marks, exclamation marks and quotation marks.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Press Ctrl + Shift + Space bar in MS Word or use Alt+0160."
+    },
+    {
+      "rule_id": "FR-FR_RULE_00061",
+      "language": "FR-FR",
+      "category": "punctuation",
+      "section": "Punctuation - Spacing",
+      "description": "Use non-breaking spaces to prevent certain expressions from being separated at end of line: people's names, numbers, software names and versions, etc.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00062",
+      "language": "FR-FR",
+      "category": "punctuation",
+      "section": "Punctuation - Spacing",
+      "description": "Replace double spaces after full stops with single spaces in French.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "English documents often include double spaces after full stops."
+    },
+    {
+      "rule_id": "FR-FR_RULE_00063",
+      "language": "FR-FR",
+      "category": "punctuation",
+      "section": "Punctuation - Spacing",
+      "description": "No space is needed between a word and a round bracket.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00064",
+      "language": "FR-FR",
+      "category": "punctuation",
+      "section": "Punctuation - Comma",
+      "description": "Insert comma before 'et' only when absolutely required and at end of enumeration to avoid ambiguity.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00065",
+      "language": "FR-FR",
+      "category": "punctuation",
+      "section": "Punctuation - Comma",
+      "description": "A comma may be needed before 'et', 'ou' or 'ni' if coordinated elements have different subjects.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00066",
+      "language": "FR-FR",
+      "category": "punctuation",
+      "section": "Punctuation - Comma",
+      "description": "No comma is needed when coordinates are simple.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00067",
+      "language": "FR-FR",
+      "category": "punctuation",
+      "section": "Punctuation - Comma",
+      "description": "Insert comma between elements coordinated by conjunctions other than 'et', 'ou' or 'ni'.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00068",
+      "language": "FR-FR",
+      "category": "punctuation",
+      "section": "Punctuation - Comma",
+      "description": "Do not add comma before subordinate clauses.",
+      "example_correct": "Le service clientèle m'a informé que j'avais droit à une remise sur mon forfait téléphonique.",
+      "example_incorrect": "Le service clientèle m'a informé, que j'avais droit à une remise sur mon forfait téléphonique.",
+      "notes": "Common mistake originated by some CAT tools."
+    },
+    {
+      "rule_id": "FR-FR_RULE_00069",
+      "language": "FR-FR",
+      "category": "punctuation",
+      "section": "Punctuation - Period",
+      "description": "Use period to end a sentence, paragraph or abbreviated word.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00070",
+      "language": "FR-FR",
+      "category": "punctuation",
+      "section": "Punctuation - Period",
+      "description": "When sentence is placed between brackets or quotes, place period outside.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00071",
+      "language": "FR-FR",
+      "category": "punctuation",
+      "section": "Punctuation - Period",
+      "description": "Do not use full stops after headings and titles, after columns in a table, or after captions used with illustrations, tables etc., unless the expression is a full sentence.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00072",
+      "language": "FR-FR",
+      "category": "punctuation",
+      "section": "Punctuation - Period",
+      "description": "Do not use full stops if sentence ends with abbreviation, interrogation or exclamation mark, ellipsis, or colon.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00073",
+      "language": "FR-FR",
+      "category": "punctuation",
+      "section": "Punctuation - Colon",
+      "description": "Try to avoid using colons, as English makes wider use of them. Prefer commas or periods wherever possible.",
+      "example_correct": "Ouvrez l'assistant Créer un module et cliquez sur l'onglet Module.",
+      "example_incorrect": "Ouvrez l'assistant Créer un module : cliquez sur l'onglet Module.",
+      "notes": "Colon must be preceded by non-breaking space."
+    },
+    {
+      "rule_id": "FR-FR_RULE_00074",
+      "language": "FR-FR",
+      "category": "punctuation",
+      "section": "Punctuation - Colon",
+      "description": "In category descriptions, avoid colons and rewrite clearly.",
+      "example_correct": "La colonne Catégorie contient deux entrées : Statut et Configuration. OU : La colonne Catégorie contient les entrées Statut et Configuration.",
+      "example_incorrect": "La colonne Catégorie contient les deux : Statut et Configuration.",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00075",
+      "language": "FR-FR",
+      "category": "punctuation",
+      "section": "Punctuation - Colon",
+      "description": "In examples, use colon appropriately.",
+      "example_correct": "Exemple : un fichier compressé.",
+      "example_incorrect": "Exemple : Un fichier compressé.",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00076",
+      "language": "FR-FR",
+      "category": "punctuation",
+      "section": "Punctuation - Semi-colon",
+      "description": "Use semi-colons less than in English. Mainly use to separate items in enumeration when using only commas would be confusing. As a rule, avoid semi-colons and start new sentence instead.",
+      "example_correct": "Les catégories incluent les ordinateurs, ordinateurs portables et appareils mobiles, les systèmes d'exploitation, applications et applications mobiles, ainsi que les réseaux, routeurs et pare-feu.",
+      "example_incorrect": "Les catégories incluent : les ordinateurs, ordinateurs portables et appareils mobiles ; les systèmes d'exploitation, applications et applications mobiles ; les réseaux, routeurs et pare-feu.",
+      "notes": "Semi-colon must be preceded by non-breaking space."
+    },
+    {
+      "rule_id": "FR-FR_RULE_00077",
+      "language": "FR-FR",
+      "category": "punctuation",
+      "section": "Punctuation - Semi-colon",
+      "description": "Replace semi-colons with periods to create separate sentences for better readability.",
+      "example_correct": "Notez les informations contenues dans les champs Nom d'utilisateur et Mot de passe, vous en aurez besoin plus tard pour vous connecter. OU : Notez les informations contenues dans les champs Nom d'utilisateur et Mot de passe. Vous en aurez besoin plus tard pour vous connecter.",
+      "example_incorrect": "Notez les informations contenues dans les champs Nom d'utilisateur et Mot de passe ; vous en aurez besoin plus tard pour vous connecter.",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00078",
+      "language": "FR-FR",
+      "category": "punctuation",
+      "section": "Punctuation - Question mark",
+      "description": "Avoid question marks as they are much less used in French than in English.",
+      "example_correct": "Objectif",
+      "example_incorrect": "Que souhaitez-vous faire ?",
+      "notes": "Question mark must be preceded by non-breaking space. For headings."
+    },
+    {
+      "rule_id": "FR-FR_RULE_00079",
+      "language": "FR-FR",
+      "category": "punctuation",
+      "section": "Punctuation - Question mark",
+      "description": "Replace questions with descriptive headings.",
+      "example_correct": "À propos de RingCentral",
+      "example_incorrect": "Qu'est-ce que RingCentral ?",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00080",
+      "language": "FR-FR",
+      "category": "punctuation",
+      "section": "Punctuation - Exclamation mark",
+      "description": "Exclamation marks are not as common in French as in English. Sometimes it is better to remove them.",
+      "example_correct": "Fichier introuvable.",
+      "example_incorrect": "Fichier introuvable !",
+      "notes": "Exclamation mark must be preceded by non-breaking space."
+    },
+    {
+      "rule_id": "FR-FR_RULE_00081",
+      "language": "FR-FR",
+      "category": "punctuation",
+      "section": "Punctuation - Exclamation mark",
+      "description": "When exclamation marks appear in groups (!!!), keep only one.",
+      "example_correct": "Attention !",
+      "example_incorrect": "Attention !!!",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00082",
+      "language": "FR-FR",
+      "category": "punctuation",
+      "section": "Punctuation - Hyphen/En dash/Em dash/minus sign",
+      "description": "Use hyphen/en dash in compound terms and for page ranges. Don't use en dash as minus sign, use minus symbol instead.",
+      "example_correct": "6 – 2 = 4",
+      "example_incorrect": "6-2=4 or 6 -2 = 4",
+      "notes": "Use spaces around minus symbol."
+    },
+    {
+      "rule_id": "FR-FR_RULE_00083",
+      "language": "FR-FR",
+      "category": "punctuation",
+      "section": "Punctuation - Hyphen/En dash/Em dash/minus sign",
+      "description": "Use colon or comma to replace en dash in product names.",
+      "example_correct": "RingCentral : la solution idéale !",
+      "example_incorrect": "RingCentral–La solution idéale !",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00084",
+      "language": "FR-FR",
+      "category": "punctuation",
+      "section": "Punctuation - Hyphen/En dash/Em dash/minus sign",
+      "description": "Replace en dash with 'à' for indicating ranges.",
+      "example_correct": "Du lun. Au ven. de 8 h à 16 h, Pages 1 à 4",
+      "example_incorrect": "Lun.-Ven., 8-16 h, Pages 1-4",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00085",
+      "language": "FR-FR",
+      "category": "punctuation",
+      "section": "Punctuation - Hyphen/En dash/Em dash/minus sign",
+      "description": "Use colon rather than dash for explanations.",
+      "example_correct": "Activer : cliquez sur cette option pour activer le serveur.",
+      "example_incorrect": "Activer — Cliquez sur cette option pour activer le serveur.",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00086",
+      "language": "FR-FR",
+      "category": "punctuation",
+      "section": "Punctuation - Round and square brackets",
+      "description": "Use round brackets for further explanations which would otherwise disrupt the sentence, for spelling out acronyms, for indicating singular/plural forms or for translations of UI items in cases where UI has not been localized.",
+      "example_correct": "Indiquez l'adresse (UNC ou URL), puis cliquez sur Valider.",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00087",
+      "language": "FR-FR",
+      "category": "punctuation",
+      "section": "Punctuation - Round and square brackets",
+      "description": "Use round brackets for spelling out acronyms.",
+      "example_correct": "Les fichiers volumineux peuvent être transférés par FTP (File Transfer Protocol, ou protocole de transfert de données).",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00088",
+      "language": "FR-FR",
+      "category": "punctuation",
+      "section": "Punctuation - Round and square brackets",
+      "description": "Use round brackets for indicating singular/plural forms.",
+      "example_correct": "Veuillez enregistrer le(s) fichier(s).",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00089",
+      "language": "FR-FR",
+      "category": "punctuation",
+      "section": "Punctuation - Round and square brackets",
+      "description": "Use square brackets for indicating variables.",
+      "example_correct": "L'adresse du serveur est spécifiée suivant le format \\[Serveur]\\[Domaine].",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00090",
+      "language": "FR-FR",
+      "category": "punctuation",
+      "section": "Punctuation - Round and square brackets",
+      "description": "Use square brackets for additional information within round brackets.",
+      "example_correct": "Indiquez l'adresse (adresse UNC [interne] ou adresse URL [externe]), puis cliquez sur Valider.",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00091",
+      "language": "FR-FR",
+      "category": "punctuation",
+      "section": "Punctuation - Quotation marks",
+      "description": "NEVER use straight single quote for variables.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Updated on 20241207"
+    },
+    {
+      "rule_id": "FR-FR_RULE_00092",
+      "language": "FR-FR",
+      "category": "punctuation",
+      "section": "Punctuation - Quotation marks",
+      "description": "Use double quotes in French. Single quotes should be avoided unless software requirements or other constraints force their use.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00093",
+      "language": "FR-FR",
+      "category": "punctuation",
+      "section": "Punctuation - Quotation marks",
+      "description": "Place punctuation outside the quotes.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00094",
+      "language": "FR-FR",
+      "category": "punctuation",
+      "section": "Punctuation - Quotation marks",
+      "description": "Use angle quotation marks (guillemets). A non-breaking space must follow opening mark (« ) and precede closing mark ( »).",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00095",
+      "language": "FR-FR",
+      "category": "punctuation",
+      "section": "Punctuation - Apostrophe",
+      "description": "Use curly apostrophe as per FR convention.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00096",
+      "language": "FR-FR",
+      "category": "punctuation",
+      "section": "Punctuation - Apostrophe",
+      "description": "Escape apostrophes before tags like this: '/{1}",
+      "example_correct": "'/{1}",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00097",
+      "language": "FR-FR",
+      "category": "punctuation",
+      "section": "Punctuation - Apostrophe",
+      "description": "Curly apostrophes do not need to be escaped before a tag, only straight ones as they can break the code. If source escapes apostrophes, there is no need to do it in FR, use curly apostrophes.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00098",
+      "language": "FR-FR",
+      "category": "formatting",
+      "section": "Style to use in bulleted lists",
+      "description": "If bulleted items are complete sentences (with conjugated verb), each begins with capital and ends with period.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Example 1 – complete sentences"
+    },
+    {
+      "rule_id": "FR-FR_RULE_00099",
+      "language": "FR-FR",
+      "category": "formatting",
+      "section": "Style to use in bulleted lists",
+      "description": "If bulleted items are phrases or single words, each begins with capital letter and shall not be followed by period.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Example 2 – phrases/words"
+    },
+    {
+      "rule_id": "FR-FR_RULE_00100",
+      "language": "FR-FR",
+      "category": "formatting",
+      "section": "Style to use in bulleted lists",
+      "description": "If list items are not full sentences and depend syntactically on introductory sentence, each element should start with lowercase letter and end with semicolon. End last item with period.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Example 3 – continued sentences"
+    },
+    {
+      "rule_id": "FR-FR_RULE_00101",
+      "language": "FR-FR",
+      "category": "abbreviations",
+      "section": "Abbreviations",
+      "description": "Abbreviations should be avoided whenever possible, but may be needed in UI options.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00102",
+      "language": "FR-FR",
+      "category": "abbreviations",
+      "section": "Abbreviations",
+      "description": "Shorten word by at least two letters, abbreviation should end with consonant and end with period.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00103",
+      "language": "FR-FR",
+      "category": "abbreviations",
+      "section": "Abbreviations",
+      "description": "If word has double consonant, abbreviate after the second consonant.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00104",
+      "language": "FR-FR",
+      "category": "abbreviations",
+      "section": "Acronyms",
+      "description": "Translation of acronyms depends on RingCentral project-related requirements and should always be investigated to confirm their localizability.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00105",
+      "language": "FR-FR",
+      "category": "abbreviations",
+      "section": "Acronyms",
+      "description": "If acronym does not have common translation and is before spelled-out version, keep English acronym.",
+      "example_correct": "HPFS (High Performance File System)",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00106",
+      "language": "FR-FR",
+      "category": "abbreviations",
+      "section": "Acronyms",
+      "description": "If acronym has common translation and is before spelled-out version, use translated version between brackets.",
+      "example_correct": "HPFS (High Performance File System)",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00107",
+      "language": "FR-FR",
+      "category": "abbreviations",
+      "section": "Acronyms",
+      "description": "If spelled-out term is followed by acronym between brackets and has common translation, replace English spelled-out version with translated version.",
+      "example_correct": "CAO (conception assistée par ordinateur)",
+      "example_incorrect": "CAD (Computer-aided design)",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00108",
+      "language": "FR-FR",
+      "category": "abbreviations",
+      "section": "Acronyms",
+      "description": "If there is no commonly used spelled-out translation, keep spelled-out term in English between brackets.",
+      "example_correct": "CSV (valeurs séparées par des virgules)",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00109",
+      "language": "FR-FR",
+      "category": "abbreviations",
+      "section": "Acronyms",
+      "description": "If there is commonly used translated acronym and spelled-out translation, insert translated version and acronym between brackets.",
+      "example_correct": "Publication assistée par ordinateur (PAO)",
+      "example_incorrect": "Desktop Publishing (DTP)",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00110",
+      "language": "FR-FR",
+      "category": "abbreviations",
+      "section": "Acronyms",
+      "description": "If acronym is not spelled out and has no common translated equivalent, keep acronym in English only.",
+      "example_correct": "OLE",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00111",
+      "language": "FR-FR",
+      "category": "abbreviations",
+      "section": "Acronyms",
+      "description": "If acronym is not spelled out and has common translated equivalent, use translated acronym only.",
+      "example_correct": "OTAN",
+      "example_incorrect": "NATO",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00112",
+      "language": "FR-FR",
+      "category": "numbers",
+      "section": "Numbers",
+      "description": "Write numbers in full when used as nouns.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00113",
+      "language": "FR-FR",
+      "category": "numbers",
+      "section": "Numbers",
+      "description": "Write numbers in full when at beginning of sentence.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00114",
+      "language": "FR-FR",
+      "category": "numbers",
+      "section": "Numbers",
+      "description": "Write numbers in full when appearing alone and representing simple quantities, usually numbers up to 9.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00115",
+      "language": "FR-FR",
+      "category": "numbers",
+      "section": "Numbers",
+      "description": "Write numbers in full in expressions like 'in the 80s'.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00116",
+      "language": "FR-FR",
+      "category": "numbers",
+      "section": "Numbers",
+      "description": "Write dates, large numbers, ages, document references (paragraph, page, etc.) as numbers.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00117",
+      "language": "FR-FR",
+      "category": "numbers",
+      "section": "Numbers",
+      "description": "Replace decimal point with comma and thousand separator with dot.",
+      "example_correct": "0,25",
+      "example_incorrect": "0.25",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00118",
+      "language": "FR-FR",
+      "category": "numbers",
+      "section": "Numbers",
+      "description": "Format large numbers with dots as thousand separators and commas as decimal separators.",
+      "example_correct": "1 254,28",
+      "example_incorrect": "1,254.28",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00119",
+      "language": "FR-FR",
+      "category": "numbers",
+      "section": "Numbers",
+      "description": "Format numbers consistently with French conventions.",
+      "example_correct": "18 567",
+      "example_incorrect": "18,567",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00120",
+      "language": "FR-FR",
+      "category": "numbers",
+      "section": "Numbers",
+      "description": "Format large numbers with spaces as thousand separators.",
+      "example_correct": "8 990 500",
+      "example_incorrect": "8,990,500",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00121",
+      "language": "FR-FR",
+      "category": "numbers",
+      "section": "Numbers",
+      "description": "Avoid mixing numerical and alphabetical forms.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00122",
+      "language": "FR-FR",
+      "category": "numbers",
+      "section": "Units of Measure",
+      "description": "Units of measure should be separated from preceding number by non-breaking space.",
+      "example_correct": "533 MHz",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00123",
+      "language": "FR-FR",
+      "category": "numbers",
+      "section": "Units of Measure",
+      "description": "For imperial system units not applying to French, either add converted value first with original in brackets, or convert to metric equivalent based on project requirements.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Monitor sizes are always expressed in inches and represent exception."
+    },
+    {
+      "rule_id": "FR-FR_RULE_00124",
+      "language": "FR-FR",
+      "category": "numbers",
+      "section": "Percentages",
+      "description": "Write percentages in figures followed by % symbol. Use non-breaking space between figure and symbol.",
+      "example_correct": "37 %",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00125",
+      "language": "FR-FR",
+      "category": "numbers",
+      "section": "Date and time",
+      "description": "Adapt date and time formats to French standards. Date format should follow day-month, not month-day.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00126",
+      "language": "FR-FR",
+      "category": "numbers",
+      "section": "Date and time",
+      "description": "Use short date format DD/MM/YYYY separated by slash, less frequently by hyphen.",
+      "example_correct": "18/08/2015",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00127",
+      "language": "FR-FR",
+      "category": "numbers",
+      "section": "Date and time",
+      "description": "Use long date format dddd MMMM yyyy.",
+      "example_correct": "Mar. 18 août 2015",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00128",
+      "language": "FR-FR",
+      "category": "numbers",
+      "section": "Date and time",
+      "description": "Use standard time format hh:mm:ss with 24-hour clock format. Use non-breaking space in dates and times.",
+      "example_correct": "23h30, 23 h 30",
+      "example_incorrect": "11:30 PM",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00129",
+      "language": "FR-FR",
+      "category": "numbers",
+      "section": "Date and time",
+      "description": "Use French time range format.",
+      "example_correct": "De 8 h à 20 h",
+      "example_incorrect": "8AM to 8PM",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00130",
+      "language": "FR-FR",
+      "category": "numbers",
+      "section": "Date and time",
+      "description": "Use French date format for extended dates.",
+      "example_correct": "8 juin 2014",
+      "example_incorrect": "8-June-2014",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00131",
+      "language": "FR-FR",
+      "category": "numbers",
+      "section": "Date and time",
+      "description": "Convert ISO date format to French format.",
+      "example_correct": "05/04/2000",
+      "example_incorrect": "2000-04-05",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00132",
+      "language": "FR-FR",
+      "category": "numbers",
+      "section": "Currency",
+      "description": "Place currency symbols after numeral and preceded by non-breaking space, with two decimal figures.",
+      "example_correct": "145,80 €",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00133",
+      "language": "FR-FR",
+      "category": "numbers",
+      "section": "Currency",
+      "description": "To distinguish between US dollars and CA dollars, use ISO abbreviation in parentheses.",
+      "example_correct": "100 $ (USD)",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00134",
+      "language": "FR-FR",
+      "category": "punctuation",
+      "section": "Ellipsis (…)",
+      "description": "An ellipsis indicates omitted words in direct quote—not a thought that's trailing off.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00135",
+      "language": "FR-FR",
+      "category": "punctuation",
+      "section": "Ellipsis (…)",
+      "description": "Don't capitalize first word after ellipsis (unless it's a proper noun).",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00136",
+      "language": "FR-FR",
+      "category": "punctuation",
+      "section": "Ellipsis (…)",
+      "description": "Don't begin a sentence with an ellipsis.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00137",
+      "language": "FR-FR",
+      "category": "punctuation",
+      "section": "Ellipsis (…)",
+      "description": "Don't use spaces before or after an ellipsis.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00138",
+      "language": "FR-FR",
+      "category": "punctuation",
+      "section": "Ellipsis (…)",
+      "description": "If ending a complete sentence with ellipsis, no period is needed.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FR-FR_RULE_00139",
+      "language": "FR-FR",
+      "category": "punctuation",
+      "section": "Ellipsis (…)",
+      "description": "An ellipsis is one character, not three periods. However, if ellipsis is needed in plain-text format, use three periods.",
+      "example_correct": "Four score and seven years... a new nation.",
+      "example_incorrect": "",
+      "notes": "To create ellipsis on Mac: opt + [ ; ]; in Windows: hold alt and type 0133."
+    },
+    {
+      "rule_id": "FR-FR_RULE_00140",
+      "language": "FR-FR",
+      "category": "terminology",
+      "section": "Specific expressions",
+      "description": "Translate 'about' as 'à propos de'.",
+      "example_correct": "à propos de",
+      "example_incorrect": "",
+      "notes": ""
+    }
+  ]
+}

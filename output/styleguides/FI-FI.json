@@ -1,0 +1,1047 @@
+{
+  "language": "FI-FI",
+  "source": "RC_Style_Guide_FI-FI_20241206.pdf",
+  "total_rules": 104,
+  "rules": [
+    {
+      "rule_id": "FI-FI_RULE_00001",
+      "language": "FI-FI",
+      "category": "ui_elements",
+      "section": "Software Localization - Buttons",
+      "description": "Buttons should typically be translated as verbs, generally using the infinitive form",
+      "example_correct": "Avaa tiedosto (Open File), Peruuta (Cancel)",
+      "example_incorrect": "Avaa Tiedosto, Peruutus",
+      "notes": "Be concise, avoid using articles or prepositions and go straight to the point"
+    },
+    {
+      "rule_id": "FI-FI_RULE_00002",
+      "language": "FI-FI",
+      "category": "punctuation",
+      "section": "Software Localization - Buttons",
+      "description": "Translations of buttons do not end in a period, unless they consist of more than one sentence",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FI-FI_RULE_00003",
+      "language": "FI-FI",
+      "category": "capitalization",
+      "section": "Software Localization - Buttons",
+      "description": "Make sure to capitalize only the first word of the button",
+      "example_correct": "Avaa tiedosto",
+      "example_incorrect": "Avaa Tiedosto",
+      "notes": ""
+    },
+    {
+      "rule_id": "FI-FI_RULE_00004",
+      "language": "FI-FI",
+      "category": "punctuation",
+      "section": "Software Localization - Buttons",
+      "description": "As a rule, do NOT use any quotation marks around buttons. Only use quotation marks around button names to indicate where the actual button text ends, if the sentence is otherwise likely to confuse the user",
+      "example_correct": "Aloita napsauttamalla alla olevaa Tarkista ja siirry -painiketta",
+      "example_incorrect": "Aloita napsauttamalla alla olevaa \"Tarkista & siirry\" -painiketta",
+      "notes": ""
+    },
+    {
+      "rule_id": "FI-FI_RULE_00005",
+      "language": "FI-FI",
+      "category": "trademarks",
+      "section": "Software Localization - Names of RingCentral Products, Applications and Features",
+      "description": "Product/application names are often trademarked, thus not to be localized. Check reference material and linguistic instructions, including terminology lists before translating",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FI-FI_RULE_00006",
+      "language": "FI-FI",
+      "category": "localization_general",
+      "section": "Software Localization - Adaptation to Finnish Market",
+      "description": "Replace English examples with Finnish equivalents when needed for localization/adaptation",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Example given was wildcard operators explanation"
+    },
+    {
+      "rule_id": "FI-FI_RULE_00007",
+      "language": "FI-FI",
+      "category": "style_tone",
+      "section": "Linguistic Overview - Style and Tone",
+      "description": "Use informal addressing of people: sinä (you) instead of overly polite Te (You)",
+      "example_correct": "sinä",
+      "example_incorrect": "Te",
+      "notes": "Target audience are businesses so the style should be appropriate for business"
+    },
+    {
+      "rule_id": "FI-FI_RULE_00008",
+      "language": "FI-FI",
+      "category": "style_tone",
+      "section": "Linguistic Overview - Style and Tone",
+      "description": "Register should be professional and welcoming. Make it business casual. Be precise and clear, consistent and natural",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Rephrase sentences that are not clear enough, and rework sentences that sound like a translation"
+    },
+    {
+      "rule_id": "FI-FI_RULE_00009",
+      "language": "FI-FI",
+      "category": "style_tone",
+      "section": "Linguistic Overview - Style and Tone",
+      "description": "Avoid unnecessarily formal or pompous tone. Refrain from using words that add formality without adding meaning",
+      "example_correct": "",
+      "example_incorrect": "liittyen, toimesta, suorittaa",
+      "notes": ""
+    },
+    {
+      "rule_id": "FI-FI_RULE_00010",
+      "language": "FI-FI",
+      "category": "style_tone",
+      "section": "Linguistic Overview - Style and Tone",
+      "description": "Content should be accurate and concise (exact): no ambiguities or mistranslations",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "For most product UI, Support Content and Customer Training Materials"
+    },
+    {
+      "rule_id": "FI-FI_RULE_00011",
+      "language": "FI-FI",
+      "category": "style_tone",
+      "section": "Linguistic Overview - Style and Tone",
+      "description": "Content should be clear and coherent (readable): target reader should understand the text easily",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FI-FI_RULE_00012",
+      "language": "FI-FI",
+      "category": "style_tone",
+      "section": "Linguistic Overview - Style and Tone",
+      "description": "Content should be objective: neutral, do not insert your own opinion, avoid colloquial or slang words, be always politically correct, aim for bias-free language",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FI-FI_RULE_00013",
+      "language": "FI-FI",
+      "category": "style_tone",
+      "section": "Linguistic Overview - Style and Tone",
+      "description": "Content should be correct: content and numbers should be free of mistakes",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FI-FI_RULE_00014",
+      "language": "FI-FI",
+      "category": "style_tone",
+      "section": "Linguistic Overview - Style and Tone",
+      "description": "Content should be complete: do not leave out content (words, phrases, whole paragraphs)",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FI-FI_RULE_00015",
+      "language": "FI-FI",
+      "category": "style_tone",
+      "section": "Linguistic Overview - Style and Tone",
+      "description": "Avoid a condescending, childish or overly familiar tone and treat the reader as an adult and a professional. Strive for clarity without resorting to unnecessary repetition. Downplay humor and keep the tone business-like",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "The tone of American documentation is often paternalistic"
+    },
+    {
+      "rule_id": "FI-FI_RULE_00016",
+      "language": "FI-FI",
+      "category": "style_tone",
+      "section": "Linguistic Overview - Style and Tone",
+      "description": "Content should be idiomatically correct: use of correct verbs, metaphors, expressions, etc. so that text does not sound like a translation",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "For Marketing Content, E-mails, Product Guides, PR letters, Customer Proposals and selected UI components"
+    },
+    {
+      "rule_id": "FI-FI_RULE_00017",
+      "language": "FI-FI",
+      "category": "style_tone",
+      "section": "Linguistic Overview - Style and Tone",
+      "description": "Avoid literal translations. Translating literally without paying attention to Finnish grammar and style can result in sentences that are hard to understand. Try to balance faithfulness to the source and readability in the target language",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FI-FI_RULE_00018",
+      "language": "FI-FI",
+      "category": "style_tone",
+      "section": "Linguistic Overview - Style and Tone",
+      "description": "Avoid passive voice, where appropriate. Use active voice to improve readability. Passive voice is only advised in specific texts like legal and official documents",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "e.g. privacy policies, terms of a contract, NDAs, etc."
+    },
+    {
+      "rule_id": "FI-FI_RULE_00019",
+      "language": "FI-FI",
+      "category": "grammar",
+      "section": "Linguistic Overview - Style and Tone",
+      "description": "Possessive forms should be used sparingly. Where possible, remove possessive pronouns and only use possessive suffixes instead",
+      "example_correct": "yhteystiedoissasi",
+      "example_incorrect": "sinun yhteystiedoissasi",
+      "notes": "Possessive attributes are typically used frequently in English"
+    },
+    {
+      "rule_id": "FI-FI_RULE_00020",
+      "language": "FI-FI",
+      "category": "localization_general",
+      "section": "Linguistic Overview - Cross-references",
+      "description": "Internal cross-references mention other parts of text within the file or document you are translating. Translation of document titles must be referenced consistently throughout your translation",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FI-FI_RULE_00021",
+      "language": "FI-FI",
+      "category": "localization_general",
+      "section": "Linguistic Overview - Cross-references",
+      "description": "External cross-references mention titles of other documents. Check whether this text has been localized before, and match the relevant translations. If the document has not been translated before, leave as in source language",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Contact Project Management team or Language Lead if unable to retrieve information"
+    },
+    {
+      "rule_id": "FI-FI_RULE_00022",
+      "language": "FI-FI",
+      "category": "style_tone",
+      "section": "Linguistic Overview - Political Correctness - Politeness",
+      "description": "Finnish does not require similar approach to English politeness. Do not hesitate to be more direct, and use the imperative form or similar constructions where appropriate",
+      "example_correct": "Anna käyttäjänimesi",
+      "example_incorrect": "Ole hyvä ja anna käyttäjänimesi",
+      "notes": "English may sometimes tend to be over polite with instructions beginning with Please"
+    },
+    {
+      "rule_id": "FI-FI_RULE_00023",
+      "language": "FI-FI",
+      "category": "grammar",
+      "section": "Linguistic Overview - Political Correctness - Gender",
+      "description": "English third person singular pronoun they (to avoid gendered pronouns) should be translated with third person singular hän using a singular verb",
+      "example_correct": "Asiakas ottaa yhteyttä palvelutiimiin. Hän voi myös soittaa yhteyskeskukseen",
+      "example_incorrect": "Asiakas ottaa yhteyttä palvelutiimiin. He voivat myös soittaa yhteyskeskukseen",
+      "notes": "Finnish does not have gendered pronouns"
+    },
+    {
+      "rule_id": "FI-FI_RULE_00024",
+      "language": "FI-FI",
+      "category": "style_tone",
+      "section": "Linguistic Overview - Conciseness / Fluency",
+      "description": "Avoid bloated expressions",
+      "example_correct": "",
+      "example_incorrect": "suorittaa toimenpide",
+      "notes": "For most product UI, Support Content and Customer Training Materials"
+    },
+    {
+      "rule_id": "FI-FI_RULE_00025",
+      "language": "FI-FI",
+      "category": "terminology",
+      "section": "Linguistic Overview - Conciseness / Fluency",
+      "description": "Avoid overly long or complex compounds. Unintuitive compounds are ultimately an intelligibility and usability issue",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FI-FI_RULE_00026",
+      "language": "FI-FI",
+      "category": "style_tone",
+      "section": "Linguistic Overview - Conciseness / Fluency",
+      "description": "Please is not translated. Translate sorry as valitettavasti, if needed due to context",
+      "example_correct": "valitettavasti",
+      "example_incorrect": "",
+      "notes": "For Marketing Content, E-mails, Product Guides, PR letters, Customer Proposals and selected UI components"
+    },
+    {
+      "rule_id": "FI-FI_RULE_00027",
+      "language": "FI-FI",
+      "category": "style_tone",
+      "section": "Linguistic Overview - Conciseness / Fluency",
+      "description": "Translating Successfully is often not necessary",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FI-FI_RULE_00028",
+      "language": "FI-FI",
+      "category": "style_tone",
+      "section": "Linguistic Overview - Conciseness / Fluency",
+      "description": "Avoid beginning sentences with Kuitenkin",
+      "example_correct": "",
+      "example_incorrect": "Kuitenkin",
+      "notes": ""
+    },
+    {
+      "rule_id": "FI-FI_RULE_00029",
+      "language": "FI-FI",
+      "category": "style_tone",
+      "section": "Linguistic Overview - Overtranslation",
+      "description": "Overtranslation should be avoided. Avoid unnecessary words where a less verbose version would be equally clear",
+      "example_correct": "",
+      "example_incorrect": "toimesta (in passive structure)",
+      "notes": "Using a sentence with an active subject would make the text much easier to understand"
+    },
+    {
+      "rule_id": "FI-FI_RULE_00030",
+      "language": "FI-FI",
+      "category": "style_tone",
+      "section": "Linguistic Overview - Literal Translations",
+      "description": "Instead of diligently translating each word, try to express the meaning of the source text in Finnish",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Translating literally without paying attention to Finnish linguistic conventions and idioms can result in sentences that are hard to understand"
+    },
+    {
+      "rule_id": "FI-FI_RULE_00031",
+      "language": "FI-FI",
+      "category": "terminology",
+      "section": "Terminology and Word Choice - Technical Terms",
+      "description": "The RingCentral Glossary is your first and binding source for technical terms",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FI-FI_RULE_00032",
+      "language": "FI-FI",
+      "category": "terminology",
+      "section": "Terminology and Word Choice - Technical Terms",
+      "description": "For terms not listed in the glossary stick to Microsoft standard terminology where applicable",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "https://www.microsoft.com/en-us/language"
+    },
+    {
+      "rule_id": "FI-FI_RULE_00033",
+      "language": "FI-FI",
+      "category": "terminology",
+      "section": "Terminology and Word Choice - Technical Terms",
+      "description": "Use available online resources like Wikipedia, administrator web pages, large IT vendor portals etc.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "In case of doubt check back with your PM or Language Lead"
+    },
+    {
+      "rule_id": "FI-FI_RULE_00034",
+      "language": "FI-FI",
+      "category": "capitalization",
+      "section": "Capitalization",
+      "description": "Finnish capitalization differs from English. Follow Finnish rules",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FI-FI_RULE_00035",
+      "language": "FI-FI",
+      "category": "capitalization",
+      "section": "Capitalization",
+      "description": "When referring to UI elements, always capitalize the first word",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FI-FI_RULE_00036",
+      "language": "FI-FI",
+      "category": "capitalization",
+      "section": "Capitalization",
+      "description": "The first word following a colon should not be capitalized in Finnish, unless there are more than one sentence after the colon. In that case, the first word should be capitalized",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FI-FI_RULE_00037",
+      "language": "FI-FI",
+      "category": "capitalization",
+      "section": "Capitalization",
+      "description": "In sentences and headings, only capitalize the first word",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FI-FI_RULE_00038",
+      "language": "FI-FI",
+      "category": "capitalization",
+      "section": "Capitalization",
+      "description": "Even if titles and headings are fully capitalized in English, follow the Finnish rules. An exception to this are legal texts, where capitalization conveys a specific meaning and must be retained in the translation",
+      "example_correct": "Tämä sopimus (\"Palvelusopimus\") muodostaa sitovan sopimuksen…",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FI-FI_RULE_00039",
+      "language": "FI-FI",
+      "category": "capitalization",
+      "section": "Capitalization",
+      "description": "Product names should follow source capitalization",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FI-FI_RULE_00040",
+      "language": "FI-FI",
+      "category": "capitalization",
+      "section": "Capitalization",
+      "description": "Use lowercase for example in months, days, nationalities and currencies",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FI-FI_RULE_00041",
+      "language": "FI-FI",
+      "category": "spelling",
+      "section": "Spelling",
+      "description": "Run the spell-checker when you have completed your translation. If possible, copy the translated word into Word to be able to use the grammar checker too",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FI-FI_RULE_00042",
+      "language": "FI-FI",
+      "category": "formatting",
+      "section": "Punctuation - Spacing",
+      "description": "Brand name tags need to be separated from the preceding or following text with a space",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FI-FI_RULE_00043",
+      "language": "FI-FI",
+      "category": "formatting",
+      "section": "Punctuation - Spacing",
+      "description": "English documents often include double spaces after full stops. Run a controlled search and replace them by single spaces in Finnish",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FI-FI_RULE_00044",
+      "language": "FI-FI",
+      "category": "formatting",
+      "section": "Punctuation - Spacing",
+      "description": "Use non-breaking spaces to prevent certain expressions to be separated at the end of a line, such as people's names, numbers and units, software names and versions, etc. To obtain such a space, press Ctrl + Shift + Space bar in MS Word or use Alt+0160. Do not use non-breaking spaces in software files",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FI-FI_RULE_00045",
+      "language": "FI-FI",
+      "category": "punctuation",
+      "section": "Punctuation - Use of punctuation",
+      "description": "Follow the Finnish punctuation rules as described here or in other Finnish reference materials",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FI-FI_RULE_00046",
+      "language": "FI-FI",
+      "category": "punctuation",
+      "section": "Punctuation - Full stop",
+      "description": "A full stop is used at the end of a sentence or after many abbreviations",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FI-FI_RULE_00047",
+      "language": "FI-FI",
+      "category": "punctuation",
+      "section": "Punctuation - Full stop",
+      "description": "Acronyms and units of measurement are not followed by a full stop",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FI-FI_RULE_00048",
+      "language": "FI-FI",
+      "category": "punctuation",
+      "section": "Punctuation - Full stop",
+      "description": "The full stop is used as a separator in version numbers and chapter numbers",
+      "example_correct": "versio 2.2, luku 3.3",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FI-FI_RULE_00049",
+      "language": "FI-FI",
+      "category": "punctuation",
+      "section": "Punctuation - Full stop",
+      "description": "Do not use full stops after headings and titles, after columns in a table, or after captions used with illustrations, tables etc., unless the expression considered is a full sentence",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FI-FI_RULE_00050",
+      "language": "FI-FI",
+      "category": "punctuation",
+      "section": "Punctuation - Colon",
+      "description": "Try to avoid over-using colons, especially in marketing related content",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FI-FI_RULE_00051",
+      "language": "FI-FI",
+      "category": "punctuation",
+      "section": "Punctuation - Colon",
+      "description": "Use colons to introduce lists and at the end of a sentence that introduces a procedure",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FI-FI_RULE_00052",
+      "language": "FI-FI",
+      "category": "punctuation",
+      "section": "Punctuation - Colon",
+      "description": "If a colon is followed by more text, the first word after the colon is not capitalized, if the item following the colon is a single sentence",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FI-FI_RULE_00053",
+      "language": "FI-FI",
+      "category": "punctuation",
+      "section": "Punctuation - Semicolon",
+      "description": "Use the semicolon to link two connected thoughts in the same sentence; to separate items in a series in running text, especially phrases containing commas; or to add emphasis. Semicolons should also be closed up to the preceding word",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FI-FI_RULE_00054",
+      "language": "FI-FI",
+      "category": "punctuation",
+      "section": "Punctuation - Ellipsis",
+      "description": "Ellipses are made up of three dots only. There is a space after the dots. Use for omitted material or for a longer pause than a dash. It is advisable to use the ellipses mark (Alt + 0133) instead of typing three dots",
+      "example_correct": "Asennetaan ohjelmistoa…",
+      "example_incorrect": "Asennetaan ohjelmistoa",
+      "notes": ""
+    },
+    {
+      "rule_id": "FI-FI_RULE_00055",
+      "language": "FI-FI",
+      "category": "punctuation",
+      "section": "Punctuation - Ellipsis",
+      "description": "When ellipsis dots are used in English, they should normally be used in Finnish as well",
+      "example_correct": "Asennetaan ohjelmistoa…",
+      "example_incorrect": "Asennetaan ohjelmistoa",
+      "notes": ""
+    },
+    {
+      "rule_id": "FI-FI_RULE_00056",
+      "language": "FI-FI",
+      "category": "punctuation",
+      "section": "Punctuation - Dashes",
+      "description": "En-dashes (alt + 0150) are used to punctuate sentences in a similar way to colons, commas or brackets, for example to separate a piece of additional information. It should have a space on both sides",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FI-FI_RULE_00057",
+      "language": "FI-FI",
+      "category": "punctuation",
+      "section": "Punctuation - Dashes",
+      "description": "En-dashes (alt + 0150) are used to join coordinate or contrasting pairs and as shorthand for the word 'to'",
+      "example_correct": "the Paris–Dakar rally, items 3–6, 140–170 €, 1914–18",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FI-FI_RULE_00058",
+      "language": "FI-FI",
+      "category": "punctuation",
+      "section": "Punctuation - Dashes",
+      "description": "Do not use a hyphen as an en-dash. Em-dashes should not be used in Finnish",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FI-FI_RULE_00059",
+      "language": "FI-FI",
+      "category": "punctuation",
+      "section": "Punctuation - Round and square brackets",
+      "description": "Use round brackets for further explications which would otherwise disrupt the sentence. The first letter is a lower case unless the sentence in parentheses is an independent sentence",
+      "example_correct": "Kumoa tämä asetus (mikäli mahdollista) ja ota yhteyttä järjestelmänvalvojaan",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FI-FI_RULE_00060",
+      "language": "FI-FI",
+      "category": "punctuation",
+      "section": "Punctuation - Round and square brackets",
+      "description": "Use round brackets when adding the full form of an acronym",
+      "example_correct": "XML (Extended Markup Language)",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FI-FI_RULE_00061",
+      "language": "FI-FI",
+      "category": "punctuation",
+      "section": "Punctuation - Round and square brackets",
+      "description": "The optional area code of phone numbers is written between brackets",
+      "example_correct": "puhelin: (09) 123 4567",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FI-FI_RULE_00062",
+      "language": "FI-FI",
+      "category": "punctuation",
+      "section": "Punctuation - Round and square brackets",
+      "description": "Square brackets are used for indicating variables or for indicating additional information within round brackets",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FI-FI_RULE_00063",
+      "language": "FI-FI",
+      "category": "punctuation",
+      "section": "Punctuation - Quotation marks",
+      "description": "NEVER use straight single quote for variables",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FI-FI_RULE_00064",
+      "language": "FI-FI",
+      "category": "punctuation",
+      "section": "Punctuation - Quotation marks",
+      "description": "Doubly curly quotation marks, right quotes (\"\"), are used by default. The opening and closing quotation marks are identical, unlike in English",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FI-FI_RULE_00065",
+      "language": "FI-FI",
+      "category": "punctuation",
+      "section": "Punctuation - Quotation marks",
+      "description": "Single quotation marks are normally only used inside double quotation marks",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FI-FI_RULE_00066",
+      "language": "FI-FI",
+      "category": "punctuation",
+      "section": "Punctuation - Quotation marks",
+      "description": "In English, file names and other variables are often placed between single quotation marks. In Finnish they are not used, unless it is unclear where the name ends",
+      "example_correct": "Siirry Asetukset-valikkoon, Valitse \"Peruuta\" ja sulje ikkuna",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FI-FI_RULE_00067",
+      "language": "FI-FI",
+      "category": "punctuation",
+      "section": "Punctuation - Bulleted lists",
+      "description": "Use the same format in your translation as in the original text for bulleted lists",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FI-FI_RULE_00068",
+      "language": "FI-FI",
+      "category": "punctuation",
+      "section": "Punctuation - Bulleted lists - Complete sentences",
+      "description": "The sentence introducing the bulleted list ends with a colon. Each part of the enumeration starts with a capital letter and ends with a period (or question mark)",
+      "example_correct": "Seuraavat tapaukset ovat mahdollisia: ● Palvelin on verkossa. ● Palvelin on verkon ulkopuolella.",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FI-FI_RULE_00069",
+      "language": "FI-FI",
+      "category": "punctuation",
+      "section": "Punctuation - Bulleted lists - Phrases/words",
+      "description": "If the sentence introducing the bulleted list is a complete sentence, it is followed by a colon. If the list items complement it, there should be a full stop at the end of the last list item. If there is a more free association with the introducing sentence and the list items, the full stop can be omitted",
+      "example_correct": "Palvelin voi sijaita seuraavissa paikoissa: ● verkossa ● verkon ulkopuolella.",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FI-FI_RULE_00070",
+      "language": "FI-FI",
+      "category": "punctuation",
+      "section": "Punctuation - Bulleted lists - Parts of sentences",
+      "description": "If the list consists of phrases or parts of sentences, then the sentence introducing the bulleted list does not end in a colon. Each list item starts with a lowercase letter and there is no end punctuation. Only the last item in the bulleted list gets a full stop",
+      "example_correct": "Ohjelmisto on asennettava, jos ● palvelin on verkossa ● palvelin on verkon ulkopuolella ● palvelinta voi käyttää mobiililaitteilla.",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FI-FI_RULE_00071",
+      "language": "FI-FI",
+      "category": "abbreviations",
+      "section": "Abbreviations",
+      "description": "Do not use abbreviations in body text. Expressions such as 'mukaan lukien' and 'esimerkiksi' must be written in full instead of being abbreviated",
+      "example_correct": "mukaan lukien, esimerkiksi",
+      "example_incorrect": "m.l., esim.",
+      "notes": ""
+    },
+    {
+      "rule_id": "FI-FI_RULE_00072",
+      "language": "FI-FI",
+      "category": "abbreviations",
+      "section": "Abbreviations",
+      "description": "Abbreviations are only used when absolutely necessary, except for units or when there are space issues. They can be used freely in text inside brackets",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FI-FI_RULE_00073",
+      "language": "FI-FI",
+      "category": "abbreviations",
+      "section": "Abbreviations - Acronyms",
+      "description": "Acronyms should not be used excessively, so please consider writing out the full expression, if the acronym is not likely to be familiar to the reader",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FI-FI_RULE_00074",
+      "language": "FI-FI",
+      "category": "abbreviations",
+      "section": "Abbreviations - Acronyms",
+      "description": "When an acronym first occurs in a text, it should be written out and then followed by the acronym in brackets. After that, you can use the acronym",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FI-FI_RULE_00075",
+      "language": "FI-FI",
+      "category": "numbers",
+      "section": "Numbers",
+      "description": "Numbers should be written in full when used as nouns",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FI-FI_RULE_00076",
+      "language": "FI-FI",
+      "category": "numbers",
+      "section": "Numbers",
+      "description": "Numbers should be written in full when appearing alone and representing simple quantities, usually the numbers up to 9",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FI-FI_RULE_00077",
+      "language": "FI-FI",
+      "category": "numbers",
+      "section": "Numbers",
+      "description": "Dates, large numbers, ages, document references (paragraph, page, etc.) should be written as numbers. Replace the decimal point by a comma and the thousand separator by a non-breaking space",
+      "example_correct": "0,25, 1 254,28, 18 567, 8 990 500",
+      "example_incorrect": "0.25, 1,254.28, 18,567, 8,990,500",
+      "notes": ""
+    },
+    {
+      "rule_id": "FI-FI_RULE_00078",
+      "language": "FI-FI",
+      "category": "numbers",
+      "section": "Numbers",
+      "description": "Avoid mixing numerical and alphabetical forms",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FI-FI_RULE_00079",
+      "language": "FI-FI",
+      "category": "numbers",
+      "section": "Numbers - Units of Measure",
+      "description": "Finland uses the metric system. Pounds, miles, inches, feet and gallons have no legal meaning and are to be avoided, where possible",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FI-FI_RULE_00080",
+      "language": "FI-FI",
+      "category": "numbers",
+      "section": "Numbers - Units of Measure",
+      "description": "Units of measure should be separated from the preceding number by a non-breaking space",
+      "example_correct": "15 °C",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FI-FI_RULE_00081",
+      "language": "FI-FI",
+      "category": "numbers",
+      "section": "Numbers - Units of Measure",
+      "description": "Monitor sizes are always expressed in inches and represent an exception to the metric system rule",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FI-FI_RULE_00082",
+      "language": "FI-FI",
+      "category": "numbers",
+      "section": "Numbers - Percentages",
+      "description": "The percent sign is %, preceded with a non-breaking space",
+      "example_correct": "99 %",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FI-FI_RULE_00083",
+      "language": "FI-FI",
+      "category": "numbers",
+      "section": "Numbers - Date and time",
+      "description": "Default Short Date Format: d.m.yyyy - the month (without leading zero), the day (without leading zero) and the year are displayed in numbers",
+      "example_correct": "5.10.2021",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FI-FI_RULE_00084",
+      "language": "FI-FI",
+      "category": "numbers",
+      "section": "Numbers - Date and time",
+      "description": "Default Long Date Format: dddd d mmmm yyyy - the names of the weekdays are optional, there is a full stop after the day, and the name of the month is spelled out in full, inflected as '-kuuta'. The years are written using four digits. The names of the workdays and months start with a lower case",
+      "example_correct": "tiistai 26. toukokuuta 2020 OR 26. toukokuuta 2020",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FI-FI_RULE_00085",
+      "language": "FI-FI",
+      "category": "numbers",
+      "section": "Numbers - Date and time",
+      "description": "There are no approved abbreviations for months, so please consider writing the month in numbers instead, if applicable",
+      "example_correct": "4/2021",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FI-FI_RULE_00086",
+      "language": "FI-FI",
+      "category": "numbers",
+      "section": "Numbers - Date and time",
+      "description": "The names of the months should be: tammikuu, helmikuu, maaliskuu, huhtikuu, toukokuu, kesäkuu, heinäkuu, elokuu, syyskuu, lokakuu, marraskuu, joulukuu",
+      "example_correct": "tammikuu, helmikuu, maaliskuu, huhtikuu, toukokuu, kesäkuu, heinäkuu, elokuu, syyskuu, lokakuu, marraskuu, joulukuu",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FI-FI_RULE_00087",
+      "language": "FI-FI",
+      "category": "numbers",
+      "section": "Numbers - Date and time",
+      "description": "The names of the weekdays, in extended and abbreviated forms should be: maanantai ma, tiistai ti, keskiviikko ke, torstai to, perjantai pe, lauantai la, sunnuntai su",
+      "example_correct": "maanantai ma, tiistai ti, keskiviikko ke, torstai to, perjantai pe, lauantai la, sunnuntai su",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FI-FI_RULE_00088",
+      "language": "FI-FI",
+      "category": "numbers",
+      "section": "Numbers - Date and time - Time",
+      "description": "In a general context, abbreviation klo is preferred. Please use an en dash to express a time range",
+      "example_correct": "Kokous alkaa klo 8.30. Avoinna klo 9.30– 17.30",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FI-FI_RULE_00089",
+      "language": "FI-FI",
+      "category": "abbreviations",
+      "section": "Numbers - Date and time - Time",
+      "description": "Abbreviations concerning units of time should not be followed by a full stop. Please use a non-breaking space between the number and the unit",
+      "example_correct": "4 kk",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FI-FI_RULE_00090",
+      "language": "FI-FI",
+      "category": "abbreviations",
+      "section": "Numbers - Date and time - Time",
+      "description": "The symbol h is also common in general language for speed indications, where the unit is km/h. No full stop is used after this abbreviation, except for occurrences where it is the last word in a sentence",
+      "example_correct": "Nopeus oli 150 km/h",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FI-FI_RULE_00091",
+      "language": "FI-FI",
+      "category": "numbers",
+      "section": "Numbers - Currency",
+      "description": "Currency amounts can be expressed in two ways: 23,50 € or EUR 23,50. The first variant with the Euro sign is preferred. There should be a non-breaking space between the number and the currency symbol",
+      "example_correct": "23,50 €, EUR 23,50",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FI-FI_RULE_00092",
+      "language": "FI-FI",
+      "category": "trademarks",
+      "section": "Miscellaneous - Trademarks and Product Names",
+      "description": "Application/product names are often trademarked and are therefore rarely translated. Before translating any application, product, or feature name, please verify that it is in fact translatable and not protected in any way",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FI-FI_RULE_00093",
+      "language": "FI-FI",
+      "category": "trademarks",
+      "section": "Miscellaneous - Trademarks and Product Names",
+      "description": "Unless otherwise indicated, you will use trademark and registered trademark symbols only on the first mention in the translated version of your content",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FI-FI_RULE_00094",
+      "language": "FI-FI",
+      "category": "trademarks",
+      "section": "Miscellaneous - Trademarks and Product Names",
+      "description": "According to Finnish guidelines, trademark symbol is added after the trademarked name, if it appears on its own or is used as a part of a compound. If the trademarked name is inflected, the symbol will be placed at the end of the word",
+      "example_correct": "IntelliSense™, IntelliSense™-toiminto, IntelliSenseen™",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FI-FI_RULE_00095",
+      "language": "FI-FI",
+      "category": "trademarks",
+      "section": "Miscellaneous - Trademarks and Product Names",
+      "description": "For third party trademarks and products mentioned in RingCentral content, please conduct research to determine whether an official, approved trademarked translated version is available before using as in source",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FI-FI_RULE_00096",
+      "language": "FI-FI",
+      "category": "trademarks",
+      "section": "Miscellaneous - Trademarks and Product Names",
+      "description": "For product names from third parties, it's correct to follow the localized equivalence in official websites if there's one",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FI-FI_RULE_00097",
+      "language": "FI-FI",
+      "category": "localization_general",
+      "section": "Miscellaneous - Copyright Information, Footer, Publication Dates",
+      "description": "Copyright notices tend to be standard texts. Make sure you receive instructions on whether an official and approved translated version is available",
+      "example_correct": "©2015 RingCentral, Inc. Kaikki oikeudet pidätetään. RingCentral, RingCentral Office, RingCentral Meetings ja RingCentral-logo ovat RingCentral, Inc:n rekisteröityjä tavaramerkkejä. Tässä asiakirjassa käytetyt kolmansien osapuolten merkit ja logot ovat omistajiensa tavaramerkkejä.",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FI-FI_RULE_00098",
+      "language": "FI-FI",
+      "category": "localization_general",
+      "section": "Miscellaneous - References to links",
+      "description": "Whenever source files include references to URLs, translators should query if said link has a local version, and modify the document accordingly. If not, the relevant URL will be left as it appears in the source English text",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FI-FI_RULE_00099",
+      "language": "FI-FI",
+      "category": "ui_elements",
+      "section": "Miscellaneous - References to UI Options",
+      "description": "If software has been translated, please match the relevant translation memory or string list provided with the translation package",
+      "example_correct": "Napsauta Avaa tiedosto",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FI-FI_RULE_00100",
+      "language": "FI-FI",
+      "category": "ui_elements",
+      "section": "Miscellaneous - References to UI Options",
+      "description": "If software has not been translated, please use bilingual format, i.e. English first, followed by Finnish in brackets. Place the translation outside the formatting",
+      "example_correct": "Napsauta Open File (Avaa tiedosto)",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FI-FI_RULE_00101",
+      "language": "FI-FI",
+      "category": "ui_elements",
+      "section": "Miscellaneous - References to UI Options",
+      "description": "When Microsoft terminology or Microsoft UI items are quoted, please refer to Microsoft approved terminology for your language on the MS Portal",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "http://www.microsoft.com/Language/en-US/Default.aspx"
+    },
+    {
+      "rule_id": "FI-FI_RULE_00102",
+      "language": "FI-FI",
+      "category": "localization_general",
+      "section": "Miscellaneous - Addresses and Phone Numbers",
+      "description": "Translate country and city names based on your country/region's conventions",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FI-FI_RULE_00103",
+      "language": "FI-FI",
+      "category": "localization_general",
+      "section": "Miscellaneous - Addresses and Phone Numbers",
+      "description": "Localize address formats, if necessary, based on your country/region's conventions",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "FI-FI_RULE_00104",
+      "language": "FI-FI",
+      "category": "localization_general",
+      "section": "Miscellaneous - Addresses and Phone Numbers",
+      "description": "If source only includes toll free numbers and US numbers, please add an international country code to the local number for international users",
+      "example_correct": "RingCentral, Inc. (Belmont/HQ) 20 Davis Drive, Belmont, California 94402, USA Puhelin: 888-528-RING (7464) tai +1 650 472 4100",
+      "example_incorrect": "",
+      "notes": ""
+    }
+  ]
+}

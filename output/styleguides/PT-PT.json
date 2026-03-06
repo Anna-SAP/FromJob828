@@ -1,0 +1,1187 @@
+{
+  "language": "PT-PT",
+  "source": "RC_Style_Guide_PT-PT_20241206.pdf",
+  "total_rules": 118,
+  "rules": [
+    {
+      "rule_id": "PT-PT_RULE_00001",
+      "language": "PT-PT",
+      "category": "style_tone",
+      "section": "Style and Tone",
+      "description": "Use formal addressing with third person pronouns, never use 'você' or informal treatment 'tu'",
+      "example_correct": "Está pronto para começar?",
+      "example_incorrect": "",
+      "notes": "The target audience is businesses, so the style should be appropriate for business"
+    },
+    {
+      "rule_id": "PT-PT_RULE_00002",
+      "language": "PT-PT",
+      "category": "style_tone",
+      "section": "Style and Tone",
+      "description": "In situations where text can be aimed at both males and females, use the non-marked form (masculine)",
+      "example_correct": "Está pronto para começar?",
+      "example_incorrect": "",
+      "notes": "Whenever possible and when it doesn't affect quality, choose a more neutral option"
+    },
+    {
+      "rule_id": "PT-PT_RULE_00003",
+      "language": "PT-PT",
+      "category": "style_tone",
+      "section": "Style and Tone",
+      "description": "Register should be professional and welcoming, business casual",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Be precise and clear, consistent and natural. Avoid unnecessarily formal or pompous tone"
+    },
+    {
+      "rule_id": "PT-PT_RULE_00004",
+      "language": "PT-PT",
+      "category": "style_tone",
+      "section": "Style and Tone",
+      "description": "Avoid condescending, childish or overly familiar tone and treat the reader as an adult and professional",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "The tone of American documentation is often paternalistic. Strive for clarity without unnecessary repetition"
+    },
+    {
+      "rule_id": "PT-PT_RULE_00005",
+      "language": "PT-PT",
+      "category": "style_tone",
+      "section": "Politeness",
+      "description": "Do not use 'Por favor' excessively. Be more direct and use the imperative form where appropriate",
+      "example_correct": "Introduza o seu nome de utilizador.",
+      "example_incorrect": "Por favor, introduza o seu nome de utilizador.",
+      "notes": "Portuguese tends not to use 'Por favor' as much as English uses 'Please'"
+    },
+    {
+      "rule_id": "PT-PT_RULE_00006",
+      "language": "PT-PT",
+      "category": "grammar",
+      "section": "Gender",
+      "description": "Use gender-neutral writing when possible, but when text can be aimed at both males and females, use the non-marked form (masculine)",
+      "example_correct": "A equipa de vendas entrará em contacto com o cliente para lhe fornecer informações.",
+      "example_incorrect": "A equipa de vendas entrará em contacto com a/o cliente para lhe fornecer informações.",
+      "notes": ""
+    },
+    {
+      "rule_id": "PT-PT_RULE_00007",
+      "language": "PT-PT",
+      "category": "grammar",
+      "section": "Passive voice",
+      "description": "Avoid passive voice whenever possible, use active form to improve readability",
+      "example_correct": "O software guarda todos os ficheiros no diretório.",
+      "example_incorrect": "Todos os ficheiros são guardados no diretório pelo software.",
+      "notes": "Passive voice is only advised in specific texts like legal and official documents"
+    },
+    {
+      "rule_id": "PT-PT_RULE_00008",
+      "language": "PT-PT",
+      "category": "grammar",
+      "section": "Use of Possessives",
+      "description": "Avoid extensive use of possessive adjectives. Simple articles can often replace possessive adjectives",
+      "example_correct": "Pode editar os ficheiros num computador ou dispositivo móvel.",
+      "example_incorrect": "Pode editar os seus ficheiros no seu computador ou no seu dispositivo móvel.",
+      "notes": "In some cases, 'our' refers to a subject in the third person"
+    },
+    {
+      "rule_id": "PT-PT_RULE_00009",
+      "language": "PT-PT",
+      "category": "grammar",
+      "section": "Translation of the –ing form",
+      "description": "Translate –ing form appropriately based on context (verb, noun, infinitive clause, subordinate clause, etc.)",
+      "example_correct": "Os nossos controladores têm uma cache que protege a integridade dos dados",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PT-PT_RULE_00010",
+      "language": "PT-PT",
+      "category": "style_tone",
+      "section": "Conciseness / Fluency",
+      "description": "Avoid unnecessary words, concentrate on meaning and render it as clearly as possible",
+      "example_correct": "Nome, endereço de e-mail e telefone",
+      "example_incorrect": "O seu nome, o seu endereço de e-mail, o seu telefone",
+      "notes": "English sometimes uses additional words to express concepts"
+    },
+    {
+      "rule_id": "PT-PT_RULE_00011",
+      "language": "PT-PT",
+      "category": "style_tone",
+      "section": "Overtranslation",
+      "description": "Avoid overtranslation - the use of unnecessary words where a less verbose version would be equally clear",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PT-PT_RULE_00012",
+      "language": "PT-PT",
+      "category": "style_tone",
+      "section": "Repetitions",
+      "description": "Use pronouns or other techniques to avoid repetitions that are acceptable in English but not in Portuguese",
+      "example_correct": "Para eliminar um ficheiro do computador, selecione-o no painel direito e clique em Eliminar.",
+      "example_incorrect": "Para eliminar um ficheiro do computador, selecione o ficheiro no painel direito e clique em Eliminar.",
+      "notes": ""
+    },
+    {
+      "rule_id": "PT-PT_RULE_00013",
+      "language": "PT-PT",
+      "category": "terminology",
+      "section": "False friends",
+      "description": "Be careful with false friends and literal translations that can have different meanings",
+      "example_correct": "realmente, de facto",
+      "example_incorrect": "atualmente",
+      "notes": "For English 'actually'"
+    },
+    {
+      "rule_id": "PT-PT_RULE_00014",
+      "language": "PT-PT",
+      "category": "terminology",
+      "section": "False friends",
+      "description": "Translate 'support' correctly",
+      "example_correct": "oferecer suporte, apoiar",
+      "example_incorrect": "suportar",
+      "notes": ""
+    },
+    {
+      "rule_id": "PT-PT_RULE_00015",
+      "language": "PT-PT",
+      "category": "terminology",
+      "section": "False friends",
+      "description": "Translate 'comprehensive' correctly",
+      "example_correct": "completo, exaustivo, abrangente",
+      "example_incorrect": "compreensivo",
+      "notes": ""
+    },
+    {
+      "rule_id": "PT-PT_RULE_00016",
+      "language": "PT-PT",
+      "category": "terminology",
+      "section": "False friends",
+      "description": "Translate 'particular' correctly",
+      "example_correct": "específico",
+      "example_incorrect": "particular",
+      "notes": ""
+    },
+    {
+      "rule_id": "PT-PT_RULE_00017",
+      "language": "PT-PT",
+      "category": "terminology",
+      "section": "False friends",
+      "description": "Translate 'proper' correctly",
+      "example_correct": "adequado",
+      "example_incorrect": "próprio",
+      "notes": ""
+    },
+    {
+      "rule_id": "PT-PT_RULE_00018",
+      "language": "PT-PT",
+      "category": "ui_elements",
+      "section": "Buttons",
+      "description": "Translate buttons as verbs, generally using the infinitive form",
+      "example_correct": "Cancelar",
+      "example_incorrect": "Cancele",
+      "notes": ""
+    },
+    {
+      "rule_id": "PT-PT_RULE_00019",
+      "language": "PT-PT",
+      "category": "ui_elements",
+      "section": "Buttons",
+      "description": "Be concise in button translations, avoid using articles or prepositions",
+      "example_correct": "Adicionar utilizador",
+      "example_incorrect": "Adicione um utilizador",
+      "notes": ""
+    },
+    {
+      "rule_id": "PT-PT_RULE_00020",
+      "language": "PT-PT",
+      "category": "ui_elements",
+      "section": "Buttons",
+      "description": "Button translations do not end in a period, unless they consist of more than one sentence",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PT-PT_RULE_00021",
+      "language": "PT-PT",
+      "category": "ui_elements",
+      "section": "Buttons",
+      "description": "Capitalize the first word of the button",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PT-PT_RULE_00022",
+      "language": "PT-PT",
+      "category": "ui_elements",
+      "section": "Buttons",
+      "description": "Do NOT use quotation marks around buttons even if the English source uses them",
+      "example_correct": "Clique no botão Guardar e fechar, abaixo.",
+      "example_incorrect": "Clique no botão \"Guardar e fechar\" abaixo.",
+      "notes": ""
+    },
+    {
+      "rule_id": "PT-PT_RULE_00023",
+      "language": "PT-PT",
+      "category": "localization_general",
+      "section": "Adaptation to Portuguese Market",
+      "description": "Replace English examples with Portuguese equivalents when needed",
+      "example_correct": "Por exemplo, pesquisar '*este' selecionará itens que contenham 'nordeste', 'sudeste', 'este' ou 'oeste'. Pesquisar 's?lva' devolverá itens como 'silva' e 'salva'.",
+      "example_incorrect": "",
+      "notes": "Adapt examples to local context while maintaining functionality"
+    },
+    {
+      "rule_id": "PT-PT_RULE_00024",
+      "language": "PT-PT",
+      "category": "capitalization",
+      "section": "Capitalization",
+      "description": "Use lowercase for nationalities, languages, religions, days of the week, months, season names, currencies and job titles",
+      "example_correct": "na terça-feira",
+      "example_incorrect": "na Terça-feira",
+      "notes": ""
+    },
+    {
+      "rule_id": "PT-PT_RULE_00025",
+      "language": "PT-PT",
+      "category": "capitalization",
+      "section": "Capitalization",
+      "description": "Use lowercase for months",
+      "example_correct": "em julho",
+      "example_incorrect": "em Julho",
+      "notes": ""
+    },
+    {
+      "rule_id": "PT-PT_RULE_00026",
+      "language": "PT-PT",
+      "category": "capitalization",
+      "section": "Capitalization",
+      "description": "Use lowercase for currencies",
+      "example_correct": "1 dólar americano",
+      "example_incorrect": "1 Dólar Americano",
+      "notes": ""
+    },
+    {
+      "rule_id": "PT-PT_RULE_00027",
+      "language": "PT-PT",
+      "category": "capitalization",
+      "section": "Capitalization",
+      "description": "Use lowercase for languages",
+      "example_correct": "Utilizadores que falam inglês",
+      "example_incorrect": "Usuários que falam Inglês",
+      "notes": ""
+    },
+    {
+      "rule_id": "PT-PT_RULE_00028",
+      "language": "PT-PT",
+      "category": "capitalization",
+      "section": "Capitalization",
+      "description": "Use lowercase for nationalities",
+      "example_correct": "O nosso amigo é espanhol",
+      "example_incorrect": "Nosso amigo é Espanhol",
+      "notes": ""
+    },
+    {
+      "rule_id": "PT-PT_RULE_00029",
+      "language": "PT-PT",
+      "category": "capitalization",
+      "section": "Capitalization",
+      "description": "Use Title Case for proper names, geographical names, organizations, bodies, departments, awards, events, and product names",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Follow source capitalization for product names"
+    },
+    {
+      "rule_id": "PT-PT_RULE_00030",
+      "language": "PT-PT",
+      "category": "capitalization",
+      "section": "Capitalization",
+      "description": "Use Sentence case in titles, headings, UI options - only capitalize the first word",
+      "example_correct": "Termos e condições de XXX",
+      "example_incorrect": "Termos E Condições De XXX",
+      "notes": ""
+    },
+    {
+      "rule_id": "PT-PT_RULE_00031",
+      "language": "PT-PT",
+      "category": "capitalization",
+      "section": "Capitalization",
+      "description": "Exception for legal texts: retain capitalization that conveys specific meaning",
+      "example_correct": "O presente acordo (o \"Acordo\") é um acordo vinculativo",
+      "example_incorrect": "O presente acordo (o \"acordo\") é um acordo vinculativo",
+      "notes": "Legal implications require preserving original capitalization"
+    },
+    {
+      "rule_id": "PT-PT_RULE_00032",
+      "language": "PT-PT",
+      "category": "capitalization",
+      "section": "Capitalization",
+      "description": "Preserve all uppercase formatting in legal paragraphs and include accentuation on uppercase letters",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "These conventions may have legal implications"
+    },
+    {
+      "rule_id": "PT-PT_RULE_00033",
+      "language": "PT-PT",
+      "category": "formatting",
+      "section": "Spacing",
+      "description": "Brand name tags need to be separated from preceding or following text with a space",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PT-PT_RULE_00034",
+      "language": "PT-PT",
+      "category": "formatting",
+      "section": "Spacing",
+      "description": "Replace double spaces after full stops with single spaces in Portuguese",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PT-PT_RULE_00035",
+      "language": "PT-PT",
+      "category": "formatting",
+      "section": "Spacing",
+      "description": "Use non-breaking spaces to prevent separation of people's names, numbers, software names and versions at line ends",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Use Ctrl + Shift + Space bar in MS Word or Alt+0160"
+    },
+    {
+      "rule_id": "PT-PT_RULE_00036",
+      "language": "PT-PT",
+      "category": "punctuation",
+      "section": "Comma (,)",
+      "description": "Use comma with vocatives and interjections",
+      "example_correct": "Olá, [nome do utilizador],",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PT-PT_RULE_00037",
+      "language": "PT-PT",
+      "category": "punctuation",
+      "section": "Comma (,)",
+      "description": "Use comma with apposition",
+      "example_correct": "O pai, advogado, conseguiu…",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PT-PT_RULE_00038",
+      "language": "PT-PT",
+      "category": "punctuation",
+      "section": "Comma (,)",
+      "description": "Use comma with subordinate clauses and conditional clauses",
+      "example_correct": "Quando for necessário, use a vírgula. Se necessário, use a vírgula.",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PT-PT_RULE_00039",
+      "language": "PT-PT",
+      "category": "punctuation",
+      "section": "Comma (,)",
+      "description": "Use comma when an object or simple word/expression starts the sentence before the subject",
+      "example_correct": "Nestes casos, use a vírgula.",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PT-PT_RULE_00040",
+      "language": "PT-PT",
+      "category": "punctuation",
+      "section": "Comma (,)",
+      "description": "Use comma with interspersed clauses",
+      "example_correct": "Os casos em que, como referido acima, deve usar a vírgula.",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PT-PT_RULE_00041",
+      "language": "PT-PT",
+      "category": "punctuation",
+      "section": "Comma (,)",
+      "description": "Use comma with reduced clauses of infinitive, participle, omitted verb",
+      "example_correct": "Ao entrar, clique aqui. Fechada a janela, ele sentou-se. Ele é, eu não.",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PT-PT_RULE_00042",
+      "language": "PT-PT",
+      "category": "punctuation",
+      "section": "Comma (,)",
+      "description": "Use comma before 'mas' and before and after 'porém', 'todavia', 'contudo'",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "For adversatives"
+    },
+    {
+      "rule_id": "PT-PT_RULE_00043",
+      "language": "PT-PT",
+      "category": "punctuation",
+      "section": "Period (.)",
+      "description": "Do not use full stops after headings and titles, after columns in a table, or after captions unless the expression is a full sentence",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PT-PT_RULE_00044",
+      "language": "PT-PT",
+      "category": "punctuation",
+      "section": "Period (.)",
+      "description": "Do not use full stops if a sentence ends with an abbreviation, interrogation or exclamation mark, ellipsis, or colon",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PT-PT_RULE_00045",
+      "language": "PT-PT",
+      "category": "punctuation",
+      "section": "Period (.)",
+      "description": "When a sentence is placed between brackets or quotes, the period is placed outside",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PT-PT_RULE_00046",
+      "language": "PT-PT",
+      "category": "punctuation",
+      "section": "Colon (:)",
+      "description": "Use colons only to introduce lists or before quotations. Give preference to commas or periods elsewhere",
+      "example_correct": "Abra o assistente Criar um módulo e clique no separador Pacote.",
+      "example_incorrect": "Abra o assistente Criar um módulo: clique no separador Pacote.",
+      "notes": ""
+    },
+    {
+      "rule_id": "PT-PT_RULE_00047",
+      "language": "PT-PT",
+      "category": "punctuation",
+      "section": "Colon (:)",
+      "description": "If a colon is followed by more text, the first word after the colon is not capitalized unless it starts in a new line or is a mandatory Title/Sentence case term",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PT-PT_RULE_00048",
+      "language": "PT-PT",
+      "category": "punctuation",
+      "section": "Semicolon (;)",
+      "description": "Avoid semicolons. Start a new sentence instead",
+      "example_correct": "As categorias incluem: computadores, portáteis e dispositivos móveis, assim como rede, routers e firewalls.",
+      "example_incorrect": "As categorias incluem: computadores, portáteis e dispositivos móveis; rede, routers e firewalls.",
+      "notes": ""
+    },
+    {
+      "rule_id": "PT-PT_RULE_00049",
+      "language": "PT-PT",
+      "category": "punctuation",
+      "section": "Semicolon (;)",
+      "description": "For marketing and PR content, semicolons should not be used. Cut the sentence in two smaller ones to enhance readability",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PT-PT_RULE_00050",
+      "language": "PT-PT",
+      "category": "punctuation",
+      "section": "Semicolon (;)",
+      "description": "Semicolons should mainly be used to separate items in an enumeration when using only commas would be confusing",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PT-PT_RULE_00051",
+      "language": "PT-PT",
+      "category": "punctuation",
+      "section": "Question mark",
+      "description": "Use question marks with caution due to Portuguese formality. In titles, prefer affirmative sentences",
+      "example_correct": "Novidades",
+      "example_incorrect": "O que há de novo?",
+      "notes": ""
+    },
+    {
+      "rule_id": "PT-PT_RULE_00052",
+      "language": "PT-PT",
+      "category": "punctuation",
+      "section": "Question mark",
+      "description": "Replace questions with affirmative statements in titles when appropriate",
+      "example_correct": "Acerca do RingCentral",
+      "example_incorrect": "O que é o RingCentral ?",
+      "notes": ""
+    },
+    {
+      "rule_id": "PT-PT_RULE_00053",
+      "language": "PT-PT",
+      "category": "punctuation",
+      "section": "Exclamation mark",
+      "description": "Use exclamation marks with caution due to Portuguese formality. Sometimes better to remove them",
+      "example_correct": "Ficheiro não encontrado.",
+      "example_incorrect": "Ficheiro não encontrado!",
+      "notes": ""
+    },
+    {
+      "rule_id": "PT-PT_RULE_00054",
+      "language": "PT-PT",
+      "category": "punctuation",
+      "section": "Exclamation mark",
+      "description": "When multiple exclamation marks appear in groups, keep only one",
+      "example_correct": "Atenção!",
+      "example_incorrect": "Atenção!!!",
+      "notes": ""
+    },
+    {
+      "rule_id": "PT-PT_RULE_00055",
+      "language": "PT-PT",
+      "category": "punctuation",
+      "section": "Hyphen (-) / n dash (–) / m dash (—)",
+      "description": "Use hyphen in compound words, to split words and as negative sign",
+      "example_correct": "Conservar a -20 ºC",
+      "example_incorrect": "Conservar a –20 ºC",
+      "notes": ""
+    },
+    {
+      "rule_id": "PT-PT_RULE_00056",
+      "language": "PT-PT",
+      "category": "punctuation",
+      "section": "Hyphen (-) / n dash (–) / m dash (—)",
+      "description": "Use n dash in ranges of numbers and letters, preferably without surrounding spaces",
+      "example_correct": "5–10 minutos",
+      "example_incorrect": "5-10 minutos",
+      "notes": ""
+    },
+    {
+      "rule_id": "PT-PT_RULE_00057",
+      "language": "PT-PT",
+      "category": "punctuation",
+      "section": "Hyphen (-) / n dash (–) / m dash (—)",
+      "description": "Use m dash for stronger emphasis, surrounded by blank spaces",
+      "example_correct": "RingCentral — A solução ideal!",
+      "example_incorrect": "RingCentral–A solução ideal!",
+      "notes": "Can sometimes be changed to brackets or colon"
+    },
+    {
+      "rule_id": "PT-PT_RULE_00058",
+      "language": "PT-PT",
+      "category": "punctuation",
+      "section": "Round and square brackets",
+      "description": "Use round brackets for further explanations, spelling out acronyms, indicating singular/plural forms, or for translations of UI items",
+      "example_correct": "Introduza o endereço (UNC ou URL) e clique em Validar.",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PT-PT_RULE_00059",
+      "language": "PT-PT",
+      "category": "punctuation",
+      "section": "Round and square brackets",
+      "description": "Use square brackets for indicating variables or additional information within round brackets",
+      "example_correct": "Especifique o caminho (UNC [interno] ou URL [externo]) e clique em Guardar.",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PT-PT_RULE_00060",
+      "language": "PT-PT",
+      "category": "punctuation",
+      "section": "Quotation marks",
+      "description": "Always use curly double quotes, even if the source has single quotes",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "When quotation marks are inconsistent in source, use curly quotation marks in Portuguese"
+    },
+    {
+      "rule_id": "PT-PT_RULE_00061",
+      "language": "PT-PT",
+      "category": "punctuation",
+      "section": "Quotation marks",
+      "description": "NEVER use straight single quote for variables",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PT-PT_RULE_00062",
+      "language": "PT-PT",
+      "category": "punctuation",
+      "section": "Apostrophe",
+      "description": "Use straight apostrophes consistently instead of curly apostrophes",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PT-PT_RULE_00063",
+      "language": "PT-PT",
+      "category": "punctuation",
+      "section": "Enumerations - Complete sentences",
+      "description": "If bulleted items are complete sentences with a conjugated verb, each begins with a capital and ends with a period",
+      "example_correct": "Os seguintes casos são possíveis:\n● O servidor está na rede.\n● O servidor está fora da rede.",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PT-PT_RULE_00064",
+      "language": "PT-PT",
+      "category": "punctuation",
+      "section": "Enumerations - Phrases/words",
+      "description": "If enumeration parts consist of a single word or small group of words, punctuation marks may be omitted",
+      "example_correct": "O servidor pode estar nas seguintes localizações:\n● dentro da rede\n● fora da rede",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PT-PT_RULE_00065",
+      "language": "PT-PT",
+      "category": "punctuation",
+      "section": "Enumerations - Parts of sentences",
+      "description": "If list items are not full sentences and depend syntactically on the introductory sentence, start with lowercase, end with semicolon, and end the last item with a period",
+      "example_correct": "Instale o software se:\n● o servidor estiver na rede;\n● o servidor estiver fora da rede;\n● o servidor estiver acessível a partir de dispositivos móveis.",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PT-PT_RULE_00066",
+      "language": "PT-PT",
+      "category": "abbreviations",
+      "section": "Abbreviations",
+      "description": "Avoid abbreviations whenever possible, except for standard abbreviations or those in RingCentral glossary",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PT-PT_RULE_00067",
+      "language": "PT-PT",
+      "category": "abbreviations",
+      "section": "Abbreviations",
+      "description": "Be consistent - do not abbreviate a term in some sentences and spell it out in others",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PT-PT_RULE_00068",
+      "language": "PT-PT",
+      "category": "abbreviations",
+      "section": "Abbreviations",
+      "description": "Articles and prepositions can be omitted in on-screen text only in exceptional situations due to space constraints",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Do not use 'telegram style' if not necessary"
+    },
+    {
+      "rule_id": "PT-PT_RULE_00069",
+      "language": "PT-PT",
+      "category": "abbreviations",
+      "section": "Acronyms",
+      "description": "For first appearance of acronyms, spell out full term with acronym in brackets",
+      "example_correct": "CSV (Valores separados por vírgulas)",
+      "example_incorrect": "",
+      "notes": "After initial clarification, acronym can be used alone"
+    },
+    {
+      "rule_id": "PT-PT_RULE_00070",
+      "language": "PT-PT",
+      "category": "abbreviations",
+      "section": "Acronyms",
+      "description": "If there is no translation for acronym, keep the spelled out term in brackets after the acronym",
+      "example_correct": "HPFS (High Performance File System)",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PT-PT_RULE_00071",
+      "language": "PT-PT",
+      "category": "abbreviations",
+      "section": "Acronyms",
+      "description": "If there is a translation, insert full version and acronym in brackets",
+      "example_correct": "Sistema operativo (SO)",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PT-PT_RULE_00072",
+      "language": "PT-PT",
+      "category": "abbreviations",
+      "section": "Acronyms",
+      "description": "For acronyms not spelled out, use acronym only if it requires no explanation or insert brief explanation first time it appears",
+      "example_correct": "OLE (ligação e incorporação de objetos)",
+      "example_incorrect": "",
+      "notes": "Afterwards, use only the acronym"
+    },
+    {
+      "rule_id": "PT-PT_RULE_00073",
+      "language": "PT-PT",
+      "category": "numbers",
+      "section": "Numbers",
+      "description": "Write numbers in full when used as nouns",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PT-PT_RULE_00074",
+      "language": "PT-PT",
+      "category": "numbers",
+      "section": "Numbers",
+      "description": "Write numbers in full at the beginning of a sentence",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PT-PT_RULE_00075",
+      "language": "PT-PT",
+      "category": "numbers",
+      "section": "Numbers",
+      "description": "Write numbers 1-10 in full when appearing alone and representing simple quantities",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PT-PT_RULE_00076",
+      "language": "PT-PT",
+      "category": "numbers",
+      "section": "Numbers",
+      "description": "Write dates, large numbers, ages, document references as numbers",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PT-PT_RULE_00077",
+      "language": "PT-PT",
+      "category": "numbers",
+      "section": "Numbers",
+      "description": "Numbers 1 to 9999 should be written without spacing. For numbers above, separate with non-breaking spaces",
+      "example_correct": "9567, 10 150, 100 000, 200 000 000",
+      "example_incorrect": "9 567",
+      "notes": ""
+    },
+    {
+      "rule_id": "PT-PT_RULE_00078",
+      "language": "PT-PT",
+      "category": "numbers",
+      "section": "Numbers",
+      "description": "Replace decimal point with comma and thousand separator with non-breaking space",
+      "example_correct": "0,25, 1 254,28",
+      "example_incorrect": "0.25, 1,254.28",
+      "notes": ""
+    },
+    {
+      "rule_id": "PT-PT_RULE_00079",
+      "language": "PT-PT",
+      "category": "numbers",
+      "section": "Numbers",
+      "description": "Avoid mixing numerical and alphabetical forms",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PT-PT_RULE_00080",
+      "language": "PT-PT",
+      "category": "numbers",
+      "section": "Units of Measure",
+      "description": "Units of measure should be separated from the preceding number by a non-breaking space",
+      "example_correct": "15 °C",
+      "example_incorrect": "15°C",
+      "notes": ""
+    },
+    {
+      "rule_id": "PT-PT_RULE_00081",
+      "language": "PT-PT",
+      "category": "numbers",
+      "section": "Units of Measure",
+      "description": "Monitor sizes are always expressed in inches as an exception",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PT-PT_RULE_00082",
+      "language": "PT-PT",
+      "category": "numbers",
+      "section": "Units of Measure",
+      "description": "Unit symbols are not abbreviations and should never be followed by a dot",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PT-PT_RULE_00083",
+      "language": "PT-PT",
+      "category": "numbers",
+      "section": "Percentages",
+      "description": "Write percentages in numbers followed by % symbol with a non-breaking space",
+      "example_correct": "37 %",
+      "example_incorrect": "37%",
+      "notes": ""
+    },
+    {
+      "rule_id": "PT-PT_RULE_00084",
+      "language": "PT-PT",
+      "category": "numbers",
+      "section": "Date and time",
+      "description": "Use short date format DD/MM/YYYY separated by slash",
+      "example_correct": "18/08/2015",
+      "example_incorrect": "",
+      "notes": "Can also use hyphen separation less frequently"
+    },
+    {
+      "rule_id": "PT-PT_RULE_00085",
+      "language": "PT-PT",
+      "category": "numbers",
+      "section": "Date and time",
+      "description": "Use long date format: dddd d mmmm yyyy",
+      "example_correct": "18 de agosto de 2015",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PT-PT_RULE_00086",
+      "language": "PT-PT",
+      "category": "numbers",
+      "section": "Date and time",
+      "description": "Use 24-hour clock format: hh:mm:ss",
+      "example_correct": "23:30",
+      "example_incorrect": "11:30 PM",
+      "notes": ""
+    },
+    {
+      "rule_id": "PT-PT_RULE_00087",
+      "language": "PT-PT",
+      "category": "numbers",
+      "section": "Date and time",
+      "description": "Use 'das' and 'às' for time ranges",
+      "example_correct": "Das 8:00 às 20:00",
+      "example_incorrect": "8AM to 8PM",
+      "notes": ""
+    },
+    {
+      "rule_id": "PT-PT_RULE_00088",
+      "language": "PT-PT",
+      "category": "numbers",
+      "section": "Currency",
+      "description": "Currency symbol or code should always be written AFTER the number with non-breaking spaces",
+      "example_correct": "100 €, 1,50 USD",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PT-PT_RULE_00089",
+      "language": "PT-PT",
+      "category": "numbers",
+      "section": "Currency",
+      "description": "To distinguish between US and CA dollars, give preference to ISO abbreviation",
+      "example_correct": "100 USD",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PT-PT_RULE_00090",
+      "language": "PT-PT",
+      "category": "terminology",
+      "section": "Specific expressions",
+      "description": "Translate 'about' as 'sobre'",
+      "example_correct": "sobre",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PT-PT_RULE_00091",
+      "language": "PT-PT",
+      "category": "terminology",
+      "section": "Specific expressions",
+      "description": "Translate 'as shown in figure xx' as 'como mostra a imagem xx'",
+      "example_correct": "como mostra a imagem xx",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PT-PT_RULE_00092",
+      "language": "PT-PT",
+      "category": "terminology",
+      "section": "Specific expressions",
+      "description": "Translate 'For more information on xxx, see xxx' as 'Para obter mais informações sobre xxx, consulte xxx'",
+      "example_correct": "Para obter mais informações sobre xxx, consulte xxx.",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PT-PT_RULE_00093",
+      "language": "PT-PT",
+      "category": "terminology",
+      "section": "Specific expressions",
+      "description": "Translate 'N/A (Non Available)' as 'N/D (não disponível)'",
+      "example_correct": "N/D (não disponível)",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PT-PT_RULE_00094",
+      "language": "PT-PT",
+      "category": "terminology",
+      "section": "Specific expressions",
+      "description": "Translate 'Please note that' as 'Note que'",
+      "example_correct": "Note que",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PT-PT_RULE_00095",
+      "language": "PT-PT",
+      "category": "terminology",
+      "section": "Specific expressions",
+      "description": "Translate 'Refer to xxx for instructions on xxx' as 'Consulte xxx para obter instruções sobre xxx'",
+      "example_correct": "Consulte xxx para obter instruções sobre xxx.",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PT-PT_RULE_00096",
+      "language": "PT-PT",
+      "category": "terminology",
+      "section": "Specific expressions",
+      "description": "Translate 'registered trademark' as 'marca registada'",
+      "example_correct": "marca registada",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PT-PT_RULE_00097",
+      "language": "PT-PT",
+      "category": "terminology",
+      "section": "Specific expressions",
+      "description": "Translate 'trademark' as 'marca comercial'",
+      "example_correct": "marca comercial",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PT-PT_RULE_00098",
+      "language": "PT-PT",
+      "category": "terminology",
+      "section": "Specific expressions",
+      "description": "Translate 'troubleshooting' as 'resolução de problemas'",
+      "example_correct": "resolução de problemas",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PT-PT_RULE_00099",
+      "language": "PT-PT",
+      "category": "terminology",
+      "section": "Specific expressions",
+      "description": "Translate 'User's Guide' as 'Manual do utilizador'",
+      "example_correct": "Manual do utilizador",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PT-PT_RULE_00100",
+      "language": "PT-PT",
+      "category": "terminology",
+      "section": "Specific expressions",
+      "description": "Translate 'Are you sure you want to...?' as 'Tem a certeza de que pretende…?'",
+      "example_correct": "Tem a certeza de que pretende…?",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PT-PT_RULE_00101",
+      "language": "PT-PT",
+      "category": "terminology",
+      "section": "Specific expressions",
+      "description": "Translate 'Contact [support]' as 'Contacte [support]'",
+      "example_correct": "Contacte [support].",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PT-PT_RULE_00102",
+      "language": "PT-PT",
+      "category": "terminology",
+      "section": "Specific expressions",
+      "description": "Translate 'Follow these steps to xxx' as 'Para xxx, siga estes passos:'",
+      "example_correct": "Para xxx, siga estes passos:",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PT-PT_RULE_00103",
+      "language": "PT-PT",
+      "category": "trademarks",
+      "section": "Trademarks and Product Names",
+      "description": "Application/product names are often trademarked and rarely translated. Verify translatability before translating any application, product, or feature name",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PT-PT_RULE_00104",
+      "language": "PT-PT",
+      "category": "trademarks",
+      "section": "Trademarks and Product Names",
+      "description": "Use trademark and registered trademark symbols only on first mention in translated content unless otherwise indicated",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PT-PT_RULE_00105",
+      "language": "PT-PT",
+      "category": "trademarks",
+      "section": "Third Party Trademarks and Product Names",
+      "description": "Complete extensive research to determine if an official, approved trademarked translated version is available for third party trademarks",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PT-PT_RULE_00106",
+      "language": "PT-PT",
+      "category": "trademarks",
+      "section": "Third Party Trademarks and Product Names",
+      "description": "For third party product names, follow the localized equivalence in official websites if available",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PT-PT_RULE_00107",
+      "language": "PT-PT",
+      "category": "localization_general",
+      "section": "Copyright Information, Footer, Publication Dates",
+      "description": "Use official approved translation for copyright notices if available",
+      "example_correct": "©2015 RingCentral, Inc. Todos os direitos reservados. RingCentral, RingCentral Office, RingCentral Meetings e o logótipo RingCentral são marcas comerciais registadas da RingCentral, Inc. Outras marcas e logótipos de terceiros mencionados neste documento são marcas comerciais dos respetivos proprietários.",
+      "example_incorrect": "",
+      "notes": "If no official translation is available, use the provided Portuguese version"
+    },
+    {
+      "rule_id": "PT-PT_RULE_00108",
+      "language": "PT-PT",
+      "category": "localization_general",
+      "section": "References to links",
+      "description": "Query if URLs have local versions and modify accordingly. If not, leave as in source English text",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PT-PT_RULE_00109",
+      "language": "PT-PT",
+      "category": "ui_elements",
+      "section": "References to UI Options",
+      "description": "If software has been translated, match the relevant translation memory or string list provided",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PT-PT_RULE_00110",
+      "language": "PT-PT",
+      "category": "ui_elements",
+      "section": "References to UI Options",
+      "description": "If software has not been translated, use bilingual format: English first, followed by target in brackets",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Insert translation outside of formatting tags when there are formatting tags"
+    },
+    {
+      "rule_id": "PT-PT_RULE_00111",
+      "language": "PT-PT",
+      "category": "localization_general",
+      "section": "Addresses and Phone Numbers",
+      "description": "Translate country and city names based on Portuguese conventions",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PT-PT_RULE_00112",
+      "language": "PT-PT",
+      "category": "localization_general",
+      "section": "Addresses and Phone Numbers",
+      "description": "Localize address formats based on Portuguese conventions if necessary",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PT-PT_RULE_00113",
+      "language": "PT-PT",
+      "category": "localization_general",
+      "section": "Addresses and Phone Numbers",
+      "description": "If source includes only toll free and US numbers, add international country code to local number for international users",
+      "example_correct": "+1-650-472-4100",
+      "example_incorrect": "650-472-4100",
+      "notes": ""
+    },
+    {
+      "rule_id": "PT-PT_RULE_00114",
+      "language": "PT-PT",
+      "category": "terminology",
+      "section": "Technical Terms",
+      "description": "RingCentral Glossary is the first and binding source for technical terms",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PT-PT_RULE_00115",
+      "language": "PT-PT",
+      "category": "terminology",
+      "section": "Technical Terms",
+      "description": "For terms not in glossary, stick to Microsoft standard terminology where applicable",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PT-PT_RULE_00116",
+      "language": "PT-PT",
+      "category": "terminology",
+      "section": "Technical Terms",
+      "description": "Use available online resources like Wikipedia, administrator web pages, large IT vendor portals for technical terms",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Be careful of differences between Portuguese and Brazilian Portuguese"
+    },
+    {
+      "rule_id": "PT-PT_RULE_00117",
+      "language": "PT-PT",
+      "category": "localization_general",
+      "section": "Cross-references",
+      "description": "For internal cross-references, reference consistently throughout translation and all files",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "References to chapters, sections, headings within the document being translated"
+    },
+    {
+      "rule_id": "PT-PT_RULE_00118",
+      "language": "PT-PT",
+      "category": "localization_general",
+      "section": "Cross-references",
+      "description": "For external cross-references, check if text/document has been localized before and match relevant translations",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "If document has not been translated before, leave as in source language"
+    }
+  ]
+}

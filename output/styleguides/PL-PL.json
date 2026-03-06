@@ -1,0 +1,937 @@
+{
+  "language": "PL-PL",
+  "source": "RC_Style_Guide_PL-PL_20241206.pdf",
+  "total_rules": 93,
+  "rules": [
+    {
+      "rule_id": "PL-PL_RULE_00001",
+      "language": "PL-PL",
+      "category": "style_tone",
+      "section": "General Overview",
+      "description": "Capture RingCentral content's intended meaning and transfer it into businesslike and clear language suited to a wide Polish-speaking audience",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Avoid literal translations"
+    },
+    {
+      "rule_id": "PL-PL_RULE_00002",
+      "language": "PL-PL",
+      "category": "localization_general",
+      "section": "General Overview",
+      "description": "Translations should be well-formed grammatically, contain correct spellings, adhere to common use of terms, titles, and names, and be intuitively acceptable",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "A native speaker should at all times be able to sensibly interpret the translations"
+    },
+    {
+      "rule_id": "PL-PL_RULE_00003",
+      "language": "PL-PL",
+      "category": "localization_general",
+      "section": "General Overview",
+      "description": "If topics in this style guide conflict with RingCentral approved terminology lists, the client's specific instructions take precedence",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PL-PL_RULE_00004",
+      "language": "PL-PL",
+      "category": "ui_elements",
+      "section": "Software Localization - Buttons",
+      "description": "Buttons should typically be translated as verbs, generally in infinitive form",
+      "example_correct": "Otwórz plik",
+      "example_incorrect": "Otwarty plik",
+      "notes": "Be concise, avoid using articles or prepositions"
+    },
+    {
+      "rule_id": "PL-PL_RULE_00005",
+      "language": "PL-PL",
+      "category": "punctuation",
+      "section": "Software Localization - Buttons",
+      "description": "Translations of buttons do not end in a period unless they consist of more than one sentence",
+      "example_correct": "Anuluj",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PL-PL_RULE_00006",
+      "language": "PL-PL",
+      "category": "style_tone",
+      "section": "Software Localization - Buttons",
+      "description": "Capitalize the first word of the button",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PL-PL_RULE_00007",
+      "language": "PL-PL",
+      "category": "punctuation",
+      "section": "Software Localization - Buttons",
+      "description": "Do NOT use any quotation marks around buttons even if the English source uses them",
+      "example_correct": "Aby rozpocząć, kliknij przycisk „Przegląd i przeniesienie",
+      "example_incorrect": "Kliknij, aby rozpocząć, przycisk „Przegląd i przeniesienie",
+      "notes": ""
+    },
+    {
+      "rule_id": "PL-PL_RULE_00008",
+      "language": "PL-PL",
+      "category": "terminology",
+      "section": "Software Localization - Buttons",
+      "description": "Often the word 'button' itself (knop) can be left out in Polish",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PL-PL_RULE_00009",
+      "language": "PL-PL",
+      "category": "trademarks",
+      "section": "Software Localization - Names",
+      "description": "Product/application names are often trademarked and not to be localized",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Check reference material and linguistic instructions, including terminology lists before translating"
+    },
+    {
+      "rule_id": "PL-PL_RULE_00010",
+      "language": "PL-PL",
+      "category": "localization_general",
+      "section": "Software Localization - Adaptation",
+      "description": "Replace English examples with Polish equivalents when needed",
+      "example_correct": "wyszukiwanie '*cji' wybierze elementy zawierające 'klasyfikacji', 'informacji' lub 'lokalizacji'",
+      "example_incorrect": "",
+      "notes": "Adapt examples like wildcards to Polish context"
+    },
+    {
+      "rule_id": "PL-PL_RULE_00011",
+      "language": "PL-PL",
+      "category": "style_tone",
+      "section": "Linguistic Overview - Style and Tone",
+      "description": "Target audience are businesses so use formal addressing: Pan(i)/Pana(-i)",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PL-PL_RULE_00012",
+      "language": "PL-PL",
+      "category": "style_tone",
+      "section": "Linguistic Overview - Style and Tone",
+      "description": "Register should be professional and welcoming, business casual, precise, clear, consistent, and natural",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Rephrase unclear sentences, rework sentences that sound like a translation"
+    },
+    {
+      "rule_id": "PL-PL_RULE_00013",
+      "language": "PL-PL",
+      "category": "grammar",
+      "section": "Linguistic Overview - Style and Tone",
+      "description": "Always use 'masz' NOT 'mieć' for the verb 'have'",
+      "example_correct": "masz",
+      "example_incorrect": "mieć",
+      "notes": ""
+    },
+    {
+      "rule_id": "PL-PL_RULE_00014",
+      "language": "PL-PL",
+      "category": "style_tone",
+      "section": "Linguistic Overview - Style Expectations",
+      "description": "For product UI, Support Content and Customer Training: be accurate, concise, clear, coherent, objective, correct, complete",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "No ambiguities, mistranslations, colloquial or slang words"
+    },
+    {
+      "rule_id": "PL-PL_RULE_00015",
+      "language": "PL-PL",
+      "category": "style_tone",
+      "section": "Linguistic Overview - Style Expectations",
+      "description": "Avoid condescending, childish or overly familiar tone; treat reader as adult professional",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Downplay humor, keep tone business-like"
+    },
+    {
+      "rule_id": "PL-PL_RULE_00016",
+      "language": "PL-PL",
+      "category": "style_tone",
+      "section": "Linguistic Overview - Style Expectations",
+      "description": "For Marketing Content, emails, Product Guides, PR letters: use idiomatically correct language that doesn't sound like translation",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Use correct verbs, metaphors, expressions"
+    },
+    {
+      "rule_id": "PL-PL_RULE_00017",
+      "language": "PL-PL",
+      "category": "style_tone",
+      "section": "Linguistic Overview - Style Expectations",
+      "description": "Avoid literal translations; balance faithfulness to source with readability in target language",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PL-PL_RULE_00018",
+      "language": "PL-PL",
+      "category": "grammar",
+      "section": "Linguistic Overview - Style Expectations",
+      "description": "Avoid passive voice and use of word 'men'; use active form to improve readability",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Passive voice only for legal/official documents like privacy policies, contracts, NDAs"
+    },
+    {
+      "rule_id": "PL-PL_RULE_00019",
+      "language": "PL-PL",
+      "category": "grammar",
+      "section": "Linguistic Overview - Style Expectations",
+      "description": "Avoid use of second-person possessive 'Twoje akta'; simple articles can replace possessive adjectives",
+      "example_correct": "",
+      "example_incorrect": "Twoje akta",
+      "notes": ""
+    },
+    {
+      "rule_id": "PL-PL_RULE_00020",
+      "language": "PL-PL",
+      "category": "localization_general",
+      "section": "Cross-references",
+      "description": "Cross-references must be referenced consistently throughout translation and all files",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Check if documents have been localized before and match relevant translations"
+    },
+    {
+      "rule_id": "PL-PL_RULE_00021",
+      "language": "PL-PL",
+      "category": "localization_general",
+      "section": "Cross-references",
+      "description": "For external cross-references to untranslated documents, leave in source language",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Contact PM or Language Lead if unable to retrieve translation information"
+    },
+    {
+      "rule_id": "PL-PL_RULE_00022",
+      "language": "PL-PL",
+      "category": "style_tone",
+      "section": "Political Correctness - Politeness",
+      "description": "Be more direct than English; use imperative form instead of over-polite constructions with 'Please'",
+      "example_correct": "Wprowadź swoją nazwę użytkownika.",
+      "example_incorrect": "Proszę wstaw swoją nazwę użytkownika.",
+      "notes": ""
+    },
+    {
+      "rule_id": "PL-PL_RULE_00023",
+      "language": "PL-PL",
+      "category": "style_tone",
+      "section": "Political Correctness - Gender",
+      "description": "Try to use gender-neutral writing as much as possible; find balance between bias-free language and fluency",
+      "example_correct": "Zespół obsługi skontaktuje się z klientem i poinformuje go.",
+      "example_incorrect": "Zespół obsługi skontaktuje się z klientem i poinformuje go/ją.",
+      "notes": ""
+    },
+    {
+      "rule_id": "PL-PL_RULE_00024",
+      "language": "PL-PL",
+      "category": "style_tone",
+      "section": "Conciseness / Fluency",
+      "description": "Avoid overly long or complex compounds; unintuitive compounds are usability issue",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "For product UI, Support Content and Customer Training Materials"
+    },
+    {
+      "rule_id": "PL-PL_RULE_00025",
+      "language": "PL-PL",
+      "category": "style_tone",
+      "section": "Overtranslation",
+      "description": "Avoid overtranslation - use of unnecessary words where less verbose version would be equally clear",
+      "example_correct": "korzystając z (nazwa urządzenia)",
+      "example_incorrect": "korzystając z urządzenia…",
+      "notes": ""
+    },
+    {
+      "rule_id": "PL-PL_RULE_00026",
+      "language": "PL-PL",
+      "category": "style_tone",
+      "section": "Literal Translations",
+      "description": "Avoid literal translations that don't follow Polish style and idiom rules",
+      "example_correct": "Napisanie złożonych wzorów może być łatwiejsze, jeśli ich części zawierają nazwane, krótsze wzory.",
+      "example_incorrect": "Możesz też stwierdzić, że łatwiej jest napisanie złożonych formuł, jeśli części tych formuł zawieraja nazwane, krótsze formuły.",
+      "notes": "Can result in hard to understand or ungrammatical sentences"
+    },
+    {
+      "rule_id": "PL-PL_RULE_00027",
+      "language": "PL-PL",
+      "category": "terminology",
+      "section": "Terminology and Word Choice - Technical Terms",
+      "description": "RingCentral Glossary is first and binding source for technical terms",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "For unlisted terms, use Microsoft standard terminology, online resources like Wikipedia, IT vendor portals"
+    },
+    {
+      "rule_id": "PL-PL_RULE_00028",
+      "language": "PL-PL",
+      "category": "style_tone",
+      "section": "Capitalization",
+      "description": "Follow Polish capitalization rules, not English ones",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PL-PL_RULE_00029",
+      "language": "PL-PL",
+      "category": "ui_elements",
+      "section": "Capitalization",
+      "description": "When referring to UI elements, always use Uppercase",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PL-PL_RULE_00030",
+      "language": "PL-PL",
+      "category": "punctuation",
+      "section": "Capitalization",
+      "description": "First word following colon should not be capitalized unless there is more than one sentence after colon",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "If more than one sentence, first word should be capitalized"
+    },
+    {
+      "rule_id": "PL-PL_RULE_00031",
+      "language": "PL-PL",
+      "category": "style_tone",
+      "section": "Capitalization",
+      "description": "In sentences and headings, only use uppercase at beginning of sentence",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PL-PL_RULE_00032",
+      "language": "PL-PL",
+      "category": "style_tone",
+      "section": "Capitalization",
+      "description": "Even if titles and headings are fully capitalized in English, follow Polish rules",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Exception: legal texts where capitalization conveys specific meaning"
+    },
+    {
+      "rule_id": "PL-PL_RULE_00033",
+      "language": "PL-PL",
+      "category": "trademarks",
+      "section": "Capitalization",
+      "description": "Product names follow the source capitalization",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PL-PL_RULE_00034",
+      "language": "PL-PL",
+      "category": "style_tone",
+      "section": "Capitalization",
+      "description": "Use lowercase in months, days, and currencies",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PL-PL_RULE_00035",
+      "language": "PL-PL",
+      "category": "spelling",
+      "section": "Spelling",
+      "description": "Run spell-checker when translation is complete; use Word grammar checker if possible",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PL-PL_RULE_00036",
+      "language": "PL-PL",
+      "category": "formatting",
+      "section": "Punctuation - Spacing",
+      "description": "Brand name tags need to be separated from preceding or following text with a space",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PL-PL_RULE_00037",
+      "language": "PL-PL",
+      "category": "formatting",
+      "section": "Punctuation - Spacing",
+      "description": "Replace double spaces after full stops with single spaces in Polish",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "English documents often include double spaces after full stops"
+    },
+    {
+      "rule_id": "PL-PL_RULE_00038",
+      "language": "PL-PL",
+      "category": "formatting",
+      "section": "Punctuation - Spacing",
+      "description": "Use non-breaking spaces to prevent separation of names, numbers, software names and versions at line end",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Ctrl + Shift + Space bar in MS Word or Alt+0160; do not use in software files"
+    },
+    {
+      "rule_id": "PL-PL_RULE_00039",
+      "language": "PL-PL",
+      "category": "punctuation",
+      "section": "Use of punctuation",
+      "description": "Follow Polish punctuation rules as described at https://jzyk-polski.pl/zasady-interpunkcji",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PL-PL_RULE_00040",
+      "language": "PL-PL",
+      "category": "punctuation",
+      "section": "Comma",
+      "description": "Use comma where sentence would be too long or complicated, or where omission could cause confusion",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Do not use comma to separate two sentences"
+    },
+    {
+      "rule_id": "PL-PL_RULE_00041",
+      "language": "PL-PL",
+      "category": "punctuation",
+      "section": "Period",
+      "description": "Period is used to end sentence, paragraph, or abbreviated word",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PL-PL_RULE_00042",
+      "language": "PL-PL",
+      "category": "abbreviations",
+      "section": "Period",
+      "description": "Acronyms and units of measurement are not spelled with periods",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PL-PL_RULE_00043",
+      "language": "PL-PL",
+      "category": "punctuation",
+      "section": "Period",
+      "description": "Do not use full stops after headings, titles, table columns, or captions unless expression is full sentence",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PL-PL_RULE_00044",
+      "language": "PL-PL",
+      "category": "punctuation",
+      "section": "Period",
+      "description": "Do not use full stops if sentence ends with abbreviation, interrogation/exclamation mark, ellipsis, or colon",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PL-PL_RULE_00045",
+      "language": "PL-PL",
+      "category": "punctuation",
+      "section": "Colon",
+      "description": "Try to avoid using colons, especially in marketing related content",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PL-PL_RULE_00046",
+      "language": "PL-PL",
+      "category": "punctuation",
+      "section": "Colon",
+      "description": "Use colons to introduce lists and at end of sentence that introduces a procedure",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PL-PL_RULE_00047",
+      "language": "PL-PL",
+      "category": "punctuation",
+      "section": "Colon",
+      "description": "If colon is followed by single sentence, first word after colon does not get capital",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PL-PL_RULE_00048",
+      "language": "PL-PL",
+      "category": "punctuation",
+      "section": "Semicolon",
+      "description": "Semicolons are preferably avoided",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "If used, must follow Polish punctuation rules - complete sentence with personal form must follow"
+    },
+    {
+      "rule_id": "PL-PL_RULE_00049",
+      "language": "PL-PL",
+      "category": "punctuation",
+      "section": "Semicolon",
+      "description": "For marketing and PR content semicolons should never be used",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Cut sentence into two smaller ones to enhance readability"
+    },
+    {
+      "rule_id": "PL-PL_RULE_00050",
+      "language": "PL-PL",
+      "category": "punctuation",
+      "section": "Ellipsis",
+      "description": "When ellipsis dots are used in English, they must be used in Polish as well",
+      "example_correct": "Instalowanie oprogramowania...",
+      "example_incorrect": "Instalacja oprogramowania",
+      "notes": ""
+    },
+    {
+      "rule_id": "PL-PL_RULE_00051",
+      "language": "PL-PL",
+      "category": "punctuation",
+      "section": "Hyphen / n dash / m dash",
+      "description": "Use normal hyphen (-) to connect components of compounds, separate words across line breaks, as ellipsis marker, and as minus sign",
+      "example_correct": "strony 15-18",
+      "example_incorrect": "Prezentacja PowerPoint strony 15 18",
+      "notes": ""
+    },
+    {
+      "rule_id": "PL-PL_RULE_00052",
+      "language": "PL-PL",
+      "category": "punctuation",
+      "section": "Round and square brackets",
+      "description": "Use round brackets for explanations that would disrupt sentence and when adding full form of acronym",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "First letter is lowercase unless sentence in parentheses is independent"
+    },
+    {
+      "rule_id": "PL-PL_RULE_00053",
+      "language": "PL-PL",
+      "category": "punctuation",
+      "section": "Round and square brackets",
+      "description": "Area code of phone numbers is written between brackets",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PL-PL_RULE_00054",
+      "language": "PL-PL",
+      "category": "punctuation",
+      "section": "Round and square brackets",
+      "description": "Use square brackets for indicating variables or additional information within round brackets",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Follow guidelines at https://sjp.pwn.pl/zasady/Pisownia-skrotow-i-skrotowcow;629564.html"
+    },
+    {
+      "rule_id": "PL-PL_RULE_00055",
+      "language": "PL-PL",
+      "category": "punctuation",
+      "section": "Quotation marks",
+      "description": "NEVER use straight single quote for variables",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Updated on 20241207"
+    },
+    {
+      "rule_id": "PL-PL_RULE_00056",
+      "language": "PL-PL",
+      "category": "punctuation",
+      "section": "Quotation marks",
+      "description": "Double quotes are used for direct quotations",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PL-PL_RULE_00057",
+      "language": "PL-PL",
+      "category": "formatting",
+      "section": "Enumerations",
+      "description": "Use the same format in translation as in original text for enumerations",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PL-PL_RULE_00058",
+      "language": "PL-PL",
+      "category": "punctuation",
+      "section": "Enumerations - Complete sentences",
+      "description": "Sentence introducing enumeration ends with colon; each part starts with capital and ends with period",
+      "example_correct": "Możliwe są następujące przypadki:\n● Serwer znajduje się w sieci.\n● Serwer znajduje się poza siecią.",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PL-PL_RULE_00059",
+      "language": "PL-PL",
+      "category": "punctuation",
+      "section": "Enumerations - Phrases/words",
+      "description": "If enumeration parts consist of single word or small group of words, punctuation marks may be omitted",
+      "example_correct": "Serwer może być zlokalizowany w następujących miejscach:\n● w obrębie sieci\n● poza siecią",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PL-PL_RULE_00060",
+      "language": "PL-PL",
+      "category": "punctuation",
+      "section": "Enumerations - Parts of sentences",
+      "description": "If enumeration consists of phrases/sentence parts: introduction ends with colon, each part starts lowercase and ends with semicolon, last part gets period",
+      "example_correct": "Musisz zainstalować oprogramowanie jako:\n● serwer jest w sieci;\n● serwer jest poza siecią;\n● serwer jest dostępny z urządzeń przenośnych.",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PL-PL_RULE_00061",
+      "language": "PL-PL",
+      "category": "abbreviations",
+      "section": "Abbreviations",
+      "description": "Do not use abbreviations in body text; write expressions like 'np.' and 'dot.' in full",
+      "example_correct": "na przykład",
+      "example_incorrect": "np.",
+      "notes": "Abbreviations only when absolutely necessary, for units or space issues"
+    },
+    {
+      "rule_id": "PL-PL_RULE_00062",
+      "language": "PL-PL",
+      "category": "abbreviations",
+      "section": "Abbreviations",
+      "description": "Be consistent - do not abbreviate term in some sentences and spell out in others",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PL-PL_RULE_00063",
+      "language": "PL-PL",
+      "category": "abbreviations",
+      "section": "Abbreviations",
+      "description": "In on-screen text, abbreviations only allowed in exceptional situations; remove articles and prepositions first if space insufficient",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Do not use telegram style if not necessary"
+    },
+    {
+      "rule_id": "PL-PL_RULE_00064",
+      "language": "PL-PL",
+      "category": "abbreviations",
+      "section": "Acronyms",
+      "description": "Follow capitalization of abbreviated words; if organization uses different notation, follow their notation",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Often applies to product names and standards"
+    },
+    {
+      "rule_id": "PL-PL_RULE_00065",
+      "language": "PL-PL",
+      "category": "abbreviations",
+      "section": "Acronyms",
+      "description": "For acronyms without capitals, hyphen/apostrophe disappears in compounds; for acronyms with capitals, retain capital and apostrophe",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PL-PL_RULE_00066",
+      "language": "PL-PL",
+      "category": "abbreviations",
+      "section": "Acronyms",
+      "description": "When acronym appears first time, spell it out with full term in brackets after acronym",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "After initial clarification, acronym can be used alone"
+    },
+    {
+      "rule_id": "PL-PL_RULE_00067",
+      "language": "PL-PL",
+      "category": "abbreviations",
+      "section": "Acronyms",
+      "description": "If acronym refers to untranslated term, give full English term; if term has accepted Polish translation, use acronym followed by Polish term",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PL-PL_RULE_00068",
+      "language": "PL-PL",
+      "category": "abbreviations",
+      "section": "Acronyms",
+      "description": "These acronyms require no explanation: ADSL MS-DOS GUI pc ASCII ANSI EGA VGA PCI ROM UNIX TCP/IP cd dvd",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PL-PL_RULE_00069",
+      "language": "PL-PL",
+      "category": "numbers",
+      "section": "Numbers",
+      "description": "Numbers should be written in full when used as nouns, appearing alone representing simple quantities (usually up to 12), and in expressions like 'in the 80s'",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PL-PL_RULE_00070",
+      "language": "PL-PL",
+      "category": "numbers",
+      "section": "Numbers",
+      "description": "Dates, large numbers, ages, document references should be written as numbers",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PL-PL_RULE_00071",
+      "language": "PL-PL",
+      "category": "numbers",
+      "section": "Numbers",
+      "description": "Replace decimal point with comma and thousand separator with space",
+      "example_correct": "0,25",
+      "example_incorrect": "0.25",
+      "notes": ""
+    },
+    {
+      "rule_id": "PL-PL_RULE_00072",
+      "language": "PL-PL",
+      "category": "numbers",
+      "section": "Numbers",
+      "description": "Avoid mixing numerical and alphabetical forms",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PL-PL_RULE_00073",
+      "language": "PL-PL",
+      "category": "numbers",
+      "section": "Units of Measure",
+      "description": "Poland uses metric system by law; avoid pounds, miles, inches, feet, gallons",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Monitor sizes are exception - always expressed in inches"
+    },
+    {
+      "rule_id": "PL-PL_RULE_00074",
+      "language": "PL-PL",
+      "category": "numbers",
+      "section": "Units of Measure",
+      "description": "For imperial units, add converted metric value first and leave original in brackets, or convert completely based on project requirements",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PL-PL_RULE_00075",
+      "language": "PL-PL",
+      "category": "formatting",
+      "section": "Units of Measure",
+      "description": "Units of measure should be separated from preceding number by non-breaking space",
+      "example_correct": "15 °C",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PL-PL_RULE_00076",
+      "language": "PL-PL",
+      "category": "abbreviations",
+      "section": "Units of Measure",
+      "description": "After abbreviations of units of measurement there is no period according to official Polish standards",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PL-PL_RULE_00077",
+      "language": "PL-PL",
+      "category": "numbers",
+      "section": "Percentages",
+      "description": "Percent sign is % without leading space",
+      "example_correct": "99%",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PL-PL_RULE_00078",
+      "language": "PL-PL",
+      "category": "numbers",
+      "section": "Date and time - Date",
+      "description": "Default Short Date Format is d-m-yy (day without leading zero, month without leading zero, year without century)",
+      "example_correct": "5.10.20",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PL-PL_RULE_00079",
+      "language": "PL-PL",
+      "category": "numbers",
+      "section": "Date and time - Date",
+      "description": "Default Long Date Format is dddd mmmm yyyy with day names optional, month spelled out, year in four digits, lowercase for days and months",
+      "example_correct": "wtorek 26 maja 2020 r. OR 26 maja 2020 roku",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PL-PL_RULE_00080",
+      "language": "PL-PL",
+      "category": "numbers",
+      "section": "Date and time - Time",
+      "description": "In general context, use fully written form in 24-hour clock format",
+      "example_correct": "Zapisy rozpoczynaja się o godzinie 8:30. Godziny pracy: 9:30 – 12:30; 13:30-18:30.",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PL-PL_RULE_00081",
+      "language": "PL-PL",
+      "category": "numbers",
+      "section": "Date and time - Time",
+      "description": "In technical and scientific texts, symbols h, min, and s are common, written between figures",
+      "example_correct": "17 h 03 min 16 s",
+      "example_incorrect": "",
+      "notes": "These symbols are internationally agreed ISO standard"
+    },
+    {
+      "rule_id": "PL-PL_RULE_00082",
+      "language": "PL-PL",
+      "category": "numbers",
+      "section": "Currency",
+      "description": "Currency amounts can be written as '23,50 euro' or '23,50 EUR'; second variant with EUR abbreviation is preferred",
+      "example_correct": "23,50 EUR",
+      "example_incorrect": "",
+      "notes": "Also: 50 centów"
+    },
+    {
+      "rule_id": "PL-PL_RULE_00083",
+      "language": "PL-PL",
+      "category": "grammar",
+      "section": "Prepositions",
+      "description": "Pay attention to correct use of prepositions; consult Microsoft Language Portal for UI content",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Influenced by English, many linguists omit them or change word order"
+    },
+    {
+      "rule_id": "PL-PL_RULE_00084",
+      "language": "PL-PL",
+      "category": "trademarks",
+      "section": "Trademarks and Product Names",
+      "description": "Application/product names are often trademarked and rarely translated; verify translatability before translating",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Check reference material and linguistic instructions"
+    },
+    {
+      "rule_id": "PL-PL_RULE_00085",
+      "language": "PL-PL",
+      "category": "trademarks",
+      "section": "Trademarks and Product Names",
+      "description": "Use trademark symbols only on first mention in translated content unless otherwise indicated",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Refer to most updated RingCentral term list for Polish"
+    },
+    {
+      "rule_id": "PL-PL_RULE_00086",
+      "language": "PL-PL",
+      "category": "trademarks",
+      "section": "Trademarks and Product Names",
+      "description": "For third party trademarks, research to determine if official approved trademarked translated version is available",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Follow localized equivalence on official websites if available"
+    },
+    {
+      "rule_id": "PL-PL_RULE_00087",
+      "language": "PL-PL",
+      "category": "localization_general",
+      "section": "Copyright Information",
+      "description": "Use official approved Polish translation of copyright notices when available",
+      "example_correct": "©2015 RingCentral, Inc. Wszystkie prawa zastrzeżone. RingCentral, RingCentral Office, RingCentral Meetings i logo RingCentral są zastrzeżonymi znakami firmowymi RingCentral, Inc.",
+      "example_incorrect": "",
+      "notes": "If no official translation available, use provided Polish version"
+    },
+    {
+      "rule_id": "PL-PL_RULE_00088",
+      "language": "PL-PL",
+      "category": "localization_general",
+      "section": "References to links",
+      "description": "Query if URLs have local versions and modify document accordingly; if not, leave as source English text",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PL-PL_RULE_00089",
+      "language": "PL-PL",
+      "category": "ui_elements",
+      "section": "References to UI Options",
+      "description": "If software has been translated, match relevant translation memory or string list",
+      "example_correct": "Kliknij Otwórz plik.",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PL-PL_RULE_00090",
+      "language": "PL-PL",
+      "category": "ui_elements",
+      "section": "References to UI Options",
+      "description": "If software has not been translated, use bilingual format with English first, Polish in brackets outside formatting",
+      "example_correct": "Kliknij Open File (Otwórz plik).",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PL-PL_RULE_00091",
+      "language": "PL-PL",
+      "category": "terminology",
+      "section": "References to UI Options",
+      "description": "When Microsoft terminology or UI items are quoted, refer to Microsoft approved terminology on MS Portal",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "http://www.microsoft.com/Language/en-US/Default.aspx"
+    },
+    {
+      "rule_id": "PL-PL_RULE_00092",
+      "language": "PL-PL",
+      "category": "localization_general",
+      "section": "Addresses and Phone Numbers",
+      "description": "Translate country and city names based on Polish conventions; localize address formats if necessary",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "PL-PL_RULE_00093",
+      "language": "PL-PL",
+      "category": "numbers",
+      "section": "Addresses and Phone Numbers",
+      "description": "If source only includes toll free and US numbers, add international country code for international users",
+      "example_correct": "Telefon: 888-528-RING (7464) lub +1-650-472-4100",
+      "example_incorrect": "Phone: 888-528-RING (7464) or 650-472-4100",
+      "notes": ""
+    }
+  ]
+}

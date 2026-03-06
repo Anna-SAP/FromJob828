@@ -1,0 +1,1087 @@
+{
+  "language": "ZH-TW",
+  "source": "RC_Style_Guide_ZH-TW_20241209.pdf",
+  "total_rules": 108,
+  "rules": [
+    {
+      "rule_id": "ZH-TW_RULE_00001",
+      "language": "ZH-TW",
+      "category": "style_tone",
+      "section": "General Overview",
+      "description": "Produce the most natural-sounding translation, capturing intended meaning and transferring it into natural language suited to a wide Traditional Chinese-speaking audience",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Avoid literal transposition of English syntax; sentences need to be rewritten with adapted syntax"
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00002",
+      "language": "ZH-TW",
+      "category": "style_tone",
+      "section": "General Overview",
+      "description": "Balance faithfulness to the source and readability in the target language",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00003",
+      "language": "ZH-TW",
+      "category": "style_tone",
+      "section": "General Overview",
+      "description": "Use a clear and precise style that is easily understood and does not read like a translation",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Put yourself in the reader's place and determine whether the output is clear and fluent, as well as consistent and accurate"
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00004",
+      "language": "ZH-TW",
+      "category": "style_tone",
+      "section": "General Overview",
+      "description": "Avoid heaviness, ambiguities, repetitions and Anglicism",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Also avoid enriching the text excessively"
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00005",
+      "language": "ZH-TW",
+      "category": "ui_elements",
+      "section": "Buttons",
+      "description": "Buttons should typically be translated as verbs, generally using the imperative form",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Be concise, avoid using articles or prepositions and go straight to the point"
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00006",
+      "language": "ZH-TW",
+      "category": "trademarks",
+      "section": "Names of RingCentral Products, Applications and Features",
+      "description": "Check reference material and linguistic instructions including terminology lists before translating product, application, third party or feature names",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Many product/application names are trademarked and not localizable. Terms marked as DNT (Do not translate) should not be localized"
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00007",
+      "language": "ZH-TW",
+      "category": "localization_general",
+      "section": "Adaptation to Traditional Chinese Market",
+      "description": "Replace English examples by Traditional Chinese equivalents when needed for localization/adaptation",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "The explanation about the use of wildcards is a good example of text in need of localization/adaptation"
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00008",
+      "language": "ZH-TW",
+      "category": "style_tone",
+      "section": "Style and Tone",
+      "description": "Be precise and clear, consistent and natural",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Rephrase sentences that are not clear enough, and rework sentences that sound like a translation"
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00009",
+      "language": "ZH-TW",
+      "category": "style_tone",
+      "section": "Style and Tone",
+      "description": "Break up long English sentences for better readability",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00010",
+      "language": "ZH-TW",
+      "category": "style_tone",
+      "section": "Style and Tone",
+      "description": "Use accurate and concise style with no ambiguities or mistranslations",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00011",
+      "language": "ZH-TW",
+      "category": "style_tone",
+      "section": "Style and Tone",
+      "description": "Use clear and coherent style so target reader understands the text easily",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00012",
+      "language": "ZH-TW",
+      "category": "style_tone",
+      "section": "Style and Tone",
+      "description": "Be objective: neutral, do not insert your own opinion, avoid colloquial or slang words, be always politically correct",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00013",
+      "language": "ZH-TW",
+      "category": "style_tone",
+      "section": "Style and Tone",
+      "description": "Ensure content and numbers are free of mistakes",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00014",
+      "language": "ZH-TW",
+      "category": "style_tone",
+      "section": "Style and Tone",
+      "description": "Use idiomatically correct verbs, metaphors, expressions, etc. so that text does not sound like a translation",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00015",
+      "language": "ZH-TW",
+      "category": "style_tone",
+      "section": "Style and Tone",
+      "description": "Be complete: do not leave out content (words, phrases, whole paragraphs)",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00016",
+      "language": "ZH-TW",
+      "category": "style_tone",
+      "section": "Style and Tone",
+      "description": "Keep an eye on the target reader: use an appropriate tone",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00017",
+      "language": "ZH-TW",
+      "category": "localization_general",
+      "section": "Cross-references",
+      "description": "Cross-references shall be referenced consistently throughout your translation as well as throughout all files",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00018",
+      "language": "ZH-TW",
+      "category": "localization_general",
+      "section": "Cross-references",
+      "description": "For external cross-references, check whether this text or document has been localized before and match the relevant translations",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Unless otherwise specified by project-specific instructions"
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00019",
+      "language": "ZH-TW",
+      "category": "localization_general",
+      "section": "Cross-references",
+      "description": "If unable to retrieve cross-reference information, contact the Project Management team or Language Lead",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "If unable to receive response in time, leave the title in source language and place proposed translation in parenthesis"
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00020",
+      "language": "ZH-TW",
+      "category": "localization_general",
+      "section": "Cross-references",
+      "description": "If the document has not been translated before, leave as in source language",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00021",
+      "language": "ZH-TW",
+      "category": "style_tone",
+      "section": "Politeness",
+      "description": "The style should be formal and polite appropriate for business communication",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Casual expressions should be avoided"
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00022",
+      "language": "ZH-TW",
+      "category": "style_tone",
+      "section": "Politeness",
+      "description": "Always use 您 instead of 你",
+      "example_correct": "請輸入您的使用者名稱",
+      "example_incorrect": "輸入你的使用者名稱",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00023",
+      "language": "ZH-TW",
+      "category": "style_tone",
+      "section": "Politeness",
+      "description": "Use 您已完成 instead of 您已完成了 for completed actions",
+      "example_correct": "您已完成 RingCentral 企業電話系統設定",
+      "example_incorrect": "您已完成了 RingCentral 企業電話系統設定",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00024",
+      "language": "ZH-TW",
+      "category": "style_tone",
+      "section": "Gender",
+      "description": "Traditional Chinese usually gives priority to masculine forms, unless differently needed based on a specific context",
+      "example_correct": "服務團隊會聯絡客戶並告知他",
+      "example_incorrect": "服務團隊會聯絡客戶並告知他/她",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00025",
+      "language": "ZH-TW",
+      "category": "grammar",
+      "section": "Passive voice",
+      "description": "Avoid the passive voice whenever possible, use the active form to improve readability",
+      "example_correct": "該主題提供所有詳細資料",
+      "example_incorrect": "所有詳細資料都已在此主題提供",
+      "notes": "Passive voice is only advised in specific texts like legal and official documents"
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00026",
+      "language": "ZH-TW",
+      "category": "grammar",
+      "section": "Use of Possessives",
+      "description": "Do not transfer the extensive use of English possessive adjectives to target",
+      "example_correct": "您可以在電腦或行動裝置上編輯文件",
+      "example_incorrect": "您可以在您的電腦，或您的移動設備上編輯您的文件",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00027",
+      "language": "ZH-TW",
+      "category": "grammar",
+      "section": "Translation of Subject Word",
+      "description": "The subject word does not always need to be translated in Traditional Chinese, especially when the subject word is \"you\"",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Omit \"you\" or replace it with a specific noun"
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00028",
+      "language": "ZH-TW",
+      "category": "grammar",
+      "section": "Translation of Subject Word",
+      "description": "\"We\" should be substituted with the specific noun, such as a company name",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00029",
+      "language": "ZH-TW",
+      "category": "grammar",
+      "section": "Articles",
+      "description": "For most cases, there is no need to translate articles into Traditional Chinese for fluency and conciseness",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "But if it is important to emphasize the noun so that the reader does not get confused, then it is suggested to translate the article"
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00030",
+      "language": "ZH-TW",
+      "category": "grammar",
+      "section": "Translation of the -ing form",
+      "description": "The -ing form can be translated in different ways based on context, such as a verb, a noun, an infinitive clause, etc.",
+      "example_correct": "我們的控制器隨附快取，用於保護資料完整性",
+      "example_incorrect": "",
+      "notes": "Use the most appropriate option based on context"
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00031",
+      "language": "ZH-TW",
+      "category": "style_tone",
+      "section": "Conciseness",
+      "description": "Check the context, concentrate on the meaning and render it as clearly as you can",
+      "example_correct": "您的姓名、電子郵件位址、公司名稱",
+      "example_incorrect": "您的姓名、您的電子郵件位址、您的公司名稱",
+      "notes": "English sometimes uses additional words to express concepts"
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00032",
+      "language": "ZH-TW",
+      "category": "style_tone",
+      "section": "Conciseness",
+      "description": "Use 這意味著 instead of 這代表 for \"This means\"",
+      "example_correct": "這意味著現在可…",
+      "example_incorrect": "這代表您現在可…",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00033",
+      "language": "ZH-TW",
+      "category": "style_tone",
+      "section": "Repetitions",
+      "description": "Repetitions are acceptable in English but might not be in Traditional Chinese",
+      "example_correct": "要從電腦中刪除文件，請在右側窗格選擇，然後按一下「刪除」",
+      "example_incorrect": "要從電腦删除文件，請在右側窗格選擇文件，然後按一下「删除」",
+      "notes": "Do not hesitate to use pronouns or other \"tricks\" to avoid repetitions"
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00034",
+      "language": "ZH-TW",
+      "category": "formatting",
+      "section": "Spacing",
+      "description": "Brand name tags need to be separated from the preceding or following text with a space",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00035",
+      "language": "ZH-TW",
+      "category": "formatting",
+      "section": "Spacing",
+      "description": "In Traditional Chinese, there is no space before any punctuation sign",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "However, there are exceptions specified in following sections"
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00036",
+      "language": "ZH-TW",
+      "category": "formatting",
+      "section": "Spacing",
+      "description": "Replace double spaces after full stops with single spaces in Traditional Chinese",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "English documents often include double spaces after full stops"
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00037",
+      "language": "ZH-TW",
+      "category": "formatting",
+      "section": "Spacing",
+      "description": "Use non-breaking spaces to prevent certain expressions from being separated at the end of a line",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Such as people's names, numbers, software names and versions, etc. Use Ctrl + Shift + Space bar in MS Word or Alt+0160"
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00038",
+      "language": "ZH-TW",
+      "category": "formatting",
+      "section": "Spacing",
+      "description": "Half-width space needed between Chinese characters and English letters or numbers",
+      "example_correct": "可在產品底部找到序號，格式為 XXX1234-5678",
+      "example_incorrect": "可在產品底部找到序號，格式為XXX1234-5678",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00039",
+      "language": "ZH-TW",
+      "category": "formatting",
+      "section": "Spacing",
+      "description": "Half-width space needed between Chinese characters and half-width punctuations: ( ), [ ]",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00040",
+      "language": "ZH-TW",
+      "category": "punctuation",
+      "section": "Comma",
+      "description": "Use the Chinese comma (，) in both software and document localization",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00041",
+      "language": "ZH-TW",
+      "category": "punctuation",
+      "section": "Comma",
+      "description": "When enumerating several items in English, use the pause symbol (、) instead of (，)",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00042",
+      "language": "ZH-TW",
+      "category": "punctuation",
+      "section": "Comma",
+      "description": "When translating \"and\" (和) or \"or\" (或), you can omit the previous comma in Traditional Chinese",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00043",
+      "language": "ZH-TW",
+      "category": "punctuation",
+      "section": "Period",
+      "description": "A Chinese period is used to end a sentence, a paragraph or an abbreviated word",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00044",
+      "language": "ZH-TW",
+      "category": "punctuation",
+      "section": "Period",
+      "description": "When a sentence is placed between brackets or quotes, the period is placed outside",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00045",
+      "language": "ZH-TW",
+      "category": "punctuation",
+      "section": "Period",
+      "description": "Do not use full stops after headings and titles, after columns in a table, or after captions used with illustrations, tables etc.",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Unless the expression considered is a full sentence"
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00046",
+      "language": "ZH-TW",
+      "category": "punctuation",
+      "section": "Period",
+      "description": "Do not use full stops if a sentence ends with an interrogation or exclamation mark, ellipsis, or colon",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00047",
+      "language": "ZH-TW",
+      "category": "punctuation",
+      "section": "Colon",
+      "description": "Half-width colon (:) is used for software, while Full-width colon (：) is used in documentation",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Try to avoid using colons"
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00048",
+      "language": "ZH-TW",
+      "category": "punctuation",
+      "section": "Colon",
+      "description": "Colon is used when a list of actions or object is following",
+      "example_correct": "如需這些主題的進一步資訊：\n• 登入\n• 變更密碼\n• 通話處理\n• 緊急電話撥打 – 登錄地點\n• 語音信箱問候語",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00049",
+      "language": "ZH-TW",
+      "category": "punctuation",
+      "section": "Semi-colon",
+      "description": "Half-width semi colon (;) is used for software, while Full-width semi colon (；) is used in documentation",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00050",
+      "language": "ZH-TW",
+      "category": "punctuation",
+      "section": "Semi-colon",
+      "description": "Semi-colons are used less in Traditional Chinese than in English. Usually Chinese comma (，) is used to replace semi colon in translation",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00051",
+      "language": "ZH-TW",
+      "category": "punctuation",
+      "section": "Question mark",
+      "description": "Half-width question mark (?) is used for software, while Full-width question mark (？) is used in documentation",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00052",
+      "language": "ZH-TW",
+      "category": "punctuation",
+      "section": "Exclamation mark",
+      "description": "Half-width exclamation mark (!) is used for software, while Full-width exclamation mark (！) is used in documentation",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00053",
+      "language": "ZH-TW",
+      "category": "punctuation",
+      "section": "Exclamation mark",
+      "description": "Exclamation marks are not as common in Traditional Chinese as they are in English. Sometimes it is better to remove them",
+      "example_correct": "地址無效！",
+      "example_incorrect": "地址無效！！！",
+      "notes": "When they appear in groups (!!!), you may keep only one"
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00054",
+      "language": "ZH-TW",
+      "category": "punctuation",
+      "section": "Hyphen/En dash (-), Em dash (—)",
+      "description": "The en dash (–) is used as a minus sign, usually with spaces before and after. In Traditional Chinese, keep it as same as English",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00055",
+      "language": "ZH-TW",
+      "category": "punctuation",
+      "section": "Hyphen/En dash (-), Em dash (—)",
+      "description": "The en dash is used in number ranges without spaces around the en dash",
+      "example_correct": "500-1000",
+      "example_incorrect": "",
+      "notes": "Such as those specifying page numbers"
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00056",
+      "language": "ZH-TW",
+      "category": "punctuation",
+      "section": "Hyphen/En dash (-), Em dash (—)",
+      "description": "There are cases when you can omit the en dash",
+      "example_correct": "同業佼佼者",
+      "example_incorrect": "",
+      "notes": "For example: best-in-class → 同業佼佼者, 2-factor authentication → 雙因素驗證, all-inclusive → 全包"
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00057",
+      "language": "ZH-TW",
+      "category": "punctuation",
+      "section": "Hyphen/En dash (-), Em dash (—)",
+      "description": "The em dash (—) should not be used in Traditional Chinese as it looks the same as the Traditional Chinese character for \"one\" (一)",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Oftentimes, there is no need for such punctuation through rephrasing. If punctuation is needed, you may use ( ), : or en dash to emphasize the element"
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00058",
+      "language": "ZH-TW",
+      "category": "punctuation",
+      "section": "Round and square brackets",
+      "description": "Use half width round brackets ( ) when the texts included are all English or digits",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Spaces should be left before opening round bracket and after ending round bracket"
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00059",
+      "language": "ZH-TW",
+      "category": "punctuation",
+      "section": "Round and square brackets",
+      "description": "Use full width round brackets（）when the texts included are containing Chinese characters",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Extra spaces are not needed before and after the full width brackets"
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00060",
+      "language": "ZH-TW",
+      "category": "punctuation",
+      "section": "Round and square brackets",
+      "description": "Always use half width square brackets [ ]",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "When using square brackets, please leave one space before opening square brackets and one space after ending square brackets"
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00061",
+      "language": "ZH-TW",
+      "category": "punctuation",
+      "section": "Quotation marks",
+      "description": "NEVER use straight single quote for variables",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Updated on 20241207"
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00062",
+      "language": "ZH-TW",
+      "category": "ui_elements",
+      "section": "Quotation marks",
+      "description": "For UI, in Traditional Chinese, UI should be enclosed with [ ] and remove bold font (if used)",
+      "example_correct": "按一下 [同步選項]",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00063",
+      "language": "ZH-TW",
+      "category": "punctuation",
+      "section": "Quotation marks",
+      "description": "For titles of user guides, chapters and sections, use《》for books, manuals, etc. Use ＜＞ for chapters and sections",
+      "example_correct": "請參閱〈授權應用程式〉一節",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00064",
+      "language": "ZH-TW",
+      "category": "punctuation",
+      "section": "Quotation marks",
+      "description": "Use《》for books and manuals",
+      "example_correct": "請參閱《RingCentral Office® 使用者指南》",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00065",
+      "language": "ZH-TW",
+      "category": "punctuation",
+      "section": "Quotation marks",
+      "description": "Replace quotes (except used for manual, chapter, section names or UI) with square quotes",
+      "example_correct": "橘色代表「請勿接受佇列通話」",
+      "example_incorrect": "橘色代表\"請勿接受佇列通話\"",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00066",
+      "language": "ZH-TW",
+      "category": "punctuation",
+      "section": "Apostrophe",
+      "description": "Use straight apostrophe consistently in the translations, instead of curly apostrophe",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00067",
+      "language": "ZH-TW",
+      "category": "formatting",
+      "section": "Style to use in bulleted lists",
+      "description": "If the bulleted items are complete sentences (with a conjugated verb), each ends with a period",
+      "example_correct": "• 請輸入其他提示名稱，然後重新上傳。\n• 請輸入其他提示名稱。",
+      "example_incorrect": "• 請輸入其他提示名稱，然後重新上傳\n• 請輸入其他提示名稱",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00068",
+      "language": "ZH-TW",
+      "category": "formatting",
+      "section": "Style to use in bulleted lists",
+      "description": "If the bulleted items are phrases or single words, items shall not be followed by a period",
+      "example_correct": "• 美國\n• 英國\n• 加拿大",
+      "example_incorrect": "• 美國，\n• 英國，\n• 加拿大。",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00069",
+      "language": "ZH-TW",
+      "category": "formatting",
+      "section": "Style to use in bulleted lists",
+      "description": "If the list items are not full sentences and depend syntactically on the introductory sentence, each element should end with a Chinese semicolon (；)",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00070",
+      "language": "ZH-TW",
+      "category": "abbreviations",
+      "section": "Abbreviations",
+      "description": "Abbreviations should be avoided whenever possible",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "But you may need to abbreviate words in item such as UI options"
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00071",
+      "language": "ZH-TW",
+      "category": "abbreviations",
+      "section": "Abbreviations",
+      "description": "Only use commonly used abbreviates, never create any new",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00072",
+      "language": "ZH-TW",
+      "category": "abbreviations",
+      "section": "Abbreviations",
+      "description": "On first use, spelling out or translation in brackets followed by the abbreviations",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00073",
+      "language": "ZH-TW",
+      "category": "abbreviations",
+      "section": "Abbreviations",
+      "description": "Do not use abbreviations in titles unless you are sure that your intended audience will recognize them",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00074",
+      "language": "ZH-TW",
+      "category": "abbreviations",
+      "section": "Acronyms",
+      "description": "Translation of acronyms depends on RingCentral project-related requirements and should always be investigated to confirm their localizability",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00075",
+      "language": "ZH-TW",
+      "category": "abbreviations",
+      "section": "Acronyms",
+      "description": "If an acronym is used in a title, do not write out the acronym meaning in full",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00076",
+      "language": "ZH-TW",
+      "category": "abbreviations",
+      "section": "Acronyms",
+      "description": "If a translation is possible, keep the English acronym",
+      "example_correct": "高性能文件系统 (HPFS)",
+      "example_incorrect": "",
+      "notes": "The expansion comes before its acronym"
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00077",
+      "language": "ZH-TW",
+      "category": "abbreviations",
+      "section": "Acronyms",
+      "description": "If a translation is not possible, leave expansion and its acronym in parenthesis",
+      "example_correct": "Desktop Publishing (DTP)",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00078",
+      "language": "ZH-TW",
+      "category": "abbreviations",
+      "section": "Acronyms",
+      "description": "The acronym is not followed by its expansion when used alone",
+      "example_correct": "OLE",
+      "example_incorrect": "",
+      "notes": "Use the acronym without expansion"
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00079",
+      "language": "ZH-TW",
+      "category": "abbreviations",
+      "section": "Acronyms",
+      "description": "Some acronyms are localizable: AM → 上午, ID → 識別碼, PM → 下午",
+      "example_correct": "上午",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00080",
+      "language": "ZH-TW",
+      "category": "numbers",
+      "section": "Numbers",
+      "description": "Numbers should be written in full when used as nouns",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00081",
+      "language": "ZH-TW",
+      "category": "numbers",
+      "section": "Numbers",
+      "description": "Numbers should be written in full when at the beginning of a sentence",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00082",
+      "language": "ZH-TW",
+      "category": "numbers",
+      "section": "Numbers",
+      "description": "Numbers should be written in full when appearing alone and representing simple quantities, usually the numbers up to 9",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00083",
+      "language": "ZH-TW",
+      "category": "numbers",
+      "section": "Numbers",
+      "description": "Numbers should be written in full in expressions like \"in the 80s\"",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00084",
+      "language": "ZH-TW",
+      "category": "numbers",
+      "section": "Numbers",
+      "description": "Dates, large numbers, ages, document references (paragraph, page, etc.) should be written as numbers",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00085",
+      "language": "ZH-TW",
+      "category": "numbers",
+      "section": "Numbers",
+      "description": "Replace the decimal point by a comma and the thousand separator by a dot",
+      "example_correct": "0.25\n1,254.28\n18,567\n8,990,500",
+      "example_incorrect": ".25\n1254.28\n18567\n8990500",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00086",
+      "language": "ZH-TW",
+      "category": "numbers",
+      "section": "Numbers",
+      "description": "Avoid mixing numerical and alphabetical forms",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00087",
+      "language": "ZH-TW",
+      "category": "numbers",
+      "section": "Units of Measure",
+      "description": "Units of measure should be separated from the preceding number by a non-breaking space",
+      "example_correct": "533 MHz",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00088",
+      "language": "ZH-TW",
+      "category": "numbers",
+      "section": "Units of Measure",
+      "description": "If content includes units of measures that do not apply to your locale, you might be instructed to add converted value or convert to metric equivalent based on project requirements",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Monitor sizes are always expressed in inches and represent one of the few exceptions"
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00089",
+      "language": "ZH-TW",
+      "category": "numbers",
+      "section": "Percentages",
+      "description": "Percentages are usually written in figures followed by the symbol %",
+      "example_correct": "37%",
+      "example_incorrect": "",
+      "notes": "No blank spaces are used between the figure and the symbol"
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00090",
+      "language": "ZH-TW",
+      "category": "numbers",
+      "section": "Date and time",
+      "description": "Adapt date and time formats to Traditional Chinese standards",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00091",
+      "language": "ZH-TW",
+      "category": "numbers",
+      "section": "Date and time",
+      "description": "Date format should follow month/day. The short format can be separated either by hyphen (-) or slash",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00092",
+      "language": "ZH-TW",
+      "category": "numbers",
+      "section": "Date and time",
+      "description": "Short date format: YYYY/MM/DD",
+      "example_correct": "2018/03/15",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00093",
+      "language": "ZH-TW",
+      "category": "numbers",
+      "section": "Date and time",
+      "description": "Long date format: yyyy 年MM 月 dd 日",
+      "example_correct": "2018 年3 月 15 日",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00094",
+      "language": "ZH-TW",
+      "category": "numbers",
+      "section": "Date and time",
+      "description": "The standard time format is hh:mm:ss. The 24-hour clock format should be used",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00095",
+      "language": "ZH-TW",
+      "category": "numbers",
+      "section": "Date and time",
+      "description": "Time format conversions",
+      "example_correct": "下午 11:30\n上午 8:00 至下午 8:00\n2014 年 6月 8 日\n2000-04-05",
+      "example_incorrect": "11:30 PM\n8AM to 8PM\n8-June-2014\n2000-04-05",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00096",
+      "language": "ZH-TW",
+      "category": "numbers",
+      "section": "Currency",
+      "description": "Currency notation are placed before and after the numeral, with two decimal figures",
+      "example_correct": "新臺幣 145.80 元 / NTD 145.80 / NT$ 145.80",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00097",
+      "language": "ZH-TW",
+      "category": "terminology",
+      "section": "Specific expressions",
+      "description": "Standard translations for specific expressions",
+      "example_correct": "關於\n如圖 xx 所示\n如需關於 xxx 的更多資訊，請參閱 xxx\n不可用\n請注意：\n如需關於 xxx 的說明，請參閱 xxx\n註冊商標\n疑難排解\n商標\n使用者指南\n希望\n建議您…\n遵循這些步驟 xxx\n按一下\n按兩下",
+      "example_incorrect": "",
+      "notes": "For about, as shown in figure xx, For more information on xxx see xxx, N/A, Please note that, Refer to xxx for instructions on xxx, registered trademark, troubleshooting, trademark, User's Guide, want (to) would like, we recommend, Follow these steps to xxx, Click, Double click"
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00098",
+      "language": "ZH-TW",
+      "category": "trademarks",
+      "section": "Trademarks and Product Names",
+      "description": "Refer to the most updated version of the approved RingCentral term list for your language",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "RingCentral has a number of registered and unregistered trademarks and trademarked phrases"
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00099",
+      "language": "ZH-TW",
+      "category": "trademarks",
+      "section": "Trademarks and Product Names",
+      "description": "Use trademark and registered trademark symbols only on the first mention in the translated version of your content",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Unless otherwise indicated"
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00100",
+      "language": "ZH-TW",
+      "category": "trademarks",
+      "section": "Trademarks and Product Names",
+      "description": "For third party products mentioned in RingCentral content, complete extensive research to determine whether an official, approved trademarked translated version is available",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Otherwise, use as in source"
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00101",
+      "language": "ZH-TW",
+      "category": "trademarks",
+      "section": "Third Party Trademarks and Product Names",
+      "description": "Complete extensive research to determine whether an official, approved trademarked translated version is available before using as in source",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "For product names from third parties, follow the localized equivalence in official websites if there's one"
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00102",
+      "language": "ZH-TW",
+      "category": "localization_general",
+      "section": "Copyright Information, Footer, Publication Dates",
+      "description": "Make sure you receive instructions on whether an official and approved translated version is available",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Copyright notices tend to be standard texts"
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00103",
+      "language": "ZH-TW",
+      "category": "localization_general",
+      "section": "References to links",
+      "description": "Query if URL links have a local version, and modify the document accordingly",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "If not, the relevant URL will be left as it appears in the source English text"
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00104",
+      "language": "ZH-TW",
+      "category": "ui_elements",
+      "section": "References to UI Options",
+      "description": "If software has been translated, match the relevant translation memory or string list provided with the translation package",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Instructions may vary based on RingCentral project-specific guidelines"
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00105",
+      "language": "ZH-TW",
+      "category": "ui_elements",
+      "section": "References to UI Options",
+      "description": "If software has not been translated, use bilingual format, i.e. English first, followed by target in brackets",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00106",
+      "language": "ZH-TW",
+      "category": "ui_elements",
+      "section": "References to UI Options",
+      "description": "Refer to Microsoft approved terminology for your language on the MS Portal when necessary",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "http://www.microsoft.com/Language/en-US/Default.aspx"
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00107",
+      "language": "ZH-TW",
+      "category": "localization_general",
+      "section": "Addresses and Phone Numbers",
+      "description": "Leave the address in English",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "ZH-TW_RULE_00108",
+      "language": "ZH-TW",
+      "category": "localization_general",
+      "section": "Addresses and Phone Numbers",
+      "description": "If source only includes toll free numbers and US numbers, add an international country code to the local number for international users",
+      "example_correct": "RingCentral, Inc. (Belmont/HQ) 20 Davis Drive, Belmont, California 94402 電話：888-528-RING (7464) 或 +1-650-472-4100",
+      "example_incorrect": "RingCentral, Inc. (Belmont/HQ) 20 Davis Drive, Belmont, California 94402\nPhone: 888-528-RING (7464) or 650-472-4100",
+      "notes": ""
+    }
+  ]
+}

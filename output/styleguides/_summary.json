@@ -1,0 +1,78 @@
+{
+  "total_languages": 18,
+  "total_rules": 2281,
+  "languages": {
+    "DE-DE": {
+      "total_rules": 131,
+      "source": "RC_Style_Guide_DE-DE_20241206.pdf"
+    },
+    "EN-UK": {
+      "total_rules": 105,
+      "source": "RC_Style_Guide_EN-UK_20241207.pdf"
+    },
+    "ES-ES": {
+      "total_rules": 149,
+      "source": "RC_Style_Guide_ES-ES_20241206.pdf"
+    },
+    "ES-XL": {
+      "total_rules": 150,
+      "source": "RC_Style_Guide_ES-XL_20241206.pdf"
+    },
+    "FI-FI": {
+      "total_rules": 104,
+      "source": "RC_Style_Guide_FI-FI_20241206.pdf"
+    },
+    "FR-CA": {
+      "total_rules": 146,
+      "source": "RC_Style_Guide_FR-CA_20250417.pdf"
+    },
+    "FR-FR": {
+      "total_rules": 140,
+      "source": "RC_Style_Guide_FR-FR_20241209.pdf"
+    },
+    "IT-IT": {
+      "total_rules": 147,
+      "source": "RC_Style_Guide_IT-IT_20241206.pdf"
+    },
+    "JA-JP": {
+      "total_rules": 90,
+      "source": "RC_Style_Guide_JA-JP_20241206.pdf"
+    },
+    "KO-KR": {
+      "total_rules": 119,
+      "source": "RC_Style_Guide_KO-KR_20241206.pdf"
+    },
+    "NL-NL": {
+      "total_rules": 125,
+      "source": "RC_Style_Guide_NL-NL_20241206.pdf"
+    },
+    "PL-PL": {
+      "total_rules": 93,
+      "source": "RC_Style_Guide_PL-PL_20241206.pdf"
+    },
+    "PT-BR": {
+      "total_rules": 161,
+      "source": "RC_Style_Guide_PT-BR_20241206.pdf"
+    },
+    "PT-PT": {
+      "total_rules": 118,
+      "source": "RC_Style_Guide_PT-PT_20241206.pdf"
+    },
+    "RO-RO": {
+      "total_rules": 218,
+      "source": "RC_Style_Guide_RO-RO_20241209.pdf"
+    },
+    "SV-SE": {
+      "total_rules": 108,
+      "source": "RC_Style_Guide_SV-SE_20241209.pdf"
+    },
+    "ZH-CN": {
+      "total_rules": 69,
+      "source": "RC_ Style Guide_ZH-CN_20241209.pdf"
+    },
+    "ZH-TW": {
+      "total_rules": 108,
+      "source": "RC_Style_Guide_ZH-TW_20241209.pdf"
+    }
+  }
+}

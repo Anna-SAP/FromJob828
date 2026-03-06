@@ -1,0 +1,1477 @@
+{
+  "language": "IT-IT",
+  "source": "RC_Style_Guide_IT-IT_20241206.pdf",
+  "total_rules": 147,
+  "rules": [
+    {
+      "rule_id": "IT-IT_RULE_00001",
+      "language": "IT-IT",
+      "category": "style_tone",
+      "section": "General Overview",
+      "description": "Produce the most natural-sounding translation and capture intended meaning in natural language suited to a wide Italian-speaking audience",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Avoid literal transposition of English syntax. Balance faithfulness to source and readability in target language."
+    },
+    {
+      "rule_id": "IT-IT_RULE_00002",
+      "language": "IT-IT",
+      "category": "style_tone",
+      "section": "General Overview",
+      "description": "Use clear and precise style that is easily understood and does not read like a translation",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Avoid heaviness, ambiguities, repetitions and Anglicism. Avoid enriching the text excessively."
+    },
+    {
+      "rule_id": "IT-IT_RULE_00003",
+      "language": "IT-IT",
+      "category": "ui_elements",
+      "section": "Buttons",
+      "description": "Translate buttons as imperative 2nd person singular form (tu), be concise, avoid articles or prepositions",
+      "example_correct": "Stampa",
+      "example_incorrect": "Stampare, Stampate",
+      "notes": "Pay attention to character/space limitations"
+    },
+    {
+      "rule_id": "IT-IT_RULE_00004",
+      "language": "IT-IT",
+      "category": "ui_elements",
+      "section": "Buttons",
+      "description": "Use imperative form without articles for file operations",
+      "example_correct": "Apri file",
+      "example_incorrect": "Aprite file, Aprire file",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00005",
+      "language": "IT-IT",
+      "category": "ui_elements",
+      "section": "Buttons",
+      "description": "Use imperative singular form for skip actions",
+      "example_correct": "Ignora",
+      "example_incorrect": "Ignorare, Ignorate",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00006",
+      "language": "IT-IT",
+      "category": "trademarks",
+      "section": "Names of RingCentral Products, Applications and Features",
+      "description": "Check reference material and linguistic instructions including terminology lists before translating product/application names",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Many product/application names are trademarked and not localizable"
+    },
+    {
+      "rule_id": "IT-IT_RULE_00007",
+      "language": "IT-IT",
+      "category": "localization_general",
+      "section": "Adaptation to Italian Market",
+      "description": "Replace English examples with Italian equivalents when needed",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Particularly important for wildcards and technical examples"
+    },
+    {
+      "rule_id": "IT-IT_RULE_00008",
+      "language": "IT-IT",
+      "category": "style_tone",
+      "section": "Style and Tone",
+      "description": "Be precise, clear, consistent and natural; rephrase unclear sentences and break up long sentences",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00009",
+      "language": "IT-IT",
+      "category": "style_tone",
+      "section": "Style and Tone",
+      "description": "Use accurate and concise style with no ambiguities or mistranslations",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00010",
+      "language": "IT-IT",
+      "category": "style_tone",
+      "section": "Style and Tone",
+      "description": "Write clearly and coherently so target reader understands text easily",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00011",
+      "language": "IT-IT",
+      "category": "style_tone",
+      "section": "Style and Tone",
+      "description": "Be objective and neutral; do not insert personal opinions, avoid colloquial or slang words, be politically correct",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00012",
+      "language": "IT-IT",
+      "category": "style_tone",
+      "section": "Style and Tone",
+      "description": "Ensure content and numbers are correct and free of mistakes",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00013",
+      "language": "IT-IT",
+      "category": "style_tone",
+      "section": "Style and Tone",
+      "description": "Use idiomatically correct verbs, metaphors, expressions so text does not sound like a translation",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00014",
+      "language": "IT-IT",
+      "category": "style_tone",
+      "section": "Style and Tone",
+      "description": "Be complete and do not leave out content (words, phrases, whole paragraphs)",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00015",
+      "language": "IT-IT",
+      "category": "style_tone",
+      "section": "Style and Tone",
+      "description": "Keep target reader in mind and use appropriate tone",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00016",
+      "language": "IT-IT",
+      "category": "localization_general",
+      "section": "Cross-references",
+      "description": "Reference cross-references consistently throughout translation and match approved translations for external cross-references",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Check if documents have been localized before; leave untranslated if no approved version exists"
+    },
+    {
+      "rule_id": "IT-IT_RULE_00017",
+      "language": "IT-IT",
+      "category": "style_tone",
+      "section": "Politeness",
+      "description": "Be more direct than English and use imperative form instead of over-polite constructions",
+      "example_correct": "Inserisci il nome utente.",
+      "example_incorrect": "Si prega di inserire il nome utente.",
+      "notes": "Italian does not require the same caution as English"
+    },
+    {
+      "rule_id": "IT-IT_RULE_00018",
+      "language": "IT-IT",
+      "category": "style_tone",
+      "section": "Gender",
+      "description": "Use masculine forms as priority unless context requires otherwise; find neutral forms where possible and avoid stereotypes",
+      "example_correct": "Il team dell'assistenza contatterà il cliente per informarlo.",
+      "example_incorrect": "Il team dell'assistenza contatterà il cliente per informarlo/a.",
+      "notes": "Balance bias-free language with fluency"
+    },
+    {
+      "rule_id": "IT-IT_RULE_00019",
+      "language": "IT-IT",
+      "category": "grammar",
+      "section": "Passive voice",
+      "description": "Avoid passive voice when possible; use active form to improve readability",
+      "example_correct": "Questo capitolo fornisce tutti i dettagli.",
+      "example_incorrect": "Tutti i dettagli sono forniti in questo capitolo.",
+      "notes": "Passive voice only advised for non-human subjects like software/products and in legal documents"
+    },
+    {
+      "rule_id": "IT-IT_RULE_00020",
+      "language": "IT-IT",
+      "category": "grammar",
+      "section": "Passive voice",
+      "description": "Use active voice for describing features and functionality",
+      "example_correct": "Questo white paper descrive alcune nuove funzionalità.",
+      "example_incorrect": "Alcune funzionalità nuove sono descritte in questo white paper.",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00021",
+      "language": "IT-IT",
+      "category": "grammar",
+      "section": "Passive voice",
+      "description": "Use passive voice appropriately for software limitations",
+      "example_correct": "Questo elemento non può essere eliminato dal software.",
+      "example_incorrect": "Il software non può eliminare questo elemento.",
+      "notes": "Acceptable to avoid personalization of non-human items"
+    },
+    {
+      "rule_id": "IT-IT_RULE_00022",
+      "language": "IT-IT",
+      "category": "grammar",
+      "section": "Use of Possessives",
+      "description": "Do not transfer extensive use of English possessive adjectives; replace with brand names where appropriate",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "In some cases 'our' refers to subject and can be replaced by brand name"
+    },
+    {
+      "rule_id": "IT-IT_RULE_00023",
+      "language": "IT-IT",
+      "category": "grammar",
+      "section": "Use of Possessives",
+      "description": "Replace possessive adjectives with simple articles when appropriate",
+      "example_correct": "Puoi modificare i file sia dal computer che dal dispositivo mobile.",
+      "example_incorrect": "Puoi modificare i tuoi file sia sul tuo computer sia sul tuo dispositivo mobile.",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00024",
+      "language": "IT-IT",
+      "category": "grammar",
+      "section": "Use of Possessives",
+      "description": "Use 'dell'utente' in impersonal style instead of possessive adjectives",
+      "example_correct": "È possibile modificare i file sia dal computer che dal dispositivo mobile dell'utente.",
+      "example_incorrect": "Puoi modificare i tuoi file sia sul tuo computer sia sul tuo dispositivo mobile.",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00025",
+      "language": "IT-IT",
+      "category": "grammar",
+      "section": "Articles",
+      "description": "Use 'il' with masculine foreign words",
+      "example_correct": "il browser, il cloud, il firewall, il download, il server, il touch screen, il webcast, il malware, il mouse, il file system, il backup",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00026",
+      "language": "IT-IT",
+      "category": "grammar",
+      "section": "Articles",
+      "description": "Use 'la' with feminine foreign words",
+      "example_correct": "la home page, la cache, la chat, la directory, la RAM",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00027",
+      "language": "IT-IT",
+      "category": "grammar",
+      "section": "Translation of the –ing form",
+      "description": "Translate -ing forms using most appropriate option: verb, noun, infinitive clause based on context",
+      "example_correct": "I nostri controller sono dotati di una cache per proteggere l'integrità dei dati",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00028",
+      "language": "IT-IT",
+      "category": "grammar",
+      "section": "Translation of the –ing form",
+      "description": "Use relative clause as alternative for -ing forms",
+      "example_correct": "I nostri controller sono dotati di una cache che protegge l'integrità dei dati",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00029",
+      "language": "IT-IT",
+      "category": "grammar",
+      "section": "Translation of the –ing form",
+      "description": "Use gerund form appropriately for -ing constructions",
+      "example_correct": "Accedendo a questo sito web, l'utente accetta i termini e le condizioni...",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00030",
+      "language": "IT-IT",
+      "category": "style_tone",
+      "section": "Conciseness",
+      "description": "Check context, concentrate on meaning and render as clearly as possible; avoid unnecessary words",
+      "example_correct": "Il nome, l'indirizzo di posta elettronica e il nome dell'azienda",
+      "example_incorrect": "Il nome dell'utente, l'indirizzo di posta elettronica dell'utente e il nome dell'azienda dell'utente",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00031",
+      "language": "IT-IT",
+      "category": "style_tone",
+      "section": "Conciseness",
+      "description": "Eliminate redundant phrases",
+      "example_correct": "Ora è possibile…",
+      "example_incorrect": "Questo significa che ora è possibile…",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00032",
+      "language": "IT-IT",
+      "category": "style_tone",
+      "section": "Repetitions",
+      "description": "Avoid repetitions that are acceptable in English but not in Italian; use pronouns or other techniques",
+      "example_correct": "Per eliminare un file dal computer, selezionarlo nel riquadro a destra e fare clic su Elimina",
+      "example_incorrect": "Per eliminare un file dal computer, selezionare il file dal riquadro a destra e fare clic su Elimina",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00033",
+      "language": "IT-IT",
+      "category": "terminology",
+      "section": "False friends",
+      "description": "Use 'annulla' instead of 'cancella' for 'cancel'",
+      "example_correct": "annulla",
+      "example_incorrect": "cancella",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00034",
+      "language": "IT-IT",
+      "category": "terminology",
+      "section": "False friends",
+      "description": "Use 'serie/gamma' instead of 'varietà' for 'variety'",
+      "example_correct": "serie/gamma",
+      "example_incorrect": "varietà",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00035",
+      "language": "IT-IT",
+      "category": "terminology",
+      "section": "False friends",
+      "description": "Use 'settore' instead of 'industria' for 'industry'",
+      "example_correct": "settore",
+      "example_incorrect": "industria",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00036",
+      "language": "IT-IT",
+      "category": "terminology",
+      "section": "False friends",
+      "description": "Use 'andare perso/perdere' instead of 'rimborsare/dare a forfait' for 'forfeit'",
+      "example_correct": "andare perso/perdere",
+      "example_incorrect": "rimborsare/dare a forfait",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00037",
+      "language": "IT-IT",
+      "category": "terminology",
+      "section": "False friends",
+      "description": "Use 'effettivo' instead of 'attuale' for 'actual'",
+      "example_correct": "effettivo",
+      "example_incorrect": "attuale",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00038",
+      "language": "IT-IT",
+      "category": "terminology",
+      "section": "False friends",
+      "description": "Use 'avvicinarsi' instead of 'approcciare' for 'approach'",
+      "example_correct": "avvicinarsi",
+      "example_incorrect": "approcciare",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00039",
+      "language": "IT-IT",
+      "category": "terminology",
+      "section": "False friends",
+      "description": "Use 'biblioteca' instead of 'libreria' for 'library'",
+      "example_correct": "biblioteca",
+      "example_incorrect": "libreria",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00040",
+      "language": "IT-IT",
+      "category": "terminology",
+      "section": "False friends",
+      "description": "Use 'elaborare' instead of 'processare' for 'process'",
+      "example_correct": "elaborare",
+      "example_incorrect": "processare",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00041",
+      "language": "IT-IT",
+      "category": "terminology",
+      "section": "False friends",
+      "description": "Use 'in realtà, effettivamente' instead of 'attualmente' for 'actually'",
+      "example_correct": "in realtà, effettivamente",
+      "example_incorrect": "attualmente",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00042",
+      "language": "IT-IT",
+      "category": "terminology",
+      "section": "False friends",
+      "description": "Use 'capire' instead of 'realizzare' for 'realize'",
+      "example_correct": "capire",
+      "example_incorrect": "realizzare",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00043",
+      "language": "IT-IT",
+      "category": "terminology",
+      "section": "False friends",
+      "description": "Use 'pubblicizzare' instead of 'avvertire' for 'to advertise'",
+      "example_correct": "pubblicizzare",
+      "example_incorrect": "avvertire",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00044",
+      "language": "IT-IT",
+      "category": "terminology",
+      "section": "False friends",
+      "description": "Use 'consiglio' instead of 'avviso' for 'advice'",
+      "example_correct": "consiglio",
+      "example_incorrect": "avviso",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00045",
+      "language": "IT-IT",
+      "category": "terminology",
+      "section": "False friends",
+      "description": "Use 'aiutare' instead of 'assistere' for 'to assist'",
+      "example_correct": "aiutare",
+      "example_incorrect": "assistere",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00046",
+      "language": "IT-IT",
+      "category": "terminology",
+      "section": "False friends",
+      "description": "Use 'atteggiamento' instead of 'attitudine' for 'attitude'",
+      "example_correct": "atteggiamento",
+      "example_incorrect": "attitudine",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00047",
+      "language": "IT-IT",
+      "category": "terminology",
+      "section": "False friends",
+      "description": "Use 'pubblico' instead of 'udienza' for 'audience'",
+      "example_correct": "pubblico",
+      "example_incorrect": "udienza",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00048",
+      "language": "IT-IT",
+      "category": "terminology",
+      "section": "False friends",
+      "description": "Use 'istruzione' instead of 'educazione' for 'education'",
+      "example_correct": "istruzione",
+      "example_incorrect": "educazione",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00049",
+      "language": "IT-IT",
+      "category": "terminology",
+      "section": "False friends",
+      "description": "Use 'fabbrica' instead of 'fattoria' for 'factory'",
+      "example_correct": "fabbrica",
+      "example_incorrect": "fattoria",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00050",
+      "language": "IT-IT",
+      "category": "terminology",
+      "section": "False friends",
+      "description": "Use 'sofferenza' instead of 'miseria' for 'misery'",
+      "example_correct": "sofferenza",
+      "example_incorrect": "miseria",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00051",
+      "language": "IT-IT",
+      "category": "terminology",
+      "section": "False friends",
+      "description": "Use 'vuoto, posto vacante' instead of 'vacanza' for 'vacancy'",
+      "example_correct": "vuoto, posto vacante",
+      "example_incorrect": "vacanza",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00052",
+      "language": "IT-IT",
+      "category": "terminology",
+      "section": "Technical Terms",
+      "description": "Use RingCentral Glossary as first and binding source for technical terms",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00053",
+      "language": "IT-IT",
+      "category": "terminology",
+      "section": "Technical Terms",
+      "description": "For terms not in glossary, use Microsoft standard terminology where applicable",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Reference: https://www.microsoft.com/it-it/language"
+    },
+    {
+      "rule_id": "IT-IT_RULE_00054",
+      "language": "IT-IT",
+      "category": "terminology",
+      "section": "Technical Terms",
+      "description": "Use available online resources like Wikipedia, administrator web pages, large IT vendor portals",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00055",
+      "language": "IT-IT",
+      "category": "capitalization",
+      "section": "Capitalization",
+      "description": "Capitalize proper names, product names, and geographical names",
+      "example_correct": "Scoprire Roma",
+      "example_incorrect": "Scoprire roma",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00056",
+      "language": "IT-IT",
+      "category": "capitalization",
+      "section": "Capitalization",
+      "description": "Capitalize first word after period, exclamation mark, question mark, ellipsis",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00057",
+      "language": "IT-IT",
+      "category": "capitalization",
+      "section": "Capitalization",
+      "description": "In titles and headings, only capitalize first character of first word",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00058",
+      "language": "IT-IT",
+      "category": "capitalization",
+      "section": "Capitalization",
+      "description": "UI items begin with uppercase character; for multiple words, only first character of first word is uppercase",
+      "example_correct": "Fare clic sul pulsante Ignora",
+      "example_incorrect": "Fare clic sul pulsante ignora",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00059",
+      "language": "IT-IT",
+      "category": "capitalization",
+      "section": "Capitalization",
+      "description": "For UI items with two alternative commands separated by slash, both commands begin with uppercase",
+      "example_correct": "Selezionare il pulsante Apri/Chiudi",
+      "example_incorrect": "Selezionare il pulsante Apri/chiudi",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00060",
+      "language": "IT-IT",
+      "category": "capitalization",
+      "section": "Capitalization",
+      "description": "Write keyboard key names in all capital letters",
+      "example_correct": "Premere il tasto INVIO",
+      "example_incorrect": "Premere il tasto invio",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00061",
+      "language": "IT-IT",
+      "category": "capitalization",
+      "section": "Capitalization",
+      "description": "Use lowercase for nationalities, languages, religions, days of week, months, seasons and currencies",
+      "example_correct": "L'incontro si terrà martedì",
+      "example_incorrect": "L'incontro si terrà Martedì",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00062",
+      "language": "IT-IT",
+      "category": "capitalization",
+      "section": "Capitalization",
+      "description": "Use lowercase for currency names",
+      "example_correct": "1 dollaro USA",
+      "example_incorrect": "1 Dollaro USA",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00063",
+      "language": "IT-IT",
+      "category": "capitalization",
+      "section": "Capitalization",
+      "description": "Use lowercase for language names",
+      "example_correct": "Gli utenti che parlano italiano",
+      "example_incorrect": "Gli utenti che parlano Italiano",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00064",
+      "language": "IT-IT",
+      "category": "capitalization",
+      "section": "Capitalization",
+      "description": "Use lowercase for nationality adjectives",
+      "example_correct": "Il nostro amico è spagnolo",
+      "example_incorrect": "Il nostro amico è Spagnolo",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00065",
+      "language": "IT-IT",
+      "category": "capitalization",
+      "section": "Capitalization",
+      "description": "For UI items with multiple words, only first word is capitalized",
+      "example_correct": "Selezionare l'opzione Modifica linea",
+      "example_incorrect": "Selezionare l'opzione Modifica Linea",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00066",
+      "language": "IT-IT",
+      "category": "capitalization",
+      "section": "Capitalization",
+      "description": "In legal texts, retain capitalization as it conveys specific meaning",
+      "example_correct": "Questo accordo (l'\"Accordo\") è un accordo vincolante",
+      "example_incorrect": "Questo accordo (l'\"accordo\") è un accordo vincolante",
+      "notes": "Exception to general capitalization rules"
+    },
+    {
+      "rule_id": "IT-IT_RULE_00067",
+      "language": "IT-IT",
+      "category": "capitalization",
+      "section": "Capitalization",
+      "description": "Preserve all uppercase formatting in legal texts",
+      "example_correct": "INSTALLARE E UTILIZZARE UNA COPIA DEL SOFTWARE",
+      "example_incorrect": "Installare e utilizzare una copia del Software",
+      "notes": "Whole paragraphs in uppercase must be preserved for legal implications"
+    },
+    {
+      "rule_id": "IT-IT_RULE_00068",
+      "language": "IT-IT",
+      "category": "spelling",
+      "section": "Accented Capital Letters",
+      "description": "Use ASCII codes for accented capital letters: À (Alt+0192), È (Alt+0200), Ì (Alt+0204), Í (Alt+0205), Ò (Alt+0210)",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00069",
+      "language": "IT-IT",
+      "category": "spelling",
+      "section": "Spelling",
+      "description": "Run spell-checker when translation is completed; use MS Word spellchecker rather than CAT tool embedded checkers",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "MS Word is more reliable than CAT tool spell-checkers"
+    },
+    {
+      "rule_id": "IT-IT_RULE_00070",
+      "language": "IT-IT",
+      "category": "formatting",
+      "section": "Spacing",
+      "description": "Separate brand name tags from preceding or following text with a space",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00071",
+      "language": "IT-IT",
+      "category": "punctuation",
+      "section": "Spacing",
+      "description": "Use no space before any punctuation sign in Italian",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00072",
+      "language": "IT-IT",
+      "category": "formatting",
+      "section": "Spacing",
+      "description": "Replace double spaces after full stops with single spaces",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Use controlled search and replace"
+    },
+    {
+      "rule_id": "IT-IT_RULE_00073",
+      "language": "IT-IT",
+      "category": "formatting",
+      "section": "Spacing",
+      "description": "Use non-breaking spaces to prevent separation of names, numbers, software names and versions at line end",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Use Ctrl + Shift + Space bar in MS Word or Alt+0160"
+    },
+    {
+      "rule_id": "IT-IT_RULE_00074",
+      "language": "IT-IT",
+      "category": "numbers",
+      "section": "Spacing",
+      "description": "Use space before degree symbol",
+      "example_correct": "Temperatura di 20 °C",
+      "example_incorrect": "Temperatura di 20°C",
+      "notes": "Can also use: Temperatura di 20° C"
+    },
+    {
+      "rule_id": "IT-IT_RULE_00075",
+      "language": "IT-IT",
+      "category": "numbers",
+      "section": "Spacing",
+      "description": "Use no space before percentage symbol",
+      "example_correct": "Calo del 33%",
+      "example_incorrect": "Calo del 33 %",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00076",
+      "language": "IT-IT",
+      "category": "numbers",
+      "section": "Spacing",
+      "description": "Use space before unit abbreviations for length",
+      "example_correct": "Larghezza di 43 m",
+      "example_incorrect": "Larghezza di 43m",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00077",
+      "language": "IT-IT",
+      "category": "numbers",
+      "section": "Spacing",
+      "description": "Use space before unit abbreviations for weight",
+      "example_correct": "50 kg di peso",
+      "example_incorrect": "50kg di peso",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00078",
+      "language": "IT-IT",
+      "category": "punctuation",
+      "section": "Comma",
+      "description": "Never separate subject from verb with a comma",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00079",
+      "language": "IT-IT",
+      "category": "punctuation",
+      "section": "Comma",
+      "description": "Avoid using comma after 'e', 'o' or 'oppure' unless needed for aside or natural pause",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00080",
+      "language": "IT-IT",
+      "category": "punctuation",
+      "section": "Comma",
+      "description": "Do not use comma before last element of enumeration",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Contrary to English usage"
+    },
+    {
+      "rule_id": "IT-IT_RULE_00081",
+      "language": "IT-IT",
+      "category": "punctuation",
+      "section": "Period",
+      "description": "When sentence is between brackets or quotes, place period outside",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00082",
+      "language": "IT-IT",
+      "category": "punctuation",
+      "section": "Period",
+      "description": "Do not use full stops after headings, titles, table columns, or captions unless it's a full sentence",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00083",
+      "language": "IT-IT",
+      "category": "punctuation",
+      "section": "Period",
+      "description": "Do not use full stops if sentence ends with abbreviation, question mark, exclamation mark, ellipsis, or colon",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00084",
+      "language": "IT-IT",
+      "category": "punctuation",
+      "section": "Colon",
+      "description": "Avoid using colons as English makes wider use; prefer commas where possible",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00085",
+      "language": "IT-IT",
+      "category": "punctuation",
+      "section": "Colon",
+      "description": "Use colons to introduce listings, procedures or notes",
+      "example_correct": "Di seguito un elenco delle funzionalità della nuova release:",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00086",
+      "language": "IT-IT",
+      "category": "punctuation",
+      "section": "Colon",
+      "description": "Term following colon must be lowercase unless placed on another line",
+      "example_correct": "Le caratteristiche del prodotto includono: scalabilità, upgrade senza interruzioni delle attività, controlli automatici e reversibilità dei contenuti.",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00087",
+      "language": "IT-IT",
+      "category": "punctuation",
+      "section": "Semi-colon",
+      "description": "Use semi-colons less than in English; mainly for separating items in enumeration when commas would be confusing",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "As general rule, avoid semi-colons and start new sentence instead"
+    },
+    {
+      "rule_id": "IT-IT_RULE_00088",
+      "language": "IT-IT",
+      "category": "punctuation",
+      "section": "Semi-colon",
+      "description": "Never use capital initial letter after semi-colon",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00089",
+      "language": "IT-IT",
+      "category": "punctuation",
+      "section": "Question mark",
+      "description": "Avoid question marks as they are much less used in Italian than English",
+      "example_correct": "Scopo",
+      "example_incorrect": "Che cosa desideri fare?",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00090",
+      "language": "IT-IT",
+      "category": "punctuation",
+      "section": "Question mark",
+      "description": "Replace question mark headings with descriptive terms",
+      "example_correct": "Informazioni su RingCentral",
+      "example_incorrect": "Che cos'è RingCentral?",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00091",
+      "language": "IT-IT",
+      "category": "punctuation",
+      "section": "Question mark",
+      "description": "Question marks can be used for rhetorical questions in marketing content if appropriate for text type and audience",
+      "example_correct": "Vuoi saperne di più su questa tecnologia? Scarica il web cast.",
+      "example_incorrect": "",
+      "notes": "Appropriate for brochures, CTA, banners etc."
+    },
+    {
+      "rule_id": "IT-IT_RULE_00092",
+      "language": "IT-IT",
+      "category": "punctuation",
+      "section": "Question mark",
+      "description": "Capitalize any term following question mark",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00093",
+      "language": "IT-IT",
+      "category": "punctuation",
+      "section": "Question mark",
+      "description": "Do not add period after question mark to avoid double punctuation",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00094",
+      "language": "IT-IT",
+      "category": "punctuation",
+      "section": "Exclamation mark",
+      "description": "Exclamation marks are less common in Italian than English; remove unless appropriate for text type, register and audience",
+      "example_correct": "File non trovato.",
+      "example_incorrect": "File non trovato!",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00095",
+      "language": "IT-IT",
+      "category": "punctuation",
+      "section": "Exclamation mark",
+      "description": "When exclamation marks appear in groups, keep only one",
+      "example_correct": "Attenzione!",
+      "example_incorrect": "Attenzione!!!",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00096",
+      "language": "IT-IT",
+      "category": "punctuation",
+      "section": "Hyphen (-) /n dash (–), m dash (—)",
+      "description": "Use hyphen (-) to divide words between syllables and link parts of compound words",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00097",
+      "language": "IT-IT",
+      "category": "punctuation",
+      "section": "Hyphen (-) /n dash (–), m dash (—)",
+      "description": "Use n dash (–) (ALT + 0150) to divide two concepts in heading/title and open/close asides",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Use commas instead of dashes if possible"
+    },
+    {
+      "rule_id": "IT-IT_RULE_00098",
+      "language": "IT-IT",
+      "category": "punctuation",
+      "section": "Hyphen (-) /n dash (–), m dash (—)",
+      "description": "Do not use hyphen to introduce lists; use colon instead",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00099",
+      "language": "IT-IT",
+      "category": "punctuation",
+      "section": "Hyphen (-) /n dash (–), m dash (—)",
+      "description": "Do not use m dash in Italian; replace with n dash if needed",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00100",
+      "language": "IT-IT",
+      "category": "punctuation",
+      "section": "Round and square brackets",
+      "description": "Use round brackets as standard in Italian; square brackets only for specific requirements",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Square brackets for specific examples taken from source"
+    },
+    {
+      "rule_id": "IT-IT_RULE_00101",
+      "language": "IT-IT",
+      "category": "punctuation",
+      "section": "Round and square brackets",
+      "description": "Use no space between brackets and text inside them",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00102",
+      "language": "IT-IT",
+      "category": "punctuation",
+      "section": "Round and square brackets",
+      "description": "Use parentheses less than in English; consider replacing with commas for asides",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00103",
+      "language": "IT-IT",
+      "category": "punctuation",
+      "section": "Quotation marks",
+      "description": "Never use straight single quote for variables",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Updated 20241207"
+    },
+    {
+      "rule_id": "IT-IT_RULE_00104",
+      "language": "IT-IT",
+      "category": "punctuation",
+      "section": "Quotation marks",
+      "description": "Use double quotes in Italian; avoid single quotes unless forced by software requirements",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00105",
+      "language": "IT-IT",
+      "category": "punctuation",
+      "section": "Quotation marks",
+      "description": "Place punctuation outside quotes",
+      "example_correct": "Per ulteriori informazioni sulla procedura di riqualifica consultare la sezione \"Riqualifica dell'account\".",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00106",
+      "language": "IT-IT",
+      "category": "punctuation",
+      "section": "Quotation marks",
+      "description": "Do not use quotation marks to stress terms; use italics instead unless problematic due to tool limitations",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00107",
+      "language": "IT-IT",
+      "category": "punctuation",
+      "section": "Apostrophe",
+      "description": "Use straight apostrophe consistently instead of curly apostrophe",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00108",
+      "language": "IT-IT",
+      "category": "formatting",
+      "section": "Style to use in bulleted lists",
+      "description": "If bulleted items are complete sentences with conjugated verb, begin with capital and end with period",
+      "example_correct": "La nuova procedura permette di: • Aprire il file in modalità di sola lettura. • Eliminare i file pregressi inutilizzati da tempo.",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00109",
+      "language": "IT-IT",
+      "category": "formatting",
+      "section": "Style to use in bulleted lists",
+      "description": "If bulleted items are phrases or single words, do not follow with period",
+      "example_correct": "La nuova versione dispone di: • Nuovo hardware • Firmware aggiornato",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00110",
+      "language": "IT-IT",
+      "category": "formatting",
+      "section": "Style to use in bulleted lists",
+      "description": "If list items depend syntactically on introductory sentence, start with lowercase, end with semicolon, use period for last item",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "This format tends to be less used nowadays, especially in IT translations"
+    },
+    {
+      "rule_id": "IT-IT_RULE_00111",
+      "language": "IT-IT",
+      "category": "abbreviations",
+      "section": "Abbreviations",
+      "description": "Avoid abbreviations when possible; if needed, shorten by at least two letters, end with consonant and period",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "For double consonants, abbreviate after second consonant"
+    },
+    {
+      "rule_id": "IT-IT_RULE_00112",
+      "language": "IT-IT",
+      "category": "abbreviations",
+      "section": "Abbreviations",
+      "description": "Use standard abbreviations: articolo = art., circa = ca., confronta = cfr., eccetera = ecc.",
+      "example_correct": "art., ca., cfr., ecc.",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00113",
+      "language": "IT-IT",
+      "category": "abbreviations",
+      "section": "Abbreviations",
+      "description": "Use standard units: centimetro = cm, grammo = g, gigabyte = GB, Gigahertz = GHz, ora = h",
+      "example_correct": "cm, g, GB, GHz, h",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00114",
+      "language": "IT-IT",
+      "category": "abbreviations",
+      "section": "Abbreviations",
+      "description": "Use document references: numero = n., pagina = p., pagine = pp., capitolo = cap., paragrafo = par., sezione = sez.",
+      "example_correct": "n., p., pp., cap., par., sez.",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00115",
+      "language": "IT-IT",
+      "category": "abbreviations",
+      "section": "Acronyms",
+      "description": "Translation of acronyms depends on RingCentral project requirements; always investigate localizability",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00116",
+      "language": "IT-IT",
+      "category": "abbreviations",
+      "section": "Acronyms",
+      "description": "Acronym gender and number depend on translation of governing noun in extended form",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00117",
+      "language": "IT-IT",
+      "category": "numbers",
+      "section": "Numbers",
+      "description": "Write numbers in full when used as nouns, appearing alone as simple quantities (usually up to 9), and in expressions like 'in the 80s'",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00118",
+      "language": "IT-IT",
+      "category": "numbers",
+      "section": "Numbers",
+      "description": "Write dates, large numbers, ages, document references as numbers",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00119",
+      "language": "IT-IT",
+      "category": "numbers",
+      "section": "Numbers",
+      "description": "Replace decimal point with comma and thousand separator with dot",
+      "example_correct": "0,25",
+      "example_incorrect": "0.25",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00120",
+      "language": "IT-IT",
+      "category": "numbers",
+      "section": "Numbers",
+      "description": "Use dot as thousand separator",
+      "example_correct": "1.254,28",
+      "example_incorrect": "1,254.28",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00121",
+      "language": "IT-IT",
+      "category": "numbers",
+      "section": "Numbers",
+      "description": "Format large numbers correctly with dots and commas",
+      "example_correct": "8.990.500",
+      "example_incorrect": "8,990,500",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00122",
+      "language": "IT-IT",
+      "category": "numbers",
+      "section": "Units of Measure",
+      "description": "Separate units of measure from preceding number with non-breaking space",
+      "example_correct": "533 MHz",
+      "example_incorrect": "533MHz",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00123",
+      "language": "IT-IT",
+      "category": "numbers",
+      "section": "Units of Measure",
+      "description": "Convert imperial units to metric based on project requirements: 1 inch = 2,54 cm, 1 foot = 30,48 cm",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Monitor sizes remain in inches as exception"
+    },
+    {
+      "rule_id": "IT-IT_RULE_00124",
+      "language": "IT-IT",
+      "category": "numbers",
+      "section": "Units of Measure",
+      "description": "Use correct Italian abbreviations: chilometro = km, metro = m, litro = l, chilogrammo = kg",
+      "example_correct": "km, m, l, kg",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00125",
+      "language": "IT-IT",
+      "category": "numbers",
+      "section": "Percentages",
+      "description": "Write percentages in figures followed by % symbol with no space between figure and symbol",
+      "example_correct": "37%",
+      "example_incorrect": "37 %",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00126",
+      "language": "IT-IT",
+      "category": "numbers",
+      "section": "Date and time",
+      "description": "Use Italian date format: day-month instead of month-day",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00127",
+      "language": "IT-IT",
+      "category": "numbers",
+      "section": "Date and time",
+      "description": "Use DD/MM/YYYY or DD-MM-YYYY for short date format",
+      "example_correct": "30/04/2015 or 30-04-2015",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00128",
+      "language": "IT-IT",
+      "category": "numbers",
+      "section": "Date and time",
+      "description": "Use dddd d MMMM yyyy for long date format",
+      "example_correct": "mercoledì 19 agosto 2015",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00129",
+      "language": "IT-IT",
+      "category": "numbers",
+      "section": "Date and time",
+      "description": "Use hh.mm.ss format with 24-hour clock",
+      "example_correct": "23.30",
+      "example_incorrect": "11:30 PM",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00130",
+      "language": "IT-IT",
+      "category": "numbers",
+      "section": "Date and time",
+      "description": "Format time ranges using 24-hour format",
+      "example_correct": "Dalle 08.00 alle 20.00",
+      "example_incorrect": "8AM to 8PM",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00131",
+      "language": "IT-IT",
+      "category": "numbers",
+      "section": "Date and time",
+      "description": "Use lowercase month names without capitalization: gennaio, febbraio, marzo, aprile, maggio, giugno",
+      "example_correct": "gennaio, febbraio, marzo, aprile, maggio, giugno",
+      "example_incorrect": "Gennaio, Febbraio, Marzo, Aprile, Maggio, Giugno",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00132",
+      "language": "IT-IT",
+      "category": "numbers",
+      "section": "Date and time",
+      "description": "Use standard month abbreviations: gen, feb, mar, apr, mag, giu, lug, ago, set, ott, nov, dic",
+      "example_correct": "gen, feb, mar, apr, mag, giu, lug, ago, set, ott, nov, dic",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00133",
+      "language": "IT-IT",
+      "category": "numbers",
+      "section": "Currency",
+      "description": "Place currency symbols after numeral separated by non-breaking space with two decimal figures",
+      "example_correct": "145,80 €",
+      "example_incorrect": "€ 145,80",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00134",
+      "language": "IT-IT",
+      "category": "terminology",
+      "section": "Specific expressions",
+      "description": "Use 'Informazioni su' for 'about'",
+      "example_correct": "Informazioni su",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00135",
+      "language": "IT-IT",
+      "category": "terminology",
+      "section": "Specific expressions",
+      "description": "Use 'Come mostrato nella figura xx' for 'as shown in figure xx'",
+      "example_correct": "Come mostrato nella figura xx",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00136",
+      "language": "IT-IT",
+      "category": "terminology",
+      "section": "Specific expressions",
+      "description": "Use 'Per ulteriori informazioni su xxx, consultare xxx.' for 'For more information on xxx, see xxx.'",
+      "example_correct": "Per ulteriori informazioni su xxx, consultare xxx.",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00137",
+      "language": "IT-IT",
+      "category": "terminology",
+      "section": "Specific expressions",
+      "description": "Use 'N/D (non disponibile)' for 'N/A (Non Available)'",
+      "example_correct": "N/D (non disponibile)",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00138",
+      "language": "IT-IT",
+      "category": "terminology",
+      "section": "Specific expressions",
+      "description": "Use 'Tenere presente che' for 'Please note that'",
+      "example_correct": "Tenere presente che",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00139",
+      "language": "IT-IT",
+      "category": "terminology",
+      "section": "Specific expressions",
+      "description": "Use 'marchio registrato' for 'registered trademark'",
+      "example_correct": "marchio registrato",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00140",
+      "language": "IT-IT",
+      "category": "terminology",
+      "section": "Specific expressions",
+      "description": "Use 'risoluzione dei problemi' for 'troubleshooting'",
+      "example_correct": "risoluzione dei problemi",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00141",
+      "language": "IT-IT",
+      "category": "terminology",
+      "section": "Specific expressions",
+      "description": "Use 'marchio, marchio commerciale' for 'trademark'",
+      "example_correct": "marchio, marchio commerciale",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00142",
+      "language": "IT-IT",
+      "category": "terminology",
+      "section": "Specific expressions",
+      "description": "Use 'Manuale dell'utente' for 'User's Guide'",
+      "example_correct": "Manuale dell'utente",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00143",
+      "language": "IT-IT",
+      "category": "terminology",
+      "section": "Specific expressions",
+      "description": "Use 'consigliamo di…' for 'we recommend…'",
+      "example_correct": "consigliamo di…",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00144",
+      "language": "IT-IT",
+      "category": "terminology",
+      "section": "Specific expressions",
+      "description": "Use 'Attenersi alla seguente procedura per xxx' for 'Follow these steps to xxx'",
+      "example_correct": "Attenersi alla seguente procedura per xxx",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00145",
+      "language": "IT-IT",
+      "category": "trademarks",
+      "section": "Trademarks and Product Names",
+      "description": "Use trademark and registered trademark symbols only on first mention in translated content unless otherwise indicated",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Refer to most updated RingCentral term list"
+    },
+    {
+      "rule_id": "IT-IT_RULE_00146",
+      "language": "IT-IT",
+      "category": "trademarks",
+      "section": "Third Party Trademarks and Product Names",
+      "description": "Follow localized equivalence in official websites for third party product names if available",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "IT-IT_RULE_00147",
+      "language": "IT-IT",
+      "category": "trademarks",
+      "section": "Third Party Trademarks and Product Names",
+      "description": "Complete extensive research to determine if official approved trademarked translated version exists before using source",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Reference Adobe, Apple, Google, Microsoft trademark lists"
+    }
+  ]
+}

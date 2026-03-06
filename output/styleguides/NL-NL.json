@@ -1,0 +1,1257 @@
+{
+  "language": "NL-NL",
+  "source": "RC_Style_Guide_NL-NL_20241206.pdf",
+  "total_rules": 125,
+  "rules": [
+    {
+      "rule_id": "NL-NL_RULE_00001",
+      "language": "NL-NL",
+      "category": "ui_elements",
+      "section": "Software Localization - Buttons",
+      "description": "Buttons should typically be translated as verbs using the infinitive form",
+      "example_correct": "Bestand openen",
+      "example_incorrect": "Open het bestand",
+      "notes": ""
+    },
+    {
+      "rule_id": "NL-NL_RULE_00002",
+      "language": "NL-NL",
+      "category": "ui_elements",
+      "section": "Software Localization - Buttons",
+      "description": "Be concise, avoid using articles or prepositions and go straight to the point",
+      "example_correct": "Annuleren",
+      "example_incorrect": "Annuleer",
+      "notes": ""
+    },
+    {
+      "rule_id": "NL-NL_RULE_00003",
+      "language": "NL-NL",
+      "category": "punctuation",
+      "section": "Software Localization - Buttons",
+      "description": "Translations of buttons do not end in a period, unless they consist of more than one sentence",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "NL-NL_RULE_00004",
+      "language": "NL-NL",
+      "category": "trademarks",
+      "section": "Software Localization - Names of RingCentral Products",
+      "description": "Product/application names are often trademarked, thus not to be localized",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Check reference material and linguistic instructions, including terminology lists before translating"
+    },
+    {
+      "rule_id": "NL-NL_RULE_00005",
+      "language": "NL-NL",
+      "category": "localization_general",
+      "section": "Adaptation to Dutch Market",
+      "description": "Replace English examples by Dutch equivalents when needed",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Example given for wildcard operators explanation"
+    },
+    {
+      "rule_id": "NL-NL_RULE_00006",
+      "language": "NL-NL",
+      "category": "style_tone",
+      "section": "Linguistic Overview - Style and Tone",
+      "description": "Use formal addressing of people: u/uw (you/your) for business context",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Target audience are businesses"
+    },
+    {
+      "rule_id": "NL-NL_RULE_00007",
+      "language": "NL-NL",
+      "category": "style_tone",
+      "section": "Linguistic Overview - Style and Tone",
+      "description": "Register should be professional and welcoming, business casual",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Be precise and clear, consistent and natural"
+    },
+    {
+      "rule_id": "NL-NL_RULE_00008",
+      "language": "NL-NL",
+      "category": "style_tone",
+      "section": "Linguistic Overview - Style and Tone",
+      "description": "Rephrase sentences that are not clear enough, and rework sentences that sound like a translation",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Do not hesitate to break up long English sentences into smaller parts"
+    },
+    {
+      "rule_id": "NL-NL_RULE_00009",
+      "language": "NL-NL",
+      "category": "style_tone",
+      "section": "Linguistic Overview - Style and Tone",
+      "description": "Avoid an unnecessarily formal or pompous tone",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Refrain from using words that add formality without adding meaning, like 'tevens', 'met ingang van', 'betreffende'"
+    },
+    {
+      "rule_id": "NL-NL_RULE_00010",
+      "language": "NL-NL",
+      "category": "style_tone",
+      "section": "Style Expectations",
+      "description": "Content should be accurate and concise (exact): no ambiguities or mistranslations",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "NL-NL_RULE_00011",
+      "language": "NL-NL",
+      "category": "style_tone",
+      "section": "Style Expectations",
+      "description": "Content should be clear and coherent (readable): target reader should understand the text easily",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "NL-NL_RULE_00012",
+      "language": "NL-NL",
+      "category": "style_tone",
+      "section": "Style Expectations",
+      "description": "Content should be objective: neutral, do not insert your own opinion, avoid colloquial or slang words, be always politically correct, aim for bias-free language",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "NL-NL_RULE_00013",
+      "language": "NL-NL",
+      "category": "style_tone",
+      "section": "Style Expectations",
+      "description": "Content should be correct: content and numbers should be free of mistakes",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "NL-NL_RULE_00014",
+      "language": "NL-NL",
+      "category": "style_tone",
+      "section": "Style Expectations",
+      "description": "Content should be complete: do not leave out content (words, phrases, whole paragraphs)",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "NL-NL_RULE_00015",
+      "language": "NL-NL",
+      "category": "style_tone",
+      "section": "Style Expectations",
+      "description": "Avoid a condescending, childish or overly familiar tone and treat the reader as an adult and a professional",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Strive for clarity without resorting to unnecessary repetition"
+    },
+    {
+      "rule_id": "NL-NL_RULE_00016",
+      "language": "NL-NL",
+      "category": "style_tone",
+      "section": "Style Expectations",
+      "description": "Downplay humor and keep the tone business-like",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "NL-NL_RULE_00017",
+      "language": "NL-NL",
+      "category": "style_tone",
+      "section": "Style Expectations - Marketing Content",
+      "description": "Use idiomatically correct language: use of correct verbs, metaphors, expressions, etc. so that text does not sound like a translation",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Applies to Marketing Content, E-mails, Product Guides, PR letters, Customer Proposals and selected UI components"
+    },
+    {
+      "rule_id": "NL-NL_RULE_00018",
+      "language": "NL-NL",
+      "category": "style_tone",
+      "section": "Style Expectations - Marketing Content",
+      "description": "Avoid literal translations. Balance faithfulness to the source and readability in the target language",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "NL-NL_RULE_00019",
+      "language": "NL-NL",
+      "category": "style_tone",
+      "section": "Style Expectations - Marketing Content",
+      "description": "Avoid the passive voice and the use of the word 'men'. Use the active form to improve readability",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Passive voice is only advised in specific texts like legal and official documents"
+    },
+    {
+      "rule_id": "NL-NL_RULE_00020",
+      "language": "NL-NL",
+      "category": "style_tone",
+      "section": "Style Expectations - Marketing Content",
+      "description": "Avoid the use of the second-person possessive 'uw bestanden'. Simple articles can often replace possessive adjectives",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "NL-NL_RULE_00021",
+      "language": "NL-NL",
+      "category": "localization_general",
+      "section": "Cross-references",
+      "description": "Cross-references have to be referenced consistently throughout your translation as well as throughout all files",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "NL-NL_RULE_00022",
+      "language": "NL-NL",
+      "category": "localization_general",
+      "section": "Cross-references",
+      "description": "If the external cross-reference document has not been translated before, leave as in source language",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "NL-NL_RULE_00023",
+      "language": "NL-NL",
+      "category": "style_tone",
+      "section": "Politeness",
+      "description": "Do not hesitate to be more direct and use the imperative form where appropriate instead of translating 'Please'",
+      "example_correct": "Voer uw gebruikersnaam in.",
+      "example_incorrect": "Gelieve uw gebruikersnaam in te voeren.",
+      "notes": "Dutch does not require the same caution as English"
+    },
+    {
+      "rule_id": "NL-NL_RULE_00024",
+      "language": "NL-NL",
+      "category": "style_tone",
+      "section": "Gender",
+      "description": "Try to avoid gendered sentences. When referring to persons, if possible use words like 'deze' and 'die' instead of 'hij' or 'zij'",
+      "example_correct": "Het serviceteam neemt contact op met de klant en informeert deze.",
+      "example_incorrect": "Het serviceteam neemt contact op met de klant en informeert hem/haar.",
+      "notes": "Find a good balance between bias-free language and fluency"
+    },
+    {
+      "rule_id": "NL-NL_RULE_00025",
+      "language": "NL-NL",
+      "category": "grammar",
+      "section": "Articles",
+      "description": "Use specific article choices for RingCentral translations",
+      "example_correct": "het touchscreen, het account, de display, de webinar, de whitepaper, de badge",
+      "example_incorrect": "",
+      "notes": "Contact RingCentral Dutch language lead when encountering other nouns that can have both de/het"
+    },
+    {
+      "rule_id": "NL-NL_RULE_00026",
+      "language": "NL-NL",
+      "category": "style_tone",
+      "section": "Conciseness / Fluency",
+      "description": "Avoid bloated expressions like 'die het mogelijk maken...'",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Applies to most product UI, Support Content and Customer Training Materials"
+    },
+    {
+      "rule_id": "NL-NL_RULE_00027",
+      "language": "NL-NL",
+      "category": "style_tone",
+      "section": "Conciseness / Fluency",
+      "description": "Avoid overly long or complex compounds. Unintuitive compounds are an intelligibility and usability issue",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "NL-NL_RULE_00028",
+      "language": "NL-NL",
+      "category": "style_tone",
+      "section": "Conciseness / Fluency - Marketing Content",
+      "description": "'Please' and 'sorry' are not translated",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Applies to Marketing Content, E-mails, Product Guides, PR letters, Customer Proposals and selected UI components"
+    },
+    {
+      "rule_id": "NL-NL_RULE_00029",
+      "language": "NL-NL",
+      "category": "style_tone",
+      "section": "Conciseness / Fluency - Marketing Content",
+      "description": "'Successfully' should not be included in the Dutch translation",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "NL-NL_RULE_00030",
+      "language": "NL-NL",
+      "category": "style_tone",
+      "section": "Conciseness / Fluency - Marketing Content",
+      "description": "Avoid starting a sentence with 'Om...'",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "NL-NL_RULE_00031",
+      "language": "NL-NL",
+      "category": "style_tone",
+      "section": "Conciseness / Fluency - Marketing Content",
+      "description": "Avoid starting a sentence with 'Bijvoorbeeld'",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "NL-NL_RULE_00032",
+      "language": "NL-NL",
+      "category": "style_tone",
+      "section": "Overtranslation",
+      "description": "Avoid overtranslation. Use 'met' instead of 'met behulp van' where equally clear",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Overtranslation is the use of unnecessary words where a less verbose version would be equally clear"
+    },
+    {
+      "rule_id": "NL-NL_RULE_00033",
+      "language": "NL-NL",
+      "category": "style_tone",
+      "section": "Literal Translations",
+      "description": "Avoid literal translations that ignore Dutch rules for style and idiom",
+      "example_correct": "Complexe formules zijn ook eenvoudiger samen te stellen als ze bestaan uit kleinere formules die een naam hebben.",
+      "example_incorrect": "U kunt het ook gemakkelijker vinden om complexe formules te schrijven als onderdelen van die formules benoemde, korte formules bevatten.",
+      "notes": "Literal translations can result in sentences that are hard to understand"
+    },
+    {
+      "rule_id": "NL-NL_RULE_00034",
+      "language": "NL-NL",
+      "category": "style_tone",
+      "section": "Literal Translations",
+      "description": "Restructure sentences for better Dutch flow and understanding",
+      "example_correct": "Klik op de knop Volgende als u het product hebt geselecteerd.",
+      "example_incorrect": "Wanneer u het product geselecteerd hebt, klik op de knop Volgende.",
+      "notes": ""
+    },
+    {
+      "rule_id": "NL-NL_RULE_00035",
+      "language": "NL-NL",
+      "category": "style_tone",
+      "section": "Literal Translations",
+      "description": "Use natural Dutch expressions rather than literal translations",
+      "example_correct": "Omdat de GPS de batterij snel kan ontladen, kunt u deze maar een beperkte tijd gebruiken.",
+      "example_incorrect": "Omdat de GPS de batterij snel kan ontladen, wilt u deze slechts een beperkte tijd gebruiken.",
+      "notes": ""
+    },
+    {
+      "rule_id": "NL-NL_RULE_00036",
+      "language": "NL-NL",
+      "category": "terminology",
+      "section": "Technical Terms",
+      "description": "The RingCentral Glossary is your first and binding source for technical terms",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "NL-NL_RULE_00037",
+      "language": "NL-NL",
+      "category": "terminology",
+      "section": "Technical Terms",
+      "description": "For terms not listed in the glossary stick to Microsoft standard terminology where applicable",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Reference: https://www.microsoft.com/en-us/language"
+    },
+    {
+      "rule_id": "NL-NL_RULE_00038",
+      "language": "NL-NL",
+      "category": "terminology",
+      "section": "Technical Terms",
+      "description": "Use available online resources like Wikipedia, administrator web pages, large IT vendor portals etc. for terminology",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "In case of doubt check back with your PM or Language Lead"
+    },
+    {
+      "rule_id": "NL-NL_RULE_00039",
+      "language": "NL-NL",
+      "category": "capitalization",
+      "section": "Capitalization",
+      "description": "When referring to UI elements, always use Uppercase",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "NL-NL_RULE_00040",
+      "language": "NL-NL",
+      "category": "capitalization",
+      "section": "Capitalization",
+      "description": "The first word following a colon should not be written with a capital in Dutch, unless there is more than one sentence after the colon",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "If more than one sentence follows the colon, the first word should be written with a capital"
+    },
+    {
+      "rule_id": "NL-NL_RULE_00041",
+      "language": "NL-NL",
+      "category": "capitalization",
+      "section": "Capitalization",
+      "description": "In sentences and headings, only use uppercase at the beginning of the sentence",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "NL-NL_RULE_00042",
+      "language": "NL-NL",
+      "category": "capitalization",
+      "section": "Capitalization",
+      "description": "Follow Dutch rules for titles and headings even if fully capitalized in English",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Exception: legal texts where capitalization conveys specific meaning and must be retained"
+    },
+    {
+      "rule_id": "NL-NL_RULE_00043",
+      "language": "NL-NL",
+      "category": "capitalization",
+      "section": "Capitalization",
+      "description": "Product names follow the source capitalization",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "NL-NL_RULE_00044",
+      "language": "NL-NL",
+      "category": "capitalization",
+      "section": "Capitalization",
+      "description": "Use accents on uppercase letters to avoid pronunciation problems",
+      "example_correct": "GEÏNTEGREERD, GEÜPLOAD, BELGIË",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "NL-NL_RULE_00045",
+      "language": "NL-NL",
+      "category": "capitalization",
+      "section": "Capitalization",
+      "description": "Use lowercase in months, days and currencies",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "NL-NL_RULE_00046",
+      "language": "NL-NL",
+      "category": "spelling",
+      "section": "Spelling",
+      "description": "Run the spell-checker when you have completed your translation",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Copy the translated word into Word to use the grammar checker too"
+    },
+    {
+      "rule_id": "NL-NL_RULE_00047",
+      "language": "NL-NL",
+      "category": "formatting",
+      "section": "Spacing",
+      "description": "Brand name tags need to be separated from the preceding or following text with a space",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "NL-NL_RULE_00048",
+      "language": "NL-NL",
+      "category": "formatting",
+      "section": "Spacing",
+      "description": "Replace double spaces after full stops with single spaces in Dutch",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "English documents often include double spaces after full stops"
+    },
+    {
+      "rule_id": "NL-NL_RULE_00049",
+      "language": "NL-NL",
+      "category": "formatting",
+      "section": "Spacing",
+      "description": "Use non-breaking spaces to prevent certain expressions to be separated at the end of a line",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "For people's names, numbers, software names and versions, etc. Use Ctrl + Shift + Space bar in MS Word or Alt+0160"
+    },
+    {
+      "rule_id": "NL-NL_RULE_00050",
+      "language": "NL-NL",
+      "category": "formatting",
+      "section": "Spacing",
+      "description": "Do not use non-breaking spaces in software files",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "NL-NL_RULE_00051",
+      "language": "NL-NL",
+      "category": "punctuation",
+      "section": "Comma",
+      "description": "Use a comma in situations where a sentence would otherwise be too long or complicated, or where omission could cause confusion",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Do not use the comma to separate two sentences"
+    },
+    {
+      "rule_id": "NL-NL_RULE_00052",
+      "language": "NL-NL",
+      "category": "punctuation",
+      "section": "Period",
+      "description": "Acronyms and units of measurement are not spelled with periods",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "NL-NL_RULE_00053",
+      "language": "NL-NL",
+      "category": "numbers",
+      "section": "Period",
+      "description": "The period is used as a separator in thousands (but not in years, postal codes, phone numbers)",
+      "example_correct": "1.000.000",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "NL-NL_RULE_00054",
+      "language": "NL-NL",
+      "category": "punctuation",
+      "section": "Period",
+      "description": "The period is used as a separator in Dutch bank account numbers (Not Belgian) and version numbers",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "NL-NL_RULE_00055",
+      "language": "NL-NL",
+      "category": "punctuation",
+      "section": "Period",
+      "description": "Do not use full stops after headings and titles, after columns in a table, or after captions used with illustrations, tables etc., unless the expression is a full sentence",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "NL-NL_RULE_00056",
+      "language": "NL-NL",
+      "category": "punctuation",
+      "section": "Period",
+      "description": "Do not use full stops if a sentence ends with an abbreviation, an interrogation or exclamation mark, ellipsis, or colon",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "NL-NL_RULE_00057",
+      "language": "NL-NL",
+      "category": "punctuation",
+      "section": "Colon",
+      "description": "Try to avoid using colons, especially in marketing related content",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "NL-NL_RULE_00058",
+      "language": "NL-NL",
+      "category": "punctuation",
+      "section": "Colon",
+      "description": "Use colons to introduce lists and at the end of a sentence that introduces a procedure",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "NL-NL_RULE_00059",
+      "language": "NL-NL",
+      "category": "punctuation",
+      "section": "Colon",
+      "description": "The first word after the colon does not get a capital, if the item following the colon is a single sentence",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "NL-NL_RULE_00060",
+      "language": "NL-NL",
+      "category": "punctuation",
+      "section": "Semicolon",
+      "description": "Semicolons are preferably avoided. After a semicolon a complete sentence must follow, with a personal form",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "NL-NL_RULE_00061",
+      "language": "NL-NL",
+      "category": "punctuation",
+      "section": "Semicolon",
+      "description": "For marketing and PR content semicolons should never be used. Cut the sentence in two smaller ones to enhance readability",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "NL-NL_RULE_00062",
+      "language": "NL-NL",
+      "category": "punctuation",
+      "section": "Ellipsis",
+      "description": "In front and behind an ellipsis in general there is a space. However, if a word is aborted, there is no space in front",
+      "example_correct": "Installeren van software ...",
+      "example_incorrect": "Installeren van software...",
+      "notes": ""
+    },
+    {
+      "rule_id": "NL-NL_RULE_00063",
+      "language": "NL-NL",
+      "category": "punctuation",
+      "section": "Ellipsis",
+      "description": "When ellipsis dots are used in English, they must be used in Dutch as well",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "NL-NL_RULE_00064",
+      "language": "NL-NL",
+      "category": "punctuation",
+      "section": "Hyphen",
+      "description": "Use normal hyphen (-) to connect the components of certain compounds",
+      "example_correct": "PowerPoint-presentatie",
+      "example_incorrect": "PowerPoint presentatie",
+      "notes": "Consult the Taalunie rules regarding the use of hyphens in compounds"
+    },
+    {
+      "rule_id": "NL-NL_RULE_00065",
+      "language": "NL-NL",
+      "category": "punctuation",
+      "section": "Hyphen",
+      "description": "Use hyphen to separate words across a line break and as ellipsis marker for omitted components",
+      "example_correct": "hard- en software, pagina's 15-18",
+      "example_incorrect": "",
+      "notes": "The ellipted component should be a word part of equal value, not a separate word"
+    },
+    {
+      "rule_id": "NL-NL_RULE_00066",
+      "language": "NL-NL",
+      "category": "punctuation",
+      "section": "Hyphen",
+      "description": "The hyphen is also used as the minus sign",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "NL-NL_RULE_00067",
+      "language": "NL-NL",
+      "category": "punctuation",
+      "section": "n dash and m dash",
+      "description": "Do not use the En or Em-dash. Replace En or Em dashes that appear in English text by commas or brackets",
+      "example_correct": "De aard van de gegevens in de cel (tekst, een getal of een formule) heeft invloed op de uitlijning ervan.",
+      "example_incorrect": "De aard van de gegevens in de cel – tekst, een getal of een formule – heeft invloed op de uitlijning ervan",
+      "notes": ""
+    },
+    {
+      "rule_id": "NL-NL_RULE_00068",
+      "language": "NL-NL",
+      "category": "punctuation",
+      "section": "Round and square brackets",
+      "description": "Use round brackets for further explications which would otherwise disrupt the sentence",
+      "example_correct": "Vul de gevraagde gegevens (getallen) op de stippellijn in.",
+      "example_incorrect": "",
+      "notes": "The first letter is a lower case unless the sentence in parentheses is an independent sentence"
+    },
+    {
+      "rule_id": "NL-NL_RULE_00069",
+      "language": "NL-NL",
+      "category": "punctuation",
+      "section": "Round and square brackets",
+      "description": "Use round brackets when adding the full form of an acronym",
+      "example_correct": "XML (Extended Markup Language)",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "NL-NL_RULE_00070",
+      "language": "NL-NL",
+      "category": "punctuation",
+      "section": "Round and square brackets",
+      "description": "The area code of phone numbers is written between brackets",
+      "example_correct": "(090) 123 45 67",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "NL-NL_RULE_00071",
+      "language": "NL-NL",
+      "category": "punctuation",
+      "section": "Round and square brackets",
+      "description": "Use square brackets for indicating variables or for indicating additional information within round brackets",
+      "example_correct": "Geef het pad op (UNC-pad [intern] of URL [extern]) en klik vervolgens op Opslaan.",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "NL-NL_RULE_00072",
+      "language": "NL-NL",
+      "category": "punctuation",
+      "section": "Quotation marks",
+      "description": "Only single straight quotation marks are used to mark names of chapters, sections and appendixes of manuals",
+      "example_correct": "Wilt u de wijzigingen in 'Profiel' opslaan?",
+      "example_incorrect": "",
+      "notes": "Don't use single quotes around placeholders even if the placeholders are enclosed with quotes in English source"
+    },
+    {
+      "rule_id": "NL-NL_RULE_00073",
+      "language": "NL-NL",
+      "category": "punctuation",
+      "section": "Quotation marks",
+      "description": "NEVER use straight single quote for variables",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "NL-NL_RULE_00074",
+      "language": "NL-NL",
+      "category": "punctuation",
+      "section": "Quotation marks",
+      "description": "Double quotes are only used for direct quotations",
+      "example_correct": "Het kantoor was zogenaamd \"tijdelijk\" gesloten.",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "NL-NL_RULE_00075",
+      "language": "NL-NL",
+      "category": "punctuation",
+      "section": "Quotation marks",
+      "description": "In English, file names and other variables are often placed between single quotation marks. In Dutch, we omit these",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "NL-NL_RULE_00076",
+      "language": "NL-NL",
+      "category": "punctuation",
+      "section": "Apostrophe",
+      "description": "Use straight apostrophes consistently in the translations, instead of curly apostrophes",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "NL-NL_RULE_00077",
+      "language": "NL-NL",
+      "category": "abbreviations",
+      "section": "Apostrophe",
+      "description": "Do not use abbreviations like 'zo'n' or ''t'",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "NL-NL_RULE_00078",
+      "language": "NL-NL",
+      "category": "formatting",
+      "section": "Enumerations",
+      "description": "Use the same format in your translation as in the original text for enumerations",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Items are usually preceded by a bullet or a sequential number"
+    },
+    {
+      "rule_id": "NL-NL_RULE_00079",
+      "language": "NL-NL",
+      "category": "punctuation",
+      "section": "Enumerations - Complete sentences",
+      "description": "The sentence introducing the enumeration ends with a colon. Each part starts with a capital letter and ends with a period",
+      "example_correct": "De volgende gevallen zijn mogelijk:\n● De server bevindt zich in het netwerk.\n● De server bevindt zich buiten het netwerk.",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "NL-NL_RULE_00080",
+      "language": "NL-NL",
+      "category": "punctuation",
+      "section": "Enumerations - Phrases/words",
+      "description": "If the parts of an enumeration consist of a single word or a small group of words, the punctuation marks may be omitted altogether",
+      "example_correct": "De server kan zich op de volgende locaties bevinden:\n● binnen het netwerk\n● buiten het netwerk",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "NL-NL_RULE_00081",
+      "language": "NL-NL",
+      "category": "punctuation",
+      "section": "Enumerations - Parts of sentences",
+      "description": "Each part of the enumeration starts with a lowercase letter and ends with a semicolon. Only the last part gets a period",
+      "example_correct": "U moet de software installeren als:\n● de server zich in het netwerk bevindt;\n● de server zich buiten het netwerk bevindt;\n● de server toegankelijk is vanaf mobiele apparaten.",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "NL-NL_RULE_00082",
+      "language": "NL-NL",
+      "category": "abbreviations",
+      "section": "Abbreviations",
+      "description": "Do not use abbreviations in body text. Write expressions in full",
+      "example_correct": "met betrekking tot, ten aanzien van",
+      "example_incorrect": "m.b.t., t.a.v",
+      "notes": ""
+    },
+    {
+      "rule_id": "NL-NL_RULE_00083",
+      "language": "NL-NL",
+      "category": "abbreviations",
+      "section": "Abbreviations",
+      "description": "Abbreviations are only used when absolutely necessary, except for units or when there are space issues",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Be consistent and do not abbreviate a term in some sentences and spell it out in other sentences"
+    },
+    {
+      "rule_id": "NL-NL_RULE_00084",
+      "language": "NL-NL",
+      "category": "abbreviations",
+      "section": "Abbreviations",
+      "description": "If there is insufficient space, articles and prepositions can often be omitted first, without losing content or clarity",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "However, do not use this 'telegram style' if it is not necessary"
+    },
+    {
+      "rule_id": "NL-NL_RULE_00085",
+      "language": "NL-NL",
+      "category": "abbreviations",
+      "section": "Acronyms",
+      "description": "Write initiaalwoorden and letterwoorden without any periods",
+      "example_correct": "pincode, cd-romstation, btw-tarief, pc-gebruiker, AOW'er, tv-kijker, RAM-geheugen",
+      "example_incorrect": "",
+      "notes": "Follow the capitalization of the abbreviated words"
+    },
+    {
+      "rule_id": "NL-NL_RULE_00086",
+      "language": "NL-NL",
+      "category": "abbreviations",
+      "section": "Acronyms",
+      "description": "For letterwoorden with capitals and initiaalwoorden, retain the capital and apostrophe in compounds",
+      "example_correct": "AOW'er",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "NL-NL_RULE_00087",
+      "language": "NL-NL",
+      "category": "abbreviations",
+      "section": "Acronyms",
+      "description": "When an acronym makes its first appearance, spell it out. Put the full term between brackets, immediately after the acronym",
+      "example_correct": "OLE (objecten koppelen en insluiten)",
+      "example_incorrect": "",
+      "notes": "After this initial clarification, the acronym can be used without the full term"
+    },
+    {
+      "rule_id": "NL-NL_RULE_00088",
+      "language": "NL-NL",
+      "category": "abbreviations",
+      "section": "Acronyms",
+      "description": "If the acronym refers to a term not normally translated into Dutch, give only the full English term",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "NL-NL_RULE_00089",
+      "language": "NL-NL",
+      "category": "abbreviations",
+      "section": "Acronyms",
+      "description": "Certain acronyms require no explanation",
+      "example_correct": "ADSL MS-DOS GUI pc ASCII ANSI EGA VGA PCI ROM UNIX TCP/IP cd-rom dvd-rom",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "NL-NL_RULE_00090",
+      "language": "NL-NL",
+      "category": "abbreviations",
+      "section": "Acronyms",
+      "description": "Very few acronyms are localized in Dutch. Most are names or organizations or countries",
+      "example_correct": "VK, VSA, VAE, EU, VN",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "NL-NL_RULE_00091",
+      "language": "NL-NL",
+      "category": "numbers",
+      "section": "Numbers",
+      "description": "Numbers should be written in full when used as nouns",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "NL-NL_RULE_00092",
+      "language": "NL-NL",
+      "category": "numbers",
+      "section": "Numbers",
+      "description": "Numbers should be written in full when appearing alone and representing simple quantities, usually up to 12",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "NL-NL_RULE_00093",
+      "language": "NL-NL",
+      "category": "numbers",
+      "section": "Numbers",
+      "description": "Numbers should be written in full in expressions like 'in the 80s'",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "NL-NL_RULE_00094",
+      "language": "NL-NL",
+      "category": "numbers",
+      "section": "Numbers",
+      "description": "Dates, large numbers, ages, document references should be written as numbers",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "NL-NL_RULE_00095",
+      "language": "NL-NL",
+      "category": "numbers",
+      "section": "Numbers",
+      "description": "Replace the decimal point by a comma and the thousand separator by a dot",
+      "example_correct": "0,25; 1.254,28; 18.567; 8.990.500",
+      "example_incorrect": "0.25; 1,254.28; 18,567; 8,990,500",
+      "notes": ""
+    },
+    {
+      "rule_id": "NL-NL_RULE_00096",
+      "language": "NL-NL",
+      "category": "numbers",
+      "section": "Numbers",
+      "description": "Avoid mixing numerical and alphabetical forms",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "NL-NL_RULE_00097",
+      "language": "NL-NL",
+      "category": "numbers",
+      "section": "Units of Measure",
+      "description": "By law, the Netherlands uses the metric system. Avoid pounds, miles, inches, feet and gallons",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "These have no legal meaning"
+    },
+    {
+      "rule_id": "NL-NL_RULE_00098",
+      "language": "NL-NL",
+      "category": "numbers",
+      "section": "Units of Measure",
+      "description": "Units of measure should be separated from the preceding number by a non-breaking space",
+      "example_correct": "15 °C",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "NL-NL_RULE_00099",
+      "language": "NL-NL",
+      "category": "abbreviations",
+      "section": "Units of Measure",
+      "description": "After abbreviations of units of measurement there is no period",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "According to official Dutch standards"
+    },
+    {
+      "rule_id": "NL-NL_RULE_00100",
+      "language": "NL-NL",
+      "category": "numbers",
+      "section": "Units of Measure",
+      "description": "Monitor sizes are always expressed in inches and represent one of the few exceptions",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "NL-NL_RULE_00101",
+      "language": "NL-NL",
+      "category": "numbers",
+      "section": "Percentages",
+      "description": "The percent sign is %, without a leading space",
+      "example_correct": "99%",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "NL-NL_RULE_00102",
+      "language": "NL-NL",
+      "category": "numbers",
+      "section": "Date and time - Date",
+      "description": "Default Short Date Format: d-m-yy",
+      "example_correct": "5-10-20",
+      "example_incorrect": "",
+      "notes": "Month without leading zero, day without leading zero, year without century"
+    },
+    {
+      "rule_id": "NL-NL_RULE_00103",
+      "language": "NL-NL",
+      "category": "numbers",
+      "section": "Date and time - Date",
+      "description": "Default Long Date Format: dddd d mmmm yyyy",
+      "example_correct": "dinsdag 26 mei 2020 OR 26 mei 2020",
+      "example_incorrect": "",
+      "notes": "Names of days are optional, month name spelled out completely, names of workdays and months start with lower case"
+    },
+    {
+      "rule_id": "NL-NL_RULE_00104",
+      "language": "NL-NL",
+      "category": "capitalization",
+      "section": "Date and time - Date",
+      "description": "The names of the months and days start with a lower case",
+      "example_correct": "januari, februari, maart, maandag, dinsdag",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "NL-NL_RULE_00105",
+      "language": "NL-NL",
+      "category": "abbreviations",
+      "section": "Date and time - Date",
+      "description": "Use specified abbreviations for months and days",
+      "example_correct": "jan, feb, maa, apr, mei, jun, jul, aug, sep, okt, nov, dec; ma, di, wo, do, vr, za, zo",
+      "example_incorrect": "",
+      "notes": "Note that 'mei' has no abbreviation"
+    },
+    {
+      "rule_id": "NL-NL_RULE_00106",
+      "language": "NL-NL",
+      "category": "numbers",
+      "section": "Date and time - Time",
+      "description": "In a general context, the fully written form uur is preferred. Uur can be abbreviated to u.",
+      "example_correct": "De vergadering begint om 8.30 uur.",
+      "example_incorrect": "",
+      "notes": "Uur or u. are written after the numbers, not between them"
+    },
+    {
+      "rule_id": "NL-NL_RULE_00107",
+      "language": "NL-NL",
+      "category": "numbers",
+      "section": "Date and time - Time",
+      "description": "In technical and scientific texts the symbols h, min and s are common",
+      "example_correct": "17 h 03 min 16 s",
+      "example_incorrect": "",
+      "notes": "These symbols are written between the figures"
+    },
+    {
+      "rule_id": "NL-NL_RULE_00108",
+      "language": "NL-NL",
+      "category": "numbers",
+      "section": "Date and time - Time",
+      "description": "The symbol h is also common for speed indications, next to u (without a period)",
+      "example_correct": "Hij reed met een snelheid van 150 km/h.",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "NL-NL_RULE_00109",
+      "language": "NL-NL",
+      "category": "numbers",
+      "section": "Currency",
+      "description": "Currency amounts can be written in three ways with the Euro sign followed by a space being preferred",
+      "example_correct": "€ 23,50; 23,50 €; EUR 23,50; 50 cent",
+      "example_incorrect": "",
+      "notes": "The first variant with the Euro sign is preferred"
+    },
+    {
+      "rule_id": "NL-NL_RULE_00110",
+      "language": "NL-NL",
+      "category": "terminology",
+      "section": "Specific expressions",
+      "description": "Use established translations for common expressions",
+      "example_correct": "Over ... (About XYZ); zoals weergegeven in tabel xx (as shown in table xx); Voor meer informatie over xxx, kunt u xxx raadplegen (For more information on xxx, see xxx)",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "NL-NL_RULE_00111",
+      "language": "NL-NL",
+      "category": "terminology",
+      "section": "Specific expressions",
+      "description": "Use specific translations for common phrases and instructions",
+      "example_correct": "Houd er rekening mee dat... (Please note that); Volg deze stappen om xxx (Follow these steps to xxx); Weet u zeker dat u… wilt...? (Are you sure you want to...?)",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "NL-NL_RULE_00112",
+      "language": "NL-NL",
+      "category": "grammar",
+      "section": "Prepositions",
+      "description": "Pay attention to the correct use of prepositions in translations",
+      "example_correct": "migreren naar (migrate to); importeren uit/in (import from/to); exporteren naar (export to); integratie met (integration with)",
+      "example_incorrect": "",
+      "notes": "Consult the Microsoft Language Portal for use of prepositions for Dutch UI content"
+    },
+    {
+      "rule_id": "NL-NL_RULE_00113",
+      "language": "NL-NL",
+      "category": "grammar",
+      "section": "Prepositions",
+      "description": "Use correct prepositions for common UI actions",
+      "example_correct": "klikken (click on); verbinden met (connect to); in de werkbalk (in the toolbar); op internet (on the Web); in het menu (on the menu); op een pagina (on a page)",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "NL-NL_RULE_00114",
+      "language": "NL-NL",
+      "category": "trademarks",
+      "section": "Trademarks and Product Names",
+      "description": "Application/product names are often trademarked and are therefore rarely translated",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Before translating any application, product, or feature name, verify that it is translatable and not protected"
+    },
+    {
+      "rule_id": "NL-NL_RULE_00115",
+      "language": "NL-NL",
+      "category": "trademarks",
+      "section": "Trademarks and Product Names",
+      "description": "Use trademark and registered trademark symbols only on the first mention in the translated version",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Unless otherwise indicated"
+    },
+    {
+      "rule_id": "NL-NL_RULE_00116",
+      "language": "NL-NL",
+      "category": "trademarks",
+      "section": "Trademarks and Product Names",
+      "description": "For third party products, research to determine whether an official, approved trademarked translated version is available",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Otherwise, use as in source"
+    },
+    {
+      "rule_id": "NL-NL_RULE_00117",
+      "language": "NL-NL",
+      "category": "trademarks",
+      "section": "Trademarks and Product Names",
+      "description": "Use hyphens in compounds with brand names to improve readability in Dutch RingCentral content",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Even though Groene boekje suggests concatenation without hyphens"
+    },
+    {
+      "rule_id": "NL-NL_RULE_00118",
+      "language": "NL-NL",
+      "category": "localization_general",
+      "section": "Copyright Information, Footer, Publication Dates",
+      "description": "Use the specified Dutch translation for copyright notices when no official approved version is available",
+      "example_correct": "©2015 RingCentral, Inc. Alle rechten voorbehouden. RingCentral, RingCentral Office, RingCentral Meetings en het RingCentral-logo zijn geregistreerde handelsmerken van RingCentral, Inc.",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "NL-NL_RULE_00119",
+      "language": "NL-NL",
+      "category": "localization_general",
+      "section": "References to links",
+      "description": "Query if URLs have a local version and modify the document accordingly",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "If not, leave the relevant URL as it appears in the source English text"
+    },
+    {
+      "rule_id": "NL-NL_RULE_00120",
+      "language": "NL-NL",
+      "category": "ui_elements",
+      "section": "References to UI Options",
+      "description": "If software has been translated, match the relevant translation memory or string list provided",
+      "example_correct": "Klik op Bestand openen.",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "NL-NL_RULE_00121",
+      "language": "NL-NL",
+      "category": "ui_elements",
+      "section": "References to UI Options",
+      "description": "If software has not been translated, use bilingual format: English first, followed by target in brackets",
+      "example_correct": "Klik op Open File (Bestand openen).",
+      "example_incorrect": "",
+      "notes": "Put the translation outside the formatting"
+    },
+    {
+      "rule_id": "NL-NL_RULE_00122",
+      "language": "NL-NL",
+      "category": "terminology",
+      "section": "References to UI Options",
+      "description": "When Microsoft terminology or Microsoft UI items are quoted, refer to Microsoft approved terminology",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": "Reference: http://www.microsoft.com/Language/en-US/Default.aspx"
+    },
+    {
+      "rule_id": "NL-NL_RULE_00123",
+      "language": "NL-NL",
+      "category": "localization_general",
+      "section": "Addresses and Phone Numbers",
+      "description": "Translate country and city names based on your country/region's conventions",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "NL-NL_RULE_00124",
+      "language": "NL-NL",
+      "category": "localization_general",
+      "section": "Addresses and Phone Numbers",
+      "description": "Localize address formats based on your country/region's conventions",
+      "example_correct": "",
+      "example_incorrect": "",
+      "notes": ""
+    },
+    {
+      "rule_id": "NL-NL_RULE_00125",
+      "language": "NL-NL",
+      "category": "localization_general",
+      "section": "Addresses and Phone Numbers",
+      "description": "Add an international country code to local numbers for international users when source only includes toll free and US numbers",
+      "example_correct": "Phone: 888-528-RING (7464) of +1-650-472-4100",
+      "example_incorrect": "Phone: 888-528-RING (7464) or 650-472-4100",
+      "notes": ""
+    }
+  ]
+}
